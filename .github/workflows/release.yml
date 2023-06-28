@@ -8,7 +8,7 @@ on:
 
 env:
   # workflow id without spaces
-  WORKFLOW_ID: "{{workflow-id}}"
+  WORKFLOW_ID: "alfred-docs-searches"
 
 jobs:
   build:

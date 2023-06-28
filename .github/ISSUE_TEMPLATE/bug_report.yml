@@ -45,7 +45,7 @@ body:
     attributes:
       label: Checklist
       options:
-        - label: I have [updated to the latest version](https://github.com/chrisgrieser/{{workflow-id}}/releases/latest) of this workflow.
+        - label: I have [updated to the latest version](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest) of this workflow.
           required: true
         - label: I am using Alfred 5. (Older versions are not supported anymore.)
           required: true

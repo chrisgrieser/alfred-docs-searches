@@ -1,20 +1,43 @@
-# {{workflow-name}}
-![](https://img.shields.io/github/downloads/chrisgrieser/{{workflow-id}}/total?label=Total%20Downloads&style=plastic) ![](https://img.shields.io/github/v/release/chrisgrieser/{{workflow-id}}?label=Latest%20Release&style=plastic) [![](https://img.shields.io/badge/changelog-click%20here-FFE800?style=plastic)](./Changelog.md)
+<!-- LTeX: enabled=false --><!-- vale off -->
+# Search ALL the docs
+<!-- LTeX: enabled=true --><!-- vale on -->
+![](https://img.shields.io/github/downloads/chrisgrieser/alfred-docs-searches/total?label=Total%20Downloads&style=plastic) ![](https://img.shields.io/github/v/release/chrisgrieser/alfred-docs-searches?label=Latest%20Release&style=plastic) [![](https://img.shields.io/badge/changelog-click%20here-FFE800?style=plastic)](./Changelog.md)
 
-{{workflow-description}}
+Search two dozen official documentation sites via Alfred.
 
-<img src="./assets/showcase.png" alt="showcase" width="50%">
+<img src="./assets/showcase git.png" alt="showcase git" width="50%">
 
-## Features
-- 
+<img src="./assets/showcase pandoc.png" alt="showcase Pandoc" width="50%">
+
+## Documentations Searched
+- `css`: MDN
+- `html`: MDN
+- `js`: MDN
+- `jxa`: JavaScript for Automation Cookbook
+- `lua`
+- `eslint`
+- `rome`
+- `sc`: shellcheck Wiki
+- `pandoc`
+- `git`: official docs & the "pro-git" book
+- `py`: python official docs
+- `sh` cheat.sh
+- `man` man pages
+- `hs` Hammerspoon reference
+- `sb` sketchybar docs
+- `ke` Karabiner Elements docs
+- `star` starship prompt docs
+
+## Also included
+- `cc`: conventional commit keywords
+- `keycode`: macOS keycodes
+- `appid`: app-id of installed macOS apps
+- `code`: simple code search on GitHub and Sourcegraph
 
 ## Installation
-[➡️ Download the latest release.](https://github.com/chrisgrieser/{{workflow-id}}/releases/latest)
+[➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest)
 
 When admitted to the Alfred Gallery, the workflow auto-updates via Alfred's workflow-update mechanism.
-
-## Usage
-- 
 
 ## Credits
 <!-- vale Google.FirstPerson = NO -->
