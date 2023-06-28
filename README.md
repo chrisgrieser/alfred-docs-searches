@@ -21,12 +21,13 @@ Search two dozen official documentation sites via Alfred.
 - `pandoc`
 - `git`: official docs & the "pro-git" book
 - `py`: python official docs
-- `sh` cheat.sh
-- `man` man pages
-- `hs` Hammerspoon reference
-- `sb` sketchybar docs
-- `ke` Karabiner Elements docs
-- `star` starship prompt docs
+- `sh`: cheat.sh
+- `man`: man pages
+- `hs`: Hammerspoon reference
+- `sb`: sketchybar docs
+- `ke`: Karabiner Elements docs
+- `star`: starship prompt docs
+- `ep`: espanso docs
 
 ## Also included
 - `cc`: conventional commit keywords
