@@ -31,7 +31,7 @@ Search more than two dozen official documentation sites and other macOS develope
 - `wt`: WezTerm docs
 
 ## Also included
-- `cc`: conventional commit keywords
+- `coco`: conventional commit keywords
 - `keycode`: macOS keycodes
 - `appid`: app-id of installed macOS apps
 - `code`: Code search on GitHub and SourceGraph
