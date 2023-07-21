@@ -38,6 +38,7 @@ Search more than two dozen official documentation sites and other macOS develope
 - `http`: HTTP status codes
 - `uri`: URI schemes available on the device
 - `as`: AppleScript Dictionaries of installed apps
+- `sound`: Preview (pre-listen, actually) macOS System Sounds
 
 ## Installation
 [➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest)
