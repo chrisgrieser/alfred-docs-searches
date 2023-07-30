@@ -29,6 +29,7 @@ Search more than two dozen official documentation sites and other macOS develope
 - `star`: starship prompt docs
 - `ep`: espanso docs
 - `wt`: WezTerm docs
+- `awd`: Alfred Workflow docs
 
 ## Also included
 - `coco`: conventional commit keywords
