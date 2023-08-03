@@ -9,7 +9,7 @@ Search more than two dozen official documentation sites and other macOS develope
 
 <img src="./assets/showcase pandoc.png" alt="showcase Pandoc" width="50%">
 
-## Documentations Searched
+## Documentations
 - `css`: MDN
 - `html`: MDN
 - `js`: MDN
@@ -31,7 +31,7 @@ Search more than two dozen official documentation sites and other macOS develope
 - `wt`: WezTerm docs
 - `awd`: Alfred Workflow docs
 
-## Also included
+## Extra Utilities
 - `coco`: conventional commit keywords
 - `keycode`: macOS keycodes
 - `appid`: app-id of installed macOS apps
