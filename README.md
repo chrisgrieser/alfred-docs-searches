@@ -9,7 +9,12 @@ Search more than two dozen official documentation sites and other macOS develope
 
 <img src="./assets/showcase pandoc.png" alt="showcase Pandoc" width="50%">
 
-## Documentations
+## Usage
+Search more than two dozen developer documentation sites via one of the keywords below.
+- <kbd>⏎</kbd>: Open the documentation site.
+- <kbd>⌥</kbd><kbd>⏎</kbd>: Copy the URL of the documentation site to the clipboard.
+
+## Documentations Searched
 - `css`: MDN
 - `html`: MDN
 - `js`: MDN
@@ -40,7 +45,7 @@ Search more than two dozen official documentation sites and other macOS develope
 - `uri`: URI schemes available on the device
 - `as`: AppleScript Dictionaries of installed apps
 - `sound`: Preview (pre-listen, technically) macOS System Sounds
-- [File Action](https://www.alfredapp.com/help/workflows/triggers/file-action/): Uniform Type Identifier (UTI) of selected file.
+- Get the Uniform Type Identifier (UTI) of a selected file via the [Universal Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/)
 
 ## Installation
 [➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest)
