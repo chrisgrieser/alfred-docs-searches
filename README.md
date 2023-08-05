@@ -25,7 +25,7 @@ Search more than two dozen developer documentation sites via one of the keywords
 - `sc`: shellcheck Wiki
 - `pandoc`: Pandoc User Manual
 - `git`: official docs & the "pro-git" book
-- `py`: python official docs
+- `py`: python official docs\*
 - `sh`: cheat.sh
 - `man`: man pages
 - `hs`: Hammerspoon reference
@@ -34,7 +34,11 @@ Search more than two dozen developer documentation sites via one of the keywords
 - `star`: starship prompt docs
 - `ep`: espanso docs
 - `wt`: WezTerm docs
-- `awd`: Alfred Workflow docs
+- `awd`: Alfred Workflow Development docs
+- `yq`\*
+
+> __Note__  
+> \* These documentation searches do not cover all sub-sites. Contributions to improve them are welcome.
 
 ## Extra Utilities
 - `coco`: conventional commit keywords
@@ -50,8 +54,6 @@ Search more than two dozen developer documentation sites via one of the keywords
 ## Installation
 [➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest)
 
-When admitted to the Alfred Gallery, the workflow auto-updates via Alfred's workflow-update mechanism.
-
 ## Credits
 <!-- vale Google.FirstPerson = NO -->
 __About Me__  
@@ -60,6 +62,7 @@ In my day job, I am a sociologist studying the social mechanisms underlying the 
 __Profiles__  
 - [reddit](https://www.reddit.com/user/pseudometapseudo)
 - [Discord](https://discordapp.com/users/462774483044794368/)
+- [Mastodon](https://pkm.social/@pseudometa)
 - [Academic Website](https://chris-grieser.de/)
 - [Twitter](https://twitter.com/pseudo_meta)
 - [ResearchGate](https://www.researchgate.net/profile/Christopher-Grieser)
