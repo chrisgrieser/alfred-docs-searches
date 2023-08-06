@@ -27,7 +27,7 @@ Search more than two dozen developer documentation sites via one of the keywords
 - `git`: official docs & the "pro-git" book
 - `py`: python official docs\*
 - `sh`: cheat.sh
-- `man`: man pages
+- `manp`: man pages
 - `hs`: Hammerspoon reference
 - `sb`: sketchybar docs
 - `ke`: Karabiner Elements docs
