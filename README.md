@@ -44,6 +44,7 @@ Search more than two dozen developer documentation sites via one of the keywords
 - `coco`: conventional commit keywords
 - `keycode`: macOS keycodes
 - `appid`: app-id of installed macOS apps
+- `win`: window information for the frontmost app
 - `code`: Code search on GitHub and SourceGraph
 - `http`: HTTP status codes
 - `uri`: URI schemes available on the device
