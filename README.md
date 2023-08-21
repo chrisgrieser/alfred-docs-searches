@@ -21,6 +21,7 @@ Search more than two dozen developer documentation sites via one of the keywords
 - `jxa`: JavaScript for Automation Cookbook
 - `lua`
 - `eslint`
+- `style`: stylelint rules
 - `rome`
 - `sc`: shellcheck Wiki
 - `pandoc`: Pandoc User Manual
