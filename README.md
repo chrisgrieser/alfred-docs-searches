@@ -27,6 +27,7 @@ Search more than two dozen developer documentation sites via one of the keywords
 - `pandoc`: Pandoc User Manual
 - `git`: official docs & the "pro-git" book
 - `py`: python official docs\*
+- `ruff`: ruff rules
 - `sh`: cheat.sh
 - `manp`: man pages
 - `hs`: Hammerspoon reference
