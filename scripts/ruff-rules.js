@@ -6,7 +6,8 @@ app.includeStandardAdditions = true;
 /** @param {string} str */
 function alfredMatcher(str) {
 	const clean = str.replace(/[<_-]/g, " ");
-	return [clean, str].join(" ") + " ";
+	const numberSeparated = str.replace(/(\d+)/g, " $1");
+	return [clean, str, numberSeparated].join(" ") + " ";
 }
 
 //──────────────────────────────────────────────────────────────────────────────
@@ -24,14 +25,17 @@ function run() {
 			name = name.includes("href") ? name.match(/href="(.*?)\/"/)[1] : name.match(/>(.*?)<.*/)[1];
 			const displayName = name.replace(/-/g, " ");
 
-			const url = ruffRulesUrl + name;
-			return {
+			const url = ruffRulesUrl + name + "/";
+
+			/** @type{AlfredItem} */
+			const item = {
 				title: displayName,
 				subtitle: id,
 				match: alfredMatcher(id) + alfredMatcher(name),
 				arg: url,
 				uid: url,
 			};
+			return item;
 		});
 
 	return JSON.stringify({ items: sectionsArr });
