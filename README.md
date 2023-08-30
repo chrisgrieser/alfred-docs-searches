@@ -22,7 +22,7 @@ Search more than two dozen developer documentation sites via one of the keywords
 - `lua`
 - `eslint`
 - `style`: stylelint rules
-- `rome`
+- `bio`: biome docs ([rome successor](https://biomejs.dev/blog/annoucing-biome))
 - `sc`: shellcheck Wiki
 - `pandoc`: Pandoc User Manual
 - `git`: official docs & the "pro-git" book
