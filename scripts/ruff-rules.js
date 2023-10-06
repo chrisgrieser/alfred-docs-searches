@@ -12,9 +12,9 @@ function alfredMatcher(str) {
 
 //──────────────────────────────────────────────────────────────────────────────
 /** @type {AlfredRun} */
-// rome-ignore lint/correctness/noUnusedVariables: Alfred run
+// biome-ignore lint/correctness/noUnusedVariables: Alfred run
 function run() {
-	const ruffRulesUrl = "https://beta.ruff.rs/docs/rules/";
+	const ruffRulesUrl = "https://docs.astral.sh/ruff/rules/";
 
 	const sectionsArr = app
 		.doShellScript(`curl -s "${ruffRulesUrl}" | grep -A1 "<td id="`)
