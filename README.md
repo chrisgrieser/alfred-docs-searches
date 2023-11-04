@@ -1,16 +1,19 @@
 <!-- LTeX: enabled=false --><!-- vale off -->
 # Search ALL the docs
 <!-- LTeX: enabled=true --><!-- vale on -->
-![](https://img.shields.io/github/downloads/chrisgrieser/alfred-docs-searches/total?label=Total%20Downloads&style=plastic) ![](https://img.shields.io/github/v/release/chrisgrieser/alfred-docs-searches?label=Latest%20Release&style=plastic)
+![Download Count](https://img.shields.io/github/downloads/chrisgrieser/alfred-docs-searches/total?label=Total%20Downloads&style=plastic)
+![Latest Release](https://img.shields.io/github/v/release/chrisgrieser/alfred-docs-searches?label=Latest%20Release&style=plastic)
 
-Search more than two dozen official documentation sites and other macOS developer references via Alfred.
+Search more than two dozen official documentation sites and other macOS
+developer references via Alfred.
 
 <img src="./assets/showcase git.png" alt="showcase git" width="50%">
 
 <img src="./assets/showcase pandoc.png" alt="showcase Pandoc" width="50%">
 
 ## Usage
-Search more than two dozen developer documentation sites via one of the keywords below.
+Search more than two dozen developer documentation sites via one of the keywords
+below.
 - <kbd>⏎</kbd>: Open the documentation site.
 - <kbd>⌥</kbd><kbd>⏎</kbd>: Copy the URL of the documentation site to the clipboard.
 
@@ -31,8 +34,10 @@ Search more than two dozen developer documentation sites via one of the keywords
 - `pd`: pandas docs
 - `sh`: cheat.sh (includes `tldr` pages)
 - `man`: man pages (mankier.com)
-	+ second word gets treated as option to search for (for example, `man grep -e`), and opens the man page at that location
-	+ <kbd>⌘</kbd><kbd>⏎</kbd>: Search in the terminal, using the terminal app you have configured [in your Alfred settings](https://www.alfredapp.com/help/features/terminal/).,
+	+ second word gets treated as option to search for (for example, 
+	`man grep -e`), and opens the man page at that location
+	+ <kbd>⌘</kbd><kbd>⏎</kbd>: Search in the terminal, using the terminal app 
+	you have configured [in your Alfred settings](https://www.alfredapp.com/help/features/terminal/).,
 - `hs`: Hammerspoon reference
 - `sb`: sketchybar docs
 - `ke`: Karabiner Elements docs
@@ -43,7 +48,8 @@ Search more than two dozen developer documentation sites via one of the keywords
 - `yq`\*
 
 > __Note__  
-> \* These documentation searches do not cover all sub-sites. Contributions to improve them are welcome.
+> \* These documentation searches do not cover all sub-sites. Contributions to 
+> improve them are welcome.
 
 ## Extra Utilities
 - `coco`: conventional commit keywords
@@ -63,7 +69,10 @@ Search more than two dozen developer documentation sites via one of the keywords
 ## Credits
 <!-- vale Google.FirstPerson = NO -->
 __About Me__  
-In my day job, I am a sociologist studying the social mechanisms underlying the digital economy. For my PhD project, I investigate the governance of the app economy and how software ecosystems manage the tension between innovation and compatibility. If you are interested in this subject, feel free to get in touch.
+In my day job, I am a sociologist studying the social mechanisms underlying the
+digital economy. For my PhD project, I investigate the governance of the app
+economy and how software ecosystems manage the tension between innovation and
+compatibility. If you are interested in this subject, feel free to get in touch.
 
 __Profiles__  
 - [reddit](https://www.reddit.com/user/pseudometapseudo)
@@ -74,6 +83,11 @@ __Profiles__
 - [ResearchGate](https://www.researchgate.net/profile/Christopher-Grieser)
 - [LinkedIn](https://www.linkedin.com/in/christopher-grieser-ba693b17a/)
 
-__Buy Me a Coffee__  
-<br>
-<a href='https://ko-fi.com/Y8Y86SQ91' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/Y8Y86SQ91' target='_blank'>
+<img
+	height='36'
+	style='border:0px;height:36px;'
+	src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3'
+	border='0'
+	alt='Buy Me a Coffee at ko-fi.com'
+/></a>
