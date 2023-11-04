@@ -29,8 +29,10 @@ Search more than two dozen developer documentation sites via one of the keywords
 - `py`: python official docs\*
 - `ruff`: ruff rules
 - `pd`: pandas docs
-- `sh`: cheat.sh
-- `manp`: man pages
+- `sh`: cheat.sh (includes `tldr` pages)
+- `man`: man pages (mankier.com)
+	+ second word gets treated as option to search for (for example, `man grep -e`), and opens the man page at that location
+	+ <kbd>⌘</kbd><kbd>⏎</kbd>: Search in the terminal, using the terminal app you have configured [in your Alfred settings](https://www.alfredapp.com/help/features/terminal/).,
 - `hs`: Hammerspoon reference
 - `sb`: sketchybar docs
 - `ke`: Karabiner Elements docs
