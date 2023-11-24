@@ -3,53 +3,60 @@ ObjC.import("stdlib");
 const app = Application.currentApplication();
 app.includeStandardAdditions = true;
 
+/** @param {string} url */
+function httpRequest(url) {
+	const queryURL = $.NSURL.URLWithString(url);
+	const requestData = $.NSData.dataWithContentsOfURL(queryURL);
+	const requestString = $.NSString.alloc.initWithDataEncoding(requestData, $.NSUTF8StringEncoding).js;
+	return requestString;
+}
+
+/** @param {string} str */
+function alfredMatcher(str) {
+	const clean = str.replace(/[-_]/g, " ");
+	const squeezed = str.replace(/[-_]/g, "");
+	return [clean, squeezed, str].join(" ") + " ";
+}
+
 //──────────────────────────────────────────────────────────────────────────────
 
 /** @type {AlfredRun} */
 // biome-ignore lint/correctness/noUnusedVariables: Alfred run
 function run(argv) {
-	// INFO using mankier due to its ability to search options https://www.mankier.com/about
-	const manPageSite = "https://www.mankier.com/1/";
+	// DOCS https://www.mankier.com/api
+	const apiUrl = "https://www.mankier.com/api/v2/mans/?sections=1,2,7,8&q=";
 
 	// process Alfred args
-	const query = argv[0] || "";
-	const command = query.split(" ")[0];
-	const options = argv[0] ? query.split(" ").slice(1).join(" ") : "";
+	const query = argv[0];
+	if (!query) {
+		return JSON.stringify({ items: [{ title: "Waiting for query…", valid: false }] });
+	}
 
-	// get list of all installed binaries
-	const binariesList = app
+	// local binaries
+	const installedBinaries = app
 		.doShellScript(
-			"echo $PATH | tr ':' '\n' | xargs -I {} find {} -mindepth 1 -maxdepth 1 -type f -or -type l -perm '++x'",
+			"echo $PATH | tr ':' '\n' | xargs -I {} find {} -mindepth 1 -maxdepth 1 -type f -or -type l -perm '++x' | xargs basename",
 		)
-		.split("\r")
-		.filter((binary) => binary.includes(command));
+		.split("\r");
 
 	/** @type{AlfredItem[]} */
-	const binariesArr = [...new Set(binariesList)] // only unique
-		.map((binary) => {
-			const cmd = binary.split("/").pop();
-			const icon = binary.includes("brew") ? "🍺" : "";
-			let url = manPageSite + cmd;
-			if (options) url += "#" + options;
-			return {
-				title: [cmd, options, icon].filter(Boolean).join(" "),
-				match: cmd.replace(/[-_]/, " ") + " " + cmd,
-				arg: url,
-				mods: {
-					cmd: {
-						arg: "man " + argv[0],
-						subtitle: "⌘: Open in Terminal >> man " + argv[0],
-					},
-				},
-				uid: cmd,
-			};
-		})
-		.sort((a, b) => {
-			// sort by length (shorter on top), then alphabetically
-			const diff = a.uid.length - b.uid.length;
-			if (diff !== 0) return diff;
-			return a.uid.localeCompare(b.uid);
-		});
+	const manPages = JSON.parse(httpRequest(apiUrl + query)).results.map(
+		(/** @type {{ name: string; section: string; description: string; }} */ result) => {
+			const cmd = result.name;
+			const section = result.section;
+			const icon = installedBinaries.includes(cmd) ? " ✅" : "";
 
-	return JSON.stringify({ items: binariesArr });
+			return {
+				title: cmd + icon,
+				subtitle: `(${section})  ${result.description}`,
+				match: alfredMatcher(cmd),
+				uid: cmd,
+				// pass to next script filter
+				variables: { cmd: cmd, section: section },
+				arg: "",
+			};
+		},
+	);
+
+	return JSON.stringify({ items: manPages });
 }
