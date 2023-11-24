@@ -1,6 +1,6 @@
-<!-- LTeX: enabled=false --><!-- vale off -->
+<!-- LTeX: enabled=false -->
 # Search ALL the docs
-<!-- LTeX: enabled=true --><!-- vale on -->
+<!-- LTeX: enabled=true -->
 ![Download Count](https://img.shields.io/github/downloads/chrisgrieser/alfred-docs-searches/total?label=Total%20Downloads&style=plastic)
 ![Latest Release](https://img.shields.io/github/v/release/chrisgrieser/alfred-docs-searches?label=Latest%20Release&style=plastic)
 
@@ -32,12 +32,8 @@ below.
 - `py`: python official docs\*
 - `ruff`: ruff rules
 - `pd`: pandas docs
-- `sh`: cheat.sh (includes `tldr` pages)
+- `sh`: cheat.sh
 - `man`: man pages (mankier.com)
-	+ second word gets treated as option to search for (for example, 
-	`man grep -e`), and opens the man page at that location
-	+ <kbd>⌘</kbd><kbd>⏎</kbd>: Search in the terminal, using the terminal app 
-	you have configured [in your Alfred settings](https://www.alfredapp.com/help/features/terminal/).,
 - `hs`: Hammerspoon reference
 - `sb`: sketchybar docs
 - `ke`: Karabiner Elements docs
@@ -48,7 +44,7 @@ below.
 - `yq`\*
 
 > __Note__  
-> \* These documentation searches do not cover all sub-sites. Contributions to 
+> \* These documentation searches do not cover all sub-sites. Contributions to
 > improve them are welcome.
 
 ## Extra Utilities
