@@ -1300,7 +1300,7 @@
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>sh</string>
+				<string>cht</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -2966,7 +2966,7 @@ Search more than two dozen developer documentation sites via one of the keywords
 - `py`: python official docs*
 - `ruff`: ruff rules
 - `pd`: pandas docs
-- `sh`: cheat.sh
+- `cht`: cheat.sh
 - `man`: man pages (mankier.com)
 - `hs`: Hammerspoon reference
 - `sb`: sketchybar docs

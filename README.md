@@ -32,7 +32,7 @@ below.
 - `py`: python official docs\*
 - `ruff`: ruff rules
 - `pd`: pandas docs
-- `sh`: cheat.sh
+- `cht`: cheat.sh
 - `man`: man pages (mankier.com)
 - `hs`: Hammerspoon reference
 - `sb`: sketchybar docs
