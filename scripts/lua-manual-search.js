@@ -17,7 +17,7 @@ function alfredMatcher(str) {
 // biome-ignore lint/correctness/noUnusedVariables: Alfred run
 function run() {
 	const luaVersion = $.getenv("lua_version");
-	const luaManualBaseURL = `http://www.lua.org/manual/${luaVersion}/`;
+	const luaManualBaseURL = `https://lua.org/manual/${luaVersion}/`;
 	const luaWikiBaseURL = "http://lua-users.org";
 
 	const ahrefRegex = /.*?href="(.*?)">(.*?)<.*/i;
