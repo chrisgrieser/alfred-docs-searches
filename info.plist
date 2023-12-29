@@ -3574,32 +3574,6 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 			<key>variable</key>
 			<string>lua_version</string>
 		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>default</key>
-				<string>https://man.cx/</string>
-				<key>pairs</key>
-				<array>
-					<array>
-						<string>man.cx</string>
-						<string>https://man.cx/</string>
-					</array>
-					<array>
-						<string>mankier.com</string>
-						<string>https://www.mankier.com/1/</string>
-					</array>
-				</array>
-			</dict>
-			<key>description</key>
-			<string></string>
-			<key>label</key>
-			<string>man page website</string>
-			<key>type</key>
-			<string>popupbutton</string>
-			<key>variable</key>
-			<string>man_page_website</string>
-		</dict>
 	</array>
 	<key>version</key>
 	<string>1.11.8</string>
