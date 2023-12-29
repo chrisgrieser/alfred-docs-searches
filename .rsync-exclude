@@ -9,3 +9,7 @@ README.md
 LICENSE
 Makefile
 .build-and-release.sh
+
+alfred.d.ts
+jsconfig.json
+jxa-globals.d.ts
