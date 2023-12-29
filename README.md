@@ -11,6 +11,19 @@ developer references via Alfred.
 
 <img src="./assets/showcase pandoc.png" alt="showcase Pandoc" width="50%">
 
+## Table of Contents
+
+<!-- toc -->
+
+- [Usage](#usage)
+- [Documentations Searched](#documentations-searched)
+- [Extra Utilities](#extra-utilities)
+- [Installation](#installation)
+- [Contribute](#contribute)
+- [Credits](#credits)
+
+<!-- tocstop -->
+
 ## Usage
 Search more than two dozen developer documentation sites via one of the keywords
 below.
@@ -44,8 +57,8 @@ below.
 - `yq`\*
 
 > __Note__  
-> \* These documentation searches do not cover all sub-sites. Contributions to
-> improve them are welcome.
+> \* These documentation searches do not cover all sub-sites.
+> [Contributions](#contribute) to improve them are welcome.
 
 ## Extra Utilities
 - `coco`: conventional commit keywords
@@ -62,8 +75,23 @@ below.
 ## Installation
 [➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest)
 
-## Credits
 <!-- vale Google.FirstPerson = NO -->
+## Contribute
+Adding more docs searches is fairly simple, most of the work is done by Alfred.
+What this workflow does is to look through some sort of index of documentation
+sites, like a `/docs` folder in a GitHub repo, and re-format the list of files
+into [a JSON file that Alfred
+understands](https://www.alfredapp.com/help/workflows/inputs/script-filter/json/).
+In most cases, this is less than 40 lines of code per documentation site. See
+for example the script [fetching `eslint` docs sites from the `eslint` repo](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/scripts/eslint-docs-search.js).
+
+Those scripts do not need to be written in JavaScript, any language that outputs
+stringified JSON works. Though, it should be languages for which binaries are
+pre-installed on Mac, as this would otherwise introduce extra dependencies for
+this workflow to work. Effectively, this means Python, JXA (Apple-flavored
+JavaScript), or Ruby.
+
+## Credits
 __About Me__  
 In my day job, I am a sociologist studying the social mechanisms underlying the
 digital economy. For my PhD project, I investigate the governance of the app

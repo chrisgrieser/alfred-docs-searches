@@ -1,25 +1,27 @@
-name: Feature request
-description: Suggest an idea
-title: "Feature Request: "
-labels: ["enhancement"]
+name: Docs Site request
+description: Request support for a new documentation site.
+title: "Request Docs Site: "
+labels: ["help wanted"]
 body:
   - type: textarea
     id: feature-requested
     attributes:
-      label: Feature Requested
-      description: A clear and concise description of the feature.
-    validations:
-      required: true
-  - type: textarea
-    id: screenshot
+      label: Documentation Site Requested
+      description: Link und description of the documentation site requested.
+    validations: { required: true }
+  - type: markdown
     attributes:
-      label: Relevant Screenshot
-      description: If applicable, add screenshots or a screen recording to help explain the request.
+      value: |
+        ## Please contribute!
+        This workflow already supports dozens of documentation sites. Since I
+        cannot possible even more, more docs searches will require more
+        contributors/maintainers. [Adding new docs sites is fairly easy, and
+        requires less than 50 lines of JavaScript, Python, or
+        Ruby.](https://github.com/chrisgrieser/alfred-docs-searches#Contribute)
   - type: checkboxes
     id: checklist
     attributes:
       label: Checklist
       options:
-        - label: The feature would be useful to more users than just me.
+        - label: The site is considered an authoritative source of information in the area.
           required: true
-
