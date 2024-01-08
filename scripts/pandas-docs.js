@@ -6,8 +6,8 @@ app.includeStandardAdditions = true;
 /** @param {string} str */
 function alfredMatcher(str) {
 	const clean = str.replace(/[-()_.:#/\\;,[\]]/g, " ");
-	const camelCaseSeperated = str.replace(/([A-Z])/g, " $1");
-	return [clean, camelCaseSeperated, str].join(" ");
+	const camelCaseSeparated = str.replace(/([A-Z])/g, " $1");
+	return [clean, camelCaseSeparated, str].join(" ");
 }
 
 /** @param {string} str */
@@ -23,7 +23,7 @@ function run() {
 	const docsUrl = "https://api.github.com/repos/pandas-dev/pandas/git/trees/main?recursive=1";
 	const baseUrl = "https://pandas.pydata.org/docs";
 
-	const idRegex = new RegExp("doc/source/(.*)\\.rst$");
+	const idRegex = /doc\/source\/(.*)\.rst$/;
 
 	const workArray = JSON.parse(app.doShellScript(`curl -s "${docsUrl}"`))
 		.tree.filter((/** @type {{ path: string; }} */ file) => {
