@@ -21,9 +21,10 @@ function run() {
 
 	const workArray = JSON.parse(app.doShellScript(`curl -sL "${docsUrl}"`)).tree.map(
 		(/** @type {{ path: string; }} */ entry) => {
+			// GUARD
 			const translatedDocs = entry.path.includes("/zh-cn/") || entry.path.includes("/ja/");
 			const isDocsSite = docPathRegex.test(entry.path) && !entry.path.endsWith("404.md");
-			if (translatedDocs || !isDocsSite) return {}; // GUARD
+			if (translatedDocs || !isDocsSite) return {}; 
 
 			const subsite = entry.path.replace(docPathRegex, "$1");
 			const parts = subsite.split("/");
@@ -37,6 +38,7 @@ function run() {
 				url = `${baseUrl}/${subsite.slice(0, -5)}`;
 			}
 
+			// prettier display
 			if (!category.endsWith("rules")) {
 				displayTitle = displayTitle.replaceAll("-", " ");
 				displayTitle = displayTitle.charAt(0).toUpperCase() + displayTitle.slice(1); // capitalize
