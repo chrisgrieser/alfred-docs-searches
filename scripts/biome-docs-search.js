@@ -19,9 +19,12 @@ function run() {
 	const baseUrl = "https://biomejs.dev";
 	const docPathRegex = /^website\/src\/content\/docs\/(.*)\.mdx?$/i;
 
-	const workArray = JSON.parse(app.doShellScript(`curl -sL "${docsUrl}"`))
-		.tree.filter((/** @type {{ path: string; }} */ file) => docPathRegex.test(file.path) && !file.path.includes("404"))
-		.map((/** @type {{ path: string; }} */ entry) => {
+	const workArray = JSON.parse(app.doShellScript(`curl -sL "${docsUrl}"`)).tree.map(
+		(/** @type {{ path: string; }} */ entry) => {
+			const translatedDocs = entry.path.includes("/zh-cn/") || entry.path.includes("/ja/");
+			const isDocsSite = docPathRegex.test(entry.path) && !entry.path.endsWith("404.md");
+			if (translatedDocs || !isDocsSite) return {}; // GUARD
+
 			const subsite = entry.path.replace(docPathRegex, "$1");
 			const parts = subsite.split("/");
 			let displayTitle = parts.pop();
@@ -34,6 +37,11 @@ function run() {
 				url = `${baseUrl}/${subsite.slice(0, -5)}`;
 			}
 
+			if (!category.endsWith("rules")) {
+				displayTitle = displayTitle.replaceAll("-", " ");
+				displayTitle = displayTitle.charAt(0).toUpperCase() + displayTitle.slice(1); // capitalize
+			}
+
 			return {
 				title: displayTitle,
 				subtitle: category,
@@ -41,7 +49,8 @@ function run() {
 				arg: url,
 				uid: subsite,
 			};
-		});
+		},
+	);
 
 	return JSON.stringify({ items: workArray });
 }
