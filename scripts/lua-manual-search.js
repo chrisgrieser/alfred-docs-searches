@@ -19,26 +19,26 @@ function run() {
 	const luaVersion = $.getenv("lua_version");
 	const luaManualBaseURL = `https://lua.org/manual/${luaVersion}/`;
 
-	const rawHTML = app.doShellScript(`curl -sL '${luaManualBaseURL}'`) 
+	const rawHTML = app.doShellScript(`curl -sL '${luaManualBaseURL}'`);
 	const ahrefRegex = /.*?href="(.*?)">(.*?)<.*/i;
 
 	const sites = rawHTML
 		.split("\r")
 		.filter(
-			(line) => line.toLowerCase().includes("href") && !line.includes("css") && !line.includes("IMG"),
+			(line) =>
+				line.toLowerCase().includes("href") && !line.includes("css") && !line.includes("IMG"),
 		)
 		.map((line) => {
 			const subsite = line.replace(ahrefRegex, "$1");
 			const url = luaManualBaseURL + subsite;
-			let title = line.replace(ahrefRegex, "$2").replaceAll("&ndash; ", "");
+			const title = line
+				.replace(ahrefRegex, "$2")
+				.replaceAll("&ndash; ", "")
+				.replace(/^[.0-9]+ /, "");
 			if (title.includes(">")) return {};
-
-			const type = title.match(/\d/) ? "manual (chapter)" : "manual"
-			title = title.replace(/^[.0-9]+ /, "");
 
 			return {
 				title: title,
-				subtitle: type,
 				match: alfredMatcher(title),
 				arg: url,
 				uid: url,
