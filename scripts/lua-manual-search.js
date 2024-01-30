@@ -24,17 +24,14 @@ function run() {
 
 	const sites = rawHTML
 		.split("\r")
-		.filter(
-			(line) =>
-				line.toLowerCase().includes("href") && !line.includes("css") && !line.includes("IMG"),
-		)
+		.slice(40) // remove html header
+		.filter((line) => line.includes("HREF"))
 		.map((line) => {
 			const subsite = line.replace(ahrefRegex, "$1");
 			const url = luaManualBaseURL + subsite;
 			const title = line
 				.replace(ahrefRegex, "$2")
-				.replaceAll("&ndash; ", "")
-				.replace(/^[.0-9]+ /, "");
+				.replace(/^[.0-9]+ &ndash; /, "");
 			if (title.includes(">")) return {};
 
 			return {
