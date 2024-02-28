@@ -2428,7 +2428,7 @@ window_name</string>
 				<key>script</key>
 				<string>on run
 
-tell application id "com.runningwithcrayons.Alfred" to reload workflow (system attribute "alfred_workflow_uid")
+tell application id "com.runningwithcrayons.Alfred" to reload workflow (system attribute "alfred_workflow_bundleid")
 return "aaa"
 
 end run</string>
@@ -2744,19 +2744,6 @@ end run</string>
 			<string>642DC21D-E907-412F-8F6F-7E24FE991B23</string>
 			<key>version</key>
 			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>availableviaurlhandler</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.trigger.external</string>
-			<key>uid</key>
-			<string>BEDEB4B7-69BC-435F-9AC1-4D7C4744F72F</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -3472,13 +3459,6 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 			<real>30</real>
 			<key>ypos</key>
 			<real>2650</real>
-		</dict>
-		<key>BEDEB4B7-69BC-435F-9AC1-4D7C4744F72F</key>
-		<dict>
-			<key>xpos</key>
-			<real>410</real>
-			<key>ypos</key>
-			<real>2245</real>
 		</dict>
 		<key>C4E99850-BA50-4D06-A11F-D09AEC8481A0</key>
 		<dict>
