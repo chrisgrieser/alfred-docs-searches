@@ -35,7 +35,7 @@ below.
 - `html`: MDN
 - `js`: MDN
 - `jxa`: JavaScript for Automation Cookbook
-- `lua`
+- `lua`: lua manual
 - `eslint`
 - `style`: stylelint rules
 - `bio`: biome docs ([rome successor](https://biomejs.dev/blog/annoucing-biome))
@@ -46,15 +46,15 @@ below.
 - `ruff`: ruff rules
 - `pd`: pandas docs
 - `cht`: cheat.sh
-- `man`: man pages (mankier.com)
+- `man`: man pages at [mankier.com](https://www.mankier.com/)
 - `hs`: Hammerspoon reference
 - `sb`: sketchybar docs
 - `ke`: Karabiner Elements docs
 - `star`: starship prompt docs
 - `ep`: espanso docs
 - `wt`: WezTerm docs
-- `awd`: Alfred Workflow Development docs
 - `yq`\*
+- `dt`: Lookup term at [devterms.io](https://devterms.io/)
 
 > __Note__  
 > \* These documentation searches do not cover all sub-sites.
@@ -92,13 +92,11 @@ this workflow to work. Effectively, this means Python, JXA (Apple-flavored
 JavaScript), or Ruby.
 
 ## Credits
-__About Me__  
 In my day job, I am a sociologist studying the social mechanisms underlying the
 digital economy. For my PhD project, I investigate the governance of the app
 economy and how software ecosystems manage the tension between innovation and
 compatibility. If you are interested in this subject, feel free to get in touch.
 
-__Profiles__  
 - [reddit](https://www.reddit.com/user/pseudometapseudo)
 - [Discord](https://discordapp.com/users/462774483044794368/)
 - [Mastodon](https://pkm.social/@pseudometa)
