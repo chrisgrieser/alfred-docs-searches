@@ -30,11 +30,13 @@ function run(argv) {
 
 	/** @type AlfredItem[] */
 	const terms = response.hits.map(
-		(/** @type {{ term: string; definition: string; example: string; id: string; url: string }} */ hit) => {
+		(
+			/** @type {{ term: string; definition: string; example: string; id: string; url: string }} */ hit,
+		) => {
 			return {
 				title: hit.term,
 				subtitle: `${hit.definition} · ${hit.example}`,
-				arg: hit.url, 
+				arg: hit.url,
 				uid: hit.id,
 			};
 		},
