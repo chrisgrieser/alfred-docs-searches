@@ -27,6 +27,7 @@ function run() {
 				title: displayTitle,
 				subtitle: category,
 				arg: url,
+				quicklookurl: url,
 				uid: subsite,
 			};
 		});
