@@ -1,1 +1,10 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Contribute another documentation site
+    url: https://github.com/chrisgrieser/alfred-docs-searches#contribute
+    about: |
+      This workflow already supports dozens of documentation sites. Since I
+      cannot possibly maintain even more, I have to decline requests to add 
+      additional sites. However, I am open to contributions adding more sites, 
+      it requires less than 50 lines of code to add a site. Follow the "Open" 
+      link for more information.
