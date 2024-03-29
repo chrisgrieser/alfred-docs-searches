@@ -61,6 +61,7 @@ below.
 > [Contributions](#contribute) to improve them are welcome.
 
 ## Extra Utilities
+- `col`: named CSS colors
 - `coco`: conventional commit keywords
 - `keycode`: macOS keycodes
 - `appid`: app-id of installed macOS apps
