@@ -19,7 +19,7 @@ Alfred.
 - [Extras](#extras)
   * [Documentation sites](#documentation-sites)
   * [Utilities](#utilities)
-  * [Reload caches](#reload-caches)
+- [Maintenance](#maintenance)
 - [Installation](#installation)
 - [About the developer](#about-the-developer)
 
@@ -60,8 +60,13 @@ DevDocs](https://devdocs.io/offline).
 - `sound`: Preview (pre-listen, technically) macOS System Sounds
 - Get the Uniform Type Identifier (UTI) of a selected file via the [Universal Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/)
 
-### Reload caches
-The search indexes that are *not* from DevDocs are cached. In case of a recent change to a documentation site, you can manually trigger refreshing the cache via the Alfred keyword `:docs-reload`.
+## Maintenance
+- `:docs-reload`: The search indexes that are *not* from DevDocs are cached. In
+  case of a recent change to a documentation site, you can manually trigger
+  refreshing the cache via this Alfred keyword.
+- `:update-devdocs`: The DevDocs versions are automatically updated with new
+  versions of this workflow. You can also trigger a manual update via this
+  Alfred keyword.
 
 ## Installation
 [➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest)
