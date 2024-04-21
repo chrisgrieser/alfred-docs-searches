@@ -7,9 +7,7 @@
 Search hundreds of documentation sites from DevDocs and other sources via
 Alfred.
 
-<img src="./assets/showcase git.png" alt="showcase git" width="50%">
-
-<img src="./assets/showcase pandoc.png" alt="showcase Pandoc" width="50%">
+<img alt="Showcase" width=70% src="https://github.com/chrisgrieser/alfred-docs-searches/assets/73286100/5113c565-4f1a-49a8-842c-271255ee08f2">
 
 ## Table of Contents
 
