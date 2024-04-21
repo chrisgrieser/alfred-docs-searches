@@ -27,8 +27,15 @@ jobs:
 
       - name: Update Documentation Search Index
         run: |
+          # INFO the script also updated the `info.plist` popup selection,
+          # however we do not add those here as they complicate updates with
+          # my local Alfred workflow. This auto-updating workflow is for now
+          # only concerned with updating the keyword-slug-map.json file, and the
+          # `info.plist` can be manually updated (since it will require an
+          # update much less frequently anyway).
           node ./devdocs/update-available-devdocs.mjs
-          git add --all
-          [[ -z "$(git status --short)" ]] && exit 0 # no update needed
+          git add ./.github/keyword-slug-map.json
+
+          [[ -z "$(git diff --staged --name-only)" ]] && exit 0 # no update needed
           git commit -m "chore: Updated devdocs versions" --author="🤖 Automated GitHub Action<cron@job>"
           git push
