@@ -51,7 +51,7 @@ DevDocs](https://devdocs.io/offline).
 - `wt`: WezTerm docs
 
 ### Utilities
-- `col`: named CSS colors
+- `color`: named CSS colors
 - `keycode`: macOS keycodes
 - `appid`: app-id of installed macOS apps
 - `win`: window information for the frontmost app

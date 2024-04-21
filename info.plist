@@ -1100,7 +1100,7 @@
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>col</string>
+				<string>color</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -1611,7 +1611,7 @@ DevDocs](https://devdocs.io/offline).
 - `wt`: WezTerm docs
 
 ### Utilities
-- `col`: named CSS colors
+- `color`: named CSS colors
 - `keycode`: macOS keycodes
 - `appid`: app-id of installed macOS apps
 - `win`: window information for the frontmost app
@@ -1974,7 +1974,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -2846,7 +2846,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 			<key>description</key>
 			<string></string>
 			<key>label</key>
-			<string>Select devdoc</string>
+			<string>Enabled devdocs</string>
 			<key>type</key>
 			<string>popupbutton</string>
 			<key>variable</key>
@@ -2860,7 +2860,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -3746,7 +3746,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -4632,7 +4632,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -5518,7 +5518,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -6404,7 +6404,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -7290,7 +7290,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -8176,7 +8176,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -9062,7 +9062,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -9948,7 +9948,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -10834,7 +10834,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -11720,7 +11720,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -12606,7 +12606,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -13492,7 +13492,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -14378,7 +14378,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -15264,7 +15264,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -16150,7 +16150,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -17036,7 +17036,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -17922,7 +17922,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
@@ -18808,7 +18808,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 				<key>pairs</key>
 				<array>
 					<array>
-						<string>[none]</string>
+						<string>-----</string>
 						<string></string>
 					</array>
 					<array>
