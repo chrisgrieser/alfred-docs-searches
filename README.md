@@ -15,9 +15,9 @@ Alfred.
 
 - [DevDocs](#devdocs)
 - [Extras](#extras)
-  * [Documentation sites](#documentation-sites)
-  * [Utilities](#utilities)
-- [Maintenance](#maintenance)
+	* [Documentation sites](#documentation-sites)
+	* [Utilities](#utilities)
+	* [Reload Caches](#reload-caches)
 - [Installation](#installation)
 - [About the developer](#about-the-developer)
 
@@ -26,12 +26,10 @@ Alfred.
 ## DevDocs
 Enabled the devdocs you want to use in the workflow configuration. The
 enabled devdocs are searched by using the name as keyword, for example `angular
-foobar` to search the Angular DevDocs for "foobar".
+foobar` to search the Angular DevDocs for "foobar."
 
 A few common languages have short-hands noted in the popup selection, such as
 `js` for JavaScript. In this case, you use `js foobar` to search instead.
-
-For offline availability, [install the documentations as explained here](https://devdocs.io/offline).
 
 **Usage**
 - <kbd>⏎</kbd>: Open the documentation site.
@@ -57,13 +55,10 @@ For offline availability, [install the documentations as explained here](https:/
 - `sound`: Preview (pre-listen, technically) macOS System Sounds
 - Get the Uniform Type Identifier (UTI) of a selected file via the [Universal Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/)
 
-## Maintenance
-- `:docs-reload`: The search indexes that are *not* from DevDocs are cached. In
-  case of a recent change to a documentation site, you can manually trigger
-  refreshing the cache via this Alfred keyword.
-- `:update-devdocs`: The DevDocs versions are automatically updated with new
-  versions of this workflow. You can also trigger a manual update via this
-  Alfred keyword.
+### Reload Caches
+The search indexes that are *not* from DevDocs are cached. In case of a recent
+change to a documentation site, you can manually trigger refreshing the cache
+via the Alfred keyword `:docs-reload`.
 
 ## Installation
 [➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest)

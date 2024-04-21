@@ -8,19 +8,6 @@
 	<string>⭐️</string>
 	<key>connections</key>
 	<dict>
-		<key>01F08414-D192-4CDB-B22F-ABA09FD972E9</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>3D61839E-8140-4FBB-8996-A8BC8D0CC7B2</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>090678C4-E32D-408A-A3F2-88B39DCCE851</key>
 		<array>
 			<dict>
@@ -87,19 +74,6 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>A6A588B4-6474-4862-B661-C38931F307FA</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>3D61839E-8140-4FBB-8996-A8BC8D0CC7B2</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>0F941483-2671-401C-A6B3-C3C4B3D78D7E</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -1533,71 +1507,6 @@ window_name</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>:update-devdocs-versions</string>
-				<key>subtext</key>
-				<string>{const:alfred_workflow_name}</string>
-				<key>text</key>
-				<string>Update DevDocs versions</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>01F08414-D192-4CDB-B22F-ABA09FD972E9</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>0</integer>
-				<key>script</key>
-				<string></string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string>./devdocs/update-available-devdocs.mjs</string>
-				<key>type</key>
-				<integer>8</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>3D61839E-8140-4FBB-8996-A8BC8D0CC7B2</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string></string>
-				<key>title</key>
-				<string>✅ DevDocs Version updated</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>0F941483-2671-401C-A6B3-C3C4B3D78D7E</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>concurrently</key>
 				<false/>
 				<key>escaping</key>
@@ -1679,12 +1588,14 @@ A handful of documentation sites that are not included in DevDocs are made avail
 ## DevDocs
 Enabled the devdocs you want to use in the workflow configuration. The
 enabled devdocs are searched by using the name as keyword, for example `angular
-foobar` to search the Angular DevDocs for "foobar".
+foobar` to search the Angular DevDocs for "foobar."
 
 A few common languages have short-hands noted in the popup selection, such as
 `js` for JavaScript. In this case, you use `js foobar` to search instead.
 
-For offline availability, [install the documentations as explained here](https://devdocs.io/offline).
+**Usage**
+- &lt;kbd&gt;⏎&lt;/kbd&gt;: Open the documentation site.
+- &lt;kbd&gt;⌥&lt;/kbd&gt;&lt;kbd&gt;⏎&lt;/kbd&gt;: Copy the URL of the documentation site to the clipboard.
 
 **Usage**
 - &lt;kbd&gt;⏎&lt;/kbd&gt;: Open the documentation site.
@@ -1710,26 +1621,17 @@ For offline availability, [install the documentations as explained here](https:/
 - `sound`: Preview (pre-listen, technically) macOS System Sounds
 - Get the Uniform Type Identifier (UTI) of a selected file via the [Universal Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/)
 
-## Maintenance
-- `:docs-reload`: The search indexes that are *not* from DevDocs are cached. In case of a recent change to a documentation site, you can manually trigger refreshing the cache via this Alfred keyword.
-- `:update-devdocs`: The DevDocs versions are automatically updated with new versions of this workflow. You can also trigger a manual update via this Alfred keyword.
+### Reload Caches
+The search indexes that are *not* from DevDocs are cached. In case of a recent
+change to a documentation site, you can manually trigger refreshing the cache
+via the Alfred keyword `:docs-reload`.
+
 
 ---
 
 Created by [Chris Grieser](https://chris-grieser.de/).</string>
 	<key>uidata</key>
 	<dict>
-		<key>01F08414-D192-4CDB-B22F-ABA09FD972E9</key>
-		<dict>
-			<key>colorindex</key>
-			<integer>11</integer>
-			<key>note</key>
-			<string>refresh cache by reloading workflow</string>
-			<key>xpos</key>
-			<real>40</real>
-			<key>ypos</key>
-			<real>1045</real>
-		</dict>
 		<key>090678C4-E32D-408A-A3F2-88B39DCCE851</key>
 		<dict>
 			<key>colorindex</key>
@@ -1749,15 +1651,6 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 			<real>945</real>
 			<key>ypos</key>
 			<real>480</real>
-		</dict>
-		<key>0F941483-2671-401C-A6B3-C3C4B3D78D7E</key>
-		<dict>
-			<key>colorindex</key>
-			<integer>11</integer>
-			<key>xpos</key>
-			<real>395</real>
-			<key>ypos</key>
-			<real>1045</real>
 		</dict>
 		<key>147B74A7-0701-400F-9336-3E942E809AB8</key>
 		<dict>
@@ -1809,15 +1702,6 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 			<real>30</real>
 			<key>ypos</key>
 			<real>175</real>
-		</dict>
-		<key>3D61839E-8140-4FBB-8996-A8BC8D0CC7B2</key>
-		<dict>
-			<key>colorindex</key>
-			<integer>11</integer>
-			<key>xpos</key>
-			<real>220</real>
-			<key>ypos</key>
-			<real>1045</real>
 		</dict>
 		<key>3F695A74-EC6B-4436-9063-9A618A8CC0B8</key>
 		<dict>
@@ -19808,7 +19692,7 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 		</dict>
 	</array>
 	<key>version</key>
-	<string>2.0.2</string>
+	<string>2.0.3</string>
 	<key>webaddress</key>
 	<string>https://chris-grieser.de/</string>
 </dict>

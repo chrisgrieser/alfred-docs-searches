@@ -1,4 +1,4 @@
-name: Update Documentation Search Index
+name: Update DevDocs Versions
 
 on:
   # once a month (14:14 at the 14th of the month)
@@ -27,8 +27,8 @@ jobs:
 
       - name: Update Documentation Search Index
         run: |
-          node ./.github/doc-search-cache/re-index-documentation.mjs > ./.github/doc-search-cache/cache.json
-          git add ./.github/doc-search-cache/cache.json
+          node ./devdocs/update-available-devdocs.mjs
+          git add --all
           [[ -z "$(git status --short)" ]] && exit 0 # no update needed
-          git commit -m "chore: Updated documentation index" --author="🤖 Automated GitHub Action<cron@job>"
+          git commit -m "chore: Updated devdocs versions" --author="🤖 Automated GitHub Action<cron@job>"
           git push
