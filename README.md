@@ -26,15 +26,14 @@ Alfred.
 <!-- tocstop -->
 
 ## DevDocs
-In the configuration to the left, select the devdocs you'd like to search. The
+Enabled the devdocs you want to use in the workflow configuration. The
 enabled devdocs are searched by using the name as keyword, for example `angular
 foobar` to search the Angular DevDocs for "foobar".
 
 A few common languages have short-hands noted in the popup selection, such as
 `js` for JavaScript. In this case, you use `js foobar` to search instead.
 
-For offline availability, [install the documentations as explained at the
-DevDocs](https://devdocs.io/offline).
+For offline availability, [install the documentations as explained here](https://devdocs.io/offline).
 
 **Usage**
 - <kbd>⏎</kbd>: Open the documentation site.
