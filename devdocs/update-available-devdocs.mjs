@@ -48,7 +48,8 @@ async function run() {
 	const xmlLines = fs.readFileSync("./info.plist", "utf8").split("\n");
 
 	// create multiple popups to select in Alfred config
-	const numberOfPopups = 20;
+	const numberOfPopups = 40;
+
 	let newXmlLines = [];
 	for (let i = 1; i <= numberOfPopups; i++) {
 		const label = i === 1 ? "Enabled devdocs" : "";
