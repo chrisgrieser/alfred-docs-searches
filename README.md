@@ -48,12 +48,17 @@ A few common languages have short-hands noted in the popup selection, such as
 ### Utilities
 - `color`: named CSS colors
 - `keycode`: macOS keycodes
+    * <kbd>⏎</kbd>: Copy keycode
+    * <kbd>⌥⏎</kbd>: Copy AppleScript
 - `appid`: app-id of installed macOS apps
 - `win`: window information for the frontmost app
 - `http`: HTTP status codes
 - `as`: AppleScript Dictionaries of installed apps
-- `sound`: Preview (pre-listen, technically) macOS System Sounds
-- Get the Uniform Type Identifier (UTI) of a selected file via the [Universal Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/)
+- `sound`: macOS System Sounds
+    * <kbd>⏎</kbd>: Preview (technically: Pre-listen)
+    * <kbd>⌥⏎</kbd>: Copy sound path
+- Get the Uniform Type Identifier (UTI) of a selected file via the [Universal
+  Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/)
 
 ### Reload Caches
 The search indexes that are *not* from DevDocs are cached. In case of a recent
