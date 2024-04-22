@@ -3,11 +3,15 @@
 import fs from "node:fs";
 //──────────────────────────────────────────────────────────────────────────────
 
+// TODO find a database for this?
 const shortHands = {
 	javascript: "js",
 	typescript: "ts",
-	python: "py",
 	hammerspoon: "hs",
+	python: "py",
+	numpy: "np",
+	pandas: "pd",
+	markdown: "md",
 };
 
 //──────────────────────────────────────────────────────────────────────────────
