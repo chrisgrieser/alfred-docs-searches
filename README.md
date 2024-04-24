@@ -24,7 +24,7 @@ Alfred.
 <!-- tocstop -->
 
 ## DevDocs
-Enabled the devdocs you want to use in the workflow configuration. The
+Enable the devdocs you want to use in the workflow configuration. The
 enabled devdocs are searched by using the name as keyword, for example `angular
 foobar` to search the Angular DevDocs for "foobar."
 
@@ -49,14 +49,14 @@ A few common languages have short-hands noted in the popup selection, such as
 - `color`: named CSS colors
 - `keycode`: macOS keycodes
     * <kbd>⏎</kbd>: Copy keycode
-    * <kbd>⌥⏎</kbd>: Copy AppleScript
+    * <kbd>⌥</kbd><kbd>⏎</kbd>: Copy AppleScript
 - `appid`: app-id of installed macOS apps
 - `win`: window information for the frontmost app
 - `http`: HTTP status codes
 - `as`: AppleScript Dictionaries of installed apps
 - `sound`: macOS System Sounds
     * <kbd>⏎</kbd>: Preview (technically: Pre-listen)
-    * <kbd>⌥⏎</kbd>: Copy sound path
+    * <kbd>⌥</kbd><kbd>⏎</kbd>: Copy sound path
 - Get the Uniform Type Identifier (UTI) of a selected file via the [Universal
   Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/)
 
