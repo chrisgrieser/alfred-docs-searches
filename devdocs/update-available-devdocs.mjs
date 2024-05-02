@@ -4,14 +4,44 @@ import fs from "node:fs";
 //──────────────────────────────────────────────────────────────────────────────
 
 // TODO find a database for this?
-const shortHands = {
-	javascript: "js",
-	typescript: "ts",
+
+const aliases = {
 	hammerspoon: "hs",
-	python: "py",
+
+	// Scroll down at for a list of aliases https://devdocs.io/help
+	angular: "ng",
+	"angular.js": "ng",
+	"backbone.js": "bb",
+	"c++": "cpp",
+	coffeescript: "cs",
+	crystal: "cr",
+	elixir: "ex",
+	javascript: "js",
+	julia: "jl",
+	jquery: "$",
+	"knockout.js": "ko",
+	kubernetes: "k8s",
+	less: "ls",
+	lodash: "_",
+	löve: "love",
+	marionette: "mn",
+	markdown: "md",
+	matplotlib: "mpl",
+	modernizr: "mdr",
+	"moment.js": "mt",
+	openjdk: "java",
+	nginx: "ngx",
 	numpy: "np",
 	pandas: "pd",
-	markdown: "md",
+	postgresql: "pg",
+	python: "py",
+	"ruby.on.rails": "ror",
+	ruby: "rb",
+	rust: "rs",
+	sass: "scss",
+	tensorflow: "tf",
+	typescript: "ts",
+	"underscore.js": "_",
 };
 
 //──────────────────────────────────────────────────────────────────────────────
@@ -29,7 +59,7 @@ async function run() {
 	for (const lang of json) {
 		// allLangs json -> keyword-slug-map
 		const id = lang.slug.replace(/~.*/, "");
-		const keyword = shortHands[id] || id;
+		const keyword = aliases[id] || id;
 		if (allLangs[keyword]) continue; // do not add old versions of the same language
 		allLangs[keyword] = lang.slug;
 
