@@ -1,14 +1,13 @@
 #!/usr/bin/env node
-// @ts-nocheck
 import fs from "node:fs";
 //──────────────────────────────────────────────────────────────────────────────
 
-// TODO find a database for this?
-
+/** @type {Record<string, string>} */
 const aliases = {
+	// alises added on top of the ones from devdocs
 	hammerspoon: "hs",
 
-	// Scroll down at for a list of aliases https://devdocs.io/help
+	// devdocs aliases https://devdocs.io/help#aliases
 	angular: "ng",
 	"angular.js": "ng",
 	"backbone.js": "bb",
@@ -53,6 +52,7 @@ async function run() {
 	const json = await response.json();
 
 	// convert to hashmap to remove duplicates
+	/** @type {Record<string, string>} */
 	const allLangs = {};
 	const noneItem = "<array> <string>-----</string> <string></string> </array>";
 	const infoPlistPopup = [noneItem];
@@ -80,16 +80,17 @@ async function run() {
 	// create multiple popups to select in Alfred config
 	const numberOfPopups = 40;
 
-	let newXmlLines = [];
+	/** @type {string[]} */
+	const newXmlLines = [];
 	for (let i = 1; i <= numberOfPopups; i++) {
 		const label = i === 1 ? "Enabled devdocs" : "";
 		const number = i.toString().padStart(2, "0");
 
-		newXmlLines = newXmlLines.concat([
+		newXmlLines.push(
 			"<dict> <key>config</key> <dict> <key>default</key> <string></string> <key>pairs</key> <array>",
 			...infoPlistPopup,
 			`</array> </dict> <key>description</key> <string></string> <key>label</key> <string>${label}</string> <key>type</key> <string>popupbutton</string> <key>variable</key> <string>keyword_${number}</string> </dict>`,
-		]);
+		);
 	}
 
 	const start = xmlLines.indexOf("\t<key>userconfigurationconfig</key>") + 2;
