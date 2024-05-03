@@ -1578,8 +1578,8 @@ A handful of documentation sites that are not included in DevDocs are made avail
 
 ## DevDocs
 Enabled the devdocs you want to use in the workflow configuration. The
-enabled devdocs are searched by using the name as keyword, for example `angular
-foobar` to search the Angular DevDocs for "foobar."
+enabled devdocs are searched by using the name as keyword, for example `haskell
+foobar` to search the Haskell DevDocs for "foobar."
 
 A few common languages have short-hands noted in the popup selection, such as
 `js` for JavaScript. In this case, you use `js foobar` to search instead.
