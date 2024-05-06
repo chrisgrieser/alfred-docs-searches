@@ -44,6 +44,7 @@ A few common languages have short-hands noted in the popup selection, such as
 - `pandoc`: pandoc user manual
 - `man`: man pages at [mankier.com](https://www.mankier.com/)
 - `wt`: WezTerm docs
+- `cani`: caniuse.com
 
 ### Utilities
 - `color`: named CSS colors
