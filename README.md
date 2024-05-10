@@ -17,7 +17,7 @@ Alfred.
 - [Extras](#extras)
 	* [Documentation sites](#documentation-sites)
 	* [Utilities](#utilities)
-	* [Reload Caches](#reload-caches)
+- [Reload Caches](#reload-caches)
 - [Installation](#installation)
 - [About the developer](#about-the-developer)
 
@@ -59,12 +59,11 @@ A few common languages have short-hands noted in the popup selection, such as
     * <kbd>⏎</kbd>: Preview (technically: Pre-listen)
     * <kbd>⌥</kbd><kbd>⏎</kbd>: Copy sound path
 - Get the Uniform Type Identifier (UTI) of a selected file via the [Universal
-  Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/)
+  Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/).
 
-### Reload Caches
-The search indexes that are *not* from DevDocs are cached. In case of a recent
-change to a documentation site, you can manually trigger refreshing the cache
-via the Alfred keyword `:docs-reload`.
+## Reload Caches
+In case of a recent change to a documentation site, you can manually trigger
+refreshing the cache via the Alfred keyword `:docs-reload`.
 
 ## Installation
 [➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest)
