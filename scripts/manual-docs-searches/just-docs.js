@@ -2,34 +2,38 @@
 ObjC.import("stdlib");
 const app = Application.currentApplication();
 app.includeStandardAdditions = true;
-
 //──────────────────────────────────────────────────────────────────────────────
 
 /** @type {AlfredRun} */
 // biome-ignore lint/correctness/noUnusedVariables: Alfred run
 function run() {
-	const baseURL = "https://www.shellcheck.net/wiki/";
-	const ahrefRegex = /.*?href='(.*?)'>.*?<\/a>(.*?)(<\/li>|$)/i;
+	const baseURL = "https://just.systems/man/en/";
 
-	const jsonArr = app
+	const sidebarChapterList = app
 		.doShellScript(`curl -sL '${baseURL}'`)
 		.split("\r")
-		.slice(3, -1)
-		.map((/** @type {string} */ line) => {
-			const subsite = line.replace(ahrefRegex, "$1");
-			if (subsite === "</li>") return {};
-			const desc = line.replace(ahrefRegex, "$2").replaceAll("&ndash;", "").trim();
-			const url = baseURL + subsite;
-			let matcher = subsite;
+		.find((line) => line.includes('class="chapter"'));
 
-			// if rule with number, add the number alone to the matcher as well
-			const hasNumber = subsite.match(/\d{4}$/);
-			if (hasNumber) matcher += " " + hasNumber[0].toString();
+	// GUARD
+	if (!sidebarChapterList) {
+		return JSON.stringify({
+			items: [{ title: "Error, could not parse Just Docs.", valid: false }],
+		});
+	}
+
+	// <a href="chapter_2.html"><strong aria-hidden="true">1.1.</strong> Installation</a></li><li><ol class="section">
+	const sitesArr = sidebarChapterList
+		.split('<li class="chapter-item expanded ">')
+		.slice(1)
+		.map((item) => {
+			const [_, urlSegment, number, title] =
+				item.match(/<a href="(.*)"><strong.*?>(.*)<\/strong>(.*)<\/a>/i) || [];
+			if (!urlSegment) return {};
+			const url = baseURL + urlSegment;
 
 			return {
-				title: subsite,
-				subtitle: desc,
-				match: matcher,
+				title: title.trim(),
+				subtitle: number.slice(0, -1),
 				arg: url,
 				quicklookurl: url,
 				uid: url,
@@ -37,7 +41,7 @@ function run() {
 		});
 
 	return JSON.stringify({
-		items: jsonArr,
+		items: sitesArr,
 		cache: { seconds: 3600 * 24 * 7 },
 	});
 }

@@ -45,6 +45,7 @@ A few common languages have short-hands noted in the popup selection, such as
 - `man`: man pages at [mankier.com](https://www.mankier.com/)
 - `wt`: WezTerm docs
 - `cani`: caniuse.com
+- `just`: [just (task runner) docs](https://just.systems/man/en/)
 
 ### Utilities
 - `color`: named CSS colors
