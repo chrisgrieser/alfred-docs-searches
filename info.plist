@@ -1763,10 +1763,6 @@ A few common languages have short-hands noted in the popup selection, such as
 - &lt;kbd&gt;⏎&lt;/kbd&gt;: Open the documentation site.
 - &lt;kbd&gt;⌥&lt;/kbd&gt;&lt;kbd&gt;⏎&lt;/kbd&gt;: Copy the URL of the documentation site to the clipboard.
 
-**Usage**
-- &lt;kbd&gt;⏎&lt;/kbd&gt;: Open the documentation site.
-- &lt;kbd&gt;⌥&lt;/kbd&gt;&lt;kbd&gt;⏎&lt;/kbd&gt;: Copy the URL of the documentation site to the clipboard.
-
 ## Extras
 
 ### Documentation sites
