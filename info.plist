@@ -720,7 +720,7 @@
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
-				<string>./scripts/wezterm-docs-search.js</string>
+				<string>./scripts/manual-docs-searches/wezterm-docs-search.js</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
@@ -849,7 +849,7 @@
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
-				<string>./scripts/biome-docs-search.js</string>
+				<string>./scripts/manual-docs-searches/biome-docs-search.js</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
@@ -976,7 +976,7 @@
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
-				<string>./scripts/ruff-rules.js</string>
+				<string>./scripts/manual-docs-searches/ruff-rules.js</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
@@ -1114,7 +1114,7 @@
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
-				<string>./scripts/shellcheck-wiki.js</string>
+				<string>./scripts/manual-docs-searches/shellcheck-wiki.js</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
@@ -1252,7 +1252,7 @@
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
-				<string>./scripts/pandoc-docs.js</string>
+				<string>./scripts/manual-docs-searches/pandoc-docs.js</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
@@ -1373,7 +1373,7 @@
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
-				<string>./scripts/can-i-use.js</string>
+				<string>./scripts/manual-docs-searches/can-i-use.js</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
@@ -1497,7 +1497,7 @@
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
-				<string>./scripts/search-manpage-sections.js</string>
+				<string>./scripts/manual-docs-searches/search-manpage-sections.js</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
@@ -1546,7 +1546,7 @@
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
-				<string>./scripts/search-man-pages.js</string>
+				<string>./scripts/manual-docs-searches/search-man-pages.js</string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
