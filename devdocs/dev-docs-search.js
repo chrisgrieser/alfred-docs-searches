@@ -96,7 +96,7 @@ function run() {
 		.split("\n")
 		.map((line) => {
 			const [usedVersion, pinnedVersion] = line.split(":");
-			return { used: usedVersion, pinned: pinnedVersion };
+			return { used: usedVersion.trim(), pinned: pinnedVersion.trim() };
 		});
 	const replacement = pinnedVersions.find((version) => version.used === languageSlug);
 	if (replacement) {
