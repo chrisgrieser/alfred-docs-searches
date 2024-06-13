@@ -6,7 +6,7 @@ on:
     - cron: "14 14 14 * *"
 
   # allow triggering manually
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,14 +17,9 @@ jobs:
   build:
     runs-on: macos-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "21.x"
-
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "21.x" }
       - name: Update Documentation Search Index
         run: |
           # INFO the script also updated the `info.plist` popup selection,
@@ -37,5 +32,20 @@ jobs:
           git add ./.github/keyword-slug-map.json
 
           [[ -z "$(git diff --staged --name-only)" ]] && exit 0 # no update needed
-          git commit -m "chore: Updated devdocs versions" --author="🤖 Automated GitHub Action<cron@job>"
+
+          # determine what changes occurred and add them to the commit message
+          changes=$(
+          	git diff --staged -- .github/keyword-slug-map.json |
+          		tail +6 |                                     # remove diff header
+          		tr "," "\n" |                                 # split into new lines
+          		sed -Ee 's/[+-]{//' -Ee 's/".*":"(.*)"/\1/' | # remove json/diff syntax
+          		grep -v "No newline at end of file" |
+          		sort |           # needed for `uniq`
+          		uniq -u |        # `-u` only lines appearing once
+          		awk 'ORS=", "' | # merge lines with commas
+          		sed -e 's/, $//' # remove trailing comma
+          )
+
+          git commit --message "chore: update devdocs ($changes)" \
+              --author="🤖 Automated GitHub Action<cron@job>"
           git push
