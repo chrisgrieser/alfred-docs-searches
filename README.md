@@ -13,17 +13,21 @@ Alfred.
 
 <!-- toc -->
 
-- [DevDocs](#devdocs)
-	* [Usage](#usage)
-	* [Pinning specific versions](#pinning-specific-versions)
-- [Extras](#extras)
-	* [Documentation sites](#documentation-sites)
-	* [Utilities](#utilities)
-- [Reload Caches](#reload-caches)
 - [Installation](#installation)
+- [DevDocs](#devdocs)
+   * [Usage](#usage)
+   * [Pinning specific versions](#pinning-specific-versions)
+- [Extras](#extras)
+   * [Documentation sites](#documentation-sites)
+   * [Utilities](#utilities)
+- [Reload Caches](#reload-caches)
+- [Maintenance Notes](#maintenance-notes)
 - [About the developer](#about-the-developer)
 
 <!-- tocstop -->
+
+## Installation
+[➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest)
 
 ## DevDocs
 Enable the devdocs you want to use in the workflow configuration. The
@@ -89,8 +93,27 @@ A few common languages have short-hands noted in the popup selection, such as
 In case of a recent change to a documentation site, you can manually trigger
 refreshing the cache via the Alfred keyword `:docs-reload`.
 
-## Installation
-[➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest)
+## Maintenance Notes
+1. The workflow automatically updates to the latest *version* of
+   documentation sites available on DevDocs once per month via [GitHub
+   Action](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/.github/workflows/update-available-devdocs.yml).
+   (It may take an extra week for the Alfred cache to update as well, if not
+   done manually via `:docs-reload`.)
+2. These updates run purely on the GitHub remote repo and do not need a new
+   version of the workflow or any other kind of manual action.
+3. Completely *new documentation sites*, however, require a change to workflow's
+   `info.plist` and require a new release of this workflow. This part is [mostly
+   automated as
+   well](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/devdocs/update-available-devdocs.mjs),
+   but (currently) still requires manual actions:
+
+   ```bash
+   # update `info.plist` (available docs) and `keyword-slug-map.json` (versions)
+   node ./devdocs/update-available-devdocs.mjs
+
+   # build and release the workflow
+   zsh ./.build-and-release.sh
+   ```
 
 <!-- vale Google.FirstPerson = NO -->
 ## About the developer
