@@ -1,11 +1,13 @@
 #!/usr/bin/env node
 //──────────────────────────────────────────────────────────────────────────────
-// INFO 
+// INFO
 // - needs to be run from repo root
 // - updates which devdocs are available, and also updates the versions of the
 //   devdocs used (automatically switches to the latest version)
 //──────────────────────────────────────────────────────────────────────────────
+// biome-ignore lint/correctness/noNodejsModules: unsure how to fix this
 import fs from "node:fs";
+//──────────────────────────────────────────────────────────────────────────────
 
 /** @type {Record<string, string>} */
 const aliases = {
@@ -49,6 +51,8 @@ const aliases = {
 
 //──────────────────────────────────────────────────────────────────────────────
 
+const slugRegex = /~.*/;
+
 async function run() {
 	const response = await fetch("https://devdocs.io/docs.json");
 	const json = await response.json();
@@ -60,7 +64,7 @@ async function run() {
 	const infoPlistPopup = [noneItem];
 	for (const lang of json) {
 		// allLangs json -> keyword-slug-map
-		const id = lang.slug.replace(/~.*/, "");
+		const id = lang.slug.replace(slugRegex, "");
 		const keyword = aliases[id] || id;
 		if (allLangs[keyword]) continue; // do not add old versions of the same language
 		allLangs[keyword] = lang.slug;
