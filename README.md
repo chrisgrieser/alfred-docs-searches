@@ -62,6 +62,10 @@ A few common languages have short-hands noted in the popup selection, such as
 5. Afterward, reload the caches via the Alfred keyword `:docs-reload` once to
    ensure the new versions are used.
 
+### Icons
+Search icons for specific documentation sites are provided by adding a file to
+the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
+
 ## Extras
 
 ### Documentation sites
