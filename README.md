@@ -14,6 +14,8 @@ Alfred.
 <!-- toc -->
 
 - [DevDocs](#devdocs)
+	* [Usage](#usage)
+	* [Pinning specific versions](#pinning-specific-versions)
 - [Extras](#extras)
 	* [Documentation sites](#documentation-sites)
 	* [Utilities](#utilities)
@@ -31,9 +33,30 @@ foobar` to search the Haskell DevDocs for "foobar."
 A few common languages have short-hands noted in the popup selection, such as
 `js` for JavaScript. In this case, you use `js foobar` to search instead.
 
-**Usage**
+### Usage
 - <kbd>⏎</kbd>: Open the documentation site.
 - <kbd>⌥</kbd><kbd>⏎</kbd>: Copy the URL of the documentation site to the clipboard.
+
+### Pinning specific versions
+1. In the workflow configuration, go to the `pinned devdocs versions` section.
+   (Depending on your screen height, you might need to scroll down.)
+2. The replacements take the form `usedVersion:pinnedVersion`, one version
+   change per line. For example to pin the `node` and `python` versions:
+
+   ```
+   node:node~18_lts
+   ```
+
+   ```
+   python~3.12:python~3.11
+   ```
+
+3. The version the workflow currently uses is listed in [this json
+   file](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/.github/keyword-slug-map.json).
+4. The versions available are listed under the key `slug` in [this json
+   file](https://devdocs.io/docs.json).
+5. Afterward, reload the caches via the Alfred keyword `:docs-reload` once to
+   ensure the new versions are used.
 
 ## Extras
 
