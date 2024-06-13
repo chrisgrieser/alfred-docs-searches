@@ -1,7 +1,10 @@
 # INFO
 # - needs to be run from repo root
-# - updates which devdocs are available, and also updates the versions of the
-#   devdocs used (automatically switches to the latest version)
+# - Due to not saving the `info.plist` file (see explanation below), action only
+#   updates the available devdocs versions, but not which devdocs are available.
+#   For that, the `node ./devdocs/update-available-devdocs.mjs` must be run once
+#   locally.
+# - TODO figure out whether this limitation can avoided.
 #───────────────────────────────────────────────────────────────────────────────
 name: Update DevDocs Versions
 
