@@ -1,6 +1,11 @@
 #!/usr/bin/env node
-import fs from "node:fs";
 //──────────────────────────────────────────────────────────────────────────────
+// INFO 
+// - needs to be run from repo root
+// - updates which devdocs are available, and also updates the versions of the
+//   devdocs used (automatically switches to the latest version)
+//──────────────────────────────────────────────────────────────────────────────
+import fs from "node:fs";
 
 /** @type {Record<string, string>} */
 const aliases = {
@@ -42,8 +47,6 @@ const aliases = {
 	underscore: "_", // removed `.js`
 };
 
-//──────────────────────────────────────────────────────────────────────────────
-// INFO to be run from repo root
 //──────────────────────────────────────────────────────────────────────────────
 
 async function run() {

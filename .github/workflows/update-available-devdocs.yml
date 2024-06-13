@@ -1,3 +1,8 @@
+# INFO
+# - needs to be run from repo root
+# - updates which devdocs are available, and also updates the versions of the
+#   devdocs used (automatically switches to the latest version)
+#───────────────────────────────────────────────────────────────────────────────
 name: Update DevDocs Versions
 
 on:
