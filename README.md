@@ -44,7 +44,7 @@ A few common languages have short-hands noted in the popup selection, such as
 ### Pinning specific versions
 1. In the workflow configuration, go to the `pinned devdocs versions` section.
    (Depending on your screen height, you might need to scroll down.)
-2. The replacements take the form `usedVersion:pinnedVersion`, one version
+2. The replacements take the form `alfred_keyword:pinned_version`, one version
    change per line. For example to pin the `node` and `python` versions:
 
    ```
@@ -52,14 +52,12 @@ A few common languages have short-hands noted in the popup selection, such as
    ```
 
    ```
-   python~3.12:python~3.11
+   py:python~3.11
    ```
 
-3. The version the workflow currently uses is listed in [this json
-   file](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/.github/keyword-slug-map.json).
-4. The versions available are listed under the key `slug` in [this json
+3. The versions available are listed under the key `slug` in [this json
    file](https://devdocs.io/docs.json).
-5. Afterward, reload the caches via the Alfred keyword `:docs-reload` once to
+4. Afterward, reload the caches via the Alfred keyword `:docs-reload` once to
    ensure the new versions are used.
 
 ### Icons
