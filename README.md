@@ -96,13 +96,23 @@ In case of a recent change to a documentation site, you can manually trigger
 refreshing the cache via the Alfred keyword `:docs-reload`.
 
 ## Maintenance Notes
-1. The workflow automatically updates to the latest *version* of
-   documentation sites available on DevDocs twice per month via [GitHub
-   Action](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/.github/workflows/update-available-devdocs.yml).
-   (It may take an extra week for the Alfred cache to update as well, if not
-   done manually via `:docs-reload`.)
-2. These updates run purely on the GitHub remote repo and do not need a new
-   version of the workflow or any other kind of manual action.
+1. **Remote**: Twice per month, a [GitHub
+   Action](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/.github/workflows/update-available-devdocs.yml)
+   is run that checks for devdocs updates. If updates are found, the
+   [keyword-slug-map](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/.github/keyword-slug-map.json)
+   available on this GitHub remote is updated. The `info.plist` is also updated
+   in case not only a new version, but an entirely new documentation site
+   becomes available.
+2. **Local**: Every week, the locally available workflow fetches an update from 
+   the `keymap-slug-map` and the `info.plist` files from the GitHub remote. The update to the
+   `info.plist` is required, so that newly available documentation sites also
+   show up in the dropdown menus of the workflow configuration.
+3. This means that any devdocs update is available to the user at most after
+   three weeks. (The local cache can be manually updated via the Alfred keyword
+   via `:docs-reload` to remove the seven-day delay.)
+4. The purpose of this setup is to fully automate the process of making devdocs
+   updates available to the user without requiring manual action. Furthermore,
+   no separate release of the workflow is required.
 
 <!-- vale Google.FirstPerson = NO -->
 ## About the developer

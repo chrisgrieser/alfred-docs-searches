@@ -26,12 +26,12 @@ jobs:
 
           # GUARD if only the `info.plist` was updated, it's due to formatting changes
           # and there is not actual update to be made.
-          updated_files=$(git diff --staged --name-only)
+          updated_files=$(git diff --name-only)
           [[ ! "$updated_files" =~ keyword-slug-map ]] && exit 0
 
           # determine what changes occurred and add them to the commit message
           changes=$(
-          	git diff --staged -- .github/keyword-slug-map.json |
+          	git diff .github/keyword-slug-map.json |
           		tail +6 |                                     # remove diff header
           		tr "," "\n" |                                 # split into new lines
           		sed -Ee 's/[+-]{//' -Ee 's/".*":"(.*)"/\1/' | # remove json/diff syntax
@@ -42,6 +42,7 @@ jobs:
           		sed -e 's/, $//' # remove trailing comma
           )
 
+          git add --all
           git commit --message "chore: update devdocs ($changes)" \
               --author="🤖 Automated GitHub Action<cron@job>"
           git push
