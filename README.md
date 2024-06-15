@@ -97,7 +97,7 @@ refreshing the cache via the Alfred keyword `:docs-reload`.
 
 ## Maintenance Notes
 1. The workflow automatically updates to the latest *version* of
-   documentation sites available on DevDocs once per month via [GitHub
+   documentation sites available on DevDocs twice per month via [GitHub
    Action](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/.github/workflows/update-available-devdocs.yml).
    (It may take an extra week for the Alfred cache to update as well, if not
    done manually via `:docs-reload`.)

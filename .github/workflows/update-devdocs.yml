@@ -1,9 +1,9 @@
 name: Update Devdocs
 
 on:
-  # once a month (14:14 at the 14th of the month)
   schedule:
-    - cron: "14 14 14 * *"
+    # twice per month (2:15 at the 2nd and 15th of the month)
+    - cron: "15 2 2,15 * *"
 
   # allow triggering manually
   workflow_dispatch:
