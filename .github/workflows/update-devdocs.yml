@@ -1,12 +1,4 @@
-# INFO
-# - needs to be run from repo root
-# - Due to not saving the `info.plist` file (see explanation below), action only
-#   updates the available devdocs versions, but not which devdocs are available.
-#   For that, the `node ./devdocs/update-available-devdocs.mjs` must be run once
-#   locally.
-# - TODO figure out whether this limitation can avoided.
-#───────────────────────────────────────────────────────────────────────────────
-name: Update DevDocs Versions
+name: Update Devdocs
 
 on:
   # once a month (14:14 at the 14th of the month)
@@ -28,18 +20,14 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: "21.x" }
-      - name: Update Documentation Search Index
+      - name: Update Devdocs
         run: |
-          # INFO the script also updated the `info.plist` popup selection,
-          # however we do not add those here as they complicate updates with
-          # my local Alfred workflow. This auto-updating workflow is for now
-          # only concerned with updating the keyword-slug-map.json file, and the
-          # `info.plist` can be manually updated (since it will require an
-          # update much less frequently anyway).
           node ./devdocs/update-available-devdocs.mjs
-          git add ./.github/keyword-slug-map.json
 
-          [[ -z "$(git diff --staged --name-only)" ]] && exit 0 # no update needed
+          # GUARD if only the `info.plist` was updated, it's due to formatting changes
+          # and there is not actual update to be made.
+          updated_files=$(git diff --staged --name-only)
+          [[ ! "$updated_files" =~ keyword-slug-map ]] && exit 0
 
           # determine what changes occurred and add them to the commit message
           changes=$(
@@ -49,7 +37,7 @@ jobs:
           		sed -Ee 's/[+-]{//' -Ee 's/".*":"(.*)"/\1/' | # remove json/diff syntax
           		grep -v "No newline at end of file" |
           		sort |           # needed for `uniq`
-          		uniq -u |        # `-u` only lines appearing once
+              uniq -u |        # `-u`: only lines appearing once
           		awk 'ORS=", "' | # merge lines with commas
           		sed -e 's/, $//' # remove trailing comma
           )

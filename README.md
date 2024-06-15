@@ -103,19 +103,6 @@ refreshing the cache via the Alfred keyword `:docs-reload`.
    done manually via `:docs-reload`.)
 2. These updates run purely on the GitHub remote repo and do not need a new
    version of the workflow or any other kind of manual action.
-3. Completely *new documentation sites*, however, require a change to workflow's
-   `info.plist` and require a new release of this workflow. This part is [mostly
-   automated as
-   well](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/devdocs/update-available-devdocs.mjs),
-   but (currently) still requires manual actions:
-
-   ```bash
-   # update `info.plist` (available docs) and `keyword-slug-map.json` (versions)
-   node ./devdocs/update-available-devdocs.mjs
-
-   # build and release the workflow
-   zsh ./.build-and-release.sh
-   ```
 
 <!-- vale Google.FirstPerson = NO -->
 ## About the developer
