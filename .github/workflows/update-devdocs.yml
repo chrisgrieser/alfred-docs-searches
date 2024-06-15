@@ -41,6 +41,9 @@ jobs:
           		awk 'ORS=", "' | # merge lines with commas
           		sed -e 's/, $//' # remove trailing comma
           )
+          # do not stop workflow here, just indicate that the change detection
+          # has an issue
+          [[ -z "$changes" ]] && changes="???"
 
           git add --all
           git commit --message "chore: update devdocs ($changes)" \
