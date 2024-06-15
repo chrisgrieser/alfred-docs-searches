@@ -22,7 +22,7 @@ jobs:
         with: { node-version: "21.x" }
       - name: Update Devdocs
         run: |
-          node ./devdocs/update-available-devdocs.mjs
+          node ./scripts/devdocs/update-devdocs.mjs
 
           # GUARD if only the `info.plist` was updated, it's due to formatting changes
           # and there is not actual update to be made.
