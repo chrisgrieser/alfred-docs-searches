@@ -1741,17 +1741,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string># Search All the docs! 2.0
-
-Version 2.0 is a complete overhaul, using DevDocs to make 200+ sites available. 
-
-Most documentations are now searched via DevDocs. Note that as opposed to previous versions of this workflow, the documentation sites must enabled before they are available. (This is to avoid flodding Alfred with hundreds of keywords.)
-
-A handful of documentation sites that are not included in DevDocs are made available by this workflow, same as before. The extra utilities like the search for macOS keycodes are also kept. A small number of very niche searches, such as the one for exit codes, have been removed to avoid clutter.
-
----
-
-## DevDocs
+	<string>## DevDocs
 Enable the devdocs you want to use in the workflow configuration. The
 enabled devdocs are searched by using the name as keyword, for example `haskell
 foobar` to search the Haskell DevDocs for "foobar."
