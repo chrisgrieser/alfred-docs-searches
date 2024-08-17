@@ -19,8 +19,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with: { node-version: "21.x" }
-      - name: Update Devdocs
+        with: { node-version: "22.x" }
+      - name: Update devdocs
         run: |
           node ./scripts/devdocs/update-devdocs.mjs
 
