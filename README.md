@@ -19,8 +19,8 @@ Alfred.
 - [Extras](#extras)
    * [Documentation sites](#documentation-sites)
    * [Utilities](#utilities)
-- [Reload Caches](#reload-caches)
-- [Maintenance Notes](#maintenance-notes)
+- [Reload caches](#reload-caches)
+- [Maintenance notes](#maintenance-notes)
 - [About the developer](#about-the-developer)
 
 <!-- tocstop -->
@@ -91,11 +91,11 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 - Get the Uniform Type Identifier (UTI) of a selected file via the [Universal
   Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/).
 
-## Reload Caches
+## Reload caches
 In case of a recent change to a documentation site, you can manually trigger
 refreshing the cache via the Alfred keyword `:docs-reload`.
 
-## Maintenance Notes
+## Maintenance notes
 1. **Remote**: Twice per month, a [GitHub
    Action](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/.github/workflows/update-available-devdocs.yml)
    is run that checks for devdocs updates. If updates are found, the
