@@ -46,6 +46,6 @@ function run() {
 
 	return JSON.stringify({
 		items: workArray,
-		//cache: { seconds: 3600 * 24 * 7 },
+		cache: { seconds: 3600 * 24 * 7 },
 	});
 }
