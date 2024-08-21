@@ -75,6 +75,8 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 - `cani`: caniuse.com
 - `just`: [just (task runner) docs](https://just.systems/man/en/)
 - `yq`: yq docs
+- `oh`: Obsidian help
+- `odd`: Obsidian developer docs
 
 ### Utilities
 - `color`: named CSS colors
