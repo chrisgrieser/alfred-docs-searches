@@ -1,12 +1,18 @@
 name: Update Devdocs
 
 on:
+  # twice per month (2:15 at the 2nd and 15th of the month)
   schedule:
-    # twice per month (2:15 at the 2nd and 15th of the month)
     - cron: "15 2 2,15 * *"
 
-  # allow triggering manually
+  # manual triggering
   workflow_dispatch:
+
+  # on updates to this file or the update script
+  push:
+    paths:
+      - .github/workflows/update-devdocs.yml
+      - scripts/devdocs/update-devdocs.mjs
 
 permissions:
   contents: write
