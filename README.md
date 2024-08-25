@@ -70,9 +70,7 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 - `ruff`: ruff docs & rules
 - `sc`: shellcheck wiki
 - `pandoc`: pandoc user manual
-- `man`: man pages at [mankier.com](https://www.mankier.com/)
 - `wt`: WezTerm docs
-- `cani`: caniuse.com
 - `just`: [just (task runner) docs](https://just.systems/man/en/)
 - `yq`: yq docs
 - `oh`: Obsidian help
