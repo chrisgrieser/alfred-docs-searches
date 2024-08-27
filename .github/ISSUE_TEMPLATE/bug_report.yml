@@ -3,17 +3,6 @@ description: File a bug report
 title: "[Bug]: "
 labels: ["bug"]
 body:
-  - type: checkboxes
-    id: checklist
-    attributes:
-      label: Checklist
-      options:
-        - label: I have [updated to the latest version](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest) of this workflow.
-          required: true
-        - label: I am using Alfred 5. (Older versions are not supported anymore.)
-          required: true
-        - label: I tried reloading the cache via `:docs-reload` and the problem still persists.
-          required: true
   - type: textarea
     id: bug-description
     attributes:
@@ -48,6 +37,15 @@ body:
     id: workflow-configuration
     attributes:
       label: Workflow Configuration
-      description: "Please add a screenshot of all your [workflow configuration](https://www.alfredapp.com/help/workflows/user-configuration/)."
+      description: "Please add a screenshot of your [workflow configuration](https://www.alfredapp.com/help/workflows/user-configuration/)."
     validations:
       required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I have [updated to the latest version](./releases/latest) of this workflow.
+          required: true
+        - label: I am using Alfred 5. (Older versions are not supported anymore.)
+          required: true
