@@ -39,11 +39,8 @@ jobs:
           changes=$(
           	git diff .github/keyword-slug-map.json |
           		tail +6 |                                     # remove diff header
-          		tr "," "\n" |                                 # split into new lines
-          		sed -Ee 's/[+-]{//' -Ee 's/".*":"(.*)"/\1/' | # remove json/diff syntax
-          		grep -v "No newline at end of file" |
-          		sort |           # needed for `uniq`
-              uniq -u |        # `-u`: only lines appearing once
+              grep "^+" |  # only added lines
+              cut -d'"' -f4 | # only changed value
           		awk 'ORS=", "' | # merge lines with commas
           		sed -e 's/, $//' # remove trailing comma
           )
