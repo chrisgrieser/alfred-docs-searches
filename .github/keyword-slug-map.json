@@ -72,7 +72,7 @@
   "hs": "hammerspoon",
   "handlebars": "handlebars",
   "hapi": "hapi",
-  "haproxy": "haproxy~2.9",
+  "haproxy": "haproxy~3.0",
   "haskell": "haskell~9",
   "haxe": "haxe",
   "homebrew": "homebrew",
