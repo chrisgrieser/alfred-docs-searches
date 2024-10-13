@@ -1,4 +1,4 @@
-name: Update Devdocs
+name: Update DevDocs keyword-slug-map
 
 on:
   # twice per month (2:15 at the 2nd and 15th of the month)
