@@ -33,10 +33,10 @@ jobs:
 
       - name: update documentation search index
         run: |
-          for i in {1..5}; do
+          for i in {1..3}; do
             echo "Attempt #$i"
             node ./scripts/manual-docs-searches/build-obsidian-help-index.mjs && exit 0
-            sleep 30
+            sleep 10
           done
           echo "Multiple attempts to re-index the Obsidian docs failed. Aborting."
           exit 1
@@ -44,5 +44,5 @@ jobs:
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: Updated documentation index"
+          commit_message: "chore: Updated Obsidian help index"
           branch: ${{ github.head_ref }}

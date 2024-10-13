@@ -38,8 +38,12 @@ async function run() {
 		console.error("Could not fetch json from: ", officialDocsTree);
 		process.exit(1);
 	}
+	if (!officialDocsJSON.tree) {
+		console.error("Error: ", JSON.stringify(officialDocsJSON));
+		process.exit(1);
+	}
 
-	// OFFICIAL DOCS
+	// HELP SITES THEMSELVES
 	const officialDocs = officialDocsJSON.tree.filter(
 		(/** @type {{ path: string; }} */ item) =>
 			item.path.slice(-3) === ".md" &&
