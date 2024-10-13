@@ -29,10 +29,15 @@ function alfredMatcher(str) {
 async function run() {
 	const docsPages = [];
 	const officialDocsURL = "https://help.obsidian.md/";
-	const officialDocsJSON = await getOnlineJson(
-		"https://api.github.com/repos/obsidianmd/obsidian-docs/git/trees/master?recursive=1",
-	);
 	const rawGitHubURL = "https://raw.githubusercontent.com/obsidianmd/obsidian-docs/master/";
+	const officialDocsTree = "https://api.github.com/repositories/285425357/git/trees/master?recursive=1";
+
+	// GUARD 
+	const officialDocsJSON = await getOnlineJson(officialDocsTree);
+	if (!officialDocsJSON) {
+		console.error("Could not fetch json from: ", officialDocsTree);
+		process.exit(1);
+	}
 
 	// OFFICIAL DOCS
 	const officialDocs = officialDocsJSON.tree.filter(
@@ -46,6 +51,7 @@ async function run() {
 		const area = doc.path.split("/").slice(1, -1).join("/");
 		const url = officialDocsURL + doc.path.slice(3, -3).replaceAll(" ", "+");
 		const title = (doc.path.split("/").pop() || "error").slice(0, -3);
+		console.info("Indexing: ", title);
 
 		docsPages.push({
 			title: title,
@@ -84,6 +90,7 @@ async function run() {
 		cache: { seconds: 60 * 60 * 24 * 7, loosereload: true },
 	};
 
+	if (!fs.existsSync("./.github/caches/")) fs.mkdirSync("./.github/caches/", { recursive: true });
 	const beautifiedForBetterDiff = JSON.stringify(docsJson, null, 2);
 	fs.writeFileSync("./.github/caches/obsidian-help-index.json", beautifiedForBetterDiff);
 }
