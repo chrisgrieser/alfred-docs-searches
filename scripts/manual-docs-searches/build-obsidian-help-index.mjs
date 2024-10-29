@@ -1,10 +1,9 @@
 #!/usr/bin/env node
-// biome-ignore lint/correctness/noNodejsModules: unsure how to fix this
 import fs from "node:fs";
 //──────────────────────────────────────────────────────────────────────────────
 
 /** @param {string} url */
-async function getOnlineJson(url) {
+async function getGithubJson(url) {
 	const response = await fetch(url, {
 		method: "GET",
 		headers: {
@@ -18,7 +17,7 @@ async function getOnlineJson(url) {
 }
 
 /** @param {string} url */
-async function getOnlineRaw(url) {
+async function getGithubFileRaw(url) {
 	const response = await fetch(url);
 	return await response.text();
 }
@@ -41,7 +40,7 @@ async function run() {
 	const officialDocsTree = "https://api.github.com/repositories/285425357/git/trees/master?recursive=1";
 
 	// GUARD
-	const officialDocsJSON = await getOnlineJson(officialDocsTree);
+	const officialDocsJSON = await getGithubJson(officialDocsTree);
 	if (!officialDocsJSON) {
 		console.error("Could not fetch json from: ", officialDocsTree);
 		process.exit(1);
@@ -77,7 +76,7 @@ async function run() {
 		// HEADINGS of Official Docs
 		const docURL = rawGitHubURL + encodeURI(doc.path);
 
-		const docTextLines = (await getOnlineRaw(docURL))
+		const docTextLines = (await getGithubFileRaw(docURL))
 			.split("\n")
 			.filter((line) => line.startsWith("#"));
 

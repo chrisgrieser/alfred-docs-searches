@@ -36,9 +36,8 @@ jobs:
           # https://docs.github.com/en/actions/security-for-github-actions/security-guides/automatic-token-authentication
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          node ./scripts/manual-docs-searches/build-obsidian-help-index.mjs && exit 0
-          echo "Re-indexing the Obsidian docs failed."
-          exit 1
+          node ./scripts/manual-docs-searches/build-obsidian-help-index.mjs
+          exit $? # inherit exit code
 
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v5
