@@ -32,13 +32,12 @@ jobs:
           node-version: "22.x"
 
       - name: update documentation search index
+        env:
+          # https://docs.github.com/en/actions/security-for-github-actions/security-guides/automatic-token-authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          for i in {1..3}; do
-            echo "Attempt #$i"
-            node ./scripts/manual-docs-searches/build-obsidian-help-index.mjs && exit 0
-            sleep 10
-          done
-          echo "Multiple attempts to re-index the Obsidian docs failed. Aborting."
+          node ./scripts/manual-docs-searches/build-obsidian-help-index.mjs && exit 0
+          echo "Re-indexing the Obsidian docs failed."
           exit 1
 
       - name: commit

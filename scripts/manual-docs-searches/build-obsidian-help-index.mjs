@@ -5,7 +5,15 @@ import fs from "node:fs";
 
 /** @param {string} url */
 async function getOnlineJson(url) {
-	const response = await fetch(url);
+	const response = await fetch(url, {
+		method: "GET",
+		headers: {
+			// SIC without `GITHUB_TOKEN`, will hit rate limit when running on Github Actions
+			// `GITHUB_TOKEN` set via GitHub Actions secrets
+			authorization: "Bearer " + process.env.GITHUB_TOKEN,
+			"Content-Type": "application/json",
+		}
+	});
 	return await response.json();
 }
 
@@ -32,7 +40,7 @@ async function run() {
 	const rawGitHubURL = "https://raw.githubusercontent.com/obsidianmd/obsidian-docs/master/";
 	const officialDocsTree = "https://api.github.com/repositories/285425357/git/trees/master?recursive=1";
 
-	// GUARD 
+	// GUARD
 	const officialDocsJSON = await getOnlineJson(officialDocsTree);
 	if (!officialDocsJSON) {
 		console.error("Could not fetch json from: ", officialDocsTree);
