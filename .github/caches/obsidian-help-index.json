@@ -1177,6 +1177,182 @@
       "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI.md#Shorthand+formats"
     },
     {
+      "title": "Obsidian Web Clipper",
+      "match": " Obsidian Web Clipper Obsidian Web Clipper ",
+      "subtitle": "Extending Obsidian",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper"
+    },
+    {
+      "title": "Getting started",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Getting+started",
+      "match": " Getting started Getting started ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Getting+started",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Getting+started"
+    },
+    {
+      "title": "Basic usage",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Basic+usage",
+      "match": " Basic usage Basic usage ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Basic+usage",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Basic+usage"
+    },
+    {
+      "title": "Interface",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Interface",
+      "match": " Interface Interface ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Interface",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Interface"
+    },
+    {
+      "title": "Templates",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Templates",
+      "match": " Templates Templates ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Templates",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Templates"
+    },
+    {
+      "title": "Create or edit a template",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Create+or+edit+a+template",
+      "match": " Create or edit a template Create or edit a template ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Create+or+edit+a+template",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Create+or+edit+a+template"
+    },
+    {
+      "title": "Import and export clipper templates",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Import+and+export+clipper+templates",
+      "match": " Import and export clipper templates Import and export clipper templates ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Import+and+export+clipper+templates",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Import+and+export+clipper+templates"
+    },
+    {
+      "title": "Template triggers",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+triggers",
+      "match": " Template triggers Template triggers ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+triggers",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+triggers"
+    },
+    {
+      "title": "Simple URL matching",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Simple+URL+matching",
+      "match": " Simple URL matching Simple URL matching ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Simple+URL+matching",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Simple+URL+matching"
+    },
+    {
+      "title": "Regular expression matching",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Regular+expression+matching",
+      "match": " Regular expression matching Regular expression matching ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Regular+expression+matching",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Regular+expression+matching"
+    },
+    {
+      "title": "Schema.org matching",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+matching",
+      "match": " Schema org matching Schema.org matching ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+matching",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+matching"
+    },
+    {
+      "title": "Template variables",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+variables",
+      "match": " Template variables Template variables ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+variables",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+variables"
+    },
+    {
+      "title": "Preset variables",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Preset+variables",
+      "match": " Preset variables Preset variables ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Preset+variables",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Preset+variables"
+    },
+    {
+      "title": "Meta variables",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Meta+variables",
+      "match": " Meta variables Meta variables ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Meta+variables",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Meta+variables"
+    },
+    {
+      "title": "Selector variables",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Selector+variables",
+      "match": " Selector variables Selector variables ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Selector+variables",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Selector+variables"
+    },
+    {
+      "title": "Schema.org variables",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+variables",
+      "match": " Schema org variables Schema.org variables ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+variables",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+variables"
+    },
+    {
+      "title": "Filters",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Filters",
+      "match": " Filters Filters ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Filters",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Filters"
+    },
+    {
+      "title": "Dates and numbers",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Dates+and+numbers",
+      "match": " Dates and numbers Dates and numbers ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Dates+and+numbers",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Dates+and+numbers"
+    },
+    {
+      "title": "Text conversion and capitalization",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+conversion+and+capitalization",
+      "match": " Text conversion and capitalization Text conversion and capitalization ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+conversion+and+capitalization",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+conversion+and+capitalization"
+    },
+    {
+      "title": "Text formatting",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+formatting",
+      "match": " Text formatting Text formatting ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+formatting",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+formatting"
+    },
+    {
+      "title": "HTML processing",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#HTML+processing",
+      "match": " HTML processing HTML processing ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#HTML+processing",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#HTML+processing"
+    },
+    {
+      "title": "Arrays and objects",
+      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Arrays+and+objects",
+      "match": " Arrays and objects Arrays and objects ",
+      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Arrays+and+objects",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Arrays+and+objects"
+    },
+    {
       "title": "Plugin security",
       "match": " Plugin security Plugin security ",
       "subtitle": "Extending Obsidian",
@@ -1897,44 +2073,68 @@
       "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices"
     },
     {
-      "title": "Sync notes across multiple desktop devices",
+      "title": "Syncing types",
       "subtitle": "Getting started/Sync your notes across devices",
-      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+notes+across+multiple+desktop+devices",
-      "match": " Sync notes across multiple desktop devices Sync notes across multiple desktop devices ",
-      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+notes+across+multiple+desktop+devices",
-      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+notes+across+multiple+desktop+devices"
+      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncing+types",
+      "match": " Syncing types Syncing types ",
+      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncing+types",
+      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncing+types"
     },
     {
-      "title": "Sync your notes on iPhone and iPad",
+      "title": "Obsidian Sync",
       "subtitle": "Getting started/Sync your notes across devices",
-      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+your+notes+on+iPhone+and+iPad",
-      "match": " Sync your notes on iPhone and iPad Sync your notes on iPhone and iPad ",
-      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+your+notes+on+iPhone+and+iPad",
-      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+your+notes+on+iPhone+and+iPad"
+      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Obsidian+Sync",
+      "match": " Obsidian Sync Obsidian Sync ",
+      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Obsidian+Sync",
+      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Obsidian+Sync"
     },
     {
-      "title": "iCloud Drive",
+      "title": "iCloud",
       "subtitle": "Getting started/Sync your notes across devices",
-      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#iCloud+Drive",
-      "match": " iCloud Drive iCloud Drive ",
-      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#iCloud+Drive",
-      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#iCloud+Drive"
+      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#iCloud",
+      "match": " iCloud iCloud ",
+      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#iCloud",
+      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#iCloud"
     },
     {
-      "title": "Create a new vault in iCloud Drive",
+      "title": "OneDrive",
       "subtitle": "Getting started/Sync your notes across devices",
-      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Create+a+new+vault+in+iCloud+Drive",
-      "match": " Create a new vault in iCloud Drive Create a new vault in iCloud Drive ",
-      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Create+a+new+vault+in+iCloud+Drive",
-      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Create+a+new+vault+in+iCloud+Drive"
+      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#OneDrive",
+      "match": " OneDrive OneDrive ",
+      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#OneDrive",
+      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#OneDrive"
     },
     {
-      "title": "Sync an existing vault with iCloud Drive",
+      "title": "Google Drive",
       "subtitle": "Getting started/Sync your notes across devices",
-      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+an+existing+vault+with+iCloud+Drive",
-      "match": " Sync an existing vault with iCloud Drive Sync an existing vault with iCloud Drive ",
-      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+an+existing+vault+with+iCloud+Drive",
-      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+an+existing+vault+with+iCloud+Drive"
+      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Google+Drive",
+      "match": " Google Drive Google Drive ",
+      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Google+Drive",
+      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Google+Drive"
+    },
+    {
+      "title": "Syncthing",
+      "subtitle": "Getting started/Sync your notes across devices",
+      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncthing",
+      "match": " Syncthing Syncthing ",
+      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncthing",
+      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncthing"
+    },
+    {
+      "title": "Git",
+      "subtitle": "Getting started/Sync your notes across devices",
+      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Git",
+      "match": " Git Git ",
+      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Git",
+      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Git"
+    },
+    {
+      "title": "iPhone and iPad syncing",
+      "subtitle": "Getting started/Sync your notes across devices",
+      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#iPhone+and+iPad+syncing",
+      "match": " iPhone and iPad syncing iPhone and iPad syncing ",
+      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#iPhone+and+iPad+syncing",
+      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#iPhone+and+iPad+syncing"
     },
     {
       "title": "Working Copy",
@@ -1945,36 +2145,12 @@
       "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Working+Copy"
     },
     {
-      "title": "Why is my preferred syncing service not officially supported?",
+      "title": "Frequently asked questions",
       "subtitle": "Getting started/Sync your notes across devices",
-      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Why+is+my+preferred+syncing+service+not+officially+supported?",
-      "match": " Why is my preferred syncing service not officially supported? Why is my preferred syncing service not officially supported? ",
-      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Why+is+my+preferred+syncing+service+not+officially+supported?",
-      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Why+is+my+preferred+syncing+service+not+officially+supported?"
-    },
-    {
-      "title": "Where are my vaults stored?",
-      "subtitle": "Getting started/Sync your notes across devices",
-      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Where+are+my+vaults+stored?",
-      "match": " Where are my vaults stored? Where are my vaults stored? ",
-      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Where+are+my+vaults+stored?",
-      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Where+are+my+vaults+stored?"
-    },
-    {
-      "title": "Sync notes on Android",
-      "subtitle": "Getting started/Sync your notes across devices",
-      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+notes+on+Android",
-      "match": " Sync notes on Android Sync notes on Android ",
-      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+notes+on+Android",
-      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Sync+notes+on+Android"
-    },
-    {
-      "title": "Config folders",
-      "subtitle": "Getting started/Sync your notes across devices",
-      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Config+folders",
-      "match": " Config folders Config folders ",
-      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Config+folders",
-      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Config+folders"
+      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Frequently+asked+questions",
+      "match": " Frequently asked questions Frequently asked questions ",
+      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Frequently+asked+questions",
+      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Frequently+asked+questions"
     },
     {
       "title": "Update Obsidian",
@@ -3913,6 +4089,14 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Security+and+privacy.md#What+does+end-to-end+encryption+mean?"
     },
     {
+      "title": "What are the risks of using standard encryption?",
+      "subtitle": "Obsidian Sync/Security and privacy",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Security+and+privacy.md#What+are+the+risks+of+using+standard+encryption?",
+      "match": " What are the risks of using standard encryption? What are the risks of using standard encryption? ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Security+and+privacy.md#What+are+the+risks+of+using+standard+encryption?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Security+and+privacy.md#What+are+the+risks+of+using+standard+encryption?"
+    },
+    {
       "title": "What encryption do you use?",
       "subtitle": "Obsidian Sync/Security and privacy",
       "uid": "https://help.obsidian.md/Obsidian+Sync/Security+and+privacy.md#What+encryption+do+you+use?",
@@ -3983,102 +4167,6 @@
       "match": " Managing access to Obsidian Sync on your network Managing access to Obsidian Sync on your network ",
       "arg": "https://help.obsidian.md/Obsidian+Sync/Security+and+privacy.md#Managing+access+to+Obsidian+Sync+on+your+network",
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Security+and+privacy.md#Managing+access+to+Obsidian+Sync+on+your+network"
-    },
-    {
-      "title": "Select files and settings to sync",
-      "match": " Select files and settings to sync Select files and settings to sync ",
-      "subtitle": "Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync"
-    },
-    {
-      "title": "Change the file types you want to sync",
-      "subtitle": "Obsidian Sync/Select files and settings to sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Change+the+file+types+you+want+to+sync",
-      "match": " Change the file types you want to sync Change the file types you want to sync ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Change+the+file+types+you+want+to+sync",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Change+the+file+types+you+want+to+sync"
-    },
-    {
-      "title": "Exclude a folder from being synced",
-      "subtitle": "Obsidian Sync/Select files and settings to sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Exclude+a+folder+from+being+synced",
-      "match": " Exclude a folder from being synced Exclude a folder from being synced ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Exclude+a+folder+from+being+synced",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Exclude+a+folder+from+being+synced"
-    },
-    {
-      "title": "Always excluded from sync",
-      "subtitle": "Obsidian Sync/Select files and settings to sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Always+excluded+from+sync",
-      "match": " Always excluded from sync Always excluded from sync ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Always+excluded+from+sync",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Always+excluded+from+sync"
-    },
-    {
-      "title": "Folders that start with a dot are not synced",
-      "subtitle": "Obsidian Sync/Select files and settings to sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Folders+that+start+with+a+dot+are+not+synced",
-      "match": " Folders that start with a dot are not synced Folders that start with a dot are not synced ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Folders+that+start+with+a+dot+are+not+synced",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Folders+that+start+with+a+dot+are+not+synced"
-    },
-    {
-      "title": "Sync settings are not synced",
-      "subtitle": "Obsidian Sync/Select files and settings to sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Sync+settings+are+not+synced",
-      "match": " Sync settings are not synced Sync settings are not synced ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Sync+settings+are+not+synced",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Sync+settings+are+not+synced"
-    },
-    {
-      "title": "Updating your synced vault settings",
-      "subtitle": "Obsidian Sync/Select files and settings to sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Updating+your+synced+vault+settings",
-      "match": " Updating your synced vault settings Updating your synced vault settings ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Updating+your+synced+vault+settings",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Updating+your+synced+vault+settings"
-    },
-    {
-      "title": "Primary device",
-      "subtitle": "Obsidian Sync/Select files and settings to sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Primary+device",
-      "match": " Primary device Primary device ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Primary+device",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Primary+device"
-    },
-    {
-      "title": "Secondary device(s)",
-      "subtitle": "Obsidian Sync/Select files and settings to sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Secondary+device(s)",
-      "match": " Secondary device s  Secondary device(s) ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Secondary+device(s)",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Secondary+device(s)"
-    },
-    {
-      "title": "Reloading of settings",
-      "subtitle": "Obsidian Sync/Select files and settings to sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Reloading+of+settings",
-      "match": " Reloading of settings Reloading of settings ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Reloading+of+settings",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Reloading+of+settings"
-    },
-    {
-      "title": "Settings profiles",
-      "subtitle": "Obsidian Sync/Select files and settings to sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Settings+profiles",
-      "match": " Settings profiles Settings profiles ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Settings+profiles",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Settings+profiles"
-    },
-    {
-      "title": "Create a settings profile",
-      "subtitle": "Obsidian Sync/Select files and settings to sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Create+a+settings+profile",
-      "match": " Create a settings profile Create a settings profile ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Create+a+settings+profile",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Select+files+and+settings+to+sync.md#Create+a+settings+profile"
     },
     {
       "title": "Set up Obsidian Sync",
@@ -4225,6 +4313,62 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Set+up+Obsidian+Sync.md#Next+steps"
     },
     {
+      "title": "Status icon and messages",
+      "match": " Status icon and messages Status icon and messages ",
+      "subtitle": "Obsidian Sync",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages"
+    },
+    {
+      "title": "Sync status icon",
+      "subtitle": "Obsidian Sync/Status icon and messages",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Sync+status+icon",
+      "match": " Sync status icon Sync status icon ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Sync+status+icon",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Sync+status+icon"
+    },
+    {
+      "title": "Sync log",
+      "subtitle": "Obsidian Sync/Status icon and messages",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Sync+log",
+      "match": " Sync log Sync log ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Sync+log",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Sync+log"
+    },
+    {
+      "title": "General messages",
+      "subtitle": "Obsidian Sync/Status icon and messages",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#General+messages",
+      "match": " General messages General messages ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#General+messages",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#General+messages"
+    },
+    {
+      "title": "Error messages",
+      "subtitle": "Obsidian Sync/Status icon and messages",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Error+messages",
+      "match": " Error messages Error messages ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Error+messages",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Error+messages"
+    },
+    {
+      "title": "Skipped messages",
+      "subtitle": "Obsidian Sync/Status icon and messages",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Skipped+messages",
+      "match": " Skipped messages Skipped messages ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Skipped+messages",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Skipped+messages"
+    },
+    {
+      "title": "Account messages",
+      "subtitle": "Obsidian Sync/Status icon and messages",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Account+messages",
+      "match": " Account messages Account messages ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Account+messages",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Account+messages"
+    },
+    {
       "title": "Sync limitations",
       "match": " Sync limitations Sync limitations ",
       "subtitle": "Obsidian Sync",
@@ -4361,6 +4505,118 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Do+you+keep+my+data+if+I+refund+my+subscription+service?"
     },
     {
+      "title": "Sync settings and selective syncing",
+      "match": " Sync settings and selective syncing Sync settings and selective syncing ",
+      "subtitle": "Obsidian Sync",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing"
+    },
+    {
+      "title": "Sync settings",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Sync+settings",
+      "match": " Sync settings Sync settings ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Sync+settings",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Sync+settings"
+    },
+    {
+      "title": "Selective syncing",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Selective+syncing",
+      "match": " Selective syncing Selective syncing ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Selective+syncing",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Selective+syncing"
+    },
+    {
+      "title": "Change the file types you want to sync",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Change+the+file+types+you+want+to+sync",
+      "match": " Change the file types you want to sync Change the file types you want to sync ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Change+the+file+types+you+want+to+sync",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Change+the+file+types+you+want+to+sync"
+    },
+    {
+      "title": "Exclude a folder from syncing",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Exclude+a+folder+from+syncing",
+      "match": " Exclude a folder from syncing Exclude a folder from syncing ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Exclude+a+folder+from+syncing",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Exclude+a+folder+from+syncing"
+    },
+    {
+      "title": "Always excluded from sync",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Always+excluded+from+sync",
+      "match": " Always excluded from sync Always excluded from sync ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Always+excluded+from+sync",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Always+excluded+from+sync"
+    },
+    {
+      "title": "Hidden folders (folders starting with a dot) are not synced",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Hidden+folders+(folders+starting+with+a+dot)+are+not+synced",
+      "match": " Hidden folders  folders starting with a dot  are not synced Hidden folders (folders starting with a dot) are not synced ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Hidden+folders+(folders+starting+with+a+dot)+are+not+synced",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Hidden+folders+(folders+starting+with+a+dot)+are+not+synced"
+    },
+    {
+      "title": "Sync settings are not synced",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Sync+settings+are+not+synced",
+      "match": " Sync settings are not synced Sync settings are not synced ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Sync+settings+are+not+synced",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Sync+settings+are+not+synced"
+    },
+    {
+      "title": "Updating your synced vault settings",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Updating+your+synced+vault+settings",
+      "match": " Updating your synced vault settings Updating your synced vault settings ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Updating+your+synced+vault+settings",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Updating+your+synced+vault+settings"
+    },
+    {
+      "title": "Primary device",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Primary+device",
+      "match": " Primary device Primary device ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Primary+device",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Primary+device"
+    },
+    {
+      "title": "Secondary device(s)",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Secondary+device(s)",
+      "match": " Secondary device s  Secondary device(s) ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Secondary+device(s)",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Secondary+device(s)"
+    },
+    {
+      "title": "Reloading of settings",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Reloading+of+settings",
+      "match": " Reloading of settings Reloading of settings ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Reloading+of+settings",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Reloading+of+settings"
+    },
+    {
+      "title": "Settings profiles",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Settings+profiles",
+      "match": " Settings profiles Settings profiles ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Settings+profiles",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Settings+profiles"
+    },
+    {
+      "title": "Create a settings profile",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Create+a+settings+profile",
+      "match": " Create a settings profile Create a settings profile ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Create+a+settings+profile",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+settings+and+selective+syncing.md#Create+a+settings+profile"
+    },
+    {
       "title": "Troubleshoot Obsidian Sync",
       "match": " Troubleshoot Obsidian Sync Troubleshoot Obsidian Sync ",
       "subtitle": "Obsidian Sync",
@@ -4385,52 +4641,28 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Conflict+resolution"
     },
     {
-      "title": "Obsidian Sync deleted a note I just created on two devices",
+      "title": " Sync deleted a note I just created on two devices",
       "subtitle": "Obsidian Sync/Troubleshoot Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Obsidian+Sync+deleted+a+note+I+just+created+on+two+devices",
-      "match": " Obsidian Sync deleted a note I just created on two devices Obsidian Sync deleted a note I just created on two devices ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Obsidian+Sync+deleted+a+note+I+just+created+on+two+devices",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Obsidian+Sync+deleted+a+note+I+just+created+on+two+devices"
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#+Sync+deleted+a+note+I+just+created+on+two+devices",
+      "match": "  Sync deleted a note I just created on two devices  Sync deleted a note I just created on two devices ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#+Sync+deleted+a+note+I+just+created+on+two+devices",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#+Sync+deleted+a+note+I+just+created+on+two+devices"
     },
     {
-      "title": "Obsidian Sync will not Sync my plugins and settings updates",
+      "title": "Sync will not Sync my plugins and settings updates",
       "subtitle": "Obsidian Sync/Troubleshoot Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Obsidian+Sync+will+not+Sync+my+plugins+and+settings+updates",
-      "match": " Obsidian Sync will not Sync my plugins and settings updates Obsidian Sync will not Sync my plugins and settings updates ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Obsidian+Sync+will+not+Sync+my+plugins+and+settings+updates",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Obsidian+Sync+will+not+Sync+my+plugins+and+settings+updates"
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Sync+will+not+Sync+my+plugins+and+settings+updates",
+      "match": " Sync will not Sync my plugins and settings updates Sync will not Sync my plugins and settings updates ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Sync+will+not+Sync+my+plugins+and+settings+updates",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Sync+will+not+Sync+my+plugins+and+settings+updates"
     },
     {
-      "title": "My files keep disappearing from Sync",
+      "title": "My files keep disappearing from Sync as soon as I restore it",
       "subtitle": "Obsidian Sync/Troubleshoot Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#My+files+keep+disappearing+from+Sync",
-      "match": " My files keep disappearing from Sync My files keep disappearing from Sync ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#My+files+keep+disappearing+from+Sync",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#My+files+keep+disappearing+from+Sync"
-    },
-    {
-      "title": "Account",
-      "subtitle": "Obsidian Sync/Troubleshoot Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Account",
-      "match": " Account Account ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Account",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Account"
-    },
-    {
-      "title": "What does \"Vault limit exceeded\" mean?",
-      "subtitle": "Obsidian Sync/Troubleshoot Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#What+does+\"Vault+limit+exceeded\"+mean?",
-      "match": " What does \"Vault limit exceeded\" mean? What does \"Vault limit exceeded\" mean? ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#What+does+\"Vault+limit+exceeded\"+mean?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#What+does+\"Vault+limit+exceeded\"+mean?"
-    },
-    {
-      "title": "What does \"Vault not found\" mean?",
-      "subtitle": "Obsidian Sync/Troubleshoot Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#What+does+\"Vault+not+found\"+mean?",
-      "match": " What does \"Vault not found\" mean? What does \"Vault not found\" mean? ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#What+does+\"Vault+not+found\"+mean?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#What+does+\"Vault+not+found\"+mean?"
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#My+files+keep+disappearing+from+Sync+as+soon+as+I+restore+it",
+      "match": " My files keep disappearing from Sync as soon as I restore it My files keep disappearing from Sync as soon as I restore it ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#My+files+keep+disappearing+from+Sync+as+soon+as+I+restore+it",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#My+files+keep+disappearing+from+Sync+as+soon+as+I+restore+it"
     },
     {
       "title": "Android",
@@ -4441,20 +4673,52 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#Android"
     },
     {
-      "title": "My phone is deleting my attachments I receive through Sync",
-      "subtitle": "Obsidian Sync/Troubleshoot Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#My+phone+is+deleting+my+attachments+I+receive+through+Sync",
-      "match": " My phone is deleting my attachments I receive through Sync My phone is deleting my attachments I receive through Sync ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#My+phone+is+deleting+my+attachments+I+receive+through+Sync",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Troubleshoot+Obsidian+Sync.md#My+phone+is+deleting+my+attachments+I+receive+through+Sync"
-    },
-    {
       "title": "Version history",
       "match": " Version history Version history ",
       "subtitle": "Obsidian Sync",
       "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history",
       "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history",
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history"
+    },
+    {
+      "title": "Sync history",
+      "subtitle": "Obsidian Sync/Version history",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Sync+history",
+      "match": " Sync history Sync history ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Sync+history",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Sync+history"
+    },
+    {
+      "title": "Show Sync history",
+      "subtitle": "Obsidian Sync/Version history",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Show+Sync+history",
+      "match": " Show Sync history Show Sync history ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Show+Sync+history",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Show+Sync+history"
+    },
+    {
+      "title": "Enable via Command palette",
+      "subtitle": "Obsidian Sync/Version history",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Enable+via+Command+palette",
+      "match": " Enable via Command palette Enable via Command palette ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Enable+via+Command+palette",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Enable+via+Command+palette"
+    },
+    {
+      "title": "Enable via Hotkey",
+      "subtitle": "Obsidian Sync/Version history",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Enable+via+Hotkey",
+      "match": " Enable via Hotkey Enable via Hotkey ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Enable+via+Hotkey",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Enable+via+Hotkey"
+    },
+    {
+      "title": "Version history",
+      "subtitle": "Obsidian Sync/Version history",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Version+history",
+      "match": " Version history Version history ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Version+history",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Version+history"
     },
     {
       "title": "Notes and attachments",
@@ -4465,36 +4729,36 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Notes+and+attachments"
     },
     {
-      "title": "View version history of a note",
+      "title": "View version history of a file",
       "subtitle": "Obsidian Sync/Version history",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+note",
-      "match": " View version history of a note View version history of a note ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+note",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+note"
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+file",
+      "match": " View version history of a file View version history of a file ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+file",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+file"
     },
     {
-      "title": "View version history of a deleted or renamed note",
+      "title": "View version history of a deleted or renamed file",
       "subtitle": "Obsidian Sync/Version history",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+deleted+or+renamed+note",
-      "match": " View version history of a deleted or renamed note View version history of a deleted or renamed note ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+deleted+or+renamed+note",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+deleted+or+renamed+note"
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+deleted+or+renamed+file",
+      "match": " View version history of a deleted or renamed file View version history of a deleted or renamed file ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+deleted+or+renamed+file",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#View+version+history+of+a+deleted+or+renamed+file"
     },
     {
-      "title": "Restore a previous version of a note",
+      "title": "Restore a previous version of a file",
       "subtitle": "Obsidian Sync/Version history",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+previous+version+of+a+note",
-      "match": " Restore a previous version of a note Restore a previous version of a note ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+previous+version+of+a+note",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+previous+version+of+a+note"
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+previous+version+of+a+file",
+      "match": " Restore a previous version of a file Restore a previous version of a file ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+previous+version+of+a+file",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+previous+version+of+a+file"
     },
     {
-      "title": "Restore a deleted note",
+      "title": "Restore a deleted file",
       "subtitle": "Obsidian Sync/Version history",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+deleted+note",
-      "match": " Restore a deleted note Restore a deleted note ",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+deleted+note",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+deleted+note"
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+deleted+file",
+      "match": " Restore a deleted file Restore a deleted file ",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+deleted+file",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+deleted+file"
     },
     {
       "title": "Settings history",
