@@ -1177,182 +1177,6 @@
       "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI.md#Shorthand+formats"
     },
     {
-      "title": "Obsidian Web Clipper",
-      "match": " Obsidian Web Clipper Obsidian Web Clipper ",
-      "subtitle": "Extending Obsidian",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper"
-    },
-    {
-      "title": "Getting started",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Getting+started",
-      "match": " Getting started Getting started ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Getting+started",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Getting+started"
-    },
-    {
-      "title": "Basic usage",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Basic+usage",
-      "match": " Basic usage Basic usage ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Basic+usage",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Basic+usage"
-    },
-    {
-      "title": "Interface",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Interface",
-      "match": " Interface Interface ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Interface",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Interface"
-    },
-    {
-      "title": "Templates",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Templates",
-      "match": " Templates Templates ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Templates",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Templates"
-    },
-    {
-      "title": "Create or edit a template",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Create+or+edit+a+template",
-      "match": " Create or edit a template Create or edit a template ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Create+or+edit+a+template",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Create+or+edit+a+template"
-    },
-    {
-      "title": "Import and export clipper templates",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Import+and+export+clipper+templates",
-      "match": " Import and export clipper templates Import and export clipper templates ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Import+and+export+clipper+templates",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Import+and+export+clipper+templates"
-    },
-    {
-      "title": "Template triggers",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+triggers",
-      "match": " Template triggers Template triggers ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+triggers",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+triggers"
-    },
-    {
-      "title": "Simple URL matching",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Simple+URL+matching",
-      "match": " Simple URL matching Simple URL matching ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Simple+URL+matching",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Simple+URL+matching"
-    },
-    {
-      "title": "Regular expression matching",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Regular+expression+matching",
-      "match": " Regular expression matching Regular expression matching ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Regular+expression+matching",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Regular+expression+matching"
-    },
-    {
-      "title": "Schema.org matching",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+matching",
-      "match": " Schema org matching Schema.org matching ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+matching",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+matching"
-    },
-    {
-      "title": "Template variables",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+variables",
-      "match": " Template variables Template variables ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+variables",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Template+variables"
-    },
-    {
-      "title": "Preset variables",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Preset+variables",
-      "match": " Preset variables Preset variables ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Preset+variables",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Preset+variables"
-    },
-    {
-      "title": "Meta variables",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Meta+variables",
-      "match": " Meta variables Meta variables ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Meta+variables",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Meta+variables"
-    },
-    {
-      "title": "Selector variables",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Selector+variables",
-      "match": " Selector variables Selector variables ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Selector+variables",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Selector+variables"
-    },
-    {
-      "title": "Schema.org variables",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+variables",
-      "match": " Schema org variables Schema.org variables ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+variables",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Schema.org+variables"
-    },
-    {
-      "title": "Filters",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Filters",
-      "match": " Filters Filters ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Filters",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Filters"
-    },
-    {
-      "title": "Dates and numbers",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Dates+and+numbers",
-      "match": " Dates and numbers Dates and numbers ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Dates+and+numbers",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Dates+and+numbers"
-    },
-    {
-      "title": "Text conversion and capitalization",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+conversion+and+capitalization",
-      "match": " Text conversion and capitalization Text conversion and capitalization ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+conversion+and+capitalization",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+conversion+and+capitalization"
-    },
-    {
-      "title": "Text formatting",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+formatting",
-      "match": " Text formatting Text formatting ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+formatting",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Text+formatting"
-    },
-    {
-      "title": "HTML processing",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#HTML+processing",
-      "match": " HTML processing HTML processing ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#HTML+processing",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#HTML+processing"
-    },
-    {
-      "title": "Arrays and objects",
-      "subtitle": "Extending Obsidian/Obsidian Web Clipper",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Arrays+and+objects",
-      "match": " Arrays and objects Arrays and objects ",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Arrays+and+objects",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+Web+Clipper.md#Arrays+and+objects"
-    },
-    {
       "title": "Plugin security",
       "match": " Plugin security Plugin security ",
       "subtitle": "Extending Obsidian",
@@ -4783,6 +4607,278 @@
       "match": " Restore a previous version of a setting Restore a previous version of a setting ",
       "arg": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+previous+version+of+a+setting",
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Version+history.md#Restore+a+previous+version+of+a+setting"
+    },
+    {
+      "title": "Capture web pages",
+      "match": " Capture web pages Capture web pages ",
+      "subtitle": "Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Capture+web+pages",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Capture+web+pages",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Capture+web+pages"
+    },
+    {
+      "title": "Capture a page",
+      "subtitle": "Obsidian Web Clipper/Capture web pages",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Capture+web+pages.md#Capture+a+page",
+      "match": " Capture a page Capture a page ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Capture+web+pages.md#Capture+a+page",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Capture+web+pages.md#Capture+a+page"
+    },
+    {
+      "title": "Clipper functionality",
+      "subtitle": "Obsidian Web Clipper/Capture web pages",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Capture+web+pages.md#Clipper+functionality",
+      "match": " Clipper functionality Clipper functionality ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Capture+web+pages.md#Clipper+functionality",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Capture+web+pages.md#Clipper+functionality"
+    },
+    {
+      "title": "Filters",
+      "match": " Filters Filters ",
+      "subtitle": "Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters"
+    },
+    {
+      "title": "Dates and numbers",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Dates+and+numbers",
+      "match": " Dates and numbers Dates and numbers ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Dates+and+numbers",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Dates+and+numbers"
+    },
+    {
+      "title": "Text conversion and capitalization",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Text+conversion+and+capitalization",
+      "match": " Text conversion and capitalization Text conversion and capitalization ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Text+conversion+and+capitalization",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Text+conversion+and+capitalization"
+    },
+    {
+      "title": "Text formatting",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Text+formatting",
+      "match": " Text formatting Text formatting ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Text+formatting",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Text+formatting"
+    },
+    {
+      "title": "HTML processing",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#HTML+processing",
+      "match": " HTML processing HTML processing ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#HTML+processing",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#HTML+processing"
+    },
+    {
+      "title": "Arrays and objects",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Arrays+and+objects",
+      "match": " Arrays and objects Arrays and objects ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Arrays+and+objects",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#Arrays+and+objects"
+    },
+    {
+      "title": "Highlight web pages",
+      "match": " Highlight web pages Highlight web pages ",
+      "subtitle": "Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Highlight+web+pages",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Highlight+web+pages",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Highlight+web+pages"
+    },
+    {
+      "title": "Turn on highlighting",
+      "subtitle": "Obsidian Web Clipper/Highlight web pages",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Highlight+web+pages.md#Turn+on+highlighting",
+      "match": " Turn on highlighting Turn on highlighting ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Highlight+web+pages.md#Turn+on+highlighting",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Highlight+web+pages.md#Turn+on+highlighting"
+    },
+    {
+      "title": "Highlighter settings",
+      "subtitle": "Obsidian Web Clipper/Highlight web pages",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Highlight+web+pages.md#Highlighter+settings",
+      "match": " Highlighter settings Highlighter settings ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Highlight+web+pages.md#Highlighter+settings",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Highlight+web+pages.md#Highlighter+settings"
+    },
+    {
+      "title": "Introduction to Obsidian Web Clipper",
+      "match": " Introduction to Obsidian Web Clipper Introduction to Obsidian Web Clipper ",
+      "subtitle": "Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper"
+    },
+    {
+      "title": "Install Web Clipper",
+      "subtitle": "Obsidian Web Clipper/Introduction to Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper.md#Install+Web+Clipper",
+      "match": " Install Web Clipper Install Web Clipper ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper.md#Install+Web+Clipper",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper.md#Install+Web+Clipper"
+    },
+    {
+      "title": "How to use Web Clipper",
+      "subtitle": "Obsidian Web Clipper/Introduction to Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper.md#How+to+use+Web+Clipper",
+      "match": " How to use Web Clipper How to use Web Clipper ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper.md#How+to+use+Web+Clipper",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper.md#How+to+use+Web+Clipper"
+    },
+    {
+      "title": "Privacy",
+      "subtitle": "Obsidian Web Clipper/Introduction to Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper.md#Privacy",
+      "match": " Privacy Privacy ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper.md#Privacy",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Introduction+to+Obsidian+Web+Clipper.md#Privacy"
+    },
+    {
+      "title": "Templates",
+      "match": " Templates Templates ",
+      "subtitle": "Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates"
+    },
+    {
+      "title": "Create or edit a template",
+      "subtitle": "Obsidian Web Clipper/Templates",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Create+or+edit+a+template",
+      "match": " Create or edit a template Create or edit a template ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Create+or+edit+a+template",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Create+or+edit+a+template"
+    },
+    {
+      "title": "Import and export Web Clipper templates",
+      "subtitle": "Obsidian Web Clipper/Templates",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Import+and+export+Web+Clipper+templates",
+      "match": " Import and export Web Clipper templates Import and export Web Clipper templates ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Import+and+export+Web+Clipper+templates",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Import+and+export+Web+Clipper+templates"
+    },
+    {
+      "title": "Template settings",
+      "subtitle": "Obsidian Web Clipper/Templates",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Template+settings",
+      "match": " Template settings Template settings ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Template+settings",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Template+settings"
+    },
+    {
+      "title": "Behavior",
+      "subtitle": "Obsidian Web Clipper/Templates",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Behavior",
+      "match": " Behavior Behavior ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Behavior",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Behavior"
+    },
+    {
+      "title": "Automatically trigger a template",
+      "subtitle": "Obsidian Web Clipper/Templates",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Automatically+trigger+a+template",
+      "match": " Automatically trigger a template Automatically trigger a template ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Automatically+trigger+a+template",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Automatically+trigger+a+template"
+    },
+    {
+      "title": "Simple URL matching",
+      "subtitle": "Obsidian Web Clipper/Templates",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Simple+URL+matching",
+      "match": " Simple URL matching Simple URL matching ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Simple+URL+matching",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Simple+URL+matching"
+    },
+    {
+      "title": "Regular expression matching",
+      "subtitle": "Obsidian Web Clipper/Templates",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Regular+expression+matching",
+      "match": " Regular expression matching Regular expression matching ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Regular+expression+matching",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Regular+expression+matching"
+    },
+    {
+      "title": "Schema.org matching",
+      "subtitle": "Obsidian Web Clipper/Templates",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Schema.org+matching",
+      "match": " Schema org matching Schema.org matching ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Schema.org+matching",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Templates.md#Schema.org+matching"
+    },
+    {
+      "title": "Troubleshoot Web Clipper",
+      "match": " Troubleshoot Web Clipper Troubleshoot Web Clipper ",
+      "subtitle": "Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper"
+    },
+    {
+      "title": " No content appears in Obsidian",
+      "subtitle": "Obsidian Web Clipper/Troubleshoot Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#+No+content+appears+in+Obsidian",
+      "match": "  No content appears in Obsidian  No content appears in Obsidian ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#+No+content+appears+in+Obsidian",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#+No+content+appears+in+Obsidian"
+    },
+    {
+      "title": "Linux",
+      "subtitle": "Obsidian Web Clipper/Troubleshoot Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Linux",
+      "match": " Linux Linux ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Linux",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Linux"
+    },
+    {
+      "title": "Some content is missing",
+      "subtitle": "Obsidian Web Clipper/Troubleshoot Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Some+content+is+missing",
+      "match": " Some content is missing Some content is missing ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Some+content+is+missing",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Some+content+is+missing"
+    },
+    {
+      "title": "Variables",
+      "match": " Variables Variables ",
+      "subtitle": "Obsidian Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables"
+    },
+    {
+      "title": "Preset variables",
+      "subtitle": "Obsidian Web Clipper/Variables",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Preset+variables",
+      "match": " Preset variables Preset variables ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Preset+variables",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Preset+variables"
+    },
+    {
+      "title": "Meta variables",
+      "subtitle": "Obsidian Web Clipper/Variables",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Meta+variables",
+      "match": " Meta variables Meta variables ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Meta+variables",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Meta+variables"
+    },
+    {
+      "title": "Selector variables",
+      "subtitle": "Obsidian Web Clipper/Variables",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Selector+variables",
+      "match": " Selector variables Selector variables ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Selector+variables",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Selector+variables"
+    },
+    {
+      "title": "Schema.org variables",
+      "subtitle": "Obsidian Web Clipper/Variables",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Schema.org+variables",
+      "match": " Schema org variables Schema.org variables ",
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Schema.org+variables",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Variables.md#Schema.org+variables"
     },
     {
       "title": "2-factor authentication",
