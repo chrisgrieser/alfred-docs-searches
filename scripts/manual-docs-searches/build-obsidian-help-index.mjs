@@ -66,14 +66,14 @@ async function run() {
 
 		docsPages.push({
 			title: title,
-			match: alfredMatcher(title),
+			match: alfredMatcher(title) + alfredMatcher(area),
 			subtitle: area,
 			uid: url,
 			arg: url,
 			quicklookurl: url,
 		});
 
-		// HEADINGS of Official Docs
+		// HEADINGS
 		const docURL = rawGitHubURL + encodeURI(doc.path);
 
 		const docTextLines = (await getGithubFileRaw(docURL))
@@ -89,7 +89,7 @@ async function run() {
 				title: headerName,
 				subtitle: area,
 				uid: url,
-				match: alfredMatcher(headerName),
+				match: alfredMatcher(headerName) + alfredMatcher(title) + alfredMatcher(area),
 				arg: url,
 				quicklookurl: url,
 			});
