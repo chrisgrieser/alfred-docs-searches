@@ -1,7 +1,7 @@
 # Search ALL the docs
-![GitHub Downloads](https://img.shields.io/github/downloads/chrisgrieser/alfred-docs-searches/total?label=GitHub%20Downloads&style=plastic&logo=github)
-![Alfred Gallery Downloads](https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fchrisgrieser%2F.config%2Frefs%2Fheads%2Fmain%2FAlfred.alfredpreferences%2Falfred-workflow-download-count.yaml&query=alfred-docs-searches&style=plastic&logo=alfred&label=Gallery%20Downloads&color=%235C1F87)
-![Latest Release](https://img.shields.io/github/v/release/chrisgrieser/alfred-docs-searches?label=Latest%20Release&style=plastic)
+![GitHub downloads](https://img.shields.io/github/downloads/chrisgrieser/alfred-docs-searches/total?label=GitHub%20Downloads&style=plastic&logo=github)
+![Alfred gallery downloads](https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fchrisgrieser%2F.config%2Frefs%2Fheads%2Fmain%2FAlfred.alfredpreferences%2Falfred-workflow-download-count.yaml&query=alfred-docs-searches&style=plastic&logo=alfred&label=Gallery%20Downloads&color=%235C1F87)
+![Latest release](https://img.shields.io/github/v/release/chrisgrieser/alfred-docs-searches?label=Latest%20Release&style=plastic)
 
 Search hundreds of documentation sites from DevDocs and other sources via
 Alfred.
@@ -14,12 +14,12 @@ Alfred.
 
 - [Installation](#installation)
 - [DevDocs](#devdocs)
-   * [Usage](#usage)
-   * [Pinning specific versions](#pinning-specific-versions)
-   * [Icons](#icons)
+  * [Usage](#usage)
+  * [Pinning specific versions](#pinning-specific-versions)
+  * [Icons](#icons)
 - [Extras](#extras)
-   * [Documentation sites](#documentation-sites)
-   * [Utilities](#utilities)
+  * [Documentation sites](#documentation-sites)
+  * [Utilities](#utilities)
 - [Reload caches](#reload-caches)
 - [Maintenance notes](#maintenance-notes)
 - [About the developer](#about-the-developer)
@@ -72,7 +72,7 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 - `sc`: shellcheck wiki
 - `pandoc`: pandoc user manual
 - `wt`: WezTerm docs
-- `just`: [just (task runner) docs](https://just.systems/man/en/)
+- `just`: [just docs](https://just.systems/man/en/)
 - `yq`: yq docs
 - `oh`: Obsidian help
 - `odd`: Obsidian developer docs
@@ -98,16 +98,16 @@ refreshing the cache via the Alfred keyword `:docs-reload`.
 
 ## Maintenance notes
 1. **Remote**: Twice per month, a [GitHub
-   Action](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/.github/workflows/update-available-devdocs.yml)
-   is run that checks for devdocs updates. If updates are found, the
-   [keyword-slug-map](https://github.com/chrisgrieser/alfred-docs-searches/blob/main/.github/keyword-slug-map.json)
-   available on this GitHub remote is updated. The `info.plist` is also updated
-   in case not only a new version, but an entirely new documentation site
-   becomes available.
+   Action](./.github/workflows/update-devdocs.yml) is run that checks for
+   devdocs updates. If updates are found, the
+   [keyword-slug-map](./.github/caches/devdocs-keyword-slug-map.json) available
+   on this GitHub remote is updated. The `info.plist` is also updated in case
+   not only a new version, but an entirely new documentation site becomes
+   available.
 2. **Local**: Every week, the locally available workflow fetches an update from
-   the `keymap-slug-map` and the `info.plist` files from the GitHub remote. The update to the
-   `info.plist` is required, so that newly available documentation sites also
-   show up in the dropdown menus of the workflow configuration.
+   the `keymap-slug-map` and the `info.plist` files from the GitHub remote. The
+   update to the `info.plist` is required, so that newly available documentation
+   sites also show up in the dropdown menus of the workflow configuration.
 3. This means that any devdocs update is available to the user at most after
    three weeks. (The local cache can be manually updated via the Alfred keyword
    via `:docs-reload` to remove the seven-day delay.)
