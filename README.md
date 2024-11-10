@@ -72,7 +72,6 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 - `sc`: shellcheck wiki
 - `pandoc`: pandoc user manual
 - `wt`: WezTerm docs
-- `just`: [just docs](https://just.systems/man/en/)
 - `yq`: yq docs
 - `oh`: Obsidian help
 - `odd`: Obsidian developer docs
