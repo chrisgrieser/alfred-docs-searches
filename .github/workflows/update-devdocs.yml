@@ -33,11 +33,14 @@ jobs:
           # GUARD if only the `info.plist` was updated, it's due to formatting changes
           # and there is not actual update to be made.
           updated_files=$(git diff --name-only)
-          [[ ! "$updated_files" =~ keyword-slug-map ]] && exit 0
+          if ! echo "$updated_files" | grep -q "devdocs-keyword-slug-map"; then
+            echo "No changes to commit."
+            exit 0
+          fi
 
           # determine what changes occurred and add them to the commit message
           changes=$(
-          	git diff .github/keyword-slug-map.json |
+          	git diff **/devdocs-keyword-slug-map.json |
           		tail +6 |                                     # remove diff header
               grep "^+" |  # only added lines
               cut -d'"' -f4 | # only changed value

@@ -90,7 +90,7 @@ async function run() {
 	// keyword-slug-map
 	if (!fs.existsSync("./.github/caches/")) fs.mkdirSync("./.github/caches/", { recursive: true });
 	const beautifiedForBetterDiff = JSON.stringify(allLangs, null, 2);
-	fs.writeFileSync("./.github/caches/keyword-slug-map.json", beautifiedForBetterDiff);
+	fs.writeFileSync("./.github/caches/devdocs-keyword-slug-map.json", beautifiedForBetterDiff);
 
 	// info.plist: update to insert all languages as options
 	/** @type {string[]} */
