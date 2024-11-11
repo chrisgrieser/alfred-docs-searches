@@ -10983,7 +10983,7 @@ Workflow created by [Chris Grieser](https://chris-grieser.de/).</string>
 <dict> <key>config</key> <dict> <key>default</key> <false/> <key>required</key> <false/> <key>text</key> <string></string> </dict> <key>description</key> <string>Only available for a few sites. PRs welcome.</string> <key>label</key> <string>open at original</string> <key>type</key> <string>checkbox</string> <key>variable</key> <string>use_source_page_if_available</string> </dict>
 	</array>
 	<key>version</key>
-	<string>2.14.0</string>
+	<string>2.15.0</string>
 	<key>webaddress</key>
 	<string>https://chris-grieser.de/</string>
 </dict>
