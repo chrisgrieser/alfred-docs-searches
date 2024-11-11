@@ -111,7 +111,7 @@
   "mariadb": "mariadb",
   "mn": "marionette~4",
   "md": "markdown",
-  "mpl": "matplotlib~3.7",
+  "plt": "matplotlib~3.7",
   "meteor": "meteor~1.5",
   "mocha": "mocha",
   "mdr": "modernizr",
