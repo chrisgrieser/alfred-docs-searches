@@ -13,6 +13,8 @@ on:
     paths:
       - .github/workflows/update-devdocs.yml
       - scripts/devdocs/update-devdocs.mjs
+    branches:
+      - main # prevents triggering on temporary branches created when making a release
 
 permissions:
   contents: write

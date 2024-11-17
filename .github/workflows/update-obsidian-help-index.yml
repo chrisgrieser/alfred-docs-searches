@@ -13,6 +13,8 @@ on:
     paths:
       - .github/workflows/update-obsidian-help-index.yml
       - scripts/manual-docs-searches/build-obsidian-help-index.mjs
+    branches:
+      - main # prevents triggering on temporary branches created when making a release
 
 permissions:
   contents: write
