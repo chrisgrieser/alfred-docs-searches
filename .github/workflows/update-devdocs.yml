@@ -40,12 +40,12 @@ jobs:
 
           # determine what changes occurred and add them to the commit message
           changes=$(
-          	git diff **/devdocs-keyword-slug-map.json |
-          		tail +6 |                                     # remove diff header
-              grep "^+" |  # only added lines
-              cut -d'"' -f4 | # only changed value
-          		awk 'ORS=", "' | # merge lines with commas
-          		sed -e 's/, $//' # remove trailing comma
+            git diff **/devdocs-keyword-slug-map.json |
+              tail +6 |        # remove diff header
+              grep "^+" |      # only added lines
+              cut -d'"' -f4 |  # only changed value
+              awk 'ORS=", "' | # merge lines with commas
+              sed -e 's/, $//' # remove trailing comma
           )
           # do not stop workflow here, just indicate that the change detection
           # has an issue
