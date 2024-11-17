@@ -40,6 +40,7 @@ A few common languages have short-hands noted in the popup selection, such as
 ### Usage
 - <kbd>⏎</kbd>: Open the documentation site.
 - <kbd>⌥</kbd><kbd>⏎</kbd>: Copy the URL of the documentation site to the clipboard.
+- <kbd>⌘</kbd><kbd>⏎</kbd>: Copy the entry's text to the clipboard.
 
 ### Pinning specific versions
 1. In the workflow configuration, go to the `pinned devdocs versions` section.
@@ -114,7 +115,6 @@ refreshing the cache via the Alfred keyword `:docs-reload`.
    updates available to the user without requiring manual action. Furthermore,
    no separate release of the workflow is required.
 
-<!-- vale Google.FirstPerson = NO -->
 ## About the developer
 In my day job, I am a sociologist studying the social mechanisms underlying the
 digital economy. For my PhD project, I investigate the governance of the app

@@ -140,6 +140,9 @@ function run() {
 				match: camelCaseMatch(entry.name),
 				quicklookurl: url,
 				arg: url,
+				mods: {
+					cmd: { arg: entry.name }, // copy entry
+				},
 				uid: url,
 			};
 			if (iconExists) item.icon = { path: iconpath }; // icon defaults to devdocs icon

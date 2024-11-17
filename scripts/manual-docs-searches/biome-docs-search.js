@@ -55,8 +55,11 @@ function run() {
 				subtitle: category,
 				match: alfredMatcher(title),
 				arg: url,
+				mods: {
+					cmd: { arg: title }, // copy entry
+				},
 				quicklookurl: url,
-				uid: subsite,
+				uid: title,
 			};
 		},
 	);
