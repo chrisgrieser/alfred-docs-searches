@@ -108,8 +108,7 @@ function run() {
 		});
 	const replacement = pinnedVersions.find((version) => version.used === keyword);
 	if (replacement) {
-		// biome-ignore lint/suspicious/noConsole: <explanation>
-		// biome-ignore lint/suspicious/noConsoleLog: <explanation>
+		// biome-ignore lint/suspicious/noConsole: intentional
 		console.log("Pinned version found.");
 		languageSlug = replacement.pinned;
 	}
@@ -125,7 +124,7 @@ function run() {
 		const iconExists = fileExists(iconpath);
 
 		const indexUrl = `https://documents.devdocs.io/${languageSlug}/index.json`;
-		// biome-ignore lint/suspicious/noConsole: <explanation>
+		// biome-ignore lint/suspicious/noConsole: intentional
 		console.log("indexUrl:", indexUrl);
 
 		/** @type {DevDocsIndex} */
