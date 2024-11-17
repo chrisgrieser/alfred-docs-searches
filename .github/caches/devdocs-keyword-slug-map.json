@@ -144,7 +144,7 @@
   "playwright": "playwright",
   "point_cloud_library": "point_cloud_library",
   "pony": "pony",
-  "pg": "postgresql~16",
+  "pg": "postgresql~17",
   "prettier": "prettier",
   "pug": "pug",
   "puppeteer": "puppeteer",
