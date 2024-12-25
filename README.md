@@ -50,11 +50,11 @@ A few common languages have short-hands noted in the popup selection, such as
 3. The replacements take the form `alfred_keyword:pinned_version`, one version
    change per line. For example, to pin the `node` and `python` use:
 
-   ```
+   ```txt
    node:node~18_lts
    ```
 
-   ```
+   ```txt
    py:python~3.11
    ```
 
@@ -79,8 +79,8 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 
 ### Utilities
 - `color`: named CSS colors
-- `keycode`: macOS keycodes
-    * <kbd>⏎</kbd>: Copy keycode
+- `keycode`: macOS key codes
+    * <kbd>⏎</kbd>: Copy key code
     * <kbd>⌥</kbd><kbd>⏎</kbd>: Copy AppleScript
 - `appid`: app-id of installed macOS apps
 - `win`: window information for the frontmost app
