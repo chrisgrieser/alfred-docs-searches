@@ -8568,6 +8568,19 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Interpret+web+pages.md#Get+started"
     },
     {
+      "title": "How it works",
+      "subtitle": "Obsidian Web Clipper/Interpret web pages",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Interpret+web+pages.md#How+it+works",
+      "match": " How it works How it works  Interpret web pages Interpret web pages  Obsidian Web Clipper/Interpret web pages Obsidian Web Clipper/Interpret web pages ",
+      "mods": {
+        "cmd": {
+          "arg": "How it works"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Interpret+web+pages.md#How+it+works",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Interpret+web+pages.md#How+it+works"
+    },
+    {
       "title": "Context",
       "subtitle": "Obsidian Web Clipper/Interpret web pages",
       "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Interpret+web+pages.md#Context",
@@ -11504,6 +11517,58 @@
       },
       "arg": "https://help.obsidian.md/Plugins/Unique+note+creator.md#Create+unique+notes+from+a+template",
       "quicklookurl": "https://help.obsidian.md/Plugins/Unique+note+creator.md#Create+unique+notes+from+a+template"
+    },
+    {
+      "title": "Web viewer",
+      "match": " Web viewer Web viewer  Plugins Plugins ",
+      "subtitle": "Plugins",
+      "mods": {
+        "cmd": {
+          "arg": "Web viewer"
+        }
+      },
+      "uid": "https://help.obsidian.md/Plugins/Web+viewer",
+      "arg": "https://help.obsidian.md/Plugins/Web+viewer",
+      "quicklookurl": "https://help.obsidian.md/Plugins/Web+viewer"
+    },
+    {
+      "title": "Reader view",
+      "subtitle": "Plugins/Web viewer",
+      "uid": "https://help.obsidian.md/Plugins/Web+viewer.md#Reader+view",
+      "match": " Reader view Reader view  Web viewer Web viewer  Plugins/Web viewer Plugins/Web viewer ",
+      "mods": {
+        "cmd": {
+          "arg": "Reader view"
+        }
+      },
+      "arg": "https://help.obsidian.md/Plugins/Web+viewer.md#Reader+view",
+      "quicklookurl": "https://help.obsidian.md/Plugins/Web+viewer.md#Reader+view"
+    },
+    {
+      "title": "Save to vault",
+      "subtitle": "Plugins/Web viewer",
+      "uid": "https://help.obsidian.md/Plugins/Web+viewer.md#Save+to+vault",
+      "match": " Save to vault Save to vault  Web viewer Web viewer  Plugins/Web viewer Plugins/Web viewer ",
+      "mods": {
+        "cmd": {
+          "arg": "Save to vault"
+        }
+      },
+      "arg": "https://help.obsidian.md/Plugins/Web+viewer.md#Save+to+vault",
+      "quicklookurl": "https://help.obsidian.md/Plugins/Web+viewer.md#Save+to+vault"
+    },
+    {
+      "title": "Ad blocking",
+      "subtitle": "Plugins/Web viewer",
+      "uid": "https://help.obsidian.md/Plugins/Web+viewer.md#Ad+blocking",
+      "match": " Ad blocking Ad blocking  Web viewer Web viewer  Plugins/Web viewer Plugins/Web viewer ",
+      "mods": {
+        "cmd": {
+          "arg": "Ad blocking"
+        }
+      },
+      "arg": "https://help.obsidian.md/Plugins/Web+viewer.md#Ad+blocking",
+      "quicklookurl": "https://help.obsidian.md/Plugins/Web+viewer.md#Ad+blocking"
     },
     {
       "title": "Word count",
