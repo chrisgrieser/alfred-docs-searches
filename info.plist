@@ -588,7 +588,7 @@
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>{var:keyword_01}||{var:keyword_02}||{var:keyword_03}||{var:keyword_04}||{var:keyword_05}||{var:keyword_06}||{var:keyword_07}||{var:keyword_08}||{var:keyword_09}||{var:keyword_10}||{var:keyword_11}||{var:keyword_12}||{var:keyword_13}||{var:keyword_14}||{var:keyword_15}||{var:keyword_16}||{var:keyword_17}||{var:keyword_18}||{var:keyword_19}||{var:keyword_20}||{var:keyword_21}||{var:keyword_22}||{var:keyword_23}||{var:keyword_24}||{var:keyword_25}||{var:keyword_26}||{var:keyword_27}||{var:keyword_28}||{var:keyword_29}||{var:keyword_30}||{var:keyword_31}||{var:keyword_32}||{var:keyword_33}||{var:keyword_34}||{var:keyword_35}||{var:keyword_36}||{var:keyword_37}||{var:keyword_38}||{var:keyword_39}||{var:keyword_40}</string>
+				<string>{var:shared_devdocs_prefix}{var:keyword_01}||{var:shared_devdocs_prefix}{var:keyword_02}||{var:shared_devdocs_prefix}{var:keyword_03}||{var:shared_devdocs_prefix}{var:keyword_04}||{var:shared_devdocs_prefix}{var:keyword_05}||{var:shared_devdocs_prefix}{var:keyword_06}||{var:shared_devdocs_prefix}{var:keyword_07}||{var:shared_devdocs_prefix}{var:keyword_08}||{var:shared_devdocs_prefix}{var:keyword_09}||{var:shared_devdocs_prefix}{var:keyword_10}||{var:shared_devdocs_prefix}{var:keyword_11}||{var:shared_devdocs_prefix}{var:keyword_12}||{var:shared_devdocs_prefix}{var:keyword_13}||{var:shared_devdocs_prefix}{var:keyword_14}||{var:shared_devdocs_prefix}{var:keyword_15}||{var:shared_devdocs_prefix}{var:keyword_16}||{var:shared_devdocs_prefix}{var:keyword_17}||{var:shared_devdocs_prefix}{var:keyword_18}||{var:shared_devdocs_prefix}{var:keyword_19}||{var:shared_devdocs_prefix}{var:keyword_20}||{var:shared_devdocs_prefix}{var:keyword_21}||{var:shared_devdocs_prefix}{var:keyword_22}||{var:shared_devdocs_prefix}{var:keyword_23}||{var:shared_devdocs_prefix}{var:keyword_24}||{var:shared_devdocs_prefix}{var:keyword_25}||{var:shared_devdocs_prefix}{var:keyword_26}||{var:shared_devdocs_prefix}{var:keyword_27}||{var:shared_devdocs_prefix}{var:keyword_28}||{var:shared_devdocs_prefix}{var:keyword_29}||{var:shared_devdocs_prefix}{var:keyword_30}||{var:shared_devdocs_prefix}{var:keyword_31}||{var:shared_devdocs_prefix}{var:keyword_32}||{var:shared_devdocs_prefix}{var:keyword_33}||{var:shared_devdocs_prefix}{var:keyword_34}||{var:shared_devdocs_prefix}{var:keyword_35}||{var:shared_devdocs_prefix}{var:keyword_36}||{var:shared_devdocs_prefix}{var:keyword_37}||{var:shared_devdocs_prefix}{var:keyword_38}||{var:shared_devdocs_prefix}{var:keyword_39}||{var:shared_devdocs_prefix}{var:keyword_40}</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -1747,13 +1747,7 @@ curl -sL "https://raw.githubusercontent.com/chrisgrieser/alfred-docs-searches/ma
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>## Recent changes
-This workflow's `man` and `cani` search have been deprecated, since they are now
-available via DevDocs. To use them, enable them in the list of docs to the right.
-
----
-
-## DevDocs
+	<string>## DevDocs
 Enable the devdocs you want to use in the workflow configuration. The
 enabled devdocs are searched by using the name as keyword, for example `haskell
 foobar` to search the Haskell DevDocs for "foobar."
@@ -1816,7 +1810,7 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 - Get the Uniform Type Identifier (UTI) of a selected file via the [Universal
   Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/).
 
-## Reload Caches
+## Reload caches
 In case of a recent change to a documentation site, you can manually trigger 
 refreshing the cache via the Alfred keyword `:docs-reload`.
 
@@ -11065,6 +11059,7 @@ Workflow created by [Chris Grieser](https://chris-grieser.de/).</string>
 </array> </dict> <key>description</key> <string></string> <key>label</key> <string></string> <key>type</key> <string>popupbutton</string> <key>variable</key> <string>keyword_40</string> </dict>
 <dict> <key>config</key> <dict> <key>default</key> <string></string> <key>required</key> <false/> <key>trim</key> <true/> <key>verticalsize</key> <integer>3</integer> </dict> <key>description</key> <string>one per line; see to the right for explanations</string> <key>label</key> <string>pinned devdocs versions</string> <key>type</key> <string>textarea</string> <key>variable</key> <string>select_versions</string> </dict>
 <dict> <key>config</key> <dict> <key>default</key> <false/> <key>required</key> <false/> <key>text</key> <string></string> </dict> <key>description</key> <string>Only available for a few sites. PRs welcome.</string> <key>label</key> <string>open at original</string> <key>type</key> <string>checkbox</string> <key>variable</key> <string>use_source_page_if_available</string> </dict>
+<dict> <key>config</key> <dict> <key>default</key> <string></string> <key>placeholder</key> <string></string> <key>required</key> <false/> <key>trim</key> <true/> </dict> <key>description</key> <string>Shared keyword prefix for DevDocs searches. If set to "dd" , will search the bash documentation via "ddbash" instead of "bash". Leave empty to not use any such prefix.</string> <key>label</key> <string>DevDocs prefix</string> <key>type</key> <string>textfield</string> <key>variable</key> <string>shared_devdocs_prefix</string> </dict>
 	</array>
 	<key>version</key>
 	<string>2.17.2</string>
