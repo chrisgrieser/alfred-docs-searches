@@ -4,7 +4,7 @@
 ![Latest release](https://img.shields.io/github/v/release/chrisgrieser/alfred-docs-searches?label=Latest%20Release&style=plastic)
 
 Search hundreds of documentation sites from DevDocs and other sources via
-Alfred.
+Alfred. [Recommended by the Alfred team.](https://www.alfredapp.com/blog/tips-and-tricks/workflows-for-design-and-development/)
 
 <img alt="Showcase" width=70% src="https://github.com/chrisgrieser/alfred-docs-searches/assets/73286100/5113c565-4f1a-49a8-842c-271255ee08f2">
 
