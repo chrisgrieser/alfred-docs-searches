@@ -3836,6 +3836,32 @@
       "quicklookurl": "https://help.obsidian.md/Import+notes/Import+Markdown+files.md#Converting+from+other+flavors+of+Markdown"
     },
     {
+      "title": "Import Textbundle files",
+      "match": " Import Textbundle files Import Textbundle files  Import notes Import notes ",
+      "subtitle": "Import notes",
+      "mods": {
+        "cmd": {
+          "arg": "Import Textbundle files"
+        }
+      },
+      "uid": "https://help.obsidian.md/Import+notes/Import+Textbundle+files",
+      "arg": "https://help.obsidian.md/Import+notes/Import+Textbundle+files",
+      "quicklookurl": "https://help.obsidian.md/Import+notes/Import+Textbundle+files"
+    },
+    {
+      "title": "Import Textubundle files into Obsidian",
+      "subtitle": "Import notes/Import Textbundle files",
+      "uid": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Import+Textubundle+files+into+Obsidian",
+      "match": " Import Textubundle files into Obsidian Import Textubundle files into Obsidian  Import Textbundle files Import Textbundle files  Import notes/Import Textbundle files Import notes/Import Textbundle files ",
+      "mods": {
+        "cmd": {
+          "arg": "Import Textubundle files into Obsidian"
+        }
+      },
+      "arg": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Import+Textubundle+files+into+Obsidian",
+      "quicklookurl": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Import+Textubundle+files+into+Obsidian"
+    },
+    {
       "title": "Import Zettelkasten notes",
       "match": " Import Zettelkasten notes Import Zettelkasten notes  Import notes Import notes ",
       "subtitle": "Import notes",
@@ -6410,95 +6436,30 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Local+and+remote+vaults"
     },
     {
-      "title": "Migrate to Obsidian Sync",
-      "match": " Migrate to Obsidian Sync Migrate to Obsidian Sync  Obsidian Sync Obsidian Sync ",
+      "title": "Migrate a Sync vault",
+      "match": " Migrate a Sync vault Migrate a Sync vault  Obsidian Sync Obsidian Sync ",
       "subtitle": "Obsidian Sync",
       "mods": {
         "cmd": {
-          "arg": "Migrate to Obsidian Sync"
+          "arg": "Migrate a Sync vault"
         }
       },
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync"
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Migrate+a+Sync+vault",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Migrate+a+Sync+vault",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Migrate+a+Sync+vault"
     },
     {
-      "title": "Moving your vault out of a third-party syncing service",
-      "subtitle": "Obsidian Sync/Migrate to Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Moving+your+vault+out+of+a+third-party+syncing+service",
-      "match": " Moving your vault out of a third party syncing service Moving your vault out of a third-party syncing service  Migrate to Obsidian Sync Migrate to Obsidian Sync  Obsidian Sync/Migrate to Obsidian Sync Obsidian Sync/Migrate to Obsidian Sync ",
+      "title": "Change Sync region",
+      "subtitle": "Obsidian Sync/Migrate a Sync vault",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Migrate+a+Sync+vault.md#Change+Sync+region",
+      "match": " Change Sync region Change Sync region  Migrate a Sync vault Migrate a Sync vault  Obsidian Sync/Migrate a Sync vault Obsidian Sync/Migrate a Sync vault ",
       "mods": {
         "cmd": {
-          "arg": "Moving your vault out of a third-party syncing service"
+          "arg": "Change Sync region"
         }
       },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Moving+your+vault+out+of+a+third-party+syncing+service",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Moving+your+vault+out+of+a+third-party+syncing+service"
-    },
-    {
-      "title": "Moving your vault on desktop",
-      "subtitle": "Obsidian Sync/Migrate to Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Moving+your+vault+on+desktop",
-      "match": " Moving your vault on desktop Moving your vault on desktop  Migrate to Obsidian Sync Migrate to Obsidian Sync  Obsidian Sync/Migrate to Obsidian Sync Obsidian Sync/Migrate to Obsidian Sync ",
-      "mods": {
-        "cmd": {
-          "arg": "Moving your vault on desktop"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Moving+your+vault+on+desktop",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Moving+your+vault+on+desktop"
-    },
-    {
-      "title": "Moving your vault on mobile",
-      "subtitle": "Obsidian Sync/Migrate to Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Moving+your+vault+on+mobile",
-      "match": " Moving your vault on mobile Moving your vault on mobile  Migrate to Obsidian Sync Migrate to Obsidian Sync  Obsidian Sync/Migrate to Obsidian Sync Obsidian Sync/Migrate to Obsidian Sync ",
-      "mods": {
-        "cmd": {
-          "arg": "Moving your vault on mobile"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Moving+your+vault+on+mobile",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Moving+your+vault+on+mobile"
-    },
-    {
-      "title": "Android",
-      "subtitle": "Obsidian Sync/Migrate to Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Android",
-      "match": " Android Android  Migrate to Obsidian Sync Migrate to Obsidian Sync  Obsidian Sync/Migrate to Obsidian Sync Obsidian Sync/Migrate to Obsidian Sync ",
-      "mods": {
-        "cmd": {
-          "arg": "Android"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Android",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Android"
-    },
-    {
-      "title": "iOS/iPadOS",
-      "subtitle": "Obsidian Sync/Migrate to Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#iOS/iPadOS",
-      "match": " iOS/iPadOS iOS/iPadOS  Migrate to Obsidian Sync Migrate to Obsidian Sync  Obsidian Sync/Migrate to Obsidian Sync Obsidian Sync/Migrate to Obsidian Sync ",
-      "mods": {
-        "cmd": {
-          "arg": "iOS/iPadOS"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#iOS/iPadOS",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#iOS/iPadOS"
-    },
-    {
-      "title": "Next steps",
-      "subtitle": "Obsidian Sync/Migrate to Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Next+steps",
-      "match": " Next steps Next steps  Migrate to Obsidian Sync Migrate to Obsidian Sync  Obsidian Sync/Migrate to Obsidian Sync Obsidian Sync/Migrate to Obsidian Sync ",
-      "mods": {
-        "cmd": {
-          "arg": "Next steps"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Next+steps",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Migrate+to+Obsidian+Sync.md#Next+steps"
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Migrate+a+Sync+vault.md#Change+Sync+region",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Migrate+a+Sync+vault.md#Change+Sync+region"
     },
     {
       "title": "Plans and storage limits",
@@ -6982,19 +6943,6 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Set+up+Obsidian+Sync.md#Regional+sync+servers"
     },
     {
-      "title": "Change your remote vault region",
-      "subtitle": "Obsidian Sync/Set up Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Set+up+Obsidian+Sync.md#Change+your+remote+vault+region",
-      "match": " Change your remote vault region Change your remote vault region  Set up Obsidian Sync Set up Obsidian Sync  Obsidian Sync/Set up Obsidian Sync Obsidian Sync/Set up Obsidian Sync ",
-      "mods": {
-        "cmd": {
-          "arg": "Change your remote vault region"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Set+up+Obsidian+Sync.md#Change+your+remote+vault+region",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Set+up+Obsidian+Sync.md#Change+your+remote+vault+region"
-    },
-    {
       "title": "Next steps",
       "subtitle": "Obsidian Sync/Set up Obsidian Sync",
       "uid": "https://help.obsidian.md/Obsidian+Sync/Set+up+Obsidian+Sync.md#Next+steps",
@@ -7097,6 +7045,97 @@
       },
       "arg": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Account+messages",
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Account+messages"
+    },
+    {
+      "title": "Switch to Obsidian Sync",
+      "match": " Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync Obsidian Sync ",
+      "subtitle": "Obsidian Sync",
+      "mods": {
+        "cmd": {
+          "arg": "Switch to Obsidian Sync"
+        }
+      },
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync"
+    },
+    {
+      "title": "Moving your vault out of a third-party syncing service",
+      "subtitle": "Obsidian Sync/Switch to Obsidian Sync",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+out+of+a+third-party+syncing+service",
+      "match": " Moving your vault out of a third party syncing service Moving your vault out of a third-party syncing service  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Moving your vault out of a third-party syncing service"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+out+of+a+third-party+syncing+service",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+out+of+a+third-party+syncing+service"
+    },
+    {
+      "title": "Moving your vault on desktop",
+      "subtitle": "Obsidian Sync/Switch to Obsidian Sync",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+desktop",
+      "match": " Moving your vault on desktop Moving your vault on desktop  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Moving your vault on desktop"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+desktop",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+desktop"
+    },
+    {
+      "title": "Moving your vault on mobile",
+      "subtitle": "Obsidian Sync/Switch to Obsidian Sync",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+mobile",
+      "match": " Moving your vault on mobile Moving your vault on mobile  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Moving your vault on mobile"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+mobile",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+mobile"
+    },
+    {
+      "title": "Android",
+      "subtitle": "Obsidian Sync/Switch to Obsidian Sync",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Android",
+      "match": " Android Android  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Android"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Android",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Android"
+    },
+    {
+      "title": "iOS and iPadOS",
+      "subtitle": "Obsidian Sync/Switch to Obsidian Sync",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#iOS+and+iPadOS",
+      "match": " iOS and iPadOS iOS and iPadOS  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "iOS and iPadOS"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#iOS+and+iPadOS",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#iOS+and+iPadOS"
+    },
+    {
+      "title": "Next steps",
+      "subtitle": "Obsidian Sync/Switch to Obsidian Sync",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Next+steps",
+      "match": " Next steps Next steps  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Next steps"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Next+steps",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Next+steps"
     },
     {
       "title": "Sync limitations",
@@ -8867,6 +8906,19 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper"
     },
     {
+      "title": "General",
+      "subtitle": "Obsidian Web Clipper/Troubleshoot Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#General",
+      "match": " General General  Troubleshoot Web Clipper Troubleshoot Web Clipper  Obsidian Web Clipper/Troubleshoot Web Clipper Obsidian Web Clipper/Troubleshoot Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "General"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#General",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#General"
+    },
+    {
       "title": "Some content is missing",
       "subtitle": "Obsidian Web Clipper/Troubleshoot Web Clipper",
       "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Some+content+is+missing",
@@ -8906,30 +8958,56 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Linux"
     },
     {
-      "title": "Extension is not visible",
+      "title": "Obsidian does not open",
       "subtitle": "Obsidian Web Clipper/Troubleshoot Web Clipper",
-      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Extension+is+not+visible",
-      "match": " Extension is not visible Extension is not visible  Troubleshoot Web Clipper Troubleshoot Web Clipper  Obsidian Web Clipper/Troubleshoot Web Clipper Obsidian Web Clipper/Troubleshoot Web Clipper ",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Obsidian+does+not+open",
+      "match": " Obsidian does not open Obsidian does not open  Troubleshoot Web Clipper Troubleshoot Web Clipper  Obsidian Web Clipper/Troubleshoot Web Clipper Obsidian Web Clipper/Troubleshoot Web Clipper ",
       "mods": {
         "cmd": {
-          "arg": "Extension is not visible"
+          "arg": "Obsidian does not open"
         }
       },
-      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Extension+is+not+visible",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Extension+is+not+visible"
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Obsidian+does+not+open",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Obsidian+does+not+open"
     },
     {
-      "title": "Safari on iOS and iPadOS",
+      "title": "Obsidian opens but only the file name is saved",
       "subtitle": "Obsidian Web Clipper/Troubleshoot Web Clipper",
-      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Safari+on+iOS+and+iPadOS",
-      "match": " Safari on iOS and iPadOS Safari on iOS and iPadOS  Troubleshoot Web Clipper Troubleshoot Web Clipper  Obsidian Web Clipper/Troubleshoot Web Clipper Obsidian Web Clipper/Troubleshoot Web Clipper ",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Obsidian+opens+but+only+the+file+name+is+saved",
+      "match": " Obsidian opens but only the file name is saved Obsidian opens but only the file name is saved  Troubleshoot Web Clipper Troubleshoot Web Clipper  Obsidian Web Clipper/Troubleshoot Web Clipper Obsidian Web Clipper/Troubleshoot Web Clipper ",
       "mods": {
         "cmd": {
-          "arg": "Safari on iOS and iPadOS"
+          "arg": "Obsidian opens but only the file name is saved"
         }
       },
-      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Safari+on+iOS+and+iPadOS",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Safari+on+iOS+and+iPadOS"
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Obsidian+opens+but+only+the+file+name+is+saved",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#Obsidian+opens+but+only+the+file+name+is+saved"
+    },
+    {
+      "title": "hyprland.conf",
+      "subtitle": "Obsidian Web Clipper/Troubleshoot Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#hyprland.conf",
+      "match": " hyprland conf hyprland.conf  Troubleshoot Web Clipper Troubleshoot Web Clipper  Obsidian Web Clipper/Troubleshoot Web Clipper Obsidian Web Clipper/Troubleshoot Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "hyprland.conf"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#hyprland.conf",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#hyprland.conf"
+    },
+    {
+      "title": "iOS and iPadOS",
+      "subtitle": "Obsidian Web Clipper/Troubleshoot Web Clipper",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#iOS+and+iPadOS",
+      "match": " iOS and iPadOS iOS and iPadOS  Troubleshoot Web Clipper Troubleshoot Web Clipper  Obsidian Web Clipper/Troubleshoot Web Clipper Obsidian Web Clipper/Troubleshoot Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "iOS and iPadOS"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#iOS+and+iPadOS",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Troubleshoot+Web+Clipper.md#iOS+and+iPadOS"
     },
     {
       "title": "Variables",
@@ -11571,6 +11649,19 @@
       "quicklookurl": "https://help.obsidian.md/Plugins/Web+viewer.md#Ad+blocking"
     },
     {
+      "title": "Security",
+      "subtitle": "Plugins/Web viewer",
+      "uid": "https://help.obsidian.md/Plugins/Web+viewer.md#Security",
+      "match": " Security Security  Web viewer Web viewer  Plugins/Web viewer Plugins/Web viewer ",
+      "mods": {
+        "cmd": {
+          "arg": "Security"
+        }
+      },
+      "arg": "https://help.obsidian.md/Plugins/Web+viewer.md#Security",
+      "quicklookurl": "https://help.obsidian.md/Plugins/Web+viewer.md#Security"
+    },
+    {
       "title": "Word count",
       "match": " Word count Word count  Plugins Plugins ",
       "subtitle": "Plugins",
@@ -11883,69 +11974,69 @@
       "quicklookurl": "https://help.obsidian.md/Teams/Obsidian+for+teams.md#Important+resources"
     },
     {
-      "title": "Publishing for Teams",
-      "match": " Publishing for Teams Publishing for Teams  Teams Teams ",
+      "title": "Publishing for teams",
+      "match": " Publishing for teams Publishing for teams  Teams Teams ",
       "subtitle": "Teams",
       "mods": {
         "cmd": {
-          "arg": "Publishing for Teams"
+          "arg": "Publishing for teams"
         }
       },
-      "uid": "https://help.obsidian.md/Teams/Publishing+for+Teams",
-      "arg": "https://help.obsidian.md/Teams/Publishing+for+Teams",
-      "quicklookurl": "https://help.obsidian.md/Teams/Publishing+for+Teams"
+      "uid": "https://help.obsidian.md/Teams/Publishing+for+teams",
+      "arg": "https://help.obsidian.md/Teams/Publishing+for+teams",
+      "quicklookurl": "https://help.obsidian.md/Teams/Publishing+for+teams"
     },
     {
       "title": "Publishing tools and services",
-      "subtitle": "Teams/Publishing for Teams",
-      "uid": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Publishing+tools+and+services",
-      "match": " Publishing tools and services Publishing tools and services  Publishing for Teams Publishing for Teams  Teams/Publishing for Teams Teams/Publishing for Teams ",
+      "subtitle": "Teams/Publishing for teams",
+      "uid": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Publishing+tools+and+services",
+      "match": " Publishing tools and services Publishing tools and services  Publishing for teams Publishing for teams  Teams/Publishing for teams Teams/Publishing for teams ",
       "mods": {
         "cmd": {
           "arg": "Publishing tools and services"
         }
       },
-      "arg": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Publishing+tools+and+services",
-      "quicklookurl": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Publishing+tools+and+services"
+      "arg": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Publishing+tools+and+services",
+      "quicklookurl": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Publishing+tools+and+services"
     },
     {
       "title": "Advanced collaboration for Obsidian Publish",
-      "subtitle": "Teams/Publishing for Teams",
-      "uid": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Advanced+collaboration+for+Obsidian+Publish",
-      "match": " Advanced collaboration for Obsidian Publish Advanced collaboration for Obsidian Publish  Publishing for Teams Publishing for Teams  Teams/Publishing for Teams Teams/Publishing for Teams ",
+      "subtitle": "Teams/Publishing for teams",
+      "uid": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Advanced+collaboration+for+Obsidian+Publish",
+      "match": " Advanced collaboration for Obsidian Publish Advanced collaboration for Obsidian Publish  Publishing for teams Publishing for teams  Teams/Publishing for teams Teams/Publishing for teams ",
       "mods": {
         "cmd": {
           "arg": "Advanced collaboration for Obsidian Publish"
         }
       },
-      "arg": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Advanced+collaboration+for+Obsidian+Publish",
-      "quicklookurl": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Advanced+collaboration+for+Obsidian+Publish"
+      "arg": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Advanced+collaboration+for+Obsidian+Publish",
+      "quicklookurl": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Advanced+collaboration+for+Obsidian+Publish"
     },
     {
       "title": "Media",
-      "subtitle": "Teams/Publishing for Teams",
-      "uid": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Media",
-      "match": " Media Media  Publishing for Teams Publishing for Teams  Teams/Publishing for Teams Teams/Publishing for Teams ",
+      "subtitle": "Teams/Publishing for teams",
+      "uid": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Media",
+      "match": " Media Media  Publishing for teams Publishing for teams  Teams/Publishing for teams Teams/Publishing for teams ",
       "mods": {
         "cmd": {
           "arg": "Media"
         }
       },
-      "arg": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Media",
-      "quicklookurl": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Media"
+      "arg": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Media",
+      "quicklookurl": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Media"
     },
     {
       "title": "Frequently asked questions",
-      "subtitle": "Teams/Publishing for Teams",
-      "uid": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Frequently+asked+questions",
-      "match": " Frequently asked questions Frequently asked questions  Publishing for Teams Publishing for Teams  Teams/Publishing for Teams Teams/Publishing for Teams ",
+      "subtitle": "Teams/Publishing for teams",
+      "uid": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Frequently+asked+questions",
+      "match": " Frequently asked questions Frequently asked questions  Publishing for teams Publishing for teams  Teams/Publishing for teams Teams/Publishing for teams ",
       "mods": {
         "cmd": {
           "arg": "Frequently asked questions"
         }
       },
-      "arg": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Frequently+asked+questions",
-      "quicklookurl": "https://help.obsidian.md/Teams/Publishing+for+Teams.md#Frequently+asked+questions"
+      "arg": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Frequently+asked+questions",
+      "quicklookurl": "https://help.obsidian.md/Teams/Publishing+for+teams.md#Frequently+asked+questions"
     },
     {
       "title": "Security considerations for teams",
@@ -12078,69 +12169,69 @@
       "quicklookurl": "https://help.obsidian.md/Teams/Security+considerations+for+teams.md#Assessments+and+certifications"
     },
     {
-      "title": "Syncing for Teams",
-      "match": " Syncing for Teams Syncing for Teams  Teams Teams ",
+      "title": "Syncing for teams",
+      "match": " Syncing for teams Syncing for teams  Teams Teams ",
       "subtitle": "Teams",
       "mods": {
         "cmd": {
-          "arg": "Syncing for Teams"
+          "arg": "Syncing for teams"
         }
       },
-      "uid": "https://help.obsidian.md/Teams/Syncing+for+Teams",
-      "arg": "https://help.obsidian.md/Teams/Syncing+for+Teams",
-      "quicklookurl": "https://help.obsidian.md/Teams/Syncing+for+Teams"
+      "uid": "https://help.obsidian.md/Teams/Syncing+for+teams",
+      "arg": "https://help.obsidian.md/Teams/Syncing+for+teams",
+      "quicklookurl": "https://help.obsidian.md/Teams/Syncing+for+teams"
     },
     {
       "title": "Syncing tools and services",
-      "subtitle": "Teams/Syncing for Teams",
-      "uid": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Syncing+tools+and+services",
-      "match": " Syncing tools and services Syncing tools and services  Syncing for Teams Syncing for Teams  Teams/Syncing for Teams Teams/Syncing for Teams ",
+      "subtitle": "Teams/Syncing for teams",
+      "uid": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Syncing+tools+and+services",
+      "match": " Syncing tools and services Syncing tools and services  Syncing for teams Syncing for teams  Teams/Syncing for teams Teams/Syncing for teams ",
       "mods": {
         "cmd": {
           "arg": "Syncing tools and services"
         }
       },
-      "arg": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Syncing+tools+and+services",
-      "quicklookurl": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Syncing+tools+and+services"
+      "arg": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Syncing+tools+and+services",
+      "quicklookurl": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Syncing+tools+and+services"
     },
     {
       "title": "Obsidian Sync for teams",
-      "subtitle": "Teams/Syncing for Teams",
-      "uid": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Obsidian+Sync+for+teams",
-      "match": " Obsidian Sync for teams Obsidian Sync for teams  Syncing for Teams Syncing for Teams  Teams/Syncing for Teams Teams/Syncing for Teams ",
+      "subtitle": "Teams/Syncing for teams",
+      "uid": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Obsidian+Sync+for+teams",
+      "match": " Obsidian Sync for teams Obsidian Sync for teams  Syncing for teams Syncing for teams  Teams/Syncing for teams Teams/Syncing for teams ",
       "mods": {
         "cmd": {
           "arg": "Obsidian Sync for teams"
         }
       },
-      "arg": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Obsidian+Sync+for+teams",
-      "quicklookurl": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Obsidian+Sync+for+teams"
+      "arg": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Obsidian+Sync+for+teams",
+      "quicklookurl": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Obsidian+Sync+for+teams"
     },
     {
       "title": "Security",
-      "subtitle": "Teams/Syncing for Teams",
-      "uid": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Security",
-      "match": " Security Security  Syncing for Teams Syncing for Teams  Teams/Syncing for Teams Teams/Syncing for Teams ",
+      "subtitle": "Teams/Syncing for teams",
+      "uid": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Security",
+      "match": " Security Security  Syncing for teams Syncing for teams  Teams/Syncing for teams Teams/Syncing for teams ",
       "mods": {
         "cmd": {
           "arg": "Security"
         }
       },
-      "arg": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Security",
-      "quicklookurl": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Security"
+      "arg": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Security",
+      "quicklookurl": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Security"
     },
     {
       "title": "Frequently asked questions",
-      "subtitle": "Teams/Syncing for Teams",
-      "uid": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Frequently+asked+questions",
-      "match": " Frequently asked questions Frequently asked questions  Syncing for Teams Syncing for Teams  Teams/Syncing for Teams Teams/Syncing for Teams ",
+      "subtitle": "Teams/Syncing for teams",
+      "uid": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Frequently+asked+questions",
+      "match": " Frequently asked questions Frequently asked questions  Syncing for teams Syncing for teams  Teams/Syncing for teams Teams/Syncing for teams ",
       "mods": {
         "cmd": {
           "arg": "Frequently asked questions"
         }
       },
-      "arg": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Frequently+asked+questions",
-      "quicklookurl": "https://help.obsidian.md/Teams/Syncing+for+Teams.md#Frequently+asked+questions"
+      "arg": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Frequently+asked+questions",
+      "quicklookurl": "https://help.obsidian.md/Teams/Syncing+for+teams.md#Frequently+asked+questions"
     },
     {
       "title": "Appearance",
