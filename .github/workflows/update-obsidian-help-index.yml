@@ -2,7 +2,8 @@ name: Update Obsidian Help Index
 
 on:
   schedule:
-    - cron: "15 2 2,15 * *" # twice per month (2:15 at the 2nd and 15th of the month)
+    # INFO 2h later than the auto-update of devdocs to avoid commit conflicts
+    - cron: "15 4 2,15 * *" # twice per month (4:15 at the 2nd and 15th of the month)
 
   workflow_dispatch: # triggering manually
 
@@ -41,5 +42,5 @@ jobs:
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: auto-updated Obsidian help index"
+          commit_message: "chore: auto-update Obsidian help index"
           branch: ${{ github.head_ref }}
