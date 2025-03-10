@@ -1,16 +1,13 @@
-name: Update DevDocs keyword-slug-map
+name: Update Devdocs
 
 on:
-  # twice per month (2:15 at the 2nd and 15th of the month)
   schedule:
-    - cron: "15 2 2,15 * *"
+    - cron: "15 2 2,15 * *" # twice per month (2:15 at the 2nd and 15th of the month)
 
-  # manual triggering
-  workflow_dispatch:
+  workflow_dispatch: # triggering manually
 
-  # on updates to this file or the update script
   push:
-    paths:
+    paths: # when this file or the script for re-indexing is changed
       - .github/workflows/update-devdocs.yml
       - scripts/devdocs/update-devdocs.mjs
     branches:
@@ -25,10 +22,15 @@ jobs:
   build:
     runs-on: macos-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: { node-version: "22.x" }
-      - name: Update devdocs
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "23.x"
+
+      - name: update devdocs & commit
         run: |
           node ./scripts/devdocs/update-devdocs.mjs
 
@@ -54,6 +56,6 @@ jobs:
           [[ -z "$changes" ]] && changes="???"
 
           git add --all
-          git commit --message "chore: update devdocs ($changes)" \
+          git commit --message "chore: auto-update devdocs ($changes)" \
               --author="🤖 Automated GitHub Action<cron@job>"
           git push

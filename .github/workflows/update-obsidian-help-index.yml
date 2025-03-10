@@ -1,16 +1,13 @@
 name: Update Obsidian Help Index
 
 on:
-  # once a month (14:14 at the 14th of the month)
   schedule:
-    - cron: "14 14 14 * *"
+    - cron: "15 2 2,15 * *" # twice per month (2:15 at the 2nd and 15th of the month)
 
-  # triggering manually
-  workflow_dispatch:
+  workflow_dispatch: # triggering manually
 
-  # when this file or the script for re-indexing is changed
   push:
-    paths:
+    paths: # when this file or the script for re-indexing is changed
       - .github/workflows/update-obsidian-help-index.yml
       - scripts/manual-docs-searches/build-obsidian-help-index.mjs
     branches:
@@ -31,7 +28,7 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v4
         with:
-          node-version: "22.x"
+          node-version: "23.x"
 
       - name: update documentation search index
         env:
@@ -44,5 +41,5 @@ jobs:
       - name: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: Updated Obsidian help index"
+          commit_message: "chore: auto-updated Obsidian help index"
           branch: ${{ github.head_ref }}
