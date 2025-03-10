@@ -105,6 +105,19 @@
       "quicklookurl": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Terminology+and+grammar"
     },
     {
+      "title": "Language style",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Language+style",
+      "match": " Language style Language style  Style guide Style guide  Contributing to Obsidian/Style guide Contributing to Obsidian/Style guide ",
+      "mods": {
+        "cmd": {
+          "arg": "Language style"
+        }
+      },
+      "arg": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Language+style",
+      "quicklookurl": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Language+style"
+    },
+    {
       "title": "Terms",
       "subtitle": "Contributing to Obsidian/Style guide",
       "uid": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Terms",
@@ -337,6 +350,58 @@
       },
       "arg": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Optimization",
       "quicklookurl": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Optimization"
+    },
+    {
+      "title": "Layout",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Layout",
+      "match": " Layout Layout  Style guide Style guide  Contributing to Obsidian/Style guide Contributing to Obsidian/Style guide ",
+      "mods": {
+        "cmd": {
+          "arg": "Layout"
+        }
+      },
+      "arg": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Layout",
+      "quicklookurl": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Layout"
+    },
+    {
+      "title": "Broken links",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Broken+links",
+      "match": " Broken links Broken links  Style guide Style guide  Contributing to Obsidian/Style guide Contributing to Obsidian/Style guide ",
+      "mods": {
+        "cmd": {
+          "arg": "Broken links"
+        }
+      },
+      "arg": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Broken+links",
+      "quicklookurl": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Broken+links"
+    },
+    {
+      "title": "Descriptions",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Descriptions",
+      "match": " Descriptions Descriptions  Style guide Style guide  Contributing to Obsidian/Style guide Contributing to Obsidian/Style guide ",
+      "mods": {
+        "cmd": {
+          "arg": "Descriptions"
+        }
+      },
+      "arg": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Descriptions",
+      "quicklookurl": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Descriptions"
+    },
+    {
+      "title": "Directions",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Directions",
+      "match": " Directions Directions  Style guide Style guide  Contributing to Obsidian/Style guide Contributing to Obsidian/Style guide ",
+      "mods": {
+        "cmd": {
+          "arg": "Directions"
+        }
+      },
+      "arg": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Directions",
+      "quicklookurl": "https://help.obsidian.md/Contributing+to+Obsidian/Style+guide.md#Directions"
     },
     {
       "title": "Translations",
@@ -1418,6 +1483,19 @@
       "quicklookurl": "https://help.obsidian.md/Editing+and+formatting/Properties.md#Display+modes"
     },
     {
+      "title": "CSS snippets",
+      "subtitle": "Editing and formatting/Properties",
+      "uid": "https://help.obsidian.md/Editing+and+formatting/Properties.md#CSS+snippets",
+      "match": " CSS snippets CSS snippets  Properties Properties  Editing and formatting/Properties Editing and formatting/Properties ",
+      "mods": {
+        "cmd": {
+          "arg": "CSS snippets"
+        }
+      },
+      "arg": "https://help.obsidian.md/Editing+and+formatting/Properties.md#CSS+snippets",
+      "quicklookurl": "https://help.obsidian.md/Editing+and+formatting/Properties.md#CSS+snippets"
+    },
+    {
       "title": "Not supported",
       "subtitle": "Editing and formatting/Properties",
       "uid": "https://help.obsidian.md/Editing+and+formatting/Properties.md#Not+supported",
@@ -1650,6 +1728,32 @@
       "uid": "https://help.obsidian.md/Extending+Obsidian/CSS+snippets",
       "arg": "https://help.obsidian.md/Extending+Obsidian/CSS+snippets",
       "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/CSS+snippets"
+    },
+    {
+      "title": "Adding a snippet",
+      "subtitle": "Extending Obsidian/CSS snippets",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/CSS+snippets.md#Adding+a+snippet",
+      "match": " Adding a snippet Adding a snippet  CSS snippets CSS snippets  Extending Obsidian/CSS snippets Extending Obsidian/CSS snippets ",
+      "mods": {
+        "cmd": {
+          "arg": "Adding a snippet"
+        }
+      },
+      "arg": "https://help.obsidian.md/Extending+Obsidian/CSS+snippets.md#Adding+a+snippet",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/CSS+snippets.md#Adding+a+snippet"
+    },
+    {
+      "title": "Writing CSS for Obsidian",
+      "subtitle": "Extending Obsidian/CSS snippets",
+      "uid": "https://help.obsidian.md/Extending+Obsidian/CSS+snippets.md#Writing+CSS+for+Obsidian",
+      "match": " Writing CSS for Obsidian Writing CSS for Obsidian  CSS snippets CSS snippets  Extending Obsidian/CSS snippets Extending Obsidian/CSS snippets ",
+      "mods": {
+        "cmd": {
+          "arg": "Writing CSS for Obsidian"
+        }
+      },
+      "arg": "https://help.obsidian.md/Extending+Obsidian/CSS+snippets.md#Writing+CSS+for+Obsidian",
+      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/CSS+snippets.md#Writing+CSS+for+Obsidian"
     },
     {
       "title": "Learn more",
@@ -2172,19 +2276,6 @@
       "quicklookurl": "https://help.obsidian.md/Files+and+folders/Accepted+file+formats"
     },
     {
-      "title": "Supported File Formats in Obsidian",
-      "subtitle": "Files and folders/Accepted file formats",
-      "uid": "https://help.obsidian.md/Files+and+folders/Accepted+file+formats.md#Supported+File+Formats+in+Obsidian",
-      "match": " Supported File Formats in Obsidian Supported File Formats in Obsidian  Accepted file formats Accepted file formats  Files and folders/Accepted file formats Files and folders/Accepted file formats ",
-      "mods": {
-        "cmd": {
-          "arg": "Supported File Formats in Obsidian"
-        }
-      },
-      "arg": "https://help.obsidian.md/Files+and+folders/Accepted+file+formats.md#Supported+File+Formats+in+Obsidian",
-      "quicklookurl": "https://help.obsidian.md/Files+and+folders/Accepted+file+formats.md#Supported+File+Formats+in+Obsidian"
-    },
-    {
       "title": "Embedding files",
       "subtitle": "Files and folders/Accepted file formats",
       "uid": "https://help.obsidian.md/Files+and+folders/Accepted+file+formats.md#Embedding+files",
@@ -2261,6 +2352,19 @@
       },
       "arg": "https://help.obsidian.md/Files+and+folders/How+Obsidian+stores+data.md#Global+settings",
       "quicklookurl": "https://help.obsidian.md/Files+and+folders/How+Obsidian+stores+data.md#Global+settings"
+    },
+    {
+      "title": "IndexedDB",
+      "subtitle": "Files and folders/How Obsidian stores data",
+      "uid": "https://help.obsidian.md/Files+and+folders/How+Obsidian+stores+data.md#IndexedDB",
+      "match": " IndexedDB IndexedDB  How Obsidian stores data How Obsidian stores data  Files and folders/How Obsidian stores data Files and folders/How Obsidian stores data ",
+      "mods": {
+        "cmd": {
+          "arg": "IndexedDB"
+        }
+      },
+      "arg": "https://help.obsidian.md/Files+and+folders/How+Obsidian+stores+data.md#IndexedDB",
+      "quicklookurl": "https://help.obsidian.md/Files+and+folders/How+Obsidian+stores+data.md#IndexedDB"
     },
     {
       "title": "Metadata cache",
@@ -3849,17 +3953,43 @@
       "quicklookurl": "https://help.obsidian.md/Import+notes/Import+Textbundle+files"
     },
     {
-      "title": "Import Textubundle files into Obsidian",
+      "title": "Import Textbundle files into Obsidian",
       "subtitle": "Import notes/Import Textbundle files",
-      "uid": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Import+Textubundle+files+into+Obsidian",
-      "match": " Import Textubundle files into Obsidian Import Textubundle files into Obsidian  Import Textbundle files Import Textbundle files  Import notes/Import Textbundle files Import notes/Import Textbundle files ",
+      "uid": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Import+Textbundle+files+into+Obsidian",
+      "match": " Import Textbundle files into Obsidian Import Textbundle files into Obsidian  Import Textbundle files Import Textbundle files  Import notes/Import Textbundle files Import notes/Import Textbundle files ",
       "mods": {
         "cmd": {
-          "arg": "Import Textubundle files into Obsidian"
+          "arg": "Import Textbundle files into Obsidian"
         }
       },
-      "arg": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Import+Textubundle+files+into+Obsidian",
-      "quicklookurl": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Import+Textubundle+files+into+Obsidian"
+      "arg": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Import+Textbundle+files+into+Obsidian",
+      "quicklookurl": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Import+Textbundle+files+into+Obsidian"
+    },
+    {
+      "title": "Troubleshooting",
+      "subtitle": "Import notes/Import Textbundle files",
+      "uid": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Troubleshooting",
+      "match": " Troubleshooting Troubleshooting  Import Textbundle files Import Textbundle files  Import notes/Import Textbundle files Import notes/Import Textbundle files ",
+      "mods": {
+        "cmd": {
+          "arg": "Troubleshooting"
+        }
+      },
+      "arg": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Troubleshooting",
+      "quicklookurl": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#Troubleshooting"
+    },
+    {
+      "title": "No files are selected for import",
+      "subtitle": "Import notes/Import Textbundle files",
+      "uid": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#No+files+are+selected+for+import",
+      "match": " No files are selected for import No files are selected for import  Import Textbundle files Import Textbundle files  Import notes/Import Textbundle files Import notes/Import Textbundle files ",
+      "mods": {
+        "cmd": {
+          "arg": "No files are selected for import"
+        }
+      },
+      "arg": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#No+files+are+selected+for+import",
+      "quicklookurl": "https://help.obsidian.md/Import+notes/Import+Textbundle+files.md#No+files+are+selected+for+import"
     },
     {
       "title": "Import Zettelkasten notes",
@@ -4525,17 +4655,17 @@
       "quicklookurl": "https://help.obsidian.md/Licenses+and+payment/Introduction+to+licenses+and+payment"
     },
     {
-      "title": "Purchasing services",
+      "title": "Purchase a service or license",
       "subtitle": "Licenses and payment/Introduction to licenses and payment",
-      "uid": "https://help.obsidian.md/Licenses+and+payment/Introduction+to+licenses+and+payment.md#Purchasing+services",
-      "match": " Purchasing services Purchasing services  Introduction to licenses and payment Introduction to licenses and payment  Licenses and payment/Introduction to licenses and payment Licenses and payment/Introduction to licenses and payment ",
+      "uid": "https://help.obsidian.md/Licenses+and+payment/Introduction+to+licenses+and+payment.md#Purchase+a+service+or+license",
+      "match": " Purchase a service or license Purchase a service or license  Introduction to licenses and payment Introduction to licenses and payment  Licenses and payment/Introduction to licenses and payment Licenses and payment/Introduction to licenses and payment ",
       "mods": {
         "cmd": {
-          "arg": "Purchasing services"
+          "arg": "Purchase a service or license"
         }
       },
-      "arg": "https://help.obsidian.md/Licenses+and+payment/Introduction+to+licenses+and+payment.md#Purchasing+services",
-      "quicklookurl": "https://help.obsidian.md/Licenses+and+payment/Introduction+to+licenses+and+payment.md#Purchasing+services"
+      "arg": "https://help.obsidian.md/Licenses+and+payment/Introduction+to+licenses+and+payment.md#Purchase+a+service+or+license",
+      "quicklookurl": "https://help.obsidian.md/Licenses+and+payment/Introduction+to+licenses+and+payment.md#Purchase+a+service+or+license"
     },
     {
       "title": "Generate an invoice",
@@ -5682,110 +5812,6 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Permalinks.md#How+to+make+friends"
     },
     {
-      "title": "Publish and unpublish notes",
-      "match": " Publish and unpublish notes Publish and unpublish notes  Obsidian Publish Obsidian Publish ",
-      "subtitle": "Obsidian Publish",
-      "mods": {
-        "cmd": {
-          "arg": "Publish and unpublish notes"
-        }
-      },
-      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes",
-      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes"
-    },
-    {
-      "title": "Prerequisites",
-      "subtitle": "Obsidian Publish/Publish and unpublish notes",
-      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Prerequisites",
-      "match": " Prerequisites Prerequisites  Publish and unpublish notes Publish and unpublish notes  Obsidian Publish/Publish and unpublish notes Obsidian Publish/Publish and unpublish notes ",
-      "mods": {
-        "cmd": {
-          "arg": "Prerequisites"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Prerequisites",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Prerequisites"
-    },
-    {
-      "title": "Publish notes",
-      "subtitle": "Obsidian Publish/Publish and unpublish notes",
-      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Publish+notes",
-      "match": " Publish notes Publish notes  Publish and unpublish notes Publish and unpublish notes  Obsidian Publish/Publish and unpublish notes Obsidian Publish/Publish and unpublish notes ",
-      "mods": {
-        "cmd": {
-          "arg": "Publish notes"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Publish+notes",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Publish+notes"
-    },
-    {
-      "title": "Unpublish notes",
-      "subtitle": "Obsidian Publish/Publish and unpublish notes",
-      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Unpublish+notes",
-      "match": " Unpublish notes Unpublish notes  Publish and unpublish notes Publish and unpublish notes  Obsidian Publish/Publish and unpublish notes Obsidian Publish/Publish and unpublish notes ",
-      "mods": {
-        "cmd": {
-          "arg": "Unpublish notes"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Unpublish+notes",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Unpublish+notes"
-    },
-    {
-      "title": "Update a published note",
-      "subtitle": "Obsidian Publish/Publish and unpublish notes",
-      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Update+a+published+note",
-      "match": " Update a published note Update a published note  Publish and unpublish notes Publish and unpublish notes  Obsidian Publish/Publish and unpublish notes Obsidian Publish/Publish and unpublish notes ",
-      "mods": {
-        "cmd": {
-          "arg": "Update a published note"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Update+a+published+note",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Update+a+published+note"
-    },
-    {
-      "title": "Publish linked notes",
-      "subtitle": "Obsidian Publish/Publish and unpublish notes",
-      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Publish+linked+notes",
-      "match": " Publish linked notes Publish linked notes  Publish and unpublish notes Publish and unpublish notes  Obsidian Publish/Publish and unpublish notes Obsidian Publish/Publish and unpublish notes ",
-      "mods": {
-        "cmd": {
-          "arg": "Publish linked notes"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Publish+linked+notes",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Publish+linked+notes"
-    },
-    {
-      "title": "Automatically select notes to publish",
-      "subtitle": "Obsidian Publish/Publish and unpublish notes",
-      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Automatically+select+notes+to+publish",
-      "match": " Automatically select notes to publish Automatically select notes to publish  Publish and unpublish notes Publish and unpublish notes  Obsidian Publish/Publish and unpublish notes Obsidian Publish/Publish and unpublish notes ",
-      "mods": {
-        "cmd": {
-          "arg": "Automatically select notes to publish"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Automatically+select+notes+to+publish",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Automatically+select+notes+to+publish"
-    },
-    {
-      "title": "Ignore notes",
-      "subtitle": "Obsidian Publish/Publish and unpublish notes",
-      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Ignore+notes",
-      "match": " Ignore notes Ignore notes  Publish and unpublish notes Publish and unpublish notes  Obsidian Publish/Publish and unpublish notes Obsidian Publish/Publish and unpublish notes ",
-      "mods": {
-        "cmd": {
-          "arg": "Ignore notes"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Ignore+notes",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+and+unpublish+notes.md#Ignore+notes"
-    },
-    {
       "title": "Publish limitations",
       "match": " Publish limitations Publish limitations  Obsidian Publish Obsidian Publish ",
       "subtitle": "Obsidian Publish",
@@ -5862,6 +5888,110 @@
       },
       "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+limitations.md#Search",
       "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+limitations.md#Search"
+    },
+    {
+      "title": "Publish your content",
+      "match": " Publish your content Publish your content  Obsidian Publish Obsidian Publish ",
+      "subtitle": "Obsidian Publish",
+      "mods": {
+        "cmd": {
+          "arg": "Publish your content"
+        }
+      },
+      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content",
+      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content"
+    },
+    {
+      "title": "Prerequisites",
+      "subtitle": "Obsidian Publish/Publish your content",
+      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Prerequisites",
+      "match": " Prerequisites Prerequisites  Publish your content Publish your content  Obsidian Publish/Publish your content Obsidian Publish/Publish your content ",
+      "mods": {
+        "cmd": {
+          "arg": "Prerequisites"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Prerequisites",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Prerequisites"
+    },
+    {
+      "title": "Publish notes",
+      "subtitle": "Obsidian Publish/Publish your content",
+      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Publish+notes",
+      "match": " Publish notes Publish notes  Publish your content Publish your content  Obsidian Publish/Publish your content Obsidian Publish/Publish your content ",
+      "mods": {
+        "cmd": {
+          "arg": "Publish notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Publish+notes",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Publish+notes"
+    },
+    {
+      "title": "Unpublish notes",
+      "subtitle": "Obsidian Publish/Publish your content",
+      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Unpublish+notes",
+      "match": " Unpublish notes Unpublish notes  Publish your content Publish your content  Obsidian Publish/Publish your content Obsidian Publish/Publish your content ",
+      "mods": {
+        "cmd": {
+          "arg": "Unpublish notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Unpublish+notes",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Unpublish+notes"
+    },
+    {
+      "title": "Update a published note",
+      "subtitle": "Obsidian Publish/Publish your content",
+      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Update+a+published+note",
+      "match": " Update a published note Update a published note  Publish your content Publish your content  Obsidian Publish/Publish your content Obsidian Publish/Publish your content ",
+      "mods": {
+        "cmd": {
+          "arg": "Update a published note"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Update+a+published+note",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Update+a+published+note"
+    },
+    {
+      "title": "Publish linked data",
+      "subtitle": "Obsidian Publish/Publish your content",
+      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Publish+linked+data",
+      "match": " Publish linked data Publish linked data  Publish your content Publish your content  Obsidian Publish/Publish your content Obsidian Publish/Publish your content ",
+      "mods": {
+        "cmd": {
+          "arg": "Publish linked data"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Publish+linked+data",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Publish+linked+data"
+    },
+    {
+      "title": "Automatically select data to publish",
+      "subtitle": "Obsidian Publish/Publish your content",
+      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Automatically+select+data+to+publish",
+      "match": " Automatically select data to publish Automatically select data to publish  Publish your content Publish your content  Obsidian Publish/Publish your content Obsidian Publish/Publish your content ",
+      "mods": {
+        "cmd": {
+          "arg": "Automatically select data to publish"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Automatically+select+data+to+publish",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Automatically+select+data+to+publish"
+    },
+    {
+      "title": "Ignore data",
+      "subtitle": "Obsidian Publish/Publish your content",
+      "uid": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Ignore+data",
+      "match": " Ignore data Ignore data  Publish your content Publish your content  Obsidian Publish/Publish your content Obsidian Publish/Publish your content ",
+      "mods": {
+        "cmd": {
+          "arg": "Ignore data"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Ignore+data",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Publish/Publish+your+content.md#Ignore+data"
     },
     {
       "title": "SEO",
@@ -6382,6 +6512,227 @@
       },
       "arg": "https://help.obsidian.md/Obsidian+Sync/Collaborate+on+a+shared+vault.md#Limitations",
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Collaborate+on+a+shared+vault.md#Limitations"
+    },
+    {
+      "title": "Frequently asked questions",
+      "match": " Frequently asked questions Frequently asked questions  Obsidian Sync Obsidian Sync ",
+      "subtitle": "Obsidian Sync",
+      "mods": {
+        "cmd": {
+          "arg": "Frequently asked questions"
+        }
+      },
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions",
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions"
+    },
+    {
+      "title": "General",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#General",
+      "match": " General General  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "General"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#General",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#General"
+    },
+    {
+      "title": "What operating systems does Obsidian Sync support?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#What+operating+systems+does+Obsidian+Sync+support?",
+      "match": " What operating systems does Obsidian Sync support? What operating systems does Obsidian Sync support?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "What operating systems does Obsidian Sync support?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#What+operating+systems+does+Obsidian+Sync+support?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#What+operating+systems+does+Obsidian+Sync+support?"
+    },
+    {
+      "title": "Does Obsidian work with Apple's Lockdown Mode?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Does+Obsidian+work+with+Apple's+Lockdown+Mode?",
+      "match": " Does Obsidian work with Apple's Lockdown Mode? Does Obsidian work with Apple's Lockdown Mode?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "Does Obsidian work with Apple's Lockdown Mode?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Does+Obsidian+work+with+Apple's+Lockdown+Mode?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Does+Obsidian+work+with+Apple's+Lockdown+Mode?"
+    },
+    {
+      "title": "What type of data is synced?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#What+type+of+data+is+synced?",
+      "match": " What type of data is synced? What type of data is synced?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "What type of data is synced?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#What+type+of+data+is+synced?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#What+type+of+data+is+synced?"
+    },
+    {
+      "title": "How much storage do I have?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+much+storage+do+I+have?",
+      "match": " How much storage do I have? How much storage do I have?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "How much storage do I have?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+much+storage+do+I+have?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+much+storage+do+I+have?"
+    },
+    {
+      "title": "How many remote vaults can I have?  ",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+many+remote+vaults+can+I+have?++",
+      "match": " How many remote vaults can I have?   How many remote vaults can I have?    Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "How many remote vaults can I have?  "
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+many+remote+vaults+can+I+have?++",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+many+remote+vaults+can+I+have?++"
+    },
+    {
+      "title": "How large can each remote vault be?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+large+can+each+remote+vault+be?",
+      "match": " How large can each remote vault be? How large can each remote vault be?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "How large can each remote vault be?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+large+can+each+remote+vault+be?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+large+can+each+remote+vault+be?"
+    },
+    {
+      "title": "How many people can I share a remote vault with?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+many+people+can+I+share+a+remote+vault+with?",
+      "match": " How many people can I share a remote vault with? How many people can I share a remote vault with?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "How many people can I share a remote vault with?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+many+people+can+I+share+a+remote+vault+with?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+many+people+can+I+share+a+remote+vault+with?"
+    },
+    {
+      "title": "How large can each file be?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+large+can+each+file+be?",
+      "match": " How large can each file be? How large can each file be?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "How large can each file be?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+large+can+each+file+be?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+large+can+each+file+be?"
+    },
+    {
+      "title": "Is my data being synced in the background?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Is+my+data+being+synced+in+the+background?",
+      "match": " Is my data being synced in the background? Is my data being synced in the background?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "Is my data being synced in the background?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Is+my+data+being+synced+in+the+background?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Is+my+data+being+synced+in+the+background?"
+    },
+    {
+      "title": "Does Obsidian Sync live-reload my settings?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Does+Obsidian+Sync+live-reload+my+settings?",
+      "match": " Does Obsidian Sync live reload my settings? Does Obsidian Sync live-reload my settings?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "Does Obsidian Sync live-reload my settings?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Does+Obsidian+Sync+live-reload+my+settings?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Does+Obsidian+Sync+live-reload+my+settings?"
+    },
+    {
+      "title": "Can I use a third-party sync with Obsidian Sync?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Can+I+use+a+third-party+sync+with+Obsidian+Sync?",
+      "match": " Can I use a third party sync with Obsidian Sync? Can I use a third-party sync with Obsidian Sync?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "Can I use a third-party sync with Obsidian Sync?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Can+I+use+a+third-party+sync+with+Obsidian+Sync?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Can+I+use+a+third-party+sync+with+Obsidian+Sync?"
+    },
+    {
+      "title": "Data retention",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Data+retention",
+      "match": " Data retention Data retention  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "Data retention"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Data+retention",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Data+retention"
+    },
+    {
+      "title": "How long do you keep the version history?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+long+do+you+keep+the+version+history?",
+      "match": " How long do you keep the version history? How long do you keep the version history?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "How long do you keep the version history?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+long+do+you+keep+the+version+history?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+long+do+you+keep+the+version+history?"
+    },
+    {
+      "title": "How long do you keep my data after my subscription expires?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+long+do+you+keep+my+data+after+my+subscription+expires?",
+      "match": " How long do you keep my data after my subscription expires? How long do you keep my data after my subscription expires?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "How long do you keep my data after my subscription expires?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+long+do+you+keep+my+data+after+my+subscription+expires?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#How+long+do+you+keep+my+data+after+my+subscription+expires?"
+    },
+    {
+      "title": "Do you keep my data if I refund my subscription service?",
+      "subtitle": "Obsidian Sync/Frequently asked questions",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Do+you+keep+my+data+if+I+refund+my+subscription+service?",
+      "match": " Do you keep my data if I refund my subscription service? Do you keep my data if I refund my subscription service?  Frequently asked questions Frequently asked questions  Obsidian Sync/Frequently asked questions Obsidian Sync/Frequently asked questions ",
+      "mods": {
+        "cmd": {
+          "arg": "Do you keep my data if I refund my subscription service?"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Do+you+keep+my+data+if+I+refund+my+subscription+service?",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Frequently+asked+questions.md#Do+you+keep+my+data+if+I+refund+my+subscription+service?"
     },
     {
       "title": "Introduction to Obsidian Sync",
@@ -7047,6 +7398,19 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Account+messages"
     },
     {
+      "title": "Network messages",
+      "subtitle": "Obsidian Sync/Status icon and messages",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Network+messages",
+      "match": " Network messages Network messages  Status icon and messages Status icon and messages  Obsidian Sync/Status icon and messages Obsidian Sync/Status icon and messages ",
+      "mods": {
+        "cmd": {
+          "arg": "Network messages"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Network+messages",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Status+icon+and+messages.md#Network+messages"
+    },
+    {
       "title": "Switch to Obsidian Sync",
       "match": " Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync Obsidian Sync ",
       "subtitle": "Obsidian Sync",
@@ -7136,227 +7500,6 @@
       },
       "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Next+steps",
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Next+steps"
-    },
-    {
-      "title": "Sync limitations",
-      "match": " Sync limitations Sync limitations  Obsidian Sync Obsidian Sync ",
-      "subtitle": "Obsidian Sync",
-      "mods": {
-        "cmd": {
-          "arg": "Sync limitations"
-        }
-      },
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations",
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations"
-    },
-    {
-      "title": "General",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#General",
-      "match": " General General  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "General"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#General",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#General"
-    },
-    {
-      "title": "What operating systems does Obsidian Sync support?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#What+operating+systems+does+Obsidian+Sync+support?",
-      "match": " What operating systems does Obsidian Sync support? What operating systems does Obsidian Sync support?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "What operating systems does Obsidian Sync support?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#What+operating+systems+does+Obsidian+Sync+support?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#What+operating+systems+does+Obsidian+Sync+support?"
-    },
-    {
-      "title": "Does Obsidian work with Apple's Lockdown Mode?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Does+Obsidian+work+with+Apple's+Lockdown+Mode?",
-      "match": " Does Obsidian work with Apple's Lockdown Mode? Does Obsidian work with Apple's Lockdown Mode?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "Does Obsidian work with Apple's Lockdown Mode?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Does+Obsidian+work+with+Apple's+Lockdown+Mode?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Does+Obsidian+work+with+Apple's+Lockdown+Mode?"
-    },
-    {
-      "title": "What type of data is synced?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#What+type+of+data+is+synced?",
-      "match": " What type of data is synced? What type of data is synced?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "What type of data is synced?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#What+type+of+data+is+synced?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#What+type+of+data+is+synced?"
-    },
-    {
-      "title": "How much storage do I have?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+much+storage+do+I+have?",
-      "match": " How much storage do I have? How much storage do I have?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "How much storage do I have?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+much+storage+do+I+have?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+much+storage+do+I+have?"
-    },
-    {
-      "title": "How many remote vaults can I have?  ",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+many+remote+vaults+can+I+have?++",
-      "match": " How many remote vaults can I have?   How many remote vaults can I have?    Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "How many remote vaults can I have?  "
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+many+remote+vaults+can+I+have?++",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+many+remote+vaults+can+I+have?++"
-    },
-    {
-      "title": "How large can each remote vault be?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+large+can+each+remote+vault+be?",
-      "match": " How large can each remote vault be? How large can each remote vault be?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "How large can each remote vault be?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+large+can+each+remote+vault+be?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+large+can+each+remote+vault+be?"
-    },
-    {
-      "title": "How many people can I share a remote vault with?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+many+people+can+I+share+a+remote+vault+with?",
-      "match": " How many people can I share a remote vault with? How many people can I share a remote vault with?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "How many people can I share a remote vault with?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+many+people+can+I+share+a+remote+vault+with?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+many+people+can+I+share+a+remote+vault+with?"
-    },
-    {
-      "title": "How large can each file be?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+large+can+each+file+be?",
-      "match": " How large can each file be? How large can each file be?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "How large can each file be?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+large+can+each+file+be?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+large+can+each+file+be?"
-    },
-    {
-      "title": "Is my data being synced in the background?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Is+my+data+being+synced+in+the+background?",
-      "match": " Is my data being synced in the background? Is my data being synced in the background?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "Is my data being synced in the background?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Is+my+data+being+synced+in+the+background?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Is+my+data+being+synced+in+the+background?"
-    },
-    {
-      "title": "Does Obsidian Sync live-reload my settings?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Does+Obsidian+Sync+live-reload+my+settings?",
-      "match": " Does Obsidian Sync live reload my settings? Does Obsidian Sync live-reload my settings?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "Does Obsidian Sync live-reload my settings?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Does+Obsidian+Sync+live-reload+my+settings?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Does+Obsidian+Sync+live-reload+my+settings?"
-    },
-    {
-      "title": "Can I use a third-party sync with Obsidian Sync?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Can+I+use+a+third-party+sync+with+Obsidian+Sync?",
-      "match": " Can I use a third party sync with Obsidian Sync? Can I use a third-party sync with Obsidian Sync?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "Can I use a third-party sync with Obsidian Sync?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Can+I+use+a+third-party+sync+with+Obsidian+Sync?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Can+I+use+a+third-party+sync+with+Obsidian+Sync?"
-    },
-    {
-      "title": "Data retention",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Data+retention",
-      "match": " Data retention Data retention  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "Data retention"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Data+retention",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Data+retention"
-    },
-    {
-      "title": "How long do you keep the version history?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+long+do+you+keep+the+version+history?",
-      "match": " How long do you keep the version history? How long do you keep the version history?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "How long do you keep the version history?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+long+do+you+keep+the+version+history?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+long+do+you+keep+the+version+history?"
-    },
-    {
-      "title": "How long do you keep my data after my subscription expires?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+long+do+you+keep+my+data+after+my+subscription+expires?",
-      "match": " How long do you keep my data after my subscription expires? How long do you keep my data after my subscription expires?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "How long do you keep my data after my subscription expires?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+long+do+you+keep+my+data+after+my+subscription+expires?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#How+long+do+you+keep+my+data+after+my+subscription+expires?"
-    },
-    {
-      "title": "Do you keep my data if I refund my subscription service?",
-      "subtitle": "Obsidian Sync/Sync limitations",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Do+you+keep+my+data+if+I+refund+my+subscription+service?",
-      "match": " Do you keep my data if I refund my subscription service? Do you keep my data if I refund my subscription service?  Sync limitations Sync limitations  Obsidian Sync/Sync limitations Obsidian Sync/Sync limitations ",
-      "mods": {
-        "cmd": {
-          "arg": "Do you keep my data if I refund my subscription service?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Do+you+keep+my+data+if+I+refund+my+subscription+service?",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Sync+limitations.md#Do+you+keep+my+data+if+I+refund+my+subscription+service?"
     },
     {
       "title": "Sync settings and selective syncing",
@@ -8462,6 +8605,32 @@
       },
       "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#`map`",
       "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#`map`"
+    },
+    {
+      "title": "`merge`",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#`merge`",
+      "match": "  merge  `merge`  Filters Filters  Obsidian Web Clipper/Filters Obsidian Web Clipper/Filters ",
+      "mods": {
+        "cmd": {
+          "arg": "`merge`"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#`merge`",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#`merge`"
+    },
+    {
+      "title": "`nth`",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#`nth`",
+      "match": "  nth  `nth`  Filters Filters  Obsidian Web Clipper/Filters Obsidian Web Clipper/Filters ",
+      "mods": {
+        "cmd": {
+          "arg": "`nth`"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#`nth`",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Web+Clipper/Filters.md#`nth`"
     },
     {
       "title": "`object`",
@@ -11740,19 +11909,6 @@
       "quicklookurl": "https://help.obsidian.md/Teams/Commercial+license"
     },
     {
-      "title": "What is considered commercial use?",
-      "subtitle": "Teams/Commercial license",
-      "uid": "https://help.obsidian.md/Teams/Commercial+license.md#What+is+considered+commercial+use?",
-      "match": " What is considered commercial use? What is considered commercial use?  Commercial license Commercial license  Teams/Commercial license Teams/Commercial license ",
-      "mods": {
-        "cmd": {
-          "arg": "What is considered commercial use?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Teams/Commercial+license.md#What+is+considered+commercial+use?",
-      "quicklookurl": "https://help.obsidian.md/Teams/Commercial+license.md#What+is+considered+commercial+use?"
-    },
-    {
       "title": "Purchase a commercial license",
       "subtitle": "Teams/Commercial license",
       "uid": "https://help.obsidian.md/Teams/Commercial+license.md#Purchase+a+commercial+license",
@@ -11766,17 +11922,30 @@
       "quicklookurl": "https://help.obsidian.md/Teams/Commercial+license.md#Purchase+a+commercial+license"
     },
     {
-      "title": "Activate a commercial license",
+      "title": "Apply a commercial license",
       "subtitle": "Teams/Commercial license",
-      "uid": "https://help.obsidian.md/Teams/Commercial+license.md#Activate+a+commercial+license",
-      "match": " Activate a commercial license Activate a commercial license  Commercial license Commercial license  Teams/Commercial license Teams/Commercial license ",
+      "uid": "https://help.obsidian.md/Teams/Commercial+license.md#Apply+a+commercial+license",
+      "match": " Apply a commercial license Apply a commercial license  Commercial license Commercial license  Teams/Commercial license Teams/Commercial license ",
       "mods": {
         "cmd": {
-          "arg": "Activate a commercial license"
+          "arg": "Apply a commercial license"
         }
       },
-      "arg": "https://help.obsidian.md/Teams/Commercial+license.md#Activate+a+commercial+license",
-      "quicklookurl": "https://help.obsidian.md/Teams/Commercial+license.md#Activate+a+commercial+license"
+      "arg": "https://help.obsidian.md/Teams/Commercial+license.md#Apply+a+commercial+license",
+      "quicklookurl": "https://help.obsidian.md/Teams/Commercial+license.md#Apply+a+commercial+license"
+    },
+    {
+      "title": "Supporting organizations",
+      "subtitle": "Teams/Commercial license",
+      "uid": "https://help.obsidian.md/Teams/Commercial+license.md#Supporting+organizations",
+      "match": " Supporting organizations Supporting organizations  Commercial license Commercial license  Teams/Commercial license Teams/Commercial license ",
+      "mods": {
+        "cmd": {
+          "arg": "Supporting organizations"
+        }
+      },
+      "arg": "https://help.obsidian.md/Teams/Commercial+license.md#Supporting+organizations",
+      "quicklookurl": "https://help.obsidian.md/Teams/Commercial+license.md#Supporting+organizations"
     },
     {
       "title": "Frequently asked questions",
@@ -11790,45 +11959,6 @@
       },
       "arg": "https://help.obsidian.md/Teams/Commercial+license.md#Frequently+asked+questions",
       "quicklookurl": "https://help.obsidian.md/Teams/Commercial+license.md#Frequently+asked+questions"
-    },
-    {
-      "title": "Do I need a commercial license?",
-      "subtitle": "Teams/Commercial license",
-      "uid": "https://help.obsidian.md/Teams/Commercial+license.md#Do+I+need+a+commercial+license?",
-      "match": " Do I need a commercial license? Do I need a commercial license?  Commercial license Commercial license  Teams/Commercial license Teams/Commercial license ",
-      "mods": {
-        "cmd": {
-          "arg": "Do I need a commercial license?"
-        }
-      },
-      "arg": "https://help.obsidian.md/Teams/Commercial+license.md#Do+I+need+a+commercial+license?",
-      "quicklookurl": "https://help.obsidian.md/Teams/Commercial+license.md#Do+I+need+a+commercial+license?"
-    },
-    {
-      "title": "Purchasing process",
-      "subtitle": "Teams/Commercial license",
-      "uid": "https://help.obsidian.md/Teams/Commercial+license.md#Purchasing+process",
-      "match": " Purchasing process Purchasing process  Commercial license Commercial license  Teams/Commercial license Teams/Commercial license ",
-      "mods": {
-        "cmd": {
-          "arg": "Purchasing process"
-        }
-      },
-      "arg": "https://help.obsidian.md/Teams/Commercial+license.md#Purchasing+process",
-      "quicklookurl": "https://help.obsidian.md/Teams/Commercial+license.md#Purchasing+process"
-    },
-    {
-      "title": "Applying the license",
-      "subtitle": "Teams/Commercial license",
-      "uid": "https://help.obsidian.md/Teams/Commercial+license.md#Applying+the+license",
-      "match": " Applying the license Applying the license  Commercial license Commercial license  Teams/Commercial license Teams/Commercial license ",
-      "mods": {
-        "cmd": {
-          "arg": "Applying the license"
-        }
-      },
-      "arg": "https://help.obsidian.md/Teams/Commercial+license.md#Applying+the+license",
-      "quicklookurl": "https://help.obsidian.md/Teams/Commercial+license.md#Applying+the+license"
     },
     {
       "title": "Deploy Obsidian across your team",
