@@ -9699,19 +9699,6 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian/Community+code+of+conduct.md#Credits"
     },
     {
-      "title": "Changelog",
-      "subtitle": "Obsidian/Community code of conduct",
-      "uid": "https://help.obsidian.md/Obsidian/Community+code+of+conduct.md#Changelog",
-      "match": " Changelog Changelog  Community code of conduct Community code of conduct  Obsidian/Community code of conduct Obsidian/Community code of conduct ",
-      "mods": {
-        "cmd": {
-          "arg": "Changelog"
-        }
-      },
-      "arg": "https://help.obsidian.md/Obsidian/Community+code+of+conduct.md#Changelog",
-      "quicklookurl": "https://help.obsidian.md/Obsidian/Community+code+of+conduct.md#Changelog"
-    },
-    {
       "title": "Credits",
       "match": " Credits Credits  Obsidian Obsidian ",
       "subtitle": "Obsidian",
