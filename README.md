@@ -78,6 +78,7 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 - `yq`: yq docs
 - `oh`: Obsidian help
 - `odd`: Obsidian developer docs
+- `ddg`: DuckDuckGo help pages
 
 ### Utilities
 - `color`: named CSS colors
