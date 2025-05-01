@@ -34,7 +34,9 @@ Enable the devdocs you want to use in the workflow configuration. The
 enabled devdocs are searched by using the name as keyword, for example `haskell
 foobar` to search the Haskell DevDocs for "foobar."
 
-A few common languages have short-hands noted in the popup selection, such as
+A few common languages have aliases (shorter keywords) noted in the popup
+selection, such as
+
 `js` for JavaScript. In this case, you use `js foobar` to search instead.
 
 ### Usage
@@ -121,16 +123,11 @@ digital economy. For my PhD project, I investigate the governance of the app
 economy and how software ecosystems manage the tension between innovation and
 compatibility. If you are interested in this subject, feel free to get in touch.
 
-- [Academic Website](https://chris-grieser.de/)
+- [Website](https://chris-grieser.de/)
 - [Mastodon](https://pkm.social/@pseudometa)
 - [ResearchGate](https://www.researchgate.net/profile/Christopher-Grieser)
 - [LinkedIn](https://www.linkedin.com/in/christopher-grieser-ba693b17a/)
 
-<a href='https://ko-fi.com/Y8Y86SQ91' target='_blank'>
-<img
-	height='36'
-	style='border:0px;height:36px;'
-	src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3'
-	border='0'
-	alt='Buy Me a Coffee at ko-fi.com'
-/></a>
+<a href='https://ko-fi.com/Y8Y86SQ91' target='_blank'> <img height='36'
+style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3'
+border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
