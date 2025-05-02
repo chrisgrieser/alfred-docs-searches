@@ -3329,17 +3329,17 @@
       "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices"
     },
     {
-      "title": "Syncing types",
+      "title": "Syncing methods",
       "subtitle": "Getting started/Sync your notes across devices",
-      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncing+types",
-      "match": " Syncing types Syncing types  Sync your notes across devices Sync your notes across devices  Getting started/Sync your notes across devices Getting started/Sync your notes across devices ",
+      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncing+methods",
+      "match": " Syncing methods Syncing methods  Sync your notes across devices Sync your notes across devices  Getting started/Sync your notes across devices Getting started/Sync your notes across devices ",
       "mods": {
         "cmd": {
-          "arg": "Syncing types"
+          "arg": "Syncing methods"
         }
       },
-      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncing+types",
-      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncing+types"
+      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncing+methods",
+      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Syncing+methods"
     },
     {
       "title": "Obsidian Sync",
@@ -3444,6 +3444,19 @@
       },
       "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Working+Copy",
       "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Working+Copy"
+    },
+    {
+      "title": "Comparison",
+      "subtitle": "Getting started/Sync your notes across devices",
+      "uid": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Comparison",
+      "match": " Comparison Comparison  Sync your notes across devices Sync your notes across devices  Getting started/Sync your notes across devices Getting started/Sync your notes across devices ",
+      "mods": {
+        "cmd": {
+          "arg": "Comparison"
+        }
+      },
+      "arg": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Comparison",
+      "quicklookurl": "https://help.obsidian.md/Getting+started/Sync+your+notes+across+devices.md#Comparison"
     },
     {
       "title": "Frequently asked questions",
@@ -7424,43 +7437,43 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync"
     },
     {
-      "title": "Moving your vault out of a third-party syncing service",
+      "title": "Move your vault out of your third-party syncing service or cloud storage",
       "subtitle": "Obsidian Sync/Switch to Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+out+of+a+third-party+syncing+service",
-      "match": " Moving your vault out of a third party syncing service Moving your vault out of a third-party syncing service  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Move+your+vault+out+of+your+third-party+syncing+service+or+cloud+storage",
+      "match": " Move your vault out of your third party syncing service or cloud storage Move your vault out of your third-party syncing service or cloud storage  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
       "mods": {
         "cmd": {
-          "arg": "Moving your vault out of a third-party syncing service"
+          "arg": "Move your vault out of your third-party syncing service or cloud storage"
         }
       },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+out+of+a+third-party+syncing+service",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+out+of+a+third-party+syncing+service"
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Move+your+vault+out+of+your+third-party+syncing+service+or+cloud+storage",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Move+your+vault+out+of+your+third-party+syncing+service+or+cloud+storage"
     },
     {
-      "title": "Moving your vault on desktop",
+      "title": "Move your vault using Obsidian on desktop",
       "subtitle": "Obsidian Sync/Switch to Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+desktop",
-      "match": " Moving your vault on desktop Moving your vault on desktop  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Move+your+vault+using+Obsidian+on+desktop",
+      "match": " Move your vault using Obsidian on desktop Move your vault using Obsidian on desktop  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
       "mods": {
         "cmd": {
-          "arg": "Moving your vault on desktop"
+          "arg": "Move your vault using Obsidian on desktop"
         }
       },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+desktop",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+desktop"
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Move+your+vault+using+Obsidian+on+desktop",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Move+your+vault+using+Obsidian+on+desktop"
     },
     {
-      "title": "Moving your vault on mobile",
+      "title": "Move your vault on mobile",
       "subtitle": "Obsidian Sync/Switch to Obsidian Sync",
-      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+mobile",
-      "match": " Moving your vault on mobile Moving your vault on mobile  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
+      "uid": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Move+your+vault+on+mobile",
+      "match": " Move your vault on mobile Move your vault on mobile  Switch to Obsidian Sync Switch to Obsidian Sync  Obsidian Sync/Switch to Obsidian Sync Obsidian Sync/Switch to Obsidian Sync ",
       "mods": {
         "cmd": {
-          "arg": "Moving your vault on mobile"
+          "arg": "Move your vault on mobile"
         }
       },
-      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+mobile",
-      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Moving+your+vault+on+mobile"
+      "arg": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Move+your+vault+on+mobile",
+      "quicklookurl": "https://help.obsidian.md/Obsidian+Sync/Switch+to+Obsidian+Sync.md#Move+your+vault+on+mobile"
     },
     {
       "title": "Android",
@@ -9361,30 +9374,43 @@
       "quicklookurl": "https://help.obsidian.md/Obsidian/Android+app"
     },
     {
-      "title": "Sync",
+      "title": "Vault location",
       "subtitle": "Obsidian/Android app",
-      "uid": "https://help.obsidian.md/Obsidian/Android+app.md#Sync",
-      "match": " Sync Sync  Android app Android app  Obsidian/Android app Obsidian/Android app ",
+      "uid": "https://help.obsidian.md/Obsidian/Android+app.md#Vault+location",
+      "match": " Vault location Vault location  Android app Android app  Obsidian/Android app Obsidian/Android app ",
       "mods": {
         "cmd": {
-          "arg": "Sync"
+          "arg": "Vault location"
         }
       },
-      "arg": "https://help.obsidian.md/Obsidian/Android+app.md#Sync",
-      "quicklookurl": "https://help.obsidian.md/Obsidian/Android+app.md#Sync"
+      "arg": "https://help.obsidian.md/Obsidian/Android+app.md#Vault+location",
+      "quicklookurl": "https://help.obsidian.md/Obsidian/Android+app.md#Vault+location"
     },
     {
-      "title": "Storage permissions",
+      "title": "Device storage",
       "subtitle": "Obsidian/Android app",
-      "uid": "https://help.obsidian.md/Obsidian/Android+app.md#Storage+permissions",
-      "match": " Storage permissions Storage permissions  Android app Android app  Obsidian/Android app Obsidian/Android app ",
+      "uid": "https://help.obsidian.md/Obsidian/Android+app.md#Device+storage",
+      "match": " Device storage Device storage  Android app Android app  Obsidian/Android app Obsidian/Android app ",
       "mods": {
         "cmd": {
-          "arg": "Storage permissions"
+          "arg": "Device storage"
         }
       },
-      "arg": "https://help.obsidian.md/Obsidian/Android+app.md#Storage+permissions",
-      "quicklookurl": "https://help.obsidian.md/Obsidian/Android+app.md#Storage+permissions"
+      "arg": "https://help.obsidian.md/Obsidian/Android+app.md#Device+storage",
+      "quicklookurl": "https://help.obsidian.md/Obsidian/Android+app.md#Device+storage"
+    },
+    {
+      "title": "App storage",
+      "subtitle": "Obsidian/Android app",
+      "uid": "https://help.obsidian.md/Obsidian/Android+app.md#App+storage",
+      "match": " App storage App storage  Android app Android app  Obsidian/Android app Obsidian/Android app ",
+      "mods": {
+        "cmd": {
+          "arg": "App storage"
+        }
+      },
+      "arg": "https://help.obsidian.md/Obsidian/Android+app.md#App+storage",
+      "quicklookurl": "https://help.obsidian.md/Obsidian/Android+app.md#App+storage"
     },
     {
       "title": "Community code of conduct",
