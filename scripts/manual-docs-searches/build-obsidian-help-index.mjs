@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// biome-ignore lint/correctness/noNodejsModules: needed here
 import fs from "node:fs";
 //──────────────────────────────────────────────────────────────────────────────
 
@@ -7,8 +8,9 @@ async function getGithubJson(url) {
 	const response = await fetch(url, {
 		method: "GET",
 		headers: {
-			// SIC without `GITHUB_TOKEN`, will hit rate limit when running on Github Actions
+			// without `GITHUB_TOKEN`, will hit rate limit when running on Github Actions
 			// `GITHUB_TOKEN` set via GitHub Actions secrets
+			// biome-ignore lint/nursery/noProcessEnv: okay here
 			authorization: "Bearer " + process.env.GITHUB_TOKEN,
 			"Content-Type": "application/json",
 		},
@@ -28,7 +30,7 @@ async function getGithubFileRaw(url) {
  * @param {string} str
  */
 function alfredMatcher(str) {
-	return " " + str.replace(/[-()_#+.`]/g, " ") + " " + str + " ";
+	return str.replace(/[-()_#+.`]/g, " ") + " " + str + " ";
 }
 
 //──────────────────────────────────────────────────────────────────────────────
@@ -36,7 +38,7 @@ function alfredMatcher(str) {
 async function run() {
 	const docsPages = [];
 	const officialDocsURL = "https://help.obsidian.md/";
-	const rawGitHubURL = "https://raw.githubusercontent.com/obsidianmd/obsidian-docs/master/";
+	const rawGitHubUrlRoot = "https://raw.githubusercontent.com/obsidianmd/obsidian-docs/master/";
 	const officialDocsTree =
 		"https://api.github.com/repositories/285425357/git/trees/master?recursive=1";
 
@@ -52,18 +54,22 @@ async function run() {
 	}
 
 	// HELP SITES THEMSELVES
-	const officialDocs = officialDocsJSON.tree.filter(
-		(/** @type {{ path: string; }} */ item) =>
-			item.path.slice(-3) === ".md" &&
-			item.path.slice(0, 3) === "en/" &&
-			item.path.slice(0, 9) !== "en/.trash",
-	);
+	const officialDocs = officialDocsJSON.tree
+		.filter((/** @type {{ path: string; }} */ item) => item.path.match(/en\/.*\.md/))
+		.map((/** @type {{ path: string; }} */ item) => item.path);
 
-	for (const doc of officialDocs) {
-		const area = doc.path.split("/").slice(1, -1).join("/");
-		const url = officialDocsURL + doc.path.slice(3, -3).replaceAll(" ", "+");
-		const title = (doc.path.split("/").pop() || "error").slice(0, -3);
+	for (let path of officialDocs) {
+		const docUrl = rawGitHubUrlRoot + encodeURI(path);
+		path = path.replace(/^en\/|\.md$/g, "");
+
+		const parts = path.split("/");
+		const title = parts.pop();
+		const area = parts.join("/");
 		console.info("Indexing: ", title);
+
+		const rawText = await getGithubFileRaw(docUrl);
+		const permalink = rawText.match(/^permalink: (.*)/m)?.[1] || path.replaceAll(" ", "+");
+		const siteUrl = officialDocsURL + permalink;
 
 		docsPages.push({
 			title: title,
@@ -72,33 +78,29 @@ async function run() {
 			mods: {
 				cmd: { arg: title }, // copy entry
 			},
-			uid: url,
-			arg: url,
-			quicklookurl: url,
+			uid: siteUrl,
+			arg: siteUrl,
+			quicklookurl: siteUrl,
 		});
 
 		// HEADINGS
-		const docURL = rawGitHubURL + encodeURI(doc.path);
-
-		const docTextLines = (await getGithubFileRaw(docURL))
-			.split("\n")
-			.filter((line) => line.startsWith("#"));
+		const docTextLines = rawText.split("\n").filter((line) => line.startsWith("#"));
 
 		for (const headingLine of docTextLines) {
 			const headerName = headingLine.replace(/^#+ /, "");
-			const area = doc.path.slice(3, -3);
+			const headingUrl = siteUrl + "#" + headerName.replaceAll(" ", "+");
+			const displayHeader = headerName.replaceAll("`", ""); // inline code in headings
 
-			const url = officialDocsURL + (doc.path.slice(3) + "#" + headerName).replaceAll(" ", "+");
 			docsPages.push({
-				title: headerName,
-				subtitle: area,
-				uid: url,
+				title: displayHeader,
+				subtitle: path,
+				uid: headingUrl,
 				match: alfredMatcher(headerName) + alfredMatcher(title) + alfredMatcher(area),
 				mods: {
 					cmd: { arg: headerName }, // copy entry
 				},
-				arg: url,
-				quicklookurl: url,
+				arg: headingUrl,
+				quicklookurl: headingUrl,
 			});
 		}
 	}
