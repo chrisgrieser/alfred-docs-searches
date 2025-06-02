@@ -10726,43 +10726,43 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`contains()`"
     },
     {
-      "title": "not_contains()",
+      "title": "containsNone()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`not_contains()`",
-      "match": " not contains    `not_contains()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`containsNone()`",
+      "match": " containsNone    `containsNone()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`not_contains()`"
+          "arg": "`containsNone()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`not_contains()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`not_contains()`"
+      "arg": "https://help.obsidian.md/bases/functions#`containsNone()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`containsNone()`"
     },
     {
-      "title": "contains_any()",
+      "title": "containsAny()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`contains_any()`",
-      "match": " contains any    `contains_any()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`containsAny()`",
+      "match": " containsAny    `containsAny()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`contains_any()`"
+          "arg": "`containsAny()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`contains_any()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`contains_any()`"
+      "arg": "https://help.obsidian.md/bases/functions#`containsAny()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`containsAny()`"
     },
     {
-      "title": "contains_all()",
+      "title": "containsAll()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`contains_all()`",
-      "match": " contains all    `contains_all()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`containsAll()`",
+      "match": " containsAll    `containsAll()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`contains_all()`"
+          "arg": "`containsAll()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`contains_all()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`contains_all()`"
+      "arg": "https://help.obsidian.md/bases/functions#`containsAll()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`containsAll()`"
     },
     {
       "title": "empty()",
@@ -10778,17 +10778,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`empty()`"
     },
     {
-      "title": "not_empty()",
+      "title": "notEmpty()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`not_empty()`",
-      "match": " not empty    `not_empty()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`notEmpty()`",
+      "match": " notEmpty    `notEmpty()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`not_empty()`"
+          "arg": "`notEmpty()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`not_empty()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`not_empty()`"
+      "arg": "https://help.obsidian.md/bases/functions#`notEmpty()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`notEmpty()`"
     },
     {
       "title": "if()",
@@ -10804,30 +10804,30 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`if()`"
     },
     {
-      "title": "in_folder()",
+      "title": "inFolder()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`in_folder()`",
-      "match": " in folder    `in_folder()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`inFolder()`",
+      "match": " inFolder    `inFolder()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`in_folder()`"
+          "arg": "`inFolder()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`in_folder()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`in_folder()`"
+      "arg": "https://help.obsidian.md/bases/functions#`inFolder()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`inFolder()`"
     },
     {
-      "title": "links_to()",
+      "title": "linksTo()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`links_to()`",
-      "match": " links to    `links_to()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`linksTo()`",
+      "match": " linksTo    `linksTo()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`links_to()`"
+          "arg": "`linksTo()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`links_to()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`links_to()`"
+      "arg": "https://help.obsidian.md/bases/functions#`linksTo()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`linksTo()`"
     },
     {
       "title": "not()",
@@ -10843,17 +10843,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`not()`"
     },
     {
-      "title": "tag()",
+      "title": "taggedWith()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`tag()`",
-      "match": " tag    `tag()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`taggedWith()`",
+      "match": " taggedWith    `taggedWith()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`tag()`"
+          "arg": "`taggedWith()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`tag()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`tag()`"
+      "arg": "https://help.obsidian.md/bases/functions#`taggedWith()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`taggedWith()`"
     },
     {
       "title": "Numbers",
@@ -10973,108 +10973,134 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`now()`"
     },
     {
-      "title": "date_modify()",
+      "title": "date(datetime)",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`date_modify()`",
-      "match": " date modify    `date_modify()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`date(datetime)`",
+      "match": " date datetime   `date(datetime)` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`date_modify()`"
+          "arg": "`date(datetime)`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`date_modify()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`date_modify()`"
+      "arg": "https://help.obsidian.md/bases/functions#`date(datetime)`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`date(datetime)`"
     },
     {
-      "title": "date_diff()",
+      "title": "time(datetime)",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`date_diff()`",
-      "match": " date diff    `date_diff()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`time(datetime)`",
+      "match": " time datetime   `time(datetime)` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`date_diff()`"
+          "arg": "`time(datetime)`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`date_diff()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`date_diff()`"
+      "arg": "https://help.obsidian.md/bases/functions#`time(datetime)`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`time(datetime)`"
     },
     {
-      "title": "date_equals()",
+      "title": "dateModify()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`date_equals()`",
-      "match": " date equals    `date_equals()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`dateModify()`",
+      "match": " dateModify    `dateModify()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`date_equals()`"
+          "arg": "`dateModify()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`date_equals()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`date_equals()`"
+      "arg": "https://help.obsidian.md/bases/functions#`dateModify()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`dateModify()`"
     },
     {
-      "title": "date_not_equals()",
+      "title": "dateDiff()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`date_not_equals()`",
-      "match": " date not equals    `date_not_equals()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`dateDiff()`",
+      "match": " dateDiff    `dateDiff()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`date_not_equals()`"
+          "arg": "`dateDiff()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`date_not_equals()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`date_not_equals()`"
+      "arg": "https://help.obsidian.md/bases/functions#`dateDiff()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`dateDiff()`"
     },
     {
-      "title": "date_before()",
+      "title": "dateEquals()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`date_before()`",
-      "match": " date before    `date_before()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`dateEquals()`",
+      "match": " dateEquals    `dateEquals()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`date_before()`"
+          "arg": "`dateEquals()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`date_before()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`date_before()`"
+      "arg": "https://help.obsidian.md/bases/functions#`dateEquals()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`dateEquals()`"
     },
     {
-      "title": "date_after()",
+      "title": "dateNotEquals()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`date_after()`",
-      "match": " date after    `date_after()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`dateNotEquals()`",
+      "match": " dateNotEquals    `dateNotEquals()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`date_after()`"
+          "arg": "`dateNotEquals()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`date_after()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`date_after()`"
+      "arg": "https://help.obsidian.md/bases/functions#`dateNotEquals()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`dateNotEquals()`"
     },
     {
-      "title": "date_on_or_before()",
+      "title": "dateBefore()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`date_on_or_before()`",
-      "match": " date on or before    `date_on_or_before()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`dateBefore()`",
+      "match": " dateBefore    `dateBefore()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`date_on_or_before()`"
+          "arg": "`dateBefore()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`date_on_or_before()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`date_on_or_before()`"
+      "arg": "https://help.obsidian.md/bases/functions#`dateBefore()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`dateBefore()`"
     },
     {
-      "title": "date_on_or_after()",
+      "title": "dateAfter()",
       "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`date_on_or_after()`",
-      "match": " date on or after    `date_on_or_after()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`dateAfter()`",
+      "match": " dateAfter    `dateAfter()` Functions Functions Plugins/Bases Plugins/Bases ",
       "mods": {
         "cmd": {
-          "arg": "`date_on_or_after()`"
+          "arg": "`dateAfter()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`date_on_or_after()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`date_on_or_after()`"
+      "arg": "https://help.obsidian.md/bases/functions#`dateAfter()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`dateAfter()`"
+    },
+    {
+      "title": "dateOnOrBefore()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`dateOnOrBefore()`",
+      "match": " dateOnOrBefore    `dateOnOrBefore()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`dateOnOrBefore()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`dateOnOrBefore()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`dateOnOrBefore()`"
+    },
+    {
+      "title": "dateOnOrAfter()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`dateOnOrAfter()`",
+      "match": " dateOnOrAfter    `dateOnOrAfter()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`dateOnOrAfter()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`dateOnOrAfter()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`dateOnOrAfter()`"
     },
     {
       "title": "year()",
@@ -11259,6 +11285,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`len()`"
     },
     {
+      "title": "split()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`split()`",
+      "match": " split    `split()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`split()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`split()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`split()`"
+    },
+    {
       "title": "slice()",
       "subtitle": "Plugins/Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`slice()`",
@@ -11400,6 +11439,45 @@
       },
       "arg": "https://help.obsidian.md/bases/views#Advanced+filter+editor",
       "quicklookurl": "https://help.obsidian.md/bases/views#Advanced+filter+editor"
+    },
+    {
+      "title": "View options",
+      "subtitle": "Plugins/Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#View+options",
+      "match": "View options View options Views Views Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "View options"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#View+options",
+      "quicklookurl": "https://help.obsidian.md/bases/views#View+options"
+    },
+    {
+      "title": "Copy to clipboard",
+      "subtitle": "Plugins/Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Copy+to+clipboard",
+      "match": "Copy to clipboard Copy to clipboard Views Views Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Copy to clipboard"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Copy+to+clipboard",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Copy+to+clipboard"
+    },
+    {
+      "title": "Export CSV",
+      "subtitle": "Plugins/Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Export+CSV",
+      "match": "Export CSV Export CSV Views Views Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Export CSV"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Export+CSV",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Export+CSV"
     },
     {
       "title": "Bookmarks",
