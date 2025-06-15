@@ -50,6 +50,7 @@
   "ember": "ember~4",
   "enzyme": "enzyme",
   "erlang": "erlang~26",
+  "es_toolkit": "es_toolkit",
   "esbuild": "esbuild",
   "eslint": "eslint",
   "express": "express",
