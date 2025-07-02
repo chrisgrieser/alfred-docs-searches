@@ -223,5 +223,6 @@
   "xslt_xpath": "xslt_xpath",
   "yarn": "yarn",
   "yii": "yii~2.0",
-  "zig": "zig"
+  "zig": "zig",
+  "zsh": "zsh"
 }
