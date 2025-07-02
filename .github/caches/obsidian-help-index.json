@@ -8009,6 +8009,19 @@
       "quicklookurl": "https://help.obsidian.md/web-clipper/capture#Capture+a+page"
     },
     {
+      "title": "Download images",
+      "subtitle": "Obsidian Web Clipper/Clip web pages",
+      "uid": "https://help.obsidian.md/web-clipper/capture#Download+images",
+      "match": "Download images Download images Clip web pages Clip web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Download images"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/capture#Download+images",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/capture#Download+images"
+    },
+    {
       "title": "Hotkeys",
       "subtitle": "Obsidian Web Clipper/Clip web pages",
       "uid": "https://help.obsidian.md/web-clipper/capture#Hotkeys",
@@ -10869,6 +10882,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`if()`"
     },
     {
+      "title": "image()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`image()`",
+      "match": " image    `image()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`image()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`image()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`image()`"
+    },
+    {
       "title": "max()",
       "subtitle": "Plugins/Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`max()`",
@@ -11649,6 +11675,32 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`isEmpty()`"
     },
     {
+      "title": "keys()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`keys()`",
+      "match": " keys    `keys()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`keys()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`keys()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`keys()`"
+    },
+    {
+      "title": "values()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`values()`",
+      "match": " values    `values()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`values()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`values()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`values()`"
+    },
+    {
       "title": "Regular expression",
       "subtitle": "Plugins/Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#Regular+expression",
@@ -11803,6 +11855,19 @@
       },
       "arg": "https://help.obsidian.md/bases/views#View+options",
       "quicklookurl": "https://help.obsidian.md/bases/views#View+options"
+    },
+    {
+      "title": "Limit, copy, and export results",
+      "subtitle": "Plugins/Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Limit,+copy,+and+export+results",
+      "match": "Limit, copy, and export results Limit, copy, and export results Views Views Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Limit, copy, and export results"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Limit,+copy,+and+export+results",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Limit,+copy,+and+export+results"
     },
     {
       "title": "Copy to clipboard",
