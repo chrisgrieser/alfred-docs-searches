@@ -3238,43 +3238,43 @@
       "quicklookurl": "https://help.obsidian.md/link-notes"
     },
     {
-      "title": "Step 1: Create a link",
+      "title": "Create a link",
       "subtitle": "Getting started/Link notes",
-      "uid": "https://help.obsidian.md/link-notes#Step+1:+Create+a+link",
-      "match": "Step 1: Create a link Step 1: Create a link Link notes Link notes Getting started Getting started ",
+      "uid": "https://help.obsidian.md/link-notes#Create+a+link",
+      "match": "Create a link Create a link Link notes Link notes Getting started Getting started ",
       "mods": {
         "cmd": {
-          "arg": "Step 1: Create a link"
+          "arg": "Create a link"
         }
       },
-      "arg": "https://help.obsidian.md/link-notes#Step+1:+Create+a+link",
-      "quicklookurl": "https://help.obsidian.md/link-notes#Step+1:+Create+a+link"
+      "arg": "https://help.obsidian.md/link-notes#Create+a+link",
+      "quicklookurl": "https://help.obsidian.md/link-notes#Create+a+link"
     },
     {
-      "title": "Step 2: Create a link to a non-existing note",
+      "title": "Create a link to a non-existing note",
       "subtitle": "Getting started/Link notes",
-      "uid": "https://help.obsidian.md/link-notes#Step+2:+Create+a+link+to+a+non-existing+note",
-      "match": "Step 2: Create a link to a non existing note Step 2: Create a link to a non-existing note Link notes Link notes Getting started Getting started ",
+      "uid": "https://help.obsidian.md/link-notes#Create+a+link+to+a+non-existing+note",
+      "match": "Create a link to a non existing note Create a link to a non-existing note Link notes Link notes Getting started Getting started ",
       "mods": {
         "cmd": {
-          "arg": "Step 2: Create a link to a non-existing note"
+          "arg": "Create a link to a non-existing note"
         }
       },
-      "arg": "https://help.obsidian.md/link-notes#Step+2:+Create+a+link+to+a+non-existing+note",
-      "quicklookurl": "https://help.obsidian.md/link-notes#Step+2:+Create+a+link+to+a+non-existing+note"
+      "arg": "https://help.obsidian.md/link-notes#Create+a+link+to+a+non-existing+note",
+      "quicklookurl": "https://help.obsidian.md/link-notes#Create+a+link+to+a+non-existing+note"
     },
     {
-      "title": "Step 3: Navigate between notes",
+      "title": "Navigate between notes",
       "subtitle": "Getting started/Link notes",
-      "uid": "https://help.obsidian.md/link-notes#Step+3:+Navigate+between+notes",
-      "match": "Step 3: Navigate between notes Step 3: Navigate between notes Link notes Link notes Getting started Getting started ",
+      "uid": "https://help.obsidian.md/link-notes#Navigate+between+notes",
+      "match": "Navigate between notes Navigate between notes Link notes Link notes Getting started Getting started ",
       "mods": {
         "cmd": {
-          "arg": "Step 3: Navigate between notes"
+          "arg": "Navigate between notes"
         }
       },
-      "arg": "https://help.obsidian.md/link-notes#Step+3:+Navigate+between+notes",
-      "quicklookurl": "https://help.obsidian.md/link-notes#Step+3:+Navigate+between+notes"
+      "arg": "https://help.obsidian.md/link-notes#Navigate+between+notes",
+      "quicklookurl": "https://help.obsidian.md/link-notes#Navigate+between+notes"
     },
     {
       "title": "Learn more",
@@ -6813,6 +6813,71 @@
       "quicklookurl": "https://help.obsidian.md/sync/vault-types"
     },
     {
+      "title": "File-based sync services",
+      "subtitle": "Obsidian Sync/Local and remote vaults",
+      "uid": "https://help.obsidian.md/sync/vault-types#File-based+sync+services",
+      "match": "File based sync services File-based sync services Local and remote vaults Local and remote vaults Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "File-based sync services"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/vault-types#File-based+sync+services",
+      "quicklookurl": "https://help.obsidian.md/sync/vault-types#File-based+sync+services"
+    },
+    {
+      "title": "Obsidian Sync",
+      "subtitle": "Obsidian Sync/Local and remote vaults",
+      "uid": "https://help.obsidian.md/sync/vault-types#Obsidian+Sync",
+      "match": "Obsidian Sync Obsidian Sync Local and remote vaults Local and remote vaults Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Obsidian Sync"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/vault-types#Obsidian+Sync",
+      "quicklookurl": "https://help.obsidian.md/sync/vault-types#Obsidian+Sync"
+    },
+    {
+      "title": "Sync behavior",
+      "subtitle": "Obsidian Sync/Local and remote vaults",
+      "uid": "https://help.obsidian.md/sync/vault-types#Sync+behavior",
+      "match": "Sync behavior Sync behavior Local and remote vaults Local and remote vaults Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Sync behavior"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/vault-types#Sync+behavior",
+      "quicklookurl": "https://help.obsidian.md/sync/vault-types#Sync+behavior"
+    },
+    {
+      "title": "Offline behavior",
+      "subtitle": "Obsidian Sync/Local and remote vaults",
+      "uid": "https://help.obsidian.md/sync/vault-types#Offline+behavior",
+      "match": "Offline behavior Offline behavior Local and remote vaults Local and remote vaults Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Offline behavior"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/vault-types#Offline+behavior",
+      "quicklookurl": "https://help.obsidian.md/sync/vault-types#Offline+behavior"
+    },
+    {
+      "title": "Next steps",
+      "subtitle": "Obsidian Sync/Local and remote vaults",
+      "uid": "https://help.obsidian.md/sync/vault-types#Next+steps",
+      "match": "Next steps Next steps Local and remote vaults Local and remote vaults Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Next steps"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/vault-types#Next+steps",
+      "quicklookurl": "https://help.obsidian.md/sync/vault-types#Next+steps"
+    },
+    {
       "title": "Migrate a Sync vault",
       "match": "Migrate a Sync vault Migrate a Sync vault Obsidian Sync Obsidian Sync ",
       "subtitle": "Obsidian Sync",
@@ -7359,17 +7424,17 @@
       "quicklookurl": "https://help.obsidian.md/sync/messages#Sync+status+icon"
     },
     {
-      "title": "Sync log",
+      "title": "Sync activity log",
       "subtitle": "Obsidian Sync/Status icon and messages",
-      "uid": "https://help.obsidian.md/sync/messages#Sync+log",
-      "match": "Sync log Sync log Status icon and messages Status icon and messages Obsidian Sync Obsidian Sync ",
+      "uid": "https://help.obsidian.md/sync/messages#Sync+activity+log",
+      "match": "Sync activity log Sync activity log Status icon and messages Status icon and messages Obsidian Sync Obsidian Sync ",
       "mods": {
         "cmd": {
-          "arg": "Sync log"
+          "arg": "Sync activity log"
         }
       },
-      "arg": "https://help.obsidian.md/sync/messages#Sync+log",
-      "quicklookurl": "https://help.obsidian.md/sync/messages#Sync+log"
+      "arg": "https://help.obsidian.md/sync/messages#Sync+activity+log",
+      "quicklookurl": "https://help.obsidian.md/sync/messages#Sync+activity+log"
     },
     {
       "title": "General messages",
@@ -7606,30 +7671,43 @@
       "quicklookurl": "https://help.obsidian.md/sync/settings#Always+excluded+from+sync"
     },
     {
-      "title": "Hidden folders (folders starting with a dot) are not synced",
+      "title": "File recovery snapshots",
       "subtitle": "Obsidian Sync/Sync settings and selective syncing",
-      "uid": "https://help.obsidian.md/sync/settings#Hidden+folders+(folders+starting+with+a+dot)+are+not+synced",
-      "match": "Hidden folders  folders starting with a dot  are not synced Hidden folders (folders starting with a dot) are not synced Sync settings and selective syncing Sync settings and selective syncing Obsidian Sync Obsidian Sync ",
+      "uid": "https://help.obsidian.md/sync/settings#File+recovery+snapshots",
+      "match": "File recovery snapshots File recovery snapshots Sync settings and selective syncing Sync settings and selective syncing Obsidian Sync Obsidian Sync ",
       "mods": {
         "cmd": {
-          "arg": "Hidden folders (folders starting with a dot) are not synced"
+          "arg": "File recovery snapshots"
         }
       },
-      "arg": "https://help.obsidian.md/sync/settings#Hidden+folders+(folders+starting+with+a+dot)+are+not+synced",
-      "quicklookurl": "https://help.obsidian.md/sync/settings#Hidden+folders+(folders+starting+with+a+dot)+are+not+synced"
+      "arg": "https://help.obsidian.md/sync/settings#File+recovery+snapshots",
+      "quicklookurl": "https://help.obsidian.md/sync/settings#File+recovery+snapshots"
     },
     {
-      "title": "Sync settings are not synced",
+      "title": "Hidden folders",
       "subtitle": "Obsidian Sync/Sync settings and selective syncing",
-      "uid": "https://help.obsidian.md/sync/settings#Sync+settings+are+not+synced",
-      "match": "Sync settings are not synced Sync settings are not synced Sync settings and selective syncing Sync settings and selective syncing Obsidian Sync Obsidian Sync ",
+      "uid": "https://help.obsidian.md/sync/settings#Hidden+folders",
+      "match": "Hidden folders Hidden folders Sync settings and selective syncing Sync settings and selective syncing Obsidian Sync Obsidian Sync ",
       "mods": {
         "cmd": {
-          "arg": "Sync settings are not synced"
+          "arg": "Hidden folders"
         }
       },
-      "arg": "https://help.obsidian.md/sync/settings#Sync+settings+are+not+synced",
-      "quicklookurl": "https://help.obsidian.md/sync/settings#Sync+settings+are+not+synced"
+      "arg": "https://help.obsidian.md/sync/settings#Hidden+folders",
+      "quicklookurl": "https://help.obsidian.md/sync/settings#Hidden+folders"
+    },
+    {
+      "title": "Sync settings",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/sync/settings#Sync+settings",
+      "match": "Sync settings Sync settings Sync settings and selective syncing Sync settings and selective syncing Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Sync settings"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/settings#Sync+settings",
+      "quicklookurl": "https://help.obsidian.md/sync/settings#Sync+settings"
     },
     {
       "title": "Updating your synced vault settings",
@@ -10895,6 +10973,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`image()`"
     },
     {
+      "title": "icon()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`icon()`",
+      "match": " icon    `icon()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`icon()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`icon()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`icon()`"
+    },
+    {
       "title": "max()",
       "subtitle": "Plugins/Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`max()`",
@@ -10999,6 +11090,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`today()`"
     },
     {
+      "title": "date()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`date()`",
+      "match": " date    `date()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`date()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`date()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`date()`"
+    },
+    {
       "title": "Any",
       "subtitle": "Plugins/Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#Any",
@@ -11023,6 +11127,19 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`toString()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`toString()`"
+    },
+    {
+      "title": "isTruthy()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`isTruthy()`",
+      "match": " isTruthy    `isTruthy()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`isTruthy()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`isTruthy()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`isTruthy()`"
     },
     {
       "title": "Date",
@@ -11103,6 +11220,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`relative()`"
     },
     {
+      "title": "isEmpty()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`isEmpty()`",
+      "match": " isEmpty    `isEmpty()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`isEmpty()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`isEmpty()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`isEmpty()`"
+    },
+    {
       "title": "String",
       "subtitle": "Plugins/Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#String",
@@ -11179,19 +11309,6 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`endsWith()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`endsWith()`"
-    },
-    {
-      "title": "icon()",
-      "subtitle": "Plugins/Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`icon()`",
-      "match": " icon    `icon()` Functions Functions Plugins/Bases Plugins/Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`icon()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`icon()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`icon()`"
     },
     {
       "title": "isEmpty()",
@@ -12598,6 +12715,32 @@
       "quicklookurl": "https://help.obsidian.md/plugins/file-recovery#Clear+snapshot+history"
     },
     {
+      "title": "Storage and performance",
+      "subtitle": "Plugins/File recovery",
+      "uid": "https://help.obsidian.md/plugins/file-recovery#Storage+and+performance",
+      "match": "Storage and performance Storage and performance File recovery File recovery Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Storage and performance"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/file-recovery#Storage+and+performance",
+      "quicklookurl": "https://help.obsidian.md/plugins/file-recovery#Storage+and+performance"
+    },
+    {
+      "title": "Limitations",
+      "subtitle": "Plugins/File recovery",
+      "uid": "https://help.obsidian.md/plugins/file-recovery#Limitations",
+      "match": "Limitations Limitations File recovery File recovery Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Limitations"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/file-recovery#Limitations",
+      "quicklookurl": "https://help.obsidian.md/plugins/file-recovery#Limitations"
+    },
+    {
       "title": "Format converter",
       "match": "Format converter Format converter Plugins Plugins ",
       "subtitle": "Plugins",
@@ -12622,6 +12765,136 @@
       },
       "arg": "https://help.obsidian.md/plugins/format-converter#Supported+formats",
       "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Supported+formats"
+    },
+    {
+      "title": "Roam Research",
+      "subtitle": "Plugins/Format converter",
+      "uid": "https://help.obsidian.md/plugins/format-converter#Roam+Research",
+      "match": "Roam Research Roam Research Format converter Format converter Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Roam Research"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/format-converter#Roam+Research",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Roam+Research"
+    },
+    {
+      "title": "Bear",
+      "subtitle": "Plugins/Format converter",
+      "uid": "https://help.obsidian.md/plugins/format-converter#Bear",
+      "match": "Bear Bear Format converter Format converter Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Bear"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/format-converter#Bear",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Bear"
+    },
+    {
+      "title": "Zettelkasten",
+      "subtitle": "Plugins/Format converter",
+      "uid": "https://help.obsidian.md/plugins/format-converter#Zettelkasten",
+      "match": "Zettelkasten Zettelkasten Format converter Format converter Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Zettelkasten"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/format-converter#Zettelkasten",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Zettelkasten"
+    },
+    {
+      "title": "[[Properties]]",
+      "subtitle": "Plugins/Format converter",
+      "uid": "https://help.obsidian.md/plugins/format-converter#[[Properties]]",
+      "match": "[[Properties]] [[Properties]] Format converter Format converter Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "[[Properties]]"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/format-converter#[[Properties]]",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#[[Properties]]"
+    },
+    {
+      "title": "Before",
+      "subtitle": "Plugins/Format converter",
+      "uid": "https://help.obsidian.md/plugins/format-converter#Before",
+      "match": "Before Before Format converter Format converter Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Before"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/format-converter#Before",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Before"
+    },
+    {
+      "title": "After",
+      "subtitle": "Plugins/Format converter",
+      "uid": "https://help.obsidian.md/plugins/format-converter#After",
+      "match": "After After Format converter Format converter Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "After"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/format-converter#After",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#After"
+    },
+    {
+      "title": "Before",
+      "subtitle": "Plugins/Format converter",
+      "uid": "https://help.obsidian.md/plugins/format-converter#Before",
+      "match": "Before Before Format converter Format converter Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Before"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/format-converter#Before",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Before"
+    },
+    {
+      "title": "After",
+      "subtitle": "Plugins/Format converter",
+      "uid": "https://help.obsidian.md/plugins/format-converter#After",
+      "match": "After After Format converter Format converter Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "After"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/format-converter#After",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#After"
+    },
+    {
+      "title": "Before",
+      "subtitle": "Plugins/Format converter",
+      "uid": "https://help.obsidian.md/plugins/format-converter#Before",
+      "match": "Before Before Format converter Format converter Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Before"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/format-converter#Before",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Before"
+    },
+    {
+      "title": "After",
+      "subtitle": "Plugins/Format converter",
+      "uid": "https://help.obsidian.md/plugins/format-converter#After",
+      "match": "After After Format converter Format converter Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "After"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/format-converter#After",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#After"
     },
     {
       "title": "Graph view",
@@ -13181,6 +13454,19 @@
       },
       "arg": "https://help.obsidian.md/plugins/templates#Template+variables",
       "quicklookurl": "https://help.obsidian.md/plugins/templates#Template+variables"
+    },
+    {
+      "title": "Template properties",
+      "subtitle": "Plugins/Templates",
+      "uid": "https://help.obsidian.md/plugins/templates#Template+properties",
+      "match": "Template properties Template properties Templates Templates Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Template properties"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/templates#Template+properties",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#Template+properties"
     },
     {
       "title": "Unique note creator",
