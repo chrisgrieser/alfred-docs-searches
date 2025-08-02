@@ -4512,6 +4512,32 @@
       "quicklookurl": "https://help.obsidian.md/import/roam#Import+your+Roam+Research+data+into+Obsidian"
     },
     {
+      "title": "Importer",
+      "match": "Importer Importer Import notes Import notes ",
+      "subtitle": "Import notes",
+      "mods": {
+        "cmd": {
+          "arg": "Importer"
+        }
+      },
+      "uid": "https://help.obsidian.md/plugins/importer",
+      "arg": "https://help.obsidian.md/plugins/importer",
+      "quicklookurl": "https://help.obsidian.md/plugins/importer"
+    },
+    {
+      "title": "Install Importer",
+      "subtitle": "Import notes/Importer",
+      "uid": "https://help.obsidian.md/plugins/importer#Install+Importer",
+      "match": "Install Importer Install Importer Importer Importer Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Install Importer"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/importer#Install+Importer",
+      "quicklookurl": "https://help.obsidian.md/plugins/importer#Install+Importer"
+    },
+    {
       "title": "Catalyst license",
       "match": "Catalyst license Catalyst license Licenses and payment Licenses and payment ",
       "subtitle": "Licenses and payment",
@@ -7684,17 +7710,17 @@
       "quicklookurl": "https://help.obsidian.md/sync/settings#File+recovery+snapshots"
     },
     {
-      "title": "Hidden folders",
+      "title": "Hidden files and folders",
       "subtitle": "Obsidian Sync/Sync settings and selective syncing",
-      "uid": "https://help.obsidian.md/sync/settings#Hidden+folders",
-      "match": "Hidden folders Hidden folders Sync settings and selective syncing Sync settings and selective syncing Obsidian Sync Obsidian Sync ",
+      "uid": "https://help.obsidian.md/sync/settings#Hidden+files+and+folders",
+      "match": "Hidden files and folders Hidden files and folders Sync settings and selective syncing Sync settings and selective syncing Obsidian Sync Obsidian Sync ",
       "mods": {
         "cmd": {
-          "arg": "Hidden folders"
+          "arg": "Hidden files and folders"
         }
       },
-      "arg": "https://help.obsidian.md/sync/settings#Hidden+folders",
-      "quicklookurl": "https://help.obsidian.md/sync/settings#Hidden+folders"
+      "arg": "https://help.obsidian.md/sync/settings#Hidden+files+and+folders",
+      "quicklookurl": "https://help.obsidian.md/sync/settings#Hidden+files+and+folders"
     },
     {
       "title": "Sync settings",
@@ -11675,6 +11701,32 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`slice()`"
     },
     {
+      "title": "map()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`map()`",
+      "match": " map    `map()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`map()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`map()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`map()`"
+    },
+    {
+      "title": "filter()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`filter()`",
+      "match": " filter    `filter()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`filter()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`filter()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`filter()`"
+    },
+    {
       "title": "Link",
       "subtitle": "Plugins/Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#Link",
@@ -11896,6 +11948,71 @@
       "quicklookurl": "https://help.obsidian.md/bases/views#Layout"
     },
     {
+      "title": "Table",
+      "subtitle": "Plugins/Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Table",
+      "match": "Table Table Views Views Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Table"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Table",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Table"
+    },
+    {
+      "title": "Cards",
+      "subtitle": "Plugins/Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Cards",
+      "match": "Cards Cards Views Views Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Cards"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Cards",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Cards"
+    },
+    {
+      "title": "Image property",
+      "subtitle": "Plugins/Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Image+property",
+      "match": "Image property Image property Views Views Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Image property"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Image+property",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Image+property"
+    },
+    {
+      "title": "Image fit",
+      "subtitle": "Plugins/Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Image+fit",
+      "match": "Image fit Image fit Views Views Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Image fit"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Image+fit",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Image+fit"
+    },
+    {
+      "title": "Image aspect ratio",
+      "subtitle": "Plugins/Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Image+aspect+ratio",
+      "match": "Image aspect ratio Image aspect ratio Views Views Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Image aspect ratio"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Image+aspect+ratio",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Image+aspect+ratio"
+    },
+    {
       "title": "Filters",
       "subtitle": "Plugins/Bases/Views",
       "uid": "https://help.obsidian.md/bases/views#Filters",
@@ -11959,19 +12076,6 @@
       },
       "arg": "https://help.obsidian.md/bases/views#Advanced+filter+editor",
       "quicklookurl": "https://help.obsidian.md/bases/views#Advanced+filter+editor"
-    },
-    {
-      "title": "View options",
-      "subtitle": "Plugins/Bases/Views",
-      "uid": "https://help.obsidian.md/bases/views#View+options",
-      "match": "View options View options Views Views Plugins/Bases Plugins/Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "View options"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/views#View+options",
-      "quicklookurl": "https://help.obsidian.md/bases/views#View+options"
     },
     {
       "title": "Limit, copy, and export results",
@@ -12559,6 +12663,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins#All+core+plugins"
     },
     {
+      "title": "Other plugins",
+      "subtitle": "Plugins/Core plugins",
+      "uid": "https://help.obsidian.md/plugins#Other+plugins",
+      "match": "Other plugins Other plugins Core plugins Core plugins Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Other plugins"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins#Other+plugins",
+      "quicklookurl": "https://help.obsidian.md/plugins#Other+plugins"
+    },
+    {
       "title": "Daily notes",
       "match": "Daily notes Daily notes Plugins Plugins ",
       "subtitle": "Plugins",
@@ -12999,32 +13116,6 @@
       },
       "arg": "https://help.obsidian.md/plugins/graph#Local+Graph",
       "quicklookurl": "https://help.obsidian.md/plugins/graph#Local+Graph"
-    },
-    {
-      "title": "Importer",
-      "match": "Importer Importer Plugins Plugins ",
-      "subtitle": "Plugins",
-      "mods": {
-        "cmd": {
-          "arg": "Importer"
-        }
-      },
-      "uid": "https://help.obsidian.md/plugins/importer",
-      "arg": "https://help.obsidian.md/plugins/importer",
-      "quicklookurl": "https://help.obsidian.md/plugins/importer"
-    },
-    {
-      "title": "Install Importer",
-      "subtitle": "Plugins/Importer",
-      "uid": "https://help.obsidian.md/plugins/importer#Install+Importer",
-      "match": "Install Importer Install Importer Importer Importer Plugins Plugins ",
-      "mods": {
-        "cmd": {
-          "arg": "Install Importer"
-        }
-      },
-      "arg": "https://help.obsidian.md/plugins/importer#Install+Importer",
-      "quicklookurl": "https://help.obsidian.md/plugins/importer#Install+Importer"
     },
     {
       "title": "Note composer",
