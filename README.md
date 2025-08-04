@@ -79,6 +79,7 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 - `oh`: Obsidian help
 - `odd`: Obsidian developer docs
 - `ddg`: DuckDuckGo help pages
+- `man`: man pages (and their options) at [mankier](https://www.mankier.com/)
 
 ### Utilities
 - `color`: named CSS colors
