@@ -111,9 +111,9 @@ refreshing the cache via the Alfred keyword `:docs-reload`.
    the `keymap-slug-map` and the `info.plist` files from the GitHub remote. The
    update to the `info.plist` is required, so that newly available documentation
    sites also show up in the dropdown menus of the workflow configuration.
-3. This means that any devdocs update is available to the user at most after
-   three weeks. (The local cache can be manually updated via the Alfred keyword
-   via `:docs-reload` to remove the seven-day delay.)
+3. This means that any devdocs update is available to the user after three weeks
+   at the latest. (The local cache can be manually updated via the Alfred
+   keyword via `:docs-reload` to remove the seven-day delay.)
 4. The purpose of this setup is to fully automate the process of making devdocs
    updates available to the user without requiring manual action. Furthermore,
    no separate release of the workflow is required.
