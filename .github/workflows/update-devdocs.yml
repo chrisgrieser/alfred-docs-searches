@@ -35,7 +35,7 @@ jobs:
           node ./scripts/devdocs/update-devdocs.mjs
 
           # GUARD if only the `info.plist` was updated, it's due to formatting changes
-          # and there is not actual update to be made.
+          # and there is no actual update to be made.
           updated_files=$(git diff --name-only)
           if ! echo "$updated_files" | grep -q "devdocs-keyword-slug-map"; then
             echo "No changes to commit."

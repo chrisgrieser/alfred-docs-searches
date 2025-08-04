@@ -106,7 +106,6 @@
   "latex": "latex",
   "leaflet": "leaflet~2.0",
   "ls": "less~4",
-  "man": "man",
   "liquid": "liquid",
   "_": "lodash~4",
   "lua": "lua~5.4",
