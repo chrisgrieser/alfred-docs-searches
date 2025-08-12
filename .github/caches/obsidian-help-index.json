@@ -7645,6 +7645,19 @@
       "quicklookurl": "https://help.obsidian.md/sync/settings#Sync+settings"
     },
     {
+      "title": "Conflict resolution",
+      "subtitle": "Obsidian Sync/Sync settings and selective syncing",
+      "uid": "https://help.obsidian.md/sync/settings#Conflict+resolution",
+      "match": "Conflict resolution Conflict resolution Sync settings and selective syncing Sync settings and selective syncing Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Conflict resolution"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/settings#Conflict+resolution",
+      "quicklookurl": "https://help.obsidian.md/sync/settings#Conflict+resolution"
+    },
+    {
       "title": "Selective syncing",
       "subtitle": "Obsidian Sync/Sync settings and selective syncing",
       "uid": "https://help.obsidian.md/sync/settings#Selective+syncing",
@@ -10973,6 +10986,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`date()`"
     },
     {
+      "title": "file()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`file()`",
+      "match": " file    `file()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`file()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`file()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`file()`"
+    },
+    {
       "title": "if()",
       "subtitle": "Plugins/Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`if()`",
@@ -11753,6 +11779,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`linksTo()`"
     },
     {
+      "title": "asFile()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`asFile()`",
+      "match": " asFile    `asFile()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`asFile()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`asFile()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`asFile()`"
+    },
+    {
       "title": "File",
       "subtitle": "Plugins/Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#File",
@@ -11790,6 +11829,19 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`hasLink()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`hasLink()`"
+    },
+    {
+      "title": "hasProperty()",
+      "subtitle": "Plugins/Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`hasProperty()`",
+      "match": " hasProperty    `hasProperty()` Functions Functions Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`hasProperty()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`hasProperty()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`hasProperty()`"
     },
     {
       "title": "hasTag()",
