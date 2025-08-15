@@ -152,7 +152,7 @@
   "pug": "pug",
   "puppeteer": "puppeteer",
   "pygame": "pygame",
-  "py": "python~3.13",
+  "py": "python~3.14",
   "pytorch": "pytorch~2.7",
   "q": "q",
   "qt": "qt",
