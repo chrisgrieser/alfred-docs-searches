@@ -3498,17 +3498,17 @@
       "quicklookurl": "https://help.obsidian.md/updates"
     },
     {
-      "title": "Check for an update and the current version",
+      "title": "Check for updates and view version",
       "subtitle": "Getting started/Update Obsidian",
-      "uid": "https://help.obsidian.md/updates#Check+for+an+update+and+the+current+version",
-      "match": "Check for an update and the current version Check for an update and the current version Update Obsidian Update Obsidian Getting started Getting started ",
+      "uid": "https://help.obsidian.md/updates#Check+for+updates+and+view+version",
+      "match": "Check for updates and view version Check for updates and view version Update Obsidian Update Obsidian Getting started Getting started ",
       "mods": {
         "cmd": {
-          "arg": "Check for an update and the current version"
+          "arg": "Check for updates and view version"
         }
       },
-      "arg": "https://help.obsidian.md/updates#Check+for+an+update+and+the+current+version",
-      "quicklookurl": "https://help.obsidian.md/updates#Check+for+an+update+and+the+current+version"
+      "arg": "https://help.obsidian.md/updates#Check+for+updates+and+view+version",
+      "quicklookurl": "https://help.obsidian.md/updates#Check+for+updates+and+view+version"
     },
     {
       "title": "Disable automatic updates",
@@ -3535,19 +3535,6 @@
       },
       "arg": "https://help.obsidian.md/updates#Installer+updates",
       "quicklookurl": "https://help.obsidian.md/updates#Installer+updates"
-    },
-    {
-      "title": "Troubleshooting",
-      "subtitle": "Getting started/Update Obsidian",
-      "uid": "https://help.obsidian.md/updates#Troubleshooting",
-      "match": "Troubleshooting Troubleshooting Update Obsidian Update Obsidian Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Troubleshooting"
-        }
-      },
-      "arg": "https://help.obsidian.md/updates#Troubleshooting",
-      "quicklookurl": "https://help.obsidian.md/updates#Troubleshooting"
     },
     {
       "title": "Use the mobile app",
