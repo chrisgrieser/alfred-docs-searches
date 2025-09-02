@@ -1535,17 +1535,69 @@
       "quicklookurl": "https://help.obsidian.md/properties#Property+format"
     },
     {
-      "title": "JSON Properties",
+      "title": "Links",
       "subtitle": "Editing and formatting/Properties",
-      "uid": "https://help.obsidian.md/properties#JSON+Properties",
-      "match": "JSON Properties JSON Properties Properties Properties Editing and formatting Editing and formatting ",
+      "uid": "https://help.obsidian.md/properties#Links",
+      "match": "Links Links Properties Properties Editing and formatting Editing and formatting ",
       "mods": {
         "cmd": {
-          "arg": "JSON Properties"
+          "arg": "Links"
         }
       },
-      "arg": "https://help.obsidian.md/properties#JSON+Properties",
-      "quicklookurl": "https://help.obsidian.md/properties#JSON+Properties"
+      "arg": "https://help.obsidian.md/properties#Links",
+      "quicklookurl": "https://help.obsidian.md/properties#Links"
+    },
+    {
+      "title": "Numbers",
+      "subtitle": "Editing and formatting/Properties",
+      "uid": "https://help.obsidian.md/properties#Numbers",
+      "match": "Numbers Numbers Properties Properties Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Numbers"
+        }
+      },
+      "arg": "https://help.obsidian.md/properties#Numbers",
+      "quicklookurl": "https://help.obsidian.md/properties#Numbers"
+    },
+    {
+      "title": "Checkboxes",
+      "subtitle": "Editing and formatting/Properties",
+      "uid": "https://help.obsidian.md/properties#Checkboxes",
+      "match": "Checkboxes Checkboxes Properties Properties Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Checkboxes"
+        }
+      },
+      "arg": "https://help.obsidian.md/properties#Checkboxes",
+      "quicklookurl": "https://help.obsidian.md/properties#Checkboxes"
+    },
+    {
+      "title": "Dates",
+      "subtitle": "Editing and formatting/Properties",
+      "uid": "https://help.obsidian.md/properties#Dates",
+      "match": "Dates Dates Properties Properties Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Dates"
+        }
+      },
+      "arg": "https://help.obsidian.md/properties#Dates",
+      "quicklookurl": "https://help.obsidian.md/properties#Dates"
+    },
+    {
+      "title": "JSON properties",
+      "subtitle": "Editing and formatting/Properties",
+      "uid": "https://help.obsidian.md/properties#JSON+properties",
+      "match": "JSON properties JSON properties Properties Properties Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "JSON properties"
+        }
+      },
+      "arg": "https://help.obsidian.md/properties#JSON+properties",
+      "quicklookurl": "https://help.obsidian.md/properties#JSON+properties"
     },
     {
       "title": "Default properties",
@@ -6891,32 +6943,6 @@
       "quicklookurl": "https://help.obsidian.md/sync/vault-types#Next+steps"
     },
     {
-      "title": "Migrate a Sync vault",
-      "match": "Migrate a Sync vault Migrate a Sync vault Obsidian Sync Obsidian Sync ",
-      "subtitle": "Obsidian Sync",
-      "mods": {
-        "cmd": {
-          "arg": "Migrate a Sync vault"
-        }
-      },
-      "uid": "https://help.obsidian.md/sync/migrate",
-      "arg": "https://help.obsidian.md/sync/migrate",
-      "quicklookurl": "https://help.obsidian.md/sync/migrate"
-    },
-    {
-      "title": "Change Sync region",
-      "subtitle": "Obsidian Sync/Migrate a Sync vault",
-      "uid": "https://help.obsidian.md/sync/migrate#Change+Sync+region",
-      "match": "Change Sync region Change Sync region Migrate a Sync vault Migrate a Sync vault Obsidian Sync Obsidian Sync ",
-      "mods": {
-        "cmd": {
-          "arg": "Change Sync region"
-        }
-      },
-      "arg": "https://help.obsidian.md/sync/migrate#Change+Sync+region",
-      "quicklookurl": "https://help.obsidian.md/sync/migrate#Change+Sync+region"
-    },
-    {
       "title": "Plans and storage limits",
       "match": "Plans and storage limits Plans and storage limits Obsidian Sync Obsidian Sync ",
       "subtitle": "Obsidian Sync",
@@ -7606,6 +7632,45 @@
       "quicklookurl": "https://help.obsidian.md/sync/switch#Next+steps"
     },
     {
+      "title": "Sync regions",
+      "match": "Sync regions Sync regions Obsidian Sync Obsidian Sync ",
+      "subtitle": "Obsidian Sync",
+      "mods": {
+        "cmd": {
+          "arg": "Sync regions"
+        }
+      },
+      "uid": "https://help.obsidian.md/sync/region",
+      "arg": "https://help.obsidian.md/sync/region",
+      "quicklookurl": "https://help.obsidian.md/sync/region"
+    },
+    {
+      "title": "Available regions",
+      "subtitle": "Obsidian Sync/Sync regions",
+      "uid": "https://help.obsidian.md/sync/region#Available+regions",
+      "match": "Available regions Available regions Sync regions Sync regions Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Available regions"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/region#Available+regions",
+      "quicklookurl": "https://help.obsidian.md/sync/region#Available+regions"
+    },
+    {
+      "title": "Change Sync region",
+      "subtitle": "Obsidian Sync/Sync regions",
+      "uid": "https://help.obsidian.md/sync/region#Change+Sync+region",
+      "match": "Change Sync region Change Sync region Sync regions Sync regions Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Change Sync region"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/region#Change+Sync+region",
+      "quicklookurl": "https://help.obsidian.md/sync/region#Change+Sync+region"
+    },
+    {
       "title": "Sync settings and selective syncing",
       "match": "Sync settings and selective syncing Sync settings and selective syncing Obsidian Sync Obsidian Sync ",
       "subtitle": "Obsidian Sync",
@@ -7903,6 +7968,45 @@
       },
       "arg": "https://help.obsidian.md/sync/troubleshoot#Android",
       "quicklookurl": "https://help.obsidian.md/sync/troubleshoot#Android"
+    },
+    {
+      "title": "Upgrade Sync encryption",
+      "match": "Upgrade Sync encryption Upgrade Sync encryption Obsidian Sync Obsidian Sync ",
+      "subtitle": "Obsidian Sync",
+      "mods": {
+        "cmd": {
+          "arg": "Upgrade Sync encryption"
+        }
+      },
+      "uid": "https://help.obsidian.md/sync/migrate",
+      "arg": "https://help.obsidian.md/sync/migrate",
+      "quicklookurl": "https://help.obsidian.md/sync/migrate"
+    },
+    {
+      "title": "Encryption versions",
+      "subtitle": "Obsidian Sync/Upgrade Sync encryption",
+      "uid": "https://help.obsidian.md/sync/migrate#Encryption+versions",
+      "match": "Encryption versions Encryption versions Upgrade Sync encryption Upgrade Sync encryption Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Encryption versions"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/migrate#Encryption+versions",
+      "quicklookurl": "https://help.obsidian.md/sync/migrate#Encryption+versions"
+    },
+    {
+      "title": "Upgrade encryption with the migration assistant",
+      "subtitle": "Obsidian Sync/Upgrade Sync encryption",
+      "uid": "https://help.obsidian.md/sync/migrate#Upgrade+encryption+with+the+migration+assistant",
+      "match": "Upgrade encryption with the migration assistant Upgrade encryption with the migration assistant Upgrade Sync encryption Upgrade Sync encryption Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Upgrade encryption with the migration assistant"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/migrate#Upgrade+encryption+with+the+migration+assistant",
+      "quicklookurl": "https://help.obsidian.md/sync/migrate#Upgrade+encryption+with+the+migration+assistant"
     },
     {
       "title": "Version history",
@@ -11998,6 +12102,19 @@
       },
       "arg": "https://help.obsidian.md/bases/views#Table",
       "quicklookurl": "https://help.obsidian.md/bases/views#Table"
+    },
+    {
+      "title": "Row height",
+      "subtitle": "Plugins/Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Row+height",
+      "match": "Row height Row height Views Views Plugins/Bases Plugins/Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Row height"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Row+height",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Row+height"
     },
     {
       "title": "Cards",
