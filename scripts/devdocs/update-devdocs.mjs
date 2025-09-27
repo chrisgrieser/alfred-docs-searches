@@ -16,6 +16,10 @@ const customAliases = {
 	// biome-ignore lint/style/useNamingConvention: not set by me
 	browser_support_tables: "cani",
 	matplotlib: "plt", // preferring the conventional `plt` over `mlp` https://docs.astral.sh/ruff/settings/#lint_flake8-import-conventions_aliases
+
+	// overwrite `löve` as keyword, since hard to non on non-US-keyboard, and
+	// since it breaks the JSON parsing in `search-devdocs.js` (see #19)
+	love: "love",
 };
 
 // IMPORTANT extra lines for pinned workflow versions and opening at original
