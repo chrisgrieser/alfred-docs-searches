@@ -11,11 +11,11 @@
 import fs from "node:fs";
 
 /** @type {Record<string, string>} */
-const customAliases = {
+const customAliases = { // these overwrite aliases provided by devdocs.io
 	hammerspoon: "hs",
 	// biome-ignore lint/style/useNamingConvention: not set by me
 	browser_support_tables: "cani",
-	matplotlib: "plt", // preferring the conventional `plt` over `mlp` https://docs.astral.sh/ruff/settings/#lint_flake8-import-conventions_aliases
+	matplotlib: "plt", // using the conventional `plt` over `mlp` https://docs.astral.sh/ruff/settings/#lint_flake8-import-conventions_aliases
 
 	// overwrite `löve` as keyword, since hard to non on non-US-keyboard, and
 	// since it breaks the JSON parsing in `search-devdocs.js` (see #19)
