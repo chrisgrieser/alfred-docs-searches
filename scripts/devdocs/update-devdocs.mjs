@@ -17,7 +17,7 @@ const customAliases = { // these overwrite aliases provided by devdocs.io
 	browser_support_tables: "cani",
 	matplotlib: "plt", // using the conventional `plt` over `mlp` https://docs.astral.sh/ruff/settings/#lint_flake8-import-conventions_aliases
 
-	// overwrite `löve` as keyword, since hard to non on non-US-keyboard, and
+	// overwrite `löve` as keyword, since hard to non on many keyboard layouts, and
 	// since it breaks the JSON parsing in `search-devdocs.js` (see #19)
 	love: "love",
 };
