@@ -1353,19 +1353,6 @@
       "quicklookurl": "https://help.obsidian.md/properties#Advanced+uses"
     },
     {
-      "title": "Links",
-      "subtitle": "Editing and formatting/Properties",
-      "uid": "https://help.obsidian.md/properties#Links",
-      "match": "Links Links Properties Properties Editing and formatting Editing and formatting ",
-      "mods": {
-        "cmd": {
-          "arg": "Links"
-        }
-      },
-      "arg": "https://help.obsidian.md/properties#Links",
-      "quicklookurl": "https://help.obsidian.md/properties#Links"
-    },
-    {
       "title": "Search properties",
       "subtitle": "Editing and formatting/Properties",
       "uid": "https://help.obsidian.md/properties#Search+properties",
@@ -1535,56 +1522,95 @@
       "quicklookurl": "https://help.obsidian.md/properties#Property+format"
     },
     {
-      "title": "Links",
+      "title": "Text",
       "subtitle": "Editing and formatting/Properties",
-      "uid": "https://help.obsidian.md/properties#Links",
-      "match": "Links Links Properties Properties Editing and formatting Editing and formatting ",
+      "uid": "https://help.obsidian.md/properties#Text",
+      "match": "Text Text Properties Properties Editing and formatting Editing and formatting ",
       "mods": {
         "cmd": {
-          "arg": "Links"
+          "arg": "Text"
         }
       },
-      "arg": "https://help.obsidian.md/properties#Links",
-      "quicklookurl": "https://help.obsidian.md/properties#Links"
+      "arg": "https://help.obsidian.md/properties#Text",
+      "quicklookurl": "https://help.obsidian.md/properties#Text"
     },
     {
-      "title": "Numbers",
+      "title": "List",
       "subtitle": "Editing and formatting/Properties",
-      "uid": "https://help.obsidian.md/properties#Numbers",
-      "match": "Numbers Numbers Properties Properties Editing and formatting Editing and formatting ",
+      "uid": "https://help.obsidian.md/properties#List",
+      "match": "List List Properties Properties Editing and formatting Editing and formatting ",
       "mods": {
         "cmd": {
-          "arg": "Numbers"
+          "arg": "List"
         }
       },
-      "arg": "https://help.obsidian.md/properties#Numbers",
-      "quicklookurl": "https://help.obsidian.md/properties#Numbers"
+      "arg": "https://help.obsidian.md/properties#List",
+      "quicklookurl": "https://help.obsidian.md/properties#List"
     },
     {
-      "title": "Checkboxes",
+      "title": "Number",
       "subtitle": "Editing and formatting/Properties",
-      "uid": "https://help.obsidian.md/properties#Checkboxes",
-      "match": "Checkboxes Checkboxes Properties Properties Editing and formatting Editing and formatting ",
+      "uid": "https://help.obsidian.md/properties#Number",
+      "match": "Number Number Properties Properties Editing and formatting Editing and formatting ",
       "mods": {
         "cmd": {
-          "arg": "Checkboxes"
+          "arg": "Number"
         }
       },
-      "arg": "https://help.obsidian.md/properties#Checkboxes",
-      "quicklookurl": "https://help.obsidian.md/properties#Checkboxes"
+      "arg": "https://help.obsidian.md/properties#Number",
+      "quicklookurl": "https://help.obsidian.md/properties#Number"
     },
     {
-      "title": "Dates",
+      "title": "Checkbox",
       "subtitle": "Editing and formatting/Properties",
-      "uid": "https://help.obsidian.md/properties#Dates",
-      "match": "Dates Dates Properties Properties Editing and formatting Editing and formatting ",
+      "uid": "https://help.obsidian.md/properties#Checkbox",
+      "match": "Checkbox Checkbox Properties Properties Editing and formatting Editing and formatting ",
       "mods": {
         "cmd": {
-          "arg": "Dates"
+          "arg": "Checkbox"
         }
       },
-      "arg": "https://help.obsidian.md/properties#Dates",
-      "quicklookurl": "https://help.obsidian.md/properties#Dates"
+      "arg": "https://help.obsidian.md/properties#Checkbox",
+      "quicklookurl": "https://help.obsidian.md/properties#Checkbox"
+    },
+    {
+      "title": "Date",
+      "subtitle": "Editing and formatting/Properties",
+      "uid": "https://help.obsidian.md/properties#Date",
+      "match": "Date Date Properties Properties Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Date"
+        }
+      },
+      "arg": "https://help.obsidian.md/properties#Date",
+      "quicklookurl": "https://help.obsidian.md/properties#Date"
+    },
+    {
+      "title": "Date & time",
+      "subtitle": "Editing and formatting/Properties",
+      "uid": "https://help.obsidian.md/properties#Date+&+time",
+      "match": "Date & time Date & time Properties Properties Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Date & time"
+        }
+      },
+      "arg": "https://help.obsidian.md/properties#Date+&+time",
+      "quicklookurl": "https://help.obsidian.md/properties#Date+&+time"
+    },
+    {
+      "title": "Tags",
+      "subtitle": "Editing and formatting/Properties",
+      "uid": "https://help.obsidian.md/properties#Tags",
+      "match": "Tags Tags Properties Properties Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Tags"
+        }
+      },
+      "arg": "https://help.obsidian.md/properties#Tags",
+      "quicklookurl": "https://help.obsidian.md/properties#Tags"
     },
     {
       "title": "JSON properties",
@@ -1741,19 +1767,6 @@
       },
       "arg": "https://help.obsidian.md/edit-and-read#Editing+view",
       "quicklookurl": "https://help.obsidian.md/edit-and-read#Editing+view"
-    },
-    {
-      "title": "Editing modes",
-      "subtitle": "Editing and formatting/Views and editing mode",
-      "uid": "https://help.obsidian.md/edit-and-read#Editing+modes",
-      "match": "Editing modes Editing modes Views and editing mode Views and editing mode Editing and formatting Editing and formatting ",
-      "mods": {
-        "cmd": {
-          "arg": "Editing modes"
-        }
-      },
-      "arg": "https://help.obsidian.md/edit-and-read#Editing+modes",
-      "quicklookurl": "https://help.obsidian.md/edit-and-read#Editing+modes"
     },
     {
       "title": "Live Preview",
