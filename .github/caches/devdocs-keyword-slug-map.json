@@ -56,7 +56,7 @@
   "express": "express",
   "falcon": "falcon~2.0",
   "fastapi": "fastapi",
-  "fish": "fish~4.0",
+  "fish": "fish~4.1",
   "flask": "flask",
   "flow": "flow",
   "fluture": "fluture",
