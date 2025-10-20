@@ -40,7 +40,7 @@ jobs:
           exit $? # inherit exit code
 
       - name: commit
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: auto-update Obsidian help index"
           branch: ${{ github.head_ref }}
