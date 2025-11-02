@@ -131,17 +131,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/syntax#File+properties"
     },
     {
-      "title": "Access properties of the current file",
+      "title": "Access properties with this",
       "subtitle": "Bases/Bases syntax",
-      "uid": "https://help.obsidian.md/bases/syntax#Access+properties+of+the+current+file",
-      "match": "Access properties of the current file Access properties of the current file Bases syntax Bases syntax Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/syntax#Access+properties+with+`this`",
+      "match": "Access properties with  this  Access properties with `this` Bases syntax Bases syntax Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "Access properties of the current file"
+          "arg": "Access properties with `this`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/syntax#Access+properties+of+the+current+file",
-      "quicklookurl": "https://help.obsidian.md/bases/syntax#Access+properties+of+the+current+file"
+      "arg": "https://help.obsidian.md/bases/syntax#Access+properties+with+`this`",
+      "quicklookurl": "https://help.obsidian.md/bases/syntax#Access+properties+with+`this`"
     },
     {
       "title": "Operators",
@@ -13259,6 +13259,19 @@
       },
       "arg": "https://help.obsidian.md/plugins/file-explorer#Create+a+new+folder",
       "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Create+a+new+folder"
+    },
+    {
+      "title": "Change sort order",
+      "subtitle": "Plugins/File explorer",
+      "uid": "https://help.obsidian.md/plugins/file-explorer#Change+sort+order",
+      "match": "Change sort order Change sort order File explorer File explorer Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Change sort order"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/file-explorer#Change+sort+order",
+      "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Change+sort+order"
     },
     {
       "title": "Delete a file or folder",
