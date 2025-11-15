@@ -79,6 +79,32 @@
       "quicklookurl": "https://help.obsidian.md/bases/syntax#Properties"
     },
     {
+      "title": "Summaries",
+      "subtitle": "Bases/Bases syntax",
+      "uid": "https://help.obsidian.md/bases/syntax#Summaries",
+      "match": "Summaries Summaries Bases syntax Bases syntax Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Summaries"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/syntax#Summaries",
+      "quicklookurl": "https://help.obsidian.md/bases/syntax#Summaries"
+    },
+    {
+      "title": "Default Summary Formulas",
+      "subtitle": "Bases/Bases syntax",
+      "uid": "https://help.obsidian.md/bases/syntax#Default+Summary+Formulas",
+      "match": "Default Summary Formulas Default Summary Formulas Bases syntax Bases syntax Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Default Summary Formulas"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/syntax#Default+Summary+Formulas",
+      "quicklookurl": "https://help.obsidian.md/bases/syntax#Default+Summary+Formulas"
+    },
+    {
       "title": "Views",
       "subtitle": "Bases/Bases syntax",
       "uid": "https://help.obsidian.md/bases/syntax#Views",
@@ -378,6 +404,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#Global"
     },
     {
+      "title": "escapeHTML()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`escapeHTML()`",
+      "match": " escapeHTML    `escapeHTML()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`escapeHTML()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`escapeHTML()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`escapeHTML()`"
+    },
+    {
       "title": "date()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`date()`",
@@ -391,6 +430,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`date()`"
     },
     {
+      "title": "duration()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`duration()`",
+      "match": " duration    `duration()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`duration()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`duration()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`duration()`"
+    },
+    {
       "title": "file()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`file()`",
@@ -402,6 +454,19 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`file()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`file()`"
+    },
+    {
+      "title": "html()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`html()`",
+      "match": " html    `html()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`html()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`html()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`html()`"
     },
     {
       "title": "if()",
@@ -443,32 +508,6 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`icon()`"
     },
     {
-      "title": "max()",
-      "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`max()`",
-      "match": " max    `max()` Functions Functions Bases Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`max()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`max()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`max()`"
-    },
-    {
-      "title": "min()",
-      "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`min()`",
-      "match": " min    `min()` Functions Functions Bases Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`min()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`min()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`min()`"
-    },
-    {
       "title": "link()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`link()`",
@@ -493,6 +532,32 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`list()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`list()`"
+    },
+    {
+      "title": "max()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`max()`",
+      "match": " max    `max()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`max()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`max()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`max()`"
+    },
+    {
+      "title": "min()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`min()`",
+      "match": " min    `min()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`min()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`min()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`min()`"
     },
     {
       "title": "now()",
@@ -521,19 +586,6 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`number()`"
     },
     {
-      "title": "duration()",
-      "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`duration()`",
-      "match": " duration    `duration()` Functions Functions Bases Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`duration()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`duration()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`duration()`"
-    },
-    {
       "title": "today()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`today()`",
@@ -545,19 +597,6 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`today()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`today()`"
-    },
-    {
-      "title": "date()",
-      "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`date()`",
-      "match": " date    `date()` Functions Functions Bases Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`date()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`date()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`date()`"
     },
     {
       "title": "Any",
@@ -573,19 +612,6 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#Any"
     },
     {
-      "title": "toString()",
-      "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`toString()`",
-      "match": " toString    `toString()` Functions Functions Bases Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`toString()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`toString()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`toString()`"
-    },
-    {
       "title": "isTruthy()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`isTruthy()`",
@@ -597,6 +623,19 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`isTruthy()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`isTruthy()`"
+    },
+    {
+      "title": "toString()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`toString()`",
+      "match": " toString    `toString()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`toString()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`toString()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`toString()`"
     },
     {
       "title": "Date",
@@ -781,6 +820,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`isEmpty()`"
     },
     {
+      "title": "lower()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`lower()`",
+      "match": " lower    `lower()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`lower()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`lower()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`lower()`"
+    },
+    {
       "title": "replace()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`replace()`",
@@ -794,17 +846,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`replace()`"
     },
     {
-      "title": "lower()",
+      "title": "repeat()",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`lower()`",
-      "match": " lower    `lower()` Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`repeat()`",
+      "match": " repeat    `repeat()` Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "`lower()`"
+          "arg": "`repeat()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`lower()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`lower()`"
+      "arg": "https://help.obsidian.md/bases/functions#`repeat()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`repeat()`"
     },
     {
       "title": "reverse()",
@@ -937,6 +989,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`floor()`"
     },
     {
+      "title": "isEmpty()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`isEmpty()`",
+      "match": " isEmpty    `isEmpty()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`isEmpty()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`isEmpty()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`isEmpty()`"
+    },
+    {
       "title": "round()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`round()`",
@@ -961,19 +1026,6 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`toFixed()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`toFixed()`"
-    },
-    {
-      "title": "isEmpty()",
-      "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`isEmpty()`",
-      "match": " isEmpty    `isEmpty()` Functions Functions Bases Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`isEmpty()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`isEmpty()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`isEmpty()`"
     },
     {
       "title": "List",
@@ -1041,6 +1093,32 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`containsAny()`"
     },
     {
+      "title": "filter()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`filter()`",
+      "match": " filter    `filter()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`filter()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`filter()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`filter()`"
+    },
+    {
+      "title": "flat()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`flat()`",
+      "match": " flat    `flat()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`flat()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`flat()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`flat()`"
+    },
+    {
       "title": "isEmpty()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`isEmpty()`",
@@ -1067,6 +1145,32 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`join()`"
     },
     {
+      "title": "map()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`map()`",
+      "match": " map    `map()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`map()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`map()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`map()`"
+    },
+    {
+      "title": "reduce()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`reduce()`",
+      "match": " reduce    `reduce()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`reduce()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`reduce()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`reduce()`"
+    },
+    {
       "title": "reverse()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`reverse()`",
@@ -1078,45 +1182,6 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`reverse()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`reverse()`"
-    },
-    {
-      "title": "sort()",
-      "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`sort()`",
-      "match": " sort    `sort()` Functions Functions Bases Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`sort()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`sort()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`sort()`"
-    },
-    {
-      "title": "flat()",
-      "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`flat()`",
-      "match": " flat    `flat()` Functions Functions Bases Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`flat()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`flat()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`flat()`"
-    },
-    {
-      "title": "unique()",
-      "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`unique()`",
-      "match": " unique    `unique()` Functions Functions Bases Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`unique()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`unique()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`unique()`"
     },
     {
       "title": "slice()",
@@ -1132,30 +1197,30 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`slice()`"
     },
     {
-      "title": "map()",
+      "title": "sort()",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`map()`",
-      "match": " map    `map()` Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`sort()`",
+      "match": " sort    `sort()` Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "`map()`"
+          "arg": "`sort()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`map()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`map()`"
+      "arg": "https://help.obsidian.md/bases/functions#`sort()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`sort()`"
     },
     {
-      "title": "filter()",
+      "title": "unique()",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`filter()`",
-      "match": " filter    `filter()` Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#`unique()`",
+      "match": " unique    `unique()` Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "`filter()`"
+          "arg": "`unique()`"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#`filter()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`filter()`"
+      "arg": "https://help.obsidian.md/bases/functions#`unique()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`unique()`"
     },
     {
       "title": "Link",
@@ -1171,19 +1236,6 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#Link"
     },
     {
-      "title": "linksTo()",
-      "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`linksTo()`",
-      "match": " linksTo    `linksTo()` Functions Functions Bases Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`linksTo()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`linksTo()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`linksTo()`"
-    },
-    {
       "title": "asFile()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`asFile()`",
@@ -1195,6 +1247,19 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`asFile()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`asFile()`"
+    },
+    {
+      "title": "linksTo()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`linksTo()`",
+      "match": " linksTo    `linksTo()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`linksTo()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`linksTo()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`linksTo()`"
     },
     {
       "title": "File",
@@ -1509,17 +1574,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/views/list#Markers"
     },
     {
-      "title": "Nested properties",
+      "title": "Indent properties",
       "subtitle": "Bases/Layouts/List view",
-      "uid": "https://help.obsidian.md/bases/views/list#Nested+properties",
-      "match": "Nested properties Nested properties List view List view Bases/Layouts Bases/Layouts ",
+      "uid": "https://help.obsidian.md/bases/views/list#Indent+properties",
+      "match": "Indent properties Indent properties List view List view Bases/Layouts Bases/Layouts ",
       "mods": {
         "cmd": {
-          "arg": "Nested properties"
+          "arg": "Indent properties"
         }
       },
-      "arg": "https://help.obsidian.md/bases/views/list#Nested+properties",
-      "quicklookurl": "https://help.obsidian.md/bases/views/list#Nested+properties"
+      "arg": "https://help.obsidian.md/bases/views/list#Indent+properties",
+      "quicklookurl": "https://help.obsidian.md/bases/views/list#Indent+properties"
     },
     {
       "title": "Separators",
@@ -1743,6 +1808,110 @@
       "quicklookurl": "https://help.obsidian.md/bases/views/table#Row+height"
     },
     {
+      "title": "Summaries",
+      "subtitle": "Bases/Layouts/Table view",
+      "uid": "https://help.obsidian.md/bases/views/table#Summaries",
+      "match": "Summaries Summaries Table view Table view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Summaries"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/table#Summaries",
+      "quicklookurl": "https://help.obsidian.md/bases/views/table#Summaries"
+    },
+    {
+      "title": "Add a summary",
+      "subtitle": "Bases/Layouts/Table view",
+      "uid": "https://help.obsidian.md/bases/views/table#Add+a+summary",
+      "match": "Add a summary Add a summary Table view Table view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Add a summary"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/table#Add+a+summary",
+      "quicklookurl": "https://help.obsidian.md/bases/views/table#Add+a+summary"
+    },
+    {
+      "title": "Built-in summaries",
+      "subtitle": "Bases/Layouts/Table view",
+      "uid": "https://help.obsidian.md/bases/views/table#Built-in+summaries",
+      "match": "Built in summaries Built-in summaries Table view Table view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Built-in summaries"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/table#Built-in+summaries",
+      "quicklookurl": "https://help.obsidian.md/bases/views/table#Built-in+summaries"
+    },
+    {
+      "title": "All property types",
+      "subtitle": "Bases/Layouts/Table view",
+      "uid": "https://help.obsidian.md/bases/views/table#All+property+types",
+      "match": "All property types All property types Table view Table view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "All property types"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/table#All+property+types",
+      "quicklookurl": "https://help.obsidian.md/bases/views/table#All+property+types"
+    },
+    {
+      "title": "Numbers",
+      "subtitle": "Bases/Layouts/Table view",
+      "uid": "https://help.obsidian.md/bases/views/table#Numbers",
+      "match": "Numbers Numbers Table view Table view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Numbers"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/table#Numbers",
+      "quicklookurl": "https://help.obsidian.md/bases/views/table#Numbers"
+    },
+    {
+      "title": "Dates",
+      "subtitle": "Bases/Layouts/Table view",
+      "uid": "https://help.obsidian.md/bases/views/table#Dates",
+      "match": "Dates Dates Table view Table view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Dates"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/table#Dates",
+      "quicklookurl": "https://help.obsidian.md/bases/views/table#Dates"
+    },
+    {
+      "title": "Checkbox",
+      "subtitle": "Bases/Layouts/Table view",
+      "uid": "https://help.obsidian.md/bases/views/table#Checkbox",
+      "match": "Checkbox Checkbox Table view Table view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Checkbox"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/table#Checkbox",
+      "quicklookurl": "https://help.obsidian.md/bases/views/table#Checkbox"
+    },
+    {
+      "title": "Custom summaries",
+      "subtitle": "Bases/Layouts/Table view",
+      "uid": "https://help.obsidian.md/bases/views/table#Custom+summaries",
+      "match": "Custom summaries Custom summaries Table view Table view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Custom summaries"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/table#Custom+summaries",
+      "quicklookurl": "https://help.obsidian.md/bases/views/table#Custom+summaries"
+    },
+    {
       "title": "Shortcuts",
       "subtitle": "Bases/Layouts/Table view",
       "uid": "https://help.obsidian.md/bases/views/table#Shortcuts",
@@ -1767,6 +1936,19 @@
       "uid": "https://help.obsidian.md/bases/views",
       "arg": "https://help.obsidian.md/bases/views",
       "quicklookurl": "https://help.obsidian.md/bases/views"
+    },
+    {
+      "title": "Toolbar",
+      "subtitle": "Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Toolbar",
+      "match": "Toolbar Toolbar Views Views Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Toolbar"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Toolbar",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Toolbar"
     },
     {
       "title": "Add and switch views",
@@ -1873,6 +2055,45 @@
       "quicklookurl": "https://help.obsidian.md/bases/views#Advanced+filter+editor"
     },
     {
+      "title": "Sort and group results",
+      "subtitle": "Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Sort+and+group+results",
+      "match": "Sort and group results Sort and group results Views Views Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Sort and group results"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Sort+and+group+results",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Sort+and+group+results"
+    },
+    {
+      "title": "Add a sort",
+      "subtitle": "Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Add+a+sort",
+      "match": "Add a sort Add a sort Views Views Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Add a sort"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Add+a+sort",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Add+a+sort"
+    },
+    {
+      "title": "Remove a sort",
+      "subtitle": "Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Remove+a+sort",
+      "match": "Remove a sort Remove a sort Views Views Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Remove a sort"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Remove+a+sort",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Remove+a+sort"
+    },
+    {
       "title": "Limit, copy, and export results",
       "subtitle": "Bases/Views",
       "uid": "https://help.obsidian.md/bases/views#Limit,+copy,+and+export+results",
@@ -1923,6 +2144,19 @@
       },
       "arg": "https://help.obsidian.md/bases/views#Export+CSV",
       "quicklookurl": "https://help.obsidian.md/bases/views#Export+CSV"
+    },
+    {
+      "title": "Embed a view",
+      "subtitle": "Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Embed+a+view",
+      "match": "Embed a view Embed a view Views Views Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Embed a view"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Embed+a+view",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Embed+a+view"
     },
     {
       "title": "Developers",
@@ -5877,6 +6111,45 @@
       "quicklookurl": "https://help.obsidian.md//#Contribute"
     },
     {
+      "title": "Import CSV files",
+      "match": "Import CSV files Import CSV files Import notes Import notes ",
+      "subtitle": "Import notes",
+      "mods": {
+        "cmd": {
+          "arg": "Import CSV files"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/csv",
+      "arg": "https://help.obsidian.md/import/csv",
+      "quicklookurl": "https://help.obsidian.md/import/csv"
+    },
+    {
+      "title": "Create notes from CSV data in Obsidian",
+      "subtitle": "Import notes/Import CSV files",
+      "uid": "https://help.obsidian.md/import/csv#Create+notes+from+CSV+data+in+Obsidian",
+      "match": "Create notes from CSV data in Obsidian Create notes from CSV data in Obsidian Import CSV files Import CSV files Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Create notes from CSV data in Obsidian"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/csv#Create+notes+from+CSV+data+in+Obsidian",
+      "quicklookurl": "https://help.obsidian.md/import/csv#Create+notes+from+CSV+data+in+Obsidian"
+    },
+    {
+      "title": "Configure how CSV fields are imported",
+      "subtitle": "Import notes/Import CSV files",
+      "uid": "https://help.obsidian.md/import/csv#Configure+how+CSV+fields+are+imported",
+      "match": "Configure how CSV fields are imported Configure how CSV fields are imported Import CSV files Import CSV files Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Configure how CSV fields are imported"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/csv#Configure+how+CSV+fields+are+imported",
+      "quicklookurl": "https://help.obsidian.md/import/csv#Configure+how+CSV+fields+are+imported"
+    },
+    {
       "title": "Import HTML files",
       "match": "Import HTML files Import HTML files Import notes Import notes ",
       "subtitle": "Import notes",
@@ -9151,6 +9424,45 @@
       },
       "arg": "https://help.obsidian.md/sync/security#Managing+access+to+Obsidian+Sync+on+your+network",
       "quicklookurl": "https://help.obsidian.md/sync/security#Managing+access+to+Obsidian+Sync+on+your+network"
+    },
+    {
+      "title": "Limitations",
+      "subtitle": "Obsidian Sync/Security and privacy",
+      "uid": "https://help.obsidian.md/sync/security#Limitations",
+      "match": "Limitations Limitations Security and privacy Security and privacy Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Limitations"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/security#Limitations",
+      "quicklookurl": "https://help.obsidian.md/sync/security#Limitations"
+    },
+    {
+      "title": "Deterministic file-hash encryption",
+      "subtitle": "Obsidian Sync/Security and privacy",
+      "uid": "https://help.obsidian.md/sync/security#Deterministic+file-hash+encryption",
+      "match": "Deterministic file hash encryption Deterministic file-hash encryption Security and privacy Security and privacy Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Deterministic file-hash encryption"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/security#Deterministic+file-hash+encryption",
+      "quicklookurl": "https://help.obsidian.md/sync/security#Deterministic+file-hash+encryption"
+    },
+    {
+      "title": "No cryptographic binding between path and content",
+      "subtitle": "Obsidian Sync/Security and privacy",
+      "uid": "https://help.obsidian.md/sync/security#No+cryptographic+binding+between+path+and+content",
+      "match": "No cryptographic binding between path and content No cryptographic binding between path and content Security and privacy Security and privacy Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "No cryptographic binding between path and content"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/security#No+cryptographic+binding+between+path+and+content",
+      "quicklookurl": "https://help.obsidian.md/sync/security#No+cryptographic+binding+between+path+and+content"
     },
     {
       "title": "Set up Obsidian Sync",
