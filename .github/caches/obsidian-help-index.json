@@ -1769,6 +1769,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/views/map#Useful+links"
     },
     {
+      "title": "Troubleshooting",
+      "subtitle": "Bases/Layouts/Map view",
+      "uid": "https://help.obsidian.md/bases/views/map#Troubleshooting",
+      "match": "Troubleshooting Troubleshooting Map view Map view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Troubleshooting"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/map#Troubleshooting",
+      "quicklookurl": "https://help.obsidian.md/bases/views/map#Troubleshooting"
+    },
+    {
       "title": "Table view",
       "match": "Table view Table view Bases/Layouts Bases/Layouts ",
       "subtitle": "Bases/Layouts",
