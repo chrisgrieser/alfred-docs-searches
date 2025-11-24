@@ -378,6 +378,227 @@
       "quicklookurl": "https://help.obsidian.md/bases/create-base#Embed+a+base+as+a+code+block"
     },
     {
+      "title": "Formulas",
+      "match": "Formulas Formulas Bases Bases ",
+      "subtitle": "Bases",
+      "mods": {
+        "cmd": {
+          "arg": "Formulas"
+        }
+      },
+      "uid": "https://help.obsidian.md//formulas",
+      "arg": "https://help.obsidian.md//formulas",
+      "quicklookurl": "https://help.obsidian.md//formulas"
+    },
+    {
+      "title": "What formulas can do",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#What+formulas+can+do",
+      "match": "What formulas can do What formulas can do Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "What formulas can do"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#What+formulas+can+do",
+      "quicklookurl": "https://help.obsidian.md//formulas#What+formulas+can+do"
+    },
+    {
+      "title": "Create a formula property",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Create+a+formula+property",
+      "match": "Create a formula property Create a formula property Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Create a formula property"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Create+a+formula+property",
+      "quicklookurl": "https://help.obsidian.md//formulas#Create+a+formula+property"
+    },
+    {
+      "title": "Write a formula",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Write+a+formula",
+      "match": "Write a formula Write a formula Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Write a formula"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Write+a+formula",
+      "quicklookurl": "https://help.obsidian.md//formulas#Write+a+formula"
+    },
+    {
+      "title": "Reference properties",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Reference+properties",
+      "match": "Reference properties Reference properties Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Reference properties"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Reference+properties",
+      "quicklookurl": "https://help.obsidian.md//formulas#Reference+properties"
+    },
+    {
+      "title": "Use operators",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Use+operators",
+      "match": "Use operators Use operators Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Use operators"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Use+operators",
+      "quicklookurl": "https://help.obsidian.md//formulas#Use+operators"
+    },
+    {
+      "title": "Use functions",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Use+functions",
+      "match": "Use functions Use functions Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Use functions"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Use+functions",
+      "quicklookurl": "https://help.obsidian.md//formulas#Use+functions"
+    },
+    {
+      "title": "Formula examples",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Formula+examples",
+      "match": "Formula examples Formula examples Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Formula examples"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Formula+examples",
+      "quicklookurl": "https://help.obsidian.md//formulas#Formula+examples"
+    },
+    {
+      "title": "Calculate a deadline",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Calculate+a+deadline",
+      "match": "Calculate a deadline Calculate a deadline Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Calculate a deadline"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Calculate+a+deadline",
+      "quicklookurl": "https://help.obsidian.md//formulas#Calculate+a+deadline"
+    },
+    {
+      "title": "Display overdue status",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Display+overdue+status",
+      "match": "Display overdue status Display overdue status Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Display overdue status"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Display+overdue+status",
+      "quicklookurl": "https://help.obsidian.md//formulas#Display+overdue+status"
+    },
+    {
+      "title": "Format currency",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Format+currency",
+      "match": "Format currency Format currency Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Format currency"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Format+currency",
+      "quicklookurl": "https://help.obsidian.md//formulas#Format+currency"
+    },
+    {
+      "title": "Count list items",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Count+list+items",
+      "match": "Count list items Count list items Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Count list items"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Count+list+items",
+      "quicklookurl": "https://help.obsidian.md//formulas#Count+list+items"
+    },
+    {
+      "title": "Calculate priority score",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Calculate+priority+score",
+      "match": "Calculate priority score Calculate priority score Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Calculate priority score"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Calculate+priority+score",
+      "quicklookurl": "https://help.obsidian.md//formulas#Calculate+priority+score"
+    },
+    {
+      "title": "Combine text fields",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Combine+text+fields",
+      "match": "Combine text fields Combine text fields Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Combine text fields"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Combine+text+fields",
+      "quicklookurl": "https://help.obsidian.md//formulas#Combine+text+fields"
+    },
+    {
+      "title": "Calculate total cost",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Calculate+total+cost",
+      "match": "Calculate total cost Calculate total cost Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Calculate total cost"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Calculate+total+cost",
+      "quicklookurl": "https://help.obsidian.md//formulas#Calculate+total+cost"
+    },
+    {
+      "title": "Data types",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Data+types",
+      "match": "Data types Data types Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Data types"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Data+types",
+      "quicklookurl": "https://help.obsidian.md//formulas#Data+types"
+    },
+    {
+      "title": "Reference other formulas",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md//formulas#Reference+other+formulas",
+      "match": "Reference other formulas Reference other formulas Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Reference other formulas"
+        }
+      },
+      "arg": "https://help.obsidian.md//formulas#Reference+other+formulas",
+      "quicklookurl": "https://help.obsidian.md//formulas#Reference+other+formulas"
+    },
+    {
       "title": "Functions",
       "match": "Functions Functions Bases Bases ",
       "subtitle": "Bases",
@@ -1613,6 +1834,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/views/map"
     },
     {
+      "title": "Install the Maps plugin",
+      "subtitle": "Bases/Layouts/Map view",
+      "uid": "https://help.obsidian.md/bases/views/map#Install+the+Maps+plugin",
+      "match": "Install the Maps plugin Install the Maps plugin Map view Map view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Install the Maps plugin"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/map#Install+the+Maps+plugin",
+      "quicklookurl": "https://help.obsidian.md/bases/views/map#Install+the+Maps+plugin"
+    },
+    {
       "title": "Example",
       "subtitle": "Bases/Layouts/Map view",
       "uid": "https://help.obsidian.md/bases/views/map#Example",
@@ -1767,6 +2001,19 @@
       },
       "arg": "https://help.obsidian.md/bases/views/map#Useful+links",
       "quicklookurl": "https://help.obsidian.md/bases/views/map#Useful+links"
+    },
+    {
+      "title": "Tips",
+      "subtitle": "Bases/Layouts/Map view",
+      "uid": "https://help.obsidian.md/bases/views/map#Tips",
+      "match": "Tips Tips Map view Map view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Tips"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/map#Tips",
+      "quicklookurl": "https://help.obsidian.md/bases/views/map#Tips"
     },
     {
       "title": "Troubleshooting",
@@ -6683,6 +6930,71 @@
       "quicklookurl": "https://help.obsidian.md/import/notion"
     },
     {
+      "title": "API import",
+      "subtitle": "Import notes/Import from Notion",
+      "uid": "https://help.obsidian.md/import/notion#API+import",
+      "match": "API import API import Import from Notion Import from Notion Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "API import"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/notion#API+import",
+      "quicklookurl": "https://help.obsidian.md/import/notion#API+import"
+    },
+    {
+      "title": "Create a Notion API integration token",
+      "subtitle": "Import notes/Import from Notion",
+      "uid": "https://help.obsidian.md/import/notion#Create+a+Notion+API+integration+token",
+      "match": "Create a Notion API integration token Create a Notion API integration token Import from Notion Import from Notion Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Create a Notion API integration token"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/notion#Create+a+Notion+API+integration+token",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Create+a+Notion+API+integration+token"
+    },
+    {
+      "title": "Import your Notion data via API",
+      "subtitle": "Import notes/Import from Notion",
+      "uid": "https://help.obsidian.md/import/notion#Import+your+Notion+data+via+API",
+      "match": "Import your Notion data via API Import your Notion data via API Import from Notion Import from Notion Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Import your Notion data via API"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/notion#Import+your+Notion+data+via+API",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Import+your+Notion+data+via+API"
+    },
+    {
+      "title": "Limitations",
+      "subtitle": "Import notes/Import from Notion",
+      "uid": "https://help.obsidian.md/import/notion#Limitations",
+      "match": "Limitations Limitations Import from Notion Import from Notion Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Limitations"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/notion#Limitations",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Limitations"
+    },
+    {
+      "title": "File import",
+      "subtitle": "Import notes/Import from Notion",
+      "uid": "https://help.obsidian.md/import/notion#File+import",
+      "match": "File import File import Import from Notion Import from Notion Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "File import"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/notion#File+import",
+      "quicklookurl": "https://help.obsidian.md/import/notion#File+import"
+    },
+    {
       "title": "Export your data from Notion",
       "subtitle": "Import notes/Import from Notion",
       "uid": "https://help.obsidian.md/import/notion#Export+your+data+from+Notion",
@@ -6696,17 +7008,17 @@
       "quicklookurl": "https://help.obsidian.md/import/notion#Export+your+data+from+Notion"
     },
     {
-      "title": "Import your Notion data into Obsidian",
+      "title": "Import your Notion .zip file",
       "subtitle": "Import notes/Import from Notion",
-      "uid": "https://help.obsidian.md/import/notion#Import+your+Notion+data+into+Obsidian",
-      "match": "Import your Notion data into Obsidian Import your Notion data into Obsidian Import from Notion Import from Notion Import notes Import notes ",
+      "uid": "https://help.obsidian.md/import/notion#Import+your+Notion+.zip+file",
+      "match": "Import your Notion  zip file Import your Notion .zip file Import from Notion Import from Notion Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "Import your Notion data into Obsidian"
+          "arg": "Import your Notion .zip file"
         }
       },
-      "arg": "https://help.obsidian.md/import/notion#Import+your+Notion+data+into+Obsidian",
-      "quicklookurl": "https://help.obsidian.md/import/notion#Import+your+Notion+data+into+Obsidian"
+      "arg": "https://help.obsidian.md/import/notion#Import+your+Notion+.zip+file",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Import+your+Notion+.zip+file"
     },
     {
       "title": "Troubleshooting",
