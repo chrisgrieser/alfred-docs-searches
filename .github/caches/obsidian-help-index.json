@@ -807,6 +807,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`number()`"
     },
     {
+      "title": "duration()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`duration()`",
+      "match": " duration    `duration()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`duration()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`duration()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`duration()`"
+    },
+    {
       "title": "today()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`today()`",
@@ -844,6 +857,19 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`isTruthy()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`isTruthy()`"
+    },
+    {
+      "title": "isType()",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#`isType()`",
+      "match": " isType    `isType()` Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "`isType()`"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#`isType()`",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#`isType()`"
     },
     {
       "title": "toString()",
@@ -1494,6 +1520,19 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#File",
       "quicklookurl": "https://help.obsidian.md/bases/functions#File"
+    },
+    {
+      "title": "Fields",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#Fields",
+      "match": "Fields Fields Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Fields"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#Fields",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#Fields"
     },
     {
       "title": "asLink()",
@@ -2653,17 +2692,17 @@
       "quicklookurl": "https://help.obsidian.md/style-guide#Examples"
     },
     {
-      "title": "Key names",
+      "title": "Key names and keyboard shortcuts",
       "subtitle": "Contributing to Obsidian/Style guide",
-      "uid": "https://help.obsidian.md/style-guide#Key+names",
-      "match": "Key names Key names Style guide Style guide Contributing to Obsidian Contributing to Obsidian ",
+      "uid": "https://help.obsidian.md/style-guide#Key+names+and+keyboard+shortcuts",
+      "match": "Key names and keyboard shortcuts Key names and keyboard shortcuts Style guide Style guide Contributing to Obsidian Contributing to Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Key names"
+          "arg": "Key names and keyboard shortcuts"
         }
       },
-      "arg": "https://help.obsidian.md/style-guide#Key+names",
-      "quicklookurl": "https://help.obsidian.md/style-guide#Key+names"
+      "arg": "https://help.obsidian.md/style-guide#Key+names+and+keyboard+shortcuts",
+      "quicklookurl": "https://help.obsidian.md/style-guide#Key+names+and+keyboard+shortcuts"
     },
     {
       "title": "Markdown",
@@ -2716,6 +2755,123 @@
       },
       "arg": "https://help.obsidian.md/style-guide#Images",
       "quicklookurl": "https://help.obsidian.md/style-guide#Images"
+    },
+    {
+      "title": "Information structure",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/style-guide#Information+structure",
+      "match": "Information structure Information structure Style guide Style guide Contributing to Obsidian Contributing to Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Information structure"
+        }
+      },
+      "arg": "https://help.obsidian.md/style-guide#Information+structure",
+      "quicklookurl": "https://help.obsidian.md/style-guide#Information+structure"
+    },
+    {
+      "title": "Callout types",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/style-guide#Callout+types",
+      "match": "Callout types Callout types Style guide Style guide Contributing to Obsidian Contributing to Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Callout types"
+        }
+      },
+      "arg": "https://help.obsidian.md/style-guide#Callout+types",
+      "quicklookurl": "https://help.obsidian.md/style-guide#Callout+types"
+    },
+    {
+      "title": "Lists vs. prose",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/style-guide#Lists+vs.+prose",
+      "match": "Lists vs  prose Lists vs. prose Style guide Style guide Contributing to Obsidian Contributing to Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Lists vs. prose"
+        }
+      },
+      "arg": "https://help.obsidian.md/style-guide#Lists+vs.+prose",
+      "quicklookurl": "https://help.obsidian.md/style-guide#Lists+vs.+prose"
+    },
+    {
+      "title": "Tables",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/style-guide#Tables",
+      "match": "Tables Tables Style guide Style guide Contributing to Obsidian Contributing to Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Tables"
+        }
+      },
+      "arg": "https://help.obsidian.md/style-guide#Tables",
+      "quicklookurl": "https://help.obsidian.md/style-guide#Tables"
+    },
+    {
+      "title": "Cross-references",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/style-guide#Cross-references",
+      "match": "Cross references Cross-references Style guide Style guide Contributing to Obsidian Contributing to Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Cross-references"
+        }
+      },
+      "arg": "https://help.obsidian.md/style-guide#Cross-references",
+      "quicklookurl": "https://help.obsidian.md/style-guide#Cross-references"
+    },
+    {
+      "title": "Platform-specific content",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/style-guide#Platform-specific+content",
+      "match": "Platform specific content Platform-specific content Style guide Style guide Contributing to Obsidian Contributing to Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Platform-specific content"
+        }
+      },
+      "arg": "https://help.obsidian.md/style-guide#Platform-specific+content",
+      "quicklookurl": "https://help.obsidian.md/style-guide#Platform-specific+content"
+    },
+    {
+      "title": "Customizing the ribbon",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/style-guide#Customizing+the+ribbon",
+      "match": "Customizing the ribbon Customizing the ribbon Style guide Style guide Contributing to Obsidian Contributing to Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Customizing the ribbon"
+        }
+      },
+      "arg": "https://help.obsidian.md/style-guide#Customizing+the+ribbon",
+      "quicklookurl": "https://help.obsidian.md/style-guide#Customizing+the+ribbon"
+    },
+    {
+      "title": "Desktop",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/style-guide#Desktop",
+      "match": "Desktop Desktop Style guide Style guide Contributing to Obsidian Contributing to Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Desktop"
+        }
+      },
+      "arg": "https://help.obsidian.md/style-guide#Desktop",
+      "quicklookurl": "https://help.obsidian.md/style-guide#Desktop"
+    },
+    {
+      "title": "Mobile",
+      "subtitle": "Contributing to Obsidian/Style guide",
+      "uid": "https://help.obsidian.md/style-guide#Mobile",
+      "match": "Mobile Mobile Style guide Style guide Contributing to Obsidian Contributing to Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Mobile"
+        }
+      },
+      "arg": "https://help.obsidian.md/style-guide#Mobile",
+      "quicklookurl": "https://help.obsidian.md/style-guide#Mobile"
     },
     {
       "title": "Icons and images",
@@ -3264,6 +3420,19 @@
       "quicklookurl": "https://help.obsidian.md/syntax#Code+blocks"
     },
     {
+      "title": "Nesting code blocks",
+      "subtitle": "Editing and formatting/Basic formatting syntax",
+      "uid": "https://help.obsidian.md/syntax#Nesting+code+blocks",
+      "match": "Nesting code blocks Nesting code blocks Basic formatting syntax Basic formatting syntax Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Nesting code blocks"
+        }
+      },
+      "arg": "https://help.obsidian.md/syntax#Nesting+code+blocks",
+      "quicklookurl": "https://help.obsidian.md/syntax#Nesting+code+blocks"
+    },
+    {
       "title": "Footnotes",
       "subtitle": "Editing and formatting/Basic formatting syntax",
       "uid": "https://help.obsidian.md/syntax#Footnotes",
@@ -3613,6 +3782,71 @@
       "uid": "https://help.obsidian.md/Editing+and+formatting/HTML+content",
       "arg": "https://help.obsidian.md/Editing+and+formatting/HTML+content",
       "quicklookurl": "https://help.obsidian.md/Editing+and+formatting/HTML+content"
+    },
+    {
+      "title": "HTML limitations",
+      "subtitle": "Editing and formatting/HTML content",
+      "uid": "https://help.obsidian.md/Editing+and+formatting/HTML+content#HTML+limitations",
+      "match": "HTML limitations HTML limitations HTML content HTML content Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "HTML limitations"
+        }
+      },
+      "arg": "https://help.obsidian.md/Editing+and+formatting/HTML+content#HTML+limitations",
+      "quicklookurl": "https://help.obsidian.md/Editing+and+formatting/HTML+content#HTML+limitations"
+    },
+    {
+      "title": "No Markdown inside HTML",
+      "subtitle": "Editing and formatting/HTML content",
+      "uid": "https://help.obsidian.md/Editing+and+formatting/HTML+content#No+Markdown+inside+HTML",
+      "match": "No Markdown inside HTML No Markdown inside HTML HTML content HTML content Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "No Markdown inside HTML"
+        }
+      },
+      "arg": "https://help.obsidian.md/Editing+and+formatting/HTML+content#No+Markdown+inside+HTML",
+      "quicklookurl": "https://help.obsidian.md/Editing+and+formatting/HTML+content#No+Markdown+inside+HTML"
+    },
+    {
+      "title": "HTML blocks must be self-contained",
+      "subtitle": "Editing and formatting/HTML content",
+      "uid": "https://help.obsidian.md/Editing+and+formatting/HTML+content#HTML+blocks+must+be+self-contained",
+      "match": "HTML blocks must be self contained HTML blocks must be self-contained HTML content HTML content Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "HTML blocks must be self-contained"
+        }
+      },
+      "arg": "https://help.obsidian.md/Editing+and+formatting/HTML+content#HTML+blocks+must+be+self-contained",
+      "quicklookurl": "https://help.obsidian.md/Editing+and+formatting/HTML+content#HTML+blocks+must+be+self-contained"
+    },
+    {
+      "title": "When Markdown appears to work in HTML",
+      "subtitle": "Editing and formatting/HTML content",
+      "uid": "https://help.obsidian.md/Editing+and+formatting/HTML+content#When+Markdown+appears+to+work+in+HTML",
+      "match": "When Markdown appears to work in HTML When Markdown appears to work in HTML HTML content HTML content Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "When Markdown appears to work in HTML"
+        }
+      },
+      "arg": "https://help.obsidian.md/Editing+and+formatting/HTML+content#When+Markdown+appears+to+work+in+HTML",
+      "quicklookurl": "https://help.obsidian.md/Editing+and+formatting/HTML+content#When+Markdown+appears+to+work+in+HTML"
+    },
+    {
+      "title": "Common HTML usage",
+      "subtitle": "Editing and formatting/HTML content",
+      "uid": "https://help.obsidian.md/Editing+and+formatting/HTML+content#Common+HTML+usage",
+      "match": "Common HTML usage Common HTML usage HTML content HTML content Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Common HTML usage"
+        }
+      },
+      "arg": "https://help.obsidian.md/Editing+and+formatting/HTML+content#Common+HTML+usage",
+      "quicklookurl": "https://help.obsidian.md/Editing+and+formatting/HTML+content#Common+HTML+usage"
     },
     {
       "title": "Comments",
@@ -4343,6 +4577,19 @@
       "quicklookurl": "https://help.obsidian.md/community-plugins#Uninstall+a+community+plugin"
     },
     {
+      "title": "Manage installed plugins",
+      "subtitle": "Extending Obsidian/Community plugins",
+      "uid": "https://help.obsidian.md/community-plugins#Manage+installed+plugins",
+      "match": "Manage installed plugins Manage installed plugins Community plugins Community plugins Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Manage installed plugins"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-plugins#Manage+installed+plugins",
+      "quicklookurl": "https://help.obsidian.md/community-plugins#Manage+installed+plugins"
+    },
+    {
       "title": "Learn more",
       "subtitle": "Extending Obsidian/Community plugins",
       "uid": "https://help.obsidian.md/community-plugins#Learn+more",
@@ -4796,6 +5043,45 @@
       "uid": "https://help.obsidian.md/configuration-folder",
       "arg": "https://help.obsidian.md/configuration-folder",
       "quicklookurl": "https://help.obsidian.md/configuration-folder"
+    },
+    {
+      "title": "Access your configuration folder",
+      "subtitle": "Files and folders/Configuration folder",
+      "uid": "https://help.obsidian.md/configuration-folder#Access+your+configuration+folder",
+      "match": "Access your configuration folder Access your configuration folder Configuration folder Configuration folder Files and folders Files and folders ",
+      "mods": {
+        "cmd": {
+          "arg": "Access your configuration folder"
+        }
+      },
+      "arg": "https://help.obsidian.md/configuration-folder#Access+your+configuration+folder",
+      "quicklookurl": "https://help.obsidian.md/configuration-folder#Access+your+configuration+folder"
+    },
+    {
+      "title": "Desktop",
+      "subtitle": "Files and folders/Configuration folder",
+      "uid": "https://help.obsidian.md/configuration-folder#Desktop",
+      "match": "Desktop Desktop Configuration folder Configuration folder Files and folders Files and folders ",
+      "mods": {
+        "cmd": {
+          "arg": "Desktop"
+        }
+      },
+      "arg": "https://help.obsidian.md/configuration-folder#Desktop",
+      "quicklookurl": "https://help.obsidian.md/configuration-folder#Desktop"
+    },
+    {
+      "title": "Mobile",
+      "subtitle": "Files and folders/Configuration folder",
+      "uid": "https://help.obsidian.md/configuration-folder#Mobile",
+      "match": "Mobile Mobile Configuration folder Configuration folder Files and folders Files and folders ",
+      "mods": {
+        "cmd": {
+          "arg": "Mobile"
+        }
+      },
+      "arg": "https://help.obsidian.md/configuration-folder#Mobile",
+      "quicklookurl": "https://help.obsidian.md/configuration-folder#Mobile"
     },
     {
       "title": "Change your configuration folder",
@@ -5942,19 +6228,6 @@
       "quicklookurl": "https://help.obsidian.md/sync-notes#Working+Copy"
     },
     {
-      "title": "Comparison",
-      "subtitle": "Getting started/Sync your notes across devices",
-      "uid": "https://help.obsidian.md/sync-notes#Comparison",
-      "match": "Comparison Comparison Sync your notes across devices Sync your notes across devices Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Comparison"
-        }
-      },
-      "arg": "https://help.obsidian.md/sync-notes#Comparison",
-      "quicklookurl": "https://help.obsidian.md/sync-notes#Comparison"
-    },
-    {
       "title": "Frequently asked questions",
       "subtitle": "Getting started/Sync your notes across devices",
       "uid": "https://help.obsidian.md/sync-notes#Frequently+asked+questions",
@@ -6163,17 +6436,17 @@
       "quicklookurl": "https://help.obsidian.md/mobile#Ribbon+actions"
     },
     {
-      "title": "Right sidebar",
+      "title": "Sidebars",
       "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Right+sidebar",
-      "match": "Right sidebar Right sidebar Use the mobile app Use the mobile app Getting started Getting started ",
+      "uid": "https://help.obsidian.md/mobile#Sidebars",
+      "match": "Sidebars Sidebars Use the mobile app Use the mobile app Getting started Getting started ",
       "mods": {
         "cmd": {
-          "arg": "Right sidebar"
+          "arg": "Sidebars"
         }
       },
-      "arg": "https://help.obsidian.md/mobile#Right+sidebar",
-      "quicklookurl": "https://help.obsidian.md/mobile#Right+sidebar"
+      "arg": "https://help.obsidian.md/mobile#Sidebars",
+      "quicklookurl": "https://help.obsidian.md/mobile#Sidebars"
     },
     {
       "title": "Help and support",
@@ -6226,6 +6499,19 @@
       },
       "arg": "https://help.obsidian.md/resources#Collect+debug+information",
       "quicklookurl": "https://help.obsidian.md/resources#Collect+debug+information"
+    },
+    {
+      "title": "Check startup time",
+      "subtitle": "Help and support",
+      "uid": "https://help.obsidian.md/resources#Check+startup+time",
+      "match": "Check startup time Check startup time Help and support Help and support   ",
+      "mods": {
+        "cmd": {
+          "arg": "Check startup time"
+        }
+      },
+      "arg": "https://help.obsidian.md/resources#Check+startup+time",
+      "quicklookurl": "https://help.obsidian.md/resources#Check+startup+time"
     },
     {
       "title": "Capture console logs",
@@ -10492,6 +10778,32 @@
       "quicklookurl": "https://help.obsidian.md/sync/troubleshoot#Conflict+resolution"
     },
     {
+      "title": "How Obsidian Sync handles conflicts",
+      "subtitle": "Obsidian Sync/Troubleshoot Obsidian Sync",
+      "uid": "https://help.obsidian.md/sync/troubleshoot#How+Obsidian+Sync+handles+conflicts",
+      "match": "How Obsidian Sync handles conflicts How Obsidian Sync handles conflicts Troubleshoot Obsidian Sync Troubleshoot Obsidian Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "How Obsidian Sync handles conflicts"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/troubleshoot#How+Obsidian+Sync+handles+conflicts",
+      "quicklookurl": "https://help.obsidian.md/sync/troubleshoot#How+Obsidian+Sync+handles+conflicts"
+    },
+    {
+      "title": "Conflict resolution options",
+      "subtitle": "Obsidian Sync/Troubleshoot Obsidian Sync",
+      "uid": "https://help.obsidian.md/sync/troubleshoot#Conflict+resolution+options",
+      "match": "Conflict resolution options Conflict resolution options Troubleshoot Obsidian Sync Troubleshoot Obsidian Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Conflict resolution options"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/troubleshoot#Conflict+resolution+options",
+      "quicklookurl": "https://help.obsidian.md/sync/troubleshoot#Conflict+resolution+options"
+    },
+    {
       "title": " Sync deleted a note I just created on two devices",
       "subtitle": "Obsidian Sync/Troubleshoot Obsidian Sync",
       "uid": "https://help.obsidian.md/sync/troubleshoot#+Sync+deleted+a+note+I+just+created+on+two+devices",
@@ -10505,17 +10817,17 @@
       "quicklookurl": "https://help.obsidian.md/sync/troubleshoot#+Sync+deleted+a+note+I+just+created+on+two+devices"
     },
     {
-      "title": "Sync will not Sync my plugins and settings updates",
+      "title": "Sync will not sync my plugins and settings updates",
       "subtitle": "Obsidian Sync/Troubleshoot Obsidian Sync",
-      "uid": "https://help.obsidian.md/sync/troubleshoot#Sync+will+not+Sync+my+plugins+and+settings+updates",
-      "match": "Sync will not Sync my plugins and settings updates Sync will not Sync my plugins and settings updates Troubleshoot Obsidian Sync Troubleshoot Obsidian Sync Obsidian Sync Obsidian Sync ",
+      "uid": "https://help.obsidian.md/sync/troubleshoot#Sync+will+not+sync+my+plugins+and+settings+updates",
+      "match": "Sync will not sync my plugins and settings updates Sync will not sync my plugins and settings updates Troubleshoot Obsidian Sync Troubleshoot Obsidian Sync Obsidian Sync Obsidian Sync ",
       "mods": {
         "cmd": {
-          "arg": "Sync will not Sync my plugins and settings updates"
+          "arg": "Sync will not sync my plugins and settings updates"
         }
       },
-      "arg": "https://help.obsidian.md/sync/troubleshoot#Sync+will+not+Sync+my+plugins+and+settings+updates",
-      "quicklookurl": "https://help.obsidian.md/sync/troubleshoot#Sync+will+not+Sync+my+plugins+and+settings+updates"
+      "arg": "https://help.obsidian.md/sync/troubleshoot#Sync+will+not+sync+my+plugins+and+settings+updates",
+      "quicklookurl": "https://help.obsidian.md/sync/troubleshoot#Sync+will+not+sync+my+plugins+and+settings+updates"
     },
     {
       "title": "My files keep disappearing from Sync as soon as I restore it",
@@ -13911,6 +14223,32 @@
       "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Change+sort+order"
     },
     {
+      "title": "Auto-reveal active file",
+      "subtitle": "Plugins/File explorer",
+      "uid": "https://help.obsidian.md/plugins/file-explorer#Auto-reveal+active+file",
+      "match": "Auto reveal active file Auto-reveal active file File explorer File explorer Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Auto-reveal active file"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/file-explorer#Auto-reveal+active+file",
+      "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Auto-reveal+active+file"
+    },
+    {
+      "title": "Expand or collapse all folders",
+      "subtitle": "Plugins/File explorer",
+      "uid": "https://help.obsidian.md/plugins/file-explorer#Expand+or+collapse+all+folders",
+      "match": "Expand or collapse all folders Expand or collapse all folders File explorer File explorer Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Expand or collapse all folders"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/file-explorer#Expand+or+collapse+all+folders",
+      "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Expand+or+collapse+all+folders"
+    },
+    {
       "title": "Delete a file or folder",
       "subtitle": "Plugins/File explorer",
       "uid": "https://help.obsidian.md/plugins/file-explorer#Delete+a+file+or+folder",
@@ -14678,19 +15016,6 @@
       "quicklookurl": "https://help.obsidian.md/plugins/templates#Set+your+template+folder"
     },
     {
-      "title": "Insert a template into the active note",
-      "subtitle": "Plugins/Templates",
-      "uid": "https://help.obsidian.md/plugins/templates#Insert+a+template+into+the+active+note",
-      "match": "Insert a template into the active note Insert a template into the active note Templates Templates Plugins Plugins ",
-      "mods": {
-        "cmd": {
-          "arg": "Insert a template into the active note"
-        }
-      },
-      "arg": "https://help.obsidian.md/plugins/templates#Insert+a+template+into+the+active+note",
-      "quicklookurl": "https://help.obsidian.md/plugins/templates#Insert+a+template+into+the+active+note"
-    },
-    {
       "title": "Template variables",
       "subtitle": "Plugins/Templates",
       "uid": "https://help.obsidian.md/plugins/templates#Template+variables",
@@ -14702,6 +15027,123 @@
       },
       "arg": "https://help.obsidian.md/plugins/templates#Template+variables",
       "quicklookurl": "https://help.obsidian.md/plugins/templates#Template+variables"
+    },
+    {
+      "title": "Create a template",
+      "subtitle": "Plugins/Templates",
+      "uid": "https://help.obsidian.md/plugins/templates#Create+a+template",
+      "match": "Create a template Create a template Templates Templates Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Create a template"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/templates#Create+a+template",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#Create+a+template"
+    },
+    {
+      "title": "{{title}}",
+      "subtitle": "Plugins/Templates",
+      "uid": "https://help.obsidian.md/plugins/templates#{{title}}",
+      "match": "{{title}} {{title}} Templates Templates Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "{{title}}"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/templates#{{title}}",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#{{title}}"
+    },
+    {
+      "title": "Key Concepts",
+      "subtitle": "Plugins/Templates",
+      "uid": "https://help.obsidian.md/plugins/templates#Key+Concepts",
+      "match": "Key Concepts Key Concepts Templates Templates Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Key Concepts"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/templates#Key+Concepts",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#Key+Concepts"
+    },
+    {
+      "title": "Important Details",
+      "subtitle": "Plugins/Templates",
+      "uid": "https://help.obsidian.md/plugins/templates#Important+Details",
+      "match": "Important Details Important Details Templates Templates Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Important Details"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/templates#Important+Details",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#Important+Details"
+    },
+    {
+      "title": "Examples",
+      "subtitle": "Plugins/Templates",
+      "uid": "https://help.obsidian.md/plugins/templates#Examples",
+      "match": "Examples Examples Templates Templates Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Examples"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/templates#Examples",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#Examples"
+    },
+    {
+      "title": "Questions",
+      "subtitle": "Plugins/Templates",
+      "uid": "https://help.obsidian.md/plugins/templates#Questions",
+      "match": "Questions Questions Templates Templates Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Questions"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/templates#Questions",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#Questions"
+    },
+    {
+      "title": "Summary",
+      "subtitle": "Plugins/Templates",
+      "uid": "https://help.obsidian.md/plugins/templates#Summary",
+      "match": "Summary Summary Templates Templates Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Summary"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/templates#Summary",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#Summary"
+    },
+    {
+      "title": "Related Topics",
+      "subtitle": "Plugins/Templates",
+      "uid": "https://help.obsidian.md/plugins/templates#Related+Topics",
+      "match": "Related Topics Related Topics Templates Templates Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Related Topics"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/templates#Related+Topics",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#Related+Topics"
+    },
+    {
+      "title": "Insert a template into the active note",
+      "subtitle": "Plugins/Templates",
+      "uid": "https://help.obsidian.md/plugins/templates#Insert+a+template+into+the+active+note",
+      "match": "Insert a template into the active note Insert a template into the active note Templates Templates Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Insert a template into the active note"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/templates#Insert+a+template+into+the+active+note",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#Insert+a+template+into+the+active+note"
     },
     {
       "title": "Template properties",
@@ -15510,30 +15952,82 @@
       "quicklookurl": "https://help.obsidian.md/hotkeys"
     },
     {
-      "title": "Viewing hotkeys",
+      "title": "View hotkeys",
       "subtitle": "User interface/Hotkeys",
-      "uid": "https://help.obsidian.md/hotkeys#Viewing+hotkeys",
-      "match": "Viewing hotkeys Viewing hotkeys Hotkeys Hotkeys User interface User interface ",
+      "uid": "https://help.obsidian.md/hotkeys#View+hotkeys",
+      "match": "View hotkeys View hotkeys Hotkeys Hotkeys User interface User interface ",
       "mods": {
         "cmd": {
-          "arg": "Viewing hotkeys"
+          "arg": "View hotkeys"
         }
       },
-      "arg": "https://help.obsidian.md/hotkeys#Viewing+hotkeys",
-      "quicklookurl": "https://help.obsidian.md/hotkeys#Viewing+hotkeys"
+      "arg": "https://help.obsidian.md/hotkeys#View+hotkeys",
+      "quicklookurl": "https://help.obsidian.md/hotkeys#View+hotkeys"
     },
     {
-      "title": "Setting hotkeys",
+      "title": "Set a hotkey",
       "subtitle": "User interface/Hotkeys",
-      "uid": "https://help.obsidian.md/hotkeys#Setting+hotkeys",
-      "match": "Setting hotkeys Setting hotkeys Hotkeys Hotkeys User interface User interface ",
+      "uid": "https://help.obsidian.md/hotkeys#Set+a+hotkey",
+      "match": "Set a hotkey Set a hotkey Hotkeys Hotkeys User interface User interface ",
       "mods": {
         "cmd": {
-          "arg": "Setting hotkeys"
+          "arg": "Set a hotkey"
         }
       },
-      "arg": "https://help.obsidian.md/hotkeys#Setting+hotkeys",
-      "quicklookurl": "https://help.obsidian.md/hotkeys#Setting+hotkeys"
+      "arg": "https://help.obsidian.md/hotkeys#Set+a+hotkey",
+      "quicklookurl": "https://help.obsidian.md/hotkeys#Set+a+hotkey"
+    },
+    {
+      "title": "Remove a hotkey",
+      "subtitle": "User interface/Hotkeys",
+      "uid": "https://help.obsidian.md/hotkeys#Remove+a+hotkey",
+      "match": "Remove a hotkey Remove a hotkey Hotkeys Hotkeys User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Remove a hotkey"
+        }
+      },
+      "arg": "https://help.obsidian.md/hotkeys#Remove+a+hotkey",
+      "quicklookurl": "https://help.obsidian.md/hotkeys#Remove+a+hotkey"
+    },
+    {
+      "title": "Filter hotkeys",
+      "subtitle": "User interface/Hotkeys",
+      "uid": "https://help.obsidian.md/hotkeys#Filter+hotkeys",
+      "match": "Filter hotkeys Filter hotkeys Hotkeys Hotkeys User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Filter hotkeys"
+        }
+      },
+      "arg": "https://help.obsidian.md/hotkeys#Filter+hotkeys",
+      "quicklookurl": "https://help.obsidian.md/hotkeys#Filter+hotkeys"
+    },
+    {
+      "title": "Non-US keyboard layouts",
+      "subtitle": "User interface/Hotkeys",
+      "uid": "https://help.obsidian.md/hotkeys#Non-US+keyboard+layouts",
+      "match": "Non US keyboard layouts Non-US keyboard layouts Hotkeys Hotkeys User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Non-US keyboard layouts"
+        }
+      },
+      "arg": "https://help.obsidian.md/hotkeys#Non-US+keyboard+layouts",
+      "quicklookurl": "https://help.obsidian.md/hotkeys#Non-US+keyboard+layouts"
+    },
+    {
+      "title": "Default keyboard shortcuts",
+      "subtitle": "User interface/Hotkeys",
+      "uid": "https://help.obsidian.md/hotkeys#Default+keyboard+shortcuts",
+      "match": "Default keyboard shortcuts Default keyboard shortcuts Hotkeys Hotkeys User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Default keyboard shortcuts"
+        }
+      },
+      "arg": "https://help.obsidian.md/hotkeys#Default+keyboard+shortcuts",
+      "quicklookurl": "https://help.obsidian.md/hotkeys#Default+keyboard+shortcuts"
     },
     {
       "title": "Language settings",
@@ -15614,17 +16108,17 @@
       "quicklookurl": "https://help.obsidian.md/ribbon#Actions"
     },
     {
-      "title": "Customizing the ribbon",
+      "title": "Customize the ribbon",
       "subtitle": "User interface/Ribbon",
-      "uid": "https://help.obsidian.md/ribbon#Customizing+the+ribbon",
-      "match": "Customizing the ribbon Customizing the ribbon Ribbon Ribbon User interface User interface ",
+      "uid": "https://help.obsidian.md/ribbon#Customize+the+ribbon",
+      "match": "Customize the ribbon Customize the ribbon Ribbon Ribbon User interface User interface ",
       "mods": {
         "cmd": {
-          "arg": "Customizing the ribbon"
+          "arg": "Customize the ribbon"
         }
       },
-      "arg": "https://help.obsidian.md/ribbon#Customizing+the+ribbon",
-      "quicklookurl": "https://help.obsidian.md/ribbon#Customizing+the+ribbon"
+      "arg": "https://help.obsidian.md/ribbon#Customize+the+ribbon",
+      "quicklookurl": "https://help.obsidian.md/ribbon#Customize+the+ribbon"
     },
     {
       "title": "Desktop",
@@ -15638,6 +16132,32 @@
       },
       "arg": "https://help.obsidian.md/ribbon#Desktop",
       "quicklookurl": "https://help.obsidian.md/ribbon#Desktop"
+    },
+    {
+      "title": "Hide the ribbon",
+      "subtitle": "User interface/Ribbon",
+      "uid": "https://help.obsidian.md/ribbon#Hide+the+ribbon",
+      "match": "Hide the ribbon Hide the ribbon Ribbon Ribbon User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Hide the ribbon"
+        }
+      },
+      "arg": "https://help.obsidian.md/ribbon#Hide+the+ribbon",
+      "quicklookurl": "https://help.obsidian.md/ribbon#Hide+the+ribbon"
+    },
+    {
+      "title": "Show the ribbon",
+      "subtitle": "User interface/Ribbon",
+      "uid": "https://help.obsidian.md/ribbon#Show+the+ribbon",
+      "match": "Show the ribbon Show the ribbon Ribbon Ribbon User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Show the ribbon"
+        }
+      },
+      "arg": "https://help.obsidian.md/ribbon#Show+the+ribbon",
+      "quicklookurl": "https://help.obsidian.md/ribbon#Show+the+ribbon"
     },
     {
       "title": "Mobile",
@@ -15679,6 +16199,1085 @@
       "quicklookurl": "https://help.obsidian.md/ribbon#Rearrange+and+visibility"
     },
     {
+      "title": "Settings",
+      "match": "Settings Settings User interface User interface ",
+      "subtitle": "User interface",
+      "mods": {
+        "cmd": {
+          "arg": "Settings"
+        }
+      },
+      "uid": "https://help.obsidian.md/settings",
+      "arg": "https://help.obsidian.md/settings",
+      "quicklookurl": "https://help.obsidian.md/settings"
+    },
+    {
+      "title": "Open Settings",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Open+Settings",
+      "match": "Open Settings Open Settings Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Open Settings"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Open+Settings",
+      "quicklookurl": "https://help.obsidian.md/settings#Open+Settings"
+    },
+    {
+      "title": "Desktop",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Desktop",
+      "match": "Desktop Desktop Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Desktop"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Desktop",
+      "quicklookurl": "https://help.obsidian.md/settings#Desktop"
+    },
+    {
+      "title": "Mobile",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Mobile",
+      "match": "Mobile Mobile Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Mobile"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Mobile",
+      "quicklookurl": "https://help.obsidian.md/settings#Mobile"
+    },
+    {
+      "title": "Settings organization",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Settings+organization",
+      "match": "Settings organization Settings organization Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Settings organization"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Settings+organization",
+      "quicklookurl": "https://help.obsidian.md/settings#Settings+organization"
+    },
+    {
+      "title": "General",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#General",
+      "match": "General General Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "General"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#General",
+      "quicklookurl": "https://help.obsidian.md/settings#General"
+    },
+    {
+      "title": "Version and updates",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Version+and+updates",
+      "match": "Version and updates Version and updates Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Version and updates"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Version+and+updates",
+      "quicklookurl": "https://help.obsidian.md/settings#Version+and+updates"
+    },
+    {
+      "title": "Language",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Language",
+      "match": "Language Language Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Language"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Language",
+      "quicklookurl": "https://help.obsidian.md/settings#Language"
+    },
+    {
+      "title": "Help",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Help",
+      "match": "Help Help Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Help"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Help",
+      "quicklookurl": "https://help.obsidian.md/settings#Help"
+    },
+    {
+      "title": "Account",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Account",
+      "match": "Account Account Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Account"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Account",
+      "quicklookurl": "https://help.obsidian.md/settings#Account"
+    },
+    {
+      "title": "Advanced",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Advanced",
+      "match": "Advanced Advanced Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Advanced"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Advanced",
+      "quicklookurl": "https://help.obsidian.md/settings#Advanced"
+    },
+    {
+      "title": "Notify if startup takes longer than expected",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Notify+if+startup+takes+longer+than+expected",
+      "match": "Notify if startup takes longer than expected Notify if startup takes longer than expected Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Notify if startup takes longer than expected"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Notify+if+startup+takes+longer+than+expected",
+      "quicklookurl": "https://help.obsidian.md/settings#Notify+if+startup+takes+longer+than+expected"
+    },
+    {
+      "title": "Editor",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Editor",
+      "match": "Editor Editor Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Editor"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Editor",
+      "quicklookurl": "https://help.obsidian.md/settings#Editor"
+    },
+    {
+      "title": "Always focus new tabs",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Always+focus+new+tabs",
+      "match": "Always focus new tabs Always focus new tabs Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Always focus new tabs"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Always+focus+new+tabs",
+      "quicklookurl": "https://help.obsidian.md/settings#Always+focus+new+tabs"
+    },
+    {
+      "title": "Default view for new tabs",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Default+view+for+new+tabs",
+      "match": "Default view for new tabs Default view for new tabs Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Default view for new tabs"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Default+view+for+new+tabs",
+      "quicklookurl": "https://help.obsidian.md/settings#Default+view+for+new+tabs"
+    },
+    {
+      "title": "Default editing mode",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Default+editing+mode",
+      "match": "Default editing mode Default editing mode Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Default editing mode"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Default+editing+mode",
+      "quicklookurl": "https://help.obsidian.md/settings#Default+editing+mode"
+    },
+    {
+      "title": "Show editing mode in status bar",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Show+editing+mode+in+status+bar",
+      "match": "Show editing mode in status bar Show editing mode in status bar Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Show editing mode in status bar"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Show+editing+mode+in+status+bar",
+      "quicklookurl": "https://help.obsidian.md/settings#Show+editing+mode+in+status+bar"
+    },
+    {
+      "title": "Display",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Display",
+      "match": "Display Display Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Display"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Display",
+      "quicklookurl": "https://help.obsidian.md/settings#Display"
+    },
+    {
+      "title": "Readable line length",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Readable+line+length",
+      "match": "Readable line length Readable line length Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Readable line length"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Readable+line+length",
+      "quicklookurl": "https://help.obsidian.md/settings#Readable+line+length"
+    },
+    {
+      "title": "Strict line breaks",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Strict+line+breaks",
+      "match": "Strict line breaks Strict line breaks Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Strict line breaks"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Strict+line+breaks",
+      "quicklookurl": "https://help.obsidian.md/settings#Strict+line+breaks"
+    },
+    {
+      "title": "Properties in document",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Properties+in+document",
+      "match": "Properties in document Properties in document Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Properties in document"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Properties+in+document",
+      "quicklookurl": "https://help.obsidian.md/settings#Properties+in+document"
+    },
+    {
+      "title": "Fold heading",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Fold+heading",
+      "match": "Fold heading Fold heading Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Fold heading"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Fold+heading",
+      "quicklookurl": "https://help.obsidian.md/settings#Fold+heading"
+    },
+    {
+      "title": "Fold indent",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Fold+indent",
+      "match": "Fold indent Fold indent Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Fold indent"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Fold+indent",
+      "quicklookurl": "https://help.obsidian.md/settings#Fold+indent"
+    },
+    {
+      "title": "Show line numbers",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Show+line+numbers",
+      "match": "Show line numbers Show line numbers Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Show line numbers"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Show+line+numbers",
+      "quicklookurl": "https://help.obsidian.md/settings#Show+line+numbers"
+    },
+    {
+      "title": "Show indentation guides",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Show+indentation+guides",
+      "match": "Show indentation guides Show indentation guides Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Show indentation guides"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Show+indentation+guides",
+      "quicklookurl": "https://help.obsidian.md/settings#Show+indentation+guides"
+    },
+    {
+      "title": "Right-to-left (RTL)",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Right-to-left+(RTL)",
+      "match": "Right to left  RTL  Right-to-left (RTL) Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Right-to-left (RTL)"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Right-to-left+(RTL)",
+      "quicklookurl": "https://help.obsidian.md/settings#Right-to-left+(RTL)"
+    },
+    {
+      "title": "Auto-pair brackets",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Auto-pair+brackets",
+      "match": "Auto pair brackets Auto-pair brackets Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Auto-pair brackets"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Auto-pair+brackets",
+      "quicklookurl": "https://help.obsidian.md/settings#Auto-pair+brackets"
+    },
+    {
+      "title": "Auto-pair Markdown syntax",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Auto-pair+Markdown+syntax",
+      "match": "Auto pair Markdown syntax Auto-pair Markdown syntax Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Auto-pair Markdown syntax"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Auto-pair+Markdown+syntax",
+      "quicklookurl": "https://help.obsidian.md/settings#Auto-pair+Markdown+syntax"
+    },
+    {
+      "title": "Smart lists",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Smart+lists",
+      "match": "Smart lists Smart lists Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Smart lists"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Smart+lists",
+      "quicklookurl": "https://help.obsidian.md/settings#Smart+lists"
+    },
+    {
+      "title": "Indent using tabs",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Indent+using+tabs",
+      "match": "Indent using tabs Indent using tabs Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Indent using tabs"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Indent+using+tabs",
+      "quicklookurl": "https://help.obsidian.md/settings#Indent+using+tabs"
+    },
+    {
+      "title": "Convert pasted HTML to Markdown",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Convert+pasted+HTML+to+Markdown",
+      "match": "Convert pasted HTML to Markdown Convert pasted HTML to Markdown Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Convert pasted HTML to Markdown"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Convert+pasted+HTML+to+Markdown",
+      "quicklookurl": "https://help.obsidian.md/settings#Convert+pasted+HTML+to+Markdown"
+    },
+    {
+      "title": "Behavior",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Behavior",
+      "match": "Behavior Behavior Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Behavior"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Behavior",
+      "quicklookurl": "https://help.obsidian.md/settings#Behavior"
+    },
+    {
+      "title": "Spellcheck",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Spellcheck",
+      "match": "Spellcheck Spellcheck Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Spellcheck"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Spellcheck",
+      "quicklookurl": "https://help.obsidian.md/settings#Spellcheck"
+    },
+    {
+      "title": "Spellcheck languages",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Spellcheck+languages",
+      "match": "Spellcheck languages Spellcheck languages Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Spellcheck languages"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Spellcheck+languages",
+      "quicklookurl": "https://help.obsidian.md/settings#Spellcheck+languages"
+    },
+    {
+      "title": "Indent visual width",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Indent+visual+width",
+      "match": "Indent visual width Indent visual width Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Indent visual width"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Indent+visual+width",
+      "quicklookurl": "https://help.obsidian.md/settings#Indent+visual+width"
+    },
+    {
+      "title": "Advanced",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Advanced",
+      "match": "Advanced Advanced Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Advanced"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Advanced",
+      "quicklookurl": "https://help.obsidian.md/settings#Advanced"
+    },
+    {
+      "title": "Vim key bindings",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Vim+key+bindings",
+      "match": "Vim key bindings Vim key bindings Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Vim key bindings"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Vim+key+bindings",
+      "quicklookurl": "https://help.obsidian.md/settings#Vim+key+bindings"
+    },
+    {
+      "title": "Files and links",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Files+and+links",
+      "match": "Files and links Files and links Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Files and links"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Files+and+links",
+      "quicklookurl": "https://help.obsidian.md/settings#Files+and+links"
+    },
+    {
+      "title": "Default location for new notes",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Default+location+for+new+notes",
+      "match": "Default location for new notes Default location for new notes Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Default location for new notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Default+location+for+new+notes",
+      "quicklookurl": "https://help.obsidian.md/settings#Default+location+for+new+notes"
+    },
+    {
+      "title": "Default location for new attachments",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Default+location+for+new+attachments",
+      "match": "Default location for new attachments Default location for new attachments Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Default location for new attachments"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Default+location+for+new+attachments",
+      "quicklookurl": "https://help.obsidian.md/settings#Default+location+for+new+attachments"
+    },
+    {
+      "title": "Links",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Links",
+      "match": "Links Links Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Links"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Links",
+      "quicklookurl": "https://help.obsidian.md/settings#Links"
+    },
+    {
+      "title": "New link format",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#New+link+format",
+      "match": "New link format New link format Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "New link format"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#New+link+format",
+      "quicklookurl": "https://help.obsidian.md/settings#New+link+format"
+    },
+    {
+      "title": "Automatically update internal links",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Automatically+update+internal+links",
+      "match": "Automatically update internal links Automatically update internal links Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Automatically update internal links"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Automatically+update+internal+links",
+      "quicklookurl": "https://help.obsidian.md/settings#Automatically+update+internal+links"
+    },
+    {
+      "title": "Use Wikilinks",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Use+Wikilinks",
+      "match": "Use Wikilinks Use Wikilinks Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Use Wikilinks"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Use+Wikilinks",
+      "quicklookurl": "https://help.obsidian.md/settings#Use+Wikilinks"
+    },
+    {
+      "title": "Show all file types",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Show+all+file+types",
+      "match": "Show all file types Show all file types Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Show all file types"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Show+all+file+types",
+      "quicklookurl": "https://help.obsidian.md/settings#Show+all+file+types"
+    },
+    {
+      "title": "Trash",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Trash",
+      "match": "Trash Trash Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Trash"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Trash",
+      "quicklookurl": "https://help.obsidian.md/settings#Trash"
+    },
+    {
+      "title": "Confirm file deletion",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Confirm+file+deletion",
+      "match": "Confirm file deletion Confirm file deletion Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Confirm file deletion"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Confirm+file+deletion",
+      "quicklookurl": "https://help.obsidian.md/settings#Confirm+file+deletion"
+    },
+    {
+      "title": "Deleted files",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Deleted+files",
+      "match": "Deleted files Deleted files Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Deleted files"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Deleted+files",
+      "quicklookurl": "https://help.obsidian.md/settings#Deleted+files"
+    },
+    {
+      "title": "Advanced",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Advanced",
+      "match": "Advanced Advanced Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Advanced"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Advanced",
+      "quicklookurl": "https://help.obsidian.md/settings#Advanced"
+    },
+    {
+      "title": "Excluded files",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Excluded+files",
+      "match": "Excluded files Excluded files Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Excluded files"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Excluded+files",
+      "quicklookurl": "https://help.obsidian.md/settings#Excluded+files"
+    },
+    {
+      "title": "Override config folder",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Override+config+folder",
+      "match": "Override config folder Override config folder Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Override config folder"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Override+config+folder",
+      "quicklookurl": "https://help.obsidian.md/settings#Override+config+folder"
+    },
+    {
+      "title": "Allow URI callbacks",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Allow+URI+callbacks",
+      "match": "Allow URI callbacks Allow URI callbacks Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Allow URI callbacks"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Allow+URI+callbacks",
+      "quicklookurl": "https://help.obsidian.md/settings#Allow+URI+callbacks"
+    },
+    {
+      "title": "Rebuild vault cache",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Rebuild+vault+cache",
+      "match": "Rebuild vault cache Rebuild vault cache Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Rebuild vault cache"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Rebuild+vault+cache",
+      "quicklookurl": "https://help.obsidian.md/settings#Rebuild+vault+cache"
+    },
+    {
+      "title": "Appearance",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Appearance",
+      "match": "Appearance Appearance Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Appearance"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Appearance",
+      "quicklookurl": "https://help.obsidian.md/settings#Appearance"
+    },
+    {
+      "title": "Base color scheme",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Base+color+scheme",
+      "match": "Base color scheme Base color scheme Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Base color scheme"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Base+color+scheme",
+      "quicklookurl": "https://help.obsidian.md/settings#Base+color+scheme"
+    },
+    {
+      "title": "Accent color",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Accent+color",
+      "match": "Accent color Accent color Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Accent color"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Accent+color",
+      "quicklookurl": "https://help.obsidian.md/settings#Accent+color"
+    },
+    {
+      "title": "Themes",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Themes",
+      "match": "Themes Themes Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Themes"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Themes",
+      "quicklookurl": "https://help.obsidian.md/settings#Themes"
+    },
+    {
+      "title": "Current community themes",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Current+community+themes",
+      "match": "Current community themes Current community themes Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Current community themes"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Current+community+themes",
+      "quicklookurl": "https://help.obsidian.md/settings#Current+community+themes"
+    },
+    {
+      "title": "Font",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Font",
+      "match": "Font Font Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Font"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Font",
+      "quicklookurl": "https://help.obsidian.md/settings#Font"
+    },
+    {
+      "title": "Interface font",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Interface+font",
+      "match": "Interface font Interface font Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Interface font"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Interface+font",
+      "quicklookurl": "https://help.obsidian.md/settings#Interface+font"
+    },
+    {
+      "title": "Text font",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Text+font",
+      "match": "Text font Text font Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Text font"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Text+font",
+      "quicklookurl": "https://help.obsidian.md/settings#Text+font"
+    },
+    {
+      "title": "Monospace font",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Monospace+font",
+      "match": "Monospace font Monospace font Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Monospace font"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Monospace+font",
+      "quicklookurl": "https://help.obsidian.md/settings#Monospace+font"
+    },
+    {
+      "title": "Font size",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Font+size",
+      "match": "Font size Font size Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Font size"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Font+size",
+      "quicklookurl": "https://help.obsidian.md/settings#Font+size"
+    },
+    {
+      "title": "Quick font size adjustment",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Quick+font+size+adjustment",
+      "match": "Quick font size adjustment Quick font size adjustment Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Quick font size adjustment"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Quick+font+size+adjustment",
+      "quicklookurl": "https://help.obsidian.md/settings#Quick+font+size+adjustment"
+    },
+    {
+      "title": "Interface",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Interface",
+      "match": "Interface Interface Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Interface"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Interface",
+      "quicklookurl": "https://help.obsidian.md/settings#Interface"
+    },
+    {
+      "title": "Show inline title",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Show+inline+title",
+      "match": "Show inline title Show inline title Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Show inline title"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Show+inline+title",
+      "quicklookurl": "https://help.obsidian.md/settings#Show+inline+title"
+    },
+    {
+      "title": "Show tab title bar",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Show+tab+title+bar",
+      "match": "Show tab title bar Show tab title bar Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Show tab title bar"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Show+tab+title+bar",
+      "quicklookurl": "https://help.obsidian.md/settings#Show+tab+title+bar"
+    },
+    {
+      "title": "Show ribbon",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Show+ribbon",
+      "match": "Show ribbon Show ribbon Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Show ribbon"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Show+ribbon",
+      "quicklookurl": "https://help.obsidian.md/settings#Show+ribbon"
+    },
+    {
+      "title": "Ribbon menu configuration",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Ribbon+menu+configuration",
+      "match": "Ribbon menu configuration Ribbon menu configuration Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Ribbon menu configuration"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Ribbon+menu+configuration",
+      "quicklookurl": "https://help.obsidian.md/settings#Ribbon+menu+configuration"
+    },
+    {
+      "title": "Advanced",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Advanced",
+      "match": "Advanced Advanced Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Advanced"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Advanced",
+      "quicklookurl": "https://help.obsidian.md/settings#Advanced"
+    },
+    {
+      "title": "Zoom level",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Zoom+level",
+      "match": "Zoom level Zoom level Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Zoom level"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Zoom+level",
+      "quicklookurl": "https://help.obsidian.md/settings#Zoom+level"
+    },
+    {
+      "title": "Native menus",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Native+menus",
+      "match": "Native menus Native menus Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Native menus"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Native+menus",
+      "quicklookurl": "https://help.obsidian.md/settings#Native+menus"
+    },
+    {
+      "title": "Window frame style",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Window+frame+style",
+      "match": "Window frame style Window frame style Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Window frame style"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Window+frame+style",
+      "quicklookurl": "https://help.obsidian.md/settings#Window+frame+style"
+    },
+    {
+      "title": "Custom app icon",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Custom+app+icon",
+      "match": "Custom app icon Custom app icon Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Custom app icon"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Custom+app+icon",
+      "quicklookurl": "https://help.obsidian.md/settings#Custom+app+icon"
+    },
+    {
+      "title": "Translucent window",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Translucent+window",
+      "match": "Translucent window Translucent window Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Translucent window"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Translucent+window",
+      "quicklookurl": "https://help.obsidian.md/settings#Translucent+window"
+    },
+    {
+      "title": "Hardware acceleration",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Hardware+acceleration",
+      "match": "Hardware acceleration Hardware acceleration Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Hardware acceleration"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Hardware+acceleration",
+      "quicklookurl": "https://help.obsidian.md/settings#Hardware+acceleration"
+    },
+    {
+      "title": "CSS snippets",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#CSS+snippets",
+      "match": "CSS snippets CSS snippets Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "CSS snippets"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#CSS+snippets",
+      "quicklookurl": "https://help.obsidian.md/settings#CSS+snippets"
+    },
+    {
+      "title": "Hotkeys",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Hotkeys",
+      "match": "Hotkeys Hotkeys Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Hotkeys"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Hotkeys",
+      "quicklookurl": "https://help.obsidian.md/settings#Hotkeys"
+    },
+    {
+      "title": "Core plugins",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Core+plugins",
+      "match": "Core plugins Core plugins Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Core plugins"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Core+plugins",
+      "quicklookurl": "https://help.obsidian.md/settings#Core+plugins"
+    },
+    {
+      "title": "Community plugins",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Community+plugins",
+      "match": "Community plugins Community plugins Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Community plugins"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Community+plugins",
+      "quicklookurl": "https://help.obsidian.md/settings#Community+plugins"
+    },
+    {
+      "title": "Restricted mode",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Restricted+mode",
+      "match": "Restricted mode Restricted mode Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Restricted mode"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Restricted+mode",
+      "quicklookurl": "https://help.obsidian.md/settings#Restricted+mode"
+    },
+    {
+      "title": "Current plugins",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Current+plugins",
+      "match": "Current plugins Current plugins Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Current plugins"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Current+plugins",
+      "quicklookurl": "https://help.obsidian.md/settings#Current+plugins"
+    },
+    {
+      "title": "Installed plugins",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Installed+plugins",
+      "match": "Installed plugins Installed plugins Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Installed plugins"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Installed+plugins",
+      "quicklookurl": "https://help.obsidian.md/settings#Installed+plugins"
+    },
+    {
       "title": "Sidebar",
       "match": "Sidebar Sidebar User interface User interface ",
       "subtitle": "User interface",
@@ -15705,6 +17304,32 @@
       "quicklookurl": "https://help.obsidian.md/sidebar#Open+hidden+sidebars"
     },
     {
+      "title": "Desktop and larger tablets",
+      "subtitle": "User interface/Sidebar",
+      "uid": "https://help.obsidian.md/sidebar#Desktop+and+larger+tablets",
+      "match": "Desktop and larger tablets Desktop and larger tablets Sidebar Sidebar User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Desktop and larger tablets"
+        }
+      },
+      "arg": "https://help.obsidian.md/sidebar#Desktop+and+larger+tablets",
+      "quicklookurl": "https://help.obsidian.md/sidebar#Desktop+and+larger+tablets"
+    },
+    {
+      "title": "Mobile and smaller tablets",
+      "subtitle": "User interface/Sidebar",
+      "uid": "https://help.obsidian.md/sidebar#Mobile+and+smaller+tablets",
+      "match": "Mobile and smaller tablets Mobile and smaller tablets Sidebar Sidebar User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Mobile and smaller tablets"
+        }
+      },
+      "arg": "https://help.obsidian.md/sidebar#Mobile+and+smaller+tablets",
+      "quicklookurl": "https://help.obsidian.md/sidebar#Mobile+and+smaller+tablets"
+    },
+    {
       "title": "Tabs",
       "subtitle": "User interface/Sidebar",
       "uid": "https://help.obsidian.md/sidebar#Tabs",
@@ -15716,6 +17341,19 @@
       },
       "arg": "https://help.obsidian.md/sidebar#Tabs",
       "quicklookurl": "https://help.obsidian.md/sidebar#Tabs"
+    },
+    {
+      "title": "Open or reopen tabs",
+      "subtitle": "User interface/Sidebar",
+      "uid": "https://help.obsidian.md/sidebar#Open+or+reopen+tabs",
+      "match": "Open or reopen tabs Open or reopen tabs Sidebar Sidebar User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Open or reopen tabs"
+        }
+      },
+      "arg": "https://help.obsidian.md/sidebar#Open+or+reopen+tabs",
+      "quicklookurl": "https://help.obsidian.md/sidebar#Open+or+reopen+tabs"
     },
     {
       "title": "Close tabs",
@@ -15742,6 +17380,19 @@
       },
       "arg": "https://help.obsidian.md/sidebar#Rearrange+tabs",
       "quicklookurl": "https://help.obsidian.md/sidebar#Rearrange+tabs"
+    },
+    {
+      "title": "Pin tabs",
+      "subtitle": "User interface/Sidebar",
+      "uid": "https://help.obsidian.md/sidebar#Pin+tabs",
+      "match": "Pin tabs Pin tabs Sidebar Sidebar User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Pin tabs"
+        }
+      },
+      "arg": "https://help.obsidian.md/sidebar#Pin+tabs",
+      "quicklookurl": "https://help.obsidian.md/sidebar#Pin+tabs"
     },
     {
       "title": "Tab groups",
