@@ -12,8 +12,8 @@ function alfredMatcher(str) {
 
 /** @param {string} url @return {string} */
 function httpRequest(url) {
-	const queryURL = $.NSURL.URLWithString(url);
-	const data = $.NSData.dataWithContentsOfURL(queryURL);
+	const queryUrl = $.NSURL.URLWithString(url);
+	const data = $.NSData.dataWithContentsOfURL(queryUrl);
 	return $.NSString.alloc.initWithDataEncoding(data, $.NSUTF8StringEncoding).js;
 }
 
