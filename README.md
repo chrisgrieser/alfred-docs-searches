@@ -30,8 +30,8 @@ Alfred. [Recommended by the Alfred team.](https://www.alfredapp.com/blog/tips-an
 [➡️ Download the latest release.](https://github.com/chrisgrieser/alfred-docs-searches/releases/latest)
 
 ## DevDocs
-Enable the devdocs you want to use in the workflow configuration. The
-enabled devdocs are searched by using the name as keyword, for example `haskell
+Enable the DevDocs you want to use in the workflow configuration. The
+enabled DevDocs are searched by using the name as keyword, for example `haskell
 foobar` to search the Haskell DevDocs for "foobar."
 
 A few common languages have aliases (shorter keywords) noted in the popup
@@ -46,7 +46,7 @@ selection, such as
 
 ### Pinning specific versions
 1. In the workflow configuration, go to the `pinned devdocs versions` section.
-   (Depending on your screen height, you might need to scroll down.)
+   (Depending on your screen height, you might have to scroll down.)
 2. The versions available are listed under the key `slug` in [this json
    file](https://devdocs.io/docs.json).
 3. The replacements take the form `alfred_keyword:pinned_version`, one version
@@ -103,7 +103,7 @@ refreshing the cache via the Alfred keyword `:docs-reload`.
 ## Maintenance notes
 1. **Remote**: Twice per month, a [GitHub
    Action](./.github/workflows/update-devdocs.yml) is run that checks for
-   devdocs updates. If updates are found, the
+   DevDocs updates. If updates are found, the
    [keyword-slug-map](./.github/caches/devdocs-keyword-slug-map.json) available
    on this GitHub remote is updated. The `info.plist` is also updated in case
    not only a new version, but an entirely new documentation site becomes
@@ -112,10 +112,10 @@ refreshing the cache via the Alfred keyword `:docs-reload`.
    the `keymap-slug-map` and the `info.plist` files from the GitHub remote. The
    update to the `info.plist` is required, so that newly available documentation
    sites also show up in the dropdown menus of the workflow configuration.
-3. This means that any devdocs update is available to the user after three weeks
+3. This means that any DevDocs update is available to the user after three weeks
    at the latest. (The local cache can be manually updated via the Alfred
    keyword via `:docs-reload` to remove the seven-day delay.)
-4. The purpose of this setup is to fully automate the process of making devdocs
+4. The purpose of this setup is to fully automate the process of making DevDocs
    updates available to the user without requiring manual action. Furthermore,
    no separate release of the workflow is required.
 
