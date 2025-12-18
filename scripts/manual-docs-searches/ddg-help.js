@@ -26,11 +26,11 @@ function run() {
 		"https://api.github.com/repos/duckduckgo/duckduckgo-help-pages/git/trees/master?recursive=1";
 	const baseUrl = "https://duckduckgo.com/duckduckgo-help-pages";
 
-	const workArray = JSON.parse(httpRequest(docsUrl)).tree.map(
+	const workArray = JSON.parse(httpRequest(docsUrl)).tree.flatMap(
 		(/** @type {{ path: string; }} */ entry) => {
 			const path = entry.path;
 			const [_, subsite] = path.match(/^_docs\/(.*)\.md$/) || [];
-			if (!subsite || subsite.startsWith("_")) return {};
+			if (!subsite || subsite.startsWith("_")) return [];
 
 			const url = `${baseUrl}/${subsite}`;
 			let [category, title] = subsite.split("/");

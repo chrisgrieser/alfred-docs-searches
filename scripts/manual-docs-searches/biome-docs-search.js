@@ -32,12 +32,12 @@ function run() {
 	const response = JSON.parse(httpRequest(docsUrl));
 	if (!response) return JSON.stringify({ items: [{ title: "Could not load.", valid: false }] });
 
-	const workArray = response.tree.map((/** @type {{ path: string; }} */ entry) => {
+	const workArray = response.tree.flatMap((/** @type {{ path: string; }} */ entry) => {
 		const path = entry.path;
 		const [_, subsite] = path.match(docPathRegex) || [];
 
 		if (!subsite) return {};
-		if (path.endsWith("404.md")) return {};
+		if (path.endsWith("404.md")) return [];
 
 		const parts = subsite.split("/");
 		let title = parts.pop() || "??";

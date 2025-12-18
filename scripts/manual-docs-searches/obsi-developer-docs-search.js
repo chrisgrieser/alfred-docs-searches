@@ -29,12 +29,9 @@ function run() {
 		"https://api.github.com/repos/obsidianmd/obsidian-developer-docs/git/trees/main?recursive=1";
 	const obsiDocsBaseUrl = "https://docs.obsidian.md";
 
-	const obsiDocs = JSON.parse(httpRequest(obsiDocsSource))
-		.tree.filter(
-			(/** @type {{ path: string; }} */ file) =>
-				file.path.startsWith("en/") && file.path.endsWith(".md"),
-		)
-		.map((/** @type {{ path: string }} */ file) => {
+	const obsiDocs = JSON.parse(httpRequest(obsiDocsSource)).tree.map(
+		(/** @type {{ path: string }} */ file) => {
+			if (!file.path.startsWith("en/") || !file.path.endsWith(".md")) return [];
 			const subsitePath = file.path.slice(3, -3);
 			const subsiteUrl = subsitePath.replaceAll(" ", "+"); // obsidian publish uses `+`
 			const title = subsitePath.replace(/.*\//, ""); // show only file name
@@ -54,7 +51,8 @@ function run() {
 				quicklookurl: url,
 				uid: url,
 			};
-		});
+		},
+	);
 
 	//───────────────────────────────────────────────────────────────────────────
 

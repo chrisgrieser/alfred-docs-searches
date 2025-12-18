@@ -12,12 +12,12 @@ function run() {
 	const ahrefRegex = /.*?href='(.*?)'>.*?<\/a>(.*?)(<\/li>|$)/i;
 
 	const jsonArr = app
-		.doShellScript(`curl -sL '${baseUrl}'`)
+		.doShellScript(`curl --silent --location '${baseUrl}'`)
 		.split("\r")
 		.slice(3, -1)
-		.map((/** @type {string} */ line) => {
+		.flatMap((/** @type {string} */ line) => {
 			const title = line.replace(ahrefRegex, "$1");
-			if (title === "</li>") return {};
+			if (title === "</li>") return [];
 			const desc = line.replace(ahrefRegex, "$2").replaceAll("&ndash;", "").trim();
 			const url = baseUrl + title;
 

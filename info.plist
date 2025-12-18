@@ -2011,7 +2011,7 @@ curl -sL "https://raw.githubusercontent.com/chrisgrieser/alfred-docs-searches/ma
 			<key>config</key>
 			<dict>
 				<key>alfredfiltersresults</key>
-				<true/>
+				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
 				<integer>2</integer>
 				<key>argumenttreatemptyqueryasnil</key>
@@ -2043,7 +2043,7 @@ curl -sL "https://raw.githubusercontent.com/chrisgrieser/alfred-docs-searches/ma
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>tl;dr: {query}</string>
+				<string>tldr: {query}</string>
 				<key>type</key>
 				<integer>8</integer>
 				<key>withspace</key>
@@ -2107,7 +2107,7 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 - `odd`: Obsidian developer docs
 - `ddg`: DuckDuckGo help pages
 - `man`: man pages (and their options) at [mankier](https://www.mankier.com/)
-- `tldr`: tl;dr.sh
+- `tldr`: tldr.sh
 
 ### Utilities
 - `color`: named CSS colors
