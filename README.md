@@ -14,12 +14,12 @@ Alfred. [Recommended by the Alfred team.](https://www.alfredapp.com/blog/tips-an
 
 - [Installation](#installation)
 - [DevDocs](#devdocs)
-  * [Usage](#usage)
-  * [Pinning specific versions](#pinning-specific-versions)
-  * [Icons](#icons)
+    - [Usage](#usage)
+    - [Pinning specific versions](#pinning-specific-versions)
+    - [Icons](#icons)
 - [Extras](#extras)
-  * [Documentation sites](#documentation-sites)
-  * [Utilities](#utilities)
+    - [Documentation sites](#documentation-sites)
+    - [Utilities](#utilities)
 - [Reload caches](#reload-caches)
 - [Maintenance notes](#maintenance-notes)
 - [About the developer](#about-the-developer)
@@ -41,7 +41,8 @@ selection, such as
 
 ### Usage
 - <kbd>⏎</kbd>: Open the documentation site.
-- <kbd>⌥</kbd><kbd>⏎</kbd>: Copy the URL of the documentation site to the clipboard.
+- <kbd>⌥</kbd><kbd>⏎</kbd>: Copy the URL of the documentation site to the
+  clipboard.
 - <kbd>⌘</kbd><kbd>⏎</kbd>: Copy the entry's text to the clipboard.
 
 ### Pinning specific versions
@@ -86,15 +87,15 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 ### Utilities
 - `color`: named CSS colors
 - `keycode`: macOS key codes
-    * <kbd>⏎</kbd>: Copy key code
-    * <kbd>⌥</kbd><kbd>⏎</kbd>: Copy AppleScript
+    - <kbd>⏎</kbd>: Copy key code
+    - <kbd>⌥</kbd><kbd>⏎</kbd>: Copy AppleScript
 - `appid`: app-id of installed macOS apps
 - `win`: window information for the frontmost app
 - `http`: HTTP status codes
 - `as`: AppleScript Dictionaries of installed apps
 - `sound`: macOS System Sounds
-    * <kbd>⏎</kbd>: Preview (technically: Pre-listen)
-    * <kbd>⌥</kbd><kbd>⏎</kbd>: Copy sound path
+    - <kbd>⏎</kbd>: Preview (technically: Pre-listen)
+    - <kbd>⌥</kbd><kbd>⏎</kbd>: Copy sound path
 - Get the Uniform Type Identifier (UTI) of a selected file via the [Universal
   Action](https://www.alfredapp.com/help/workflows/triggers/universal-actions/).
 
