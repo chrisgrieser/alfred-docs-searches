@@ -80,7 +80,8 @@ the directory `./devdocs/icons/{keyword}.png`. PRs are welcome.
 - `odd`: Obsidian developer docs
 - `ddg`: DuckDuckGo help pages
 - `man`: man pages (and their options) at [mankier](https://www.mankier.com/)
-- `tldr`: tl;dr.sh
+- `tldr`: tl;dr pages
+- `rumdl`: rumdl rules
 
 ### Utilities
 - `color`: named CSS colors
