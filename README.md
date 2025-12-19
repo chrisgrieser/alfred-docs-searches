@@ -8,7 +8,7 @@ Alfred. [Recommended by the Alfred team.](https://www.alfredapp.com/blog/tips-an
 
 <img alt="Showcase" width=70% src="https://github.com/chrisgrieser/alfred-docs-searches/assets/73286100/5113c565-4f1a-49a8-842c-271255ee08f2">
 
-## Table of Contents
+## Table of contents
 
 <!-- toc -->
 
