@@ -111,7 +111,7 @@
   "liquid": "liquid",
   "lit": "lit~3",
   "_": "lodash~4",
-  "lua": "lua~5.4",
+  "lua": "lua~5.5",
   "love": "love",
   "mariadb": "mariadb",
   "mn": "marionette~4",
