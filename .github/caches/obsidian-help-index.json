@@ -6059,6 +6059,175 @@
       "quicklookurl": "https://help.obsidian.md/link-notes#Learn+more"
     },
     {
+      "title": "Mobile app",
+      "match": "Mobile app Mobile app Getting started Getting started ",
+      "subtitle": "Getting started",
+      "mods": {
+        "cmd": {
+          "arg": "Mobile app"
+        }
+      },
+      "uid": "https://help.obsidian.md/mobile",
+      "arg": "https://help.obsidian.md/mobile",
+      "quicklookurl": "https://help.obsidian.md/mobile"
+    },
+    {
+      "title": "Widgets, shortcuts, and Siri",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Widgets,+shortcuts,+and+Siri",
+      "match": "Widgets, shortcuts, and Siri Widgets, shortcuts, and Siri Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Widgets, shortcuts, and Siri"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Widgets,+shortcuts,+and+Siri",
+      "quicklookurl": "https://help.obsidian.md/mobile#Widgets,+shortcuts,+and+Siri"
+    },
+    {
+      "title": "Mobile toolbar",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Mobile+toolbar",
+      "match": "Mobile toolbar Mobile toolbar Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Mobile toolbar"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Mobile+toolbar",
+      "quicklookurl": "https://help.obsidian.md/mobile#Mobile+toolbar"
+    },
+    {
+      "title": "Customize mobile toolbar",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Customize+mobile+toolbar",
+      "match": "Customize mobile toolbar Customize mobile toolbar Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Customize mobile toolbar"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Customize+mobile+toolbar",
+      "quicklookurl": "https://help.obsidian.md/mobile#Customize+mobile+toolbar"
+    },
+    {
+      "title": "Add command to mobile toolbar",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Add+command+to+mobile+toolbar",
+      "match": "Add command to mobile toolbar Add command to mobile toolbar Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Add command to mobile toolbar"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Add+command+to+mobile+toolbar",
+      "quicklookurl": "https://help.obsidian.md/mobile#Add+command+to+mobile+toolbar"
+    },
+    {
+      "title": "Quick Action",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Quick+Action",
+      "match": "Quick Action Quick Action Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Quick Action"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Quick+Action",
+      "quicklookurl": "https://help.obsidian.md/mobile#Quick+Action"
+    },
+    {
+      "title": "Customize Quick Action",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Customize+Quick+Action",
+      "match": "Customize Quick Action Customize Quick Action Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Customize Quick Action"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Customize+Quick+Action",
+      "quicklookurl": "https://help.obsidian.md/mobile#Customize+Quick+Action"
+    },
+    {
+      "title": "Navigation bar",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Navigation+bar",
+      "match": "Navigation bar Navigation bar Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Navigation bar"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Navigation+bar",
+      "quicklookurl": "https://help.obsidian.md/mobile#Navigation+bar"
+    },
+    {
+      "title": "Go back or forward",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Go+back+or+forward",
+      "match": "Go back or forward Go back or forward Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Go back or forward"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Go+back+or+forward",
+      "quicklookurl": "https://help.obsidian.md/mobile#Go+back+or+forward"
+    },
+    {
+      "title": "Create or find note",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Create+or+find+note",
+      "match": "Create or find note Create or find note Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Create or find note"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Create+or+find+note",
+      "quicklookurl": "https://help.obsidian.md/mobile#Create+or+find+note"
+    },
+    {
+      "title": "Tab management",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Tab+management",
+      "match": "Tab management Tab management Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Tab management"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Tab+management",
+      "quicklookurl": "https://help.obsidian.md/mobile#Tab+management"
+    },
+    {
+      "title": "Ribbon actions",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Ribbon+actions",
+      "match": "Ribbon actions Ribbon actions Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Ribbon actions"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Ribbon+actions",
+      "quicklookurl": "https://help.obsidian.md/mobile#Ribbon+actions"
+    },
+    {
+      "title": "Sidebars",
+      "subtitle": "Getting started/Mobile app",
+      "uid": "https://help.obsidian.md/mobile#Sidebars",
+      "match": "Sidebars Sidebars Mobile app Mobile app Getting started Getting started ",
+      "mods": {
+        "cmd": {
+          "arg": "Sidebars"
+        }
+      },
+      "arg": "https://help.obsidian.md/mobile#Sidebars",
+      "quicklookurl": "https://help.obsidian.md/mobile#Sidebars"
+    },
+    {
       "title": "Sandbox vault",
       "match": "Sandbox vault Sandbox vault Getting started Getting started ",
       "subtitle": "Getting started",
@@ -6291,162 +6460,6 @@
       },
       "arg": "https://help.obsidian.md/updates#Installer+updates",
       "quicklookurl": "https://help.obsidian.md/updates#Installer+updates"
-    },
-    {
-      "title": "Use the mobile app",
-      "match": "Use the mobile app Use the mobile app Getting started Getting started ",
-      "subtitle": "Getting started",
-      "mods": {
-        "cmd": {
-          "arg": "Use the mobile app"
-        }
-      },
-      "uid": "https://help.obsidian.md/mobile",
-      "arg": "https://help.obsidian.md/mobile",
-      "quicklookurl": "https://help.obsidian.md/mobile"
-    },
-    {
-      "title": "Mobile toolbar",
-      "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Mobile+toolbar",
-      "match": "Mobile toolbar Mobile toolbar Use the mobile app Use the mobile app Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Mobile toolbar"
-        }
-      },
-      "arg": "https://help.obsidian.md/mobile#Mobile+toolbar",
-      "quicklookurl": "https://help.obsidian.md/mobile#Mobile+toolbar"
-    },
-    {
-      "title": "Customize mobile toolbar",
-      "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Customize+mobile+toolbar",
-      "match": "Customize mobile toolbar Customize mobile toolbar Use the mobile app Use the mobile app Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Customize mobile toolbar"
-        }
-      },
-      "arg": "https://help.obsidian.md/mobile#Customize+mobile+toolbar",
-      "quicklookurl": "https://help.obsidian.md/mobile#Customize+mobile+toolbar"
-    },
-    {
-      "title": "Add command to mobile toolbar",
-      "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Add+command+to+mobile+toolbar",
-      "match": "Add command to mobile toolbar Add command to mobile toolbar Use the mobile app Use the mobile app Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Add command to mobile toolbar"
-        }
-      },
-      "arg": "https://help.obsidian.md/mobile#Add+command+to+mobile+toolbar",
-      "quicklookurl": "https://help.obsidian.md/mobile#Add+command+to+mobile+toolbar"
-    },
-    {
-      "title": "Quick Action",
-      "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Quick+Action",
-      "match": "Quick Action Quick Action Use the mobile app Use the mobile app Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Quick Action"
-        }
-      },
-      "arg": "https://help.obsidian.md/mobile#Quick+Action",
-      "quicklookurl": "https://help.obsidian.md/mobile#Quick+Action"
-    },
-    {
-      "title": "Customize Quick Action",
-      "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Customize+Quick+Action",
-      "match": "Customize Quick Action Customize Quick Action Use the mobile app Use the mobile app Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Customize Quick Action"
-        }
-      },
-      "arg": "https://help.obsidian.md/mobile#Customize+Quick+Action",
-      "quicklookurl": "https://help.obsidian.md/mobile#Customize+Quick+Action"
-    },
-    {
-      "title": "Navigation bar",
-      "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Navigation+bar",
-      "match": "Navigation bar Navigation bar Use the mobile app Use the mobile app Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Navigation bar"
-        }
-      },
-      "arg": "https://help.obsidian.md/mobile#Navigation+bar",
-      "quicklookurl": "https://help.obsidian.md/mobile#Navigation+bar"
-    },
-    {
-      "title": "Go back or forward",
-      "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Go+back+or+forward",
-      "match": "Go back or forward Go back or forward Use the mobile app Use the mobile app Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Go back or forward"
-        }
-      },
-      "arg": "https://help.obsidian.md/mobile#Go+back+or+forward",
-      "quicklookurl": "https://help.obsidian.md/mobile#Go+back+or+forward"
-    },
-    {
-      "title": "Create or find note",
-      "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Create+or+find+note",
-      "match": "Create or find note Create or find note Use the mobile app Use the mobile app Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Create or find note"
-        }
-      },
-      "arg": "https://help.obsidian.md/mobile#Create+or+find+note",
-      "quicklookurl": "https://help.obsidian.md/mobile#Create+or+find+note"
-    },
-    {
-      "title": "Tab management",
-      "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Tab+management",
-      "match": "Tab management Tab management Use the mobile app Use the mobile app Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Tab management"
-        }
-      },
-      "arg": "https://help.obsidian.md/mobile#Tab+management",
-      "quicklookurl": "https://help.obsidian.md/mobile#Tab+management"
-    },
-    {
-      "title": "Ribbon actions",
-      "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Ribbon+actions",
-      "match": "Ribbon actions Ribbon actions Use the mobile app Use the mobile app Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Ribbon actions"
-        }
-      },
-      "arg": "https://help.obsidian.md/mobile#Ribbon+actions",
-      "quicklookurl": "https://help.obsidian.md/mobile#Ribbon+actions"
-    },
-    {
-      "title": "Sidebars",
-      "subtitle": "Getting started/Use the mobile app",
-      "uid": "https://help.obsidian.md/mobile#Sidebars",
-      "match": "Sidebars Sidebars Use the mobile app Use the mobile app Getting started Getting started ",
-      "mods": {
-        "cmd": {
-          "arg": "Sidebars"
-        }
-      },
-      "arg": "https://help.obsidian.md/mobile#Sidebars",
-      "quicklookurl": "https://help.obsidian.md/mobile#Sidebars"
     },
     {
       "title": "Help and support",
@@ -12481,56 +12494,95 @@
       "quicklookurl": "https://help.obsidian.md/2fa#FAQ"
     },
     {
-      "title": "Android app",
-      "match": "Android app Android app Obsidian Obsidian ",
+      "title": "About Obsidian",
+      "match": "About Obsidian About Obsidian Obsidian Obsidian ",
       "subtitle": "Obsidian",
       "mods": {
         "cmd": {
-          "arg": "Android app"
+          "arg": "About Obsidian"
         }
       },
-      "uid": "https://help.obsidian.md/android",
-      "arg": "https://help.obsidian.md/android",
-      "quicklookurl": "https://help.obsidian.md/android"
+      "uid": "https://help.obsidian.md/obsidian",
+      "arg": "https://help.obsidian.md/obsidian",
+      "quicklookurl": "https://help.obsidian.md/obsidian"
     },
     {
-      "title": "Vault location",
-      "subtitle": "Obsidian/Android app",
-      "uid": "https://help.obsidian.md/android#Vault+location",
-      "match": "Vault location Vault location Android app Android app Obsidian Obsidian ",
+      "title": "What is Obsidian",
+      "subtitle": "Obsidian/About Obsidian",
+      "uid": "https://help.obsidian.md/obsidian#What+is+Obsidian",
+      "match": "What is Obsidian What is Obsidian About Obsidian About Obsidian Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Vault location"
+          "arg": "What is Obsidian"
         }
       },
-      "arg": "https://help.obsidian.md/android#Vault+location",
-      "quicklookurl": "https://help.obsidian.md/android#Vault+location"
+      "arg": "https://help.obsidian.md/obsidian#What+is+Obsidian",
+      "quicklookurl": "https://help.obsidian.md/obsidian#What+is+Obsidian"
     },
     {
-      "title": "Device storage",
-      "subtitle": "Obsidian/Android app",
-      "uid": "https://help.obsidian.md/android#Device+storage",
-      "match": "Device storage Device storage Android app Android app Obsidian Obsidian ",
+      "title": "How we're different",
+      "subtitle": "Obsidian/About Obsidian",
+      "uid": "https://help.obsidian.md/obsidian#How+we're+different",
+      "match": "How we're different How we're different About Obsidian About Obsidian Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Device storage"
+          "arg": "How we're different"
         }
       },
-      "arg": "https://help.obsidian.md/android#Device+storage",
-      "quicklookurl": "https://help.obsidian.md/android#Device+storage"
+      "arg": "https://help.obsidian.md/obsidian#How+we're+different",
+      "quicklookurl": "https://help.obsidian.md/obsidian#How+we're+different"
     },
     {
-      "title": "App storage",
-      "subtitle": "Obsidian/Android app",
-      "uid": "https://help.obsidian.md/android#App+storage",
-      "match": "App storage App storage Android app Android app Obsidian Obsidian ",
+      "title": "You own and control your data",
+      "subtitle": "Obsidian/About Obsidian",
+      "uid": "https://help.obsidian.md/obsidian#You+own+and+control+your+data",
+      "match": "You own and control your data You own and control your data About Obsidian About Obsidian Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "App storage"
+          "arg": "You own and control your data"
         }
       },
-      "arg": "https://help.obsidian.md/android#App+storage",
-      "quicklookurl": "https://help.obsidian.md/android#App+storage"
+      "arg": "https://help.obsidian.md/obsidian#You+own+and+control+your+data",
+      "quicklookurl": "https://help.obsidian.md/obsidian#You+own+and+control+your+data"
+    },
+    {
+      "title": "Links are first-class citizens",
+      "subtitle": "Obsidian/About Obsidian",
+      "uid": "https://help.obsidian.md/obsidian#Links+are+first-class+citizens",
+      "match": "Links are first class citizens Links are first-class citizens About Obsidian About Obsidian Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Links are first-class citizens"
+        }
+      },
+      "arg": "https://help.obsidian.md/obsidian#Links+are+first-class+citizens",
+      "quicklookurl": "https://help.obsidian.md/obsidian#Links+are+first-class+citizens"
+    },
+    {
+      "title": "Your own toolkit",
+      "subtitle": "Obsidian/About Obsidian",
+      "uid": "https://help.obsidian.md/obsidian#Your+own+toolkit",
+      "match": "Your own toolkit Your own toolkit About Obsidian About Obsidian Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Your own toolkit"
+        }
+      },
+      "arg": "https://help.obsidian.md/obsidian#Your+own+toolkit",
+      "quicklookurl": "https://help.obsidian.md/obsidian#Your+own+toolkit"
+    },
+    {
+      "title": "Follow our development",
+      "subtitle": "Obsidian/About Obsidian",
+      "uid": "https://help.obsidian.md/obsidian#Follow+our+development",
+      "match": "Follow our development Follow our development About Obsidian About Obsidian Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Follow our development"
+        }
+      },
+      "arg": "https://help.obsidian.md/obsidian#Follow+our+development",
+      "quicklookurl": "https://help.obsidian.md/obsidian#Follow+our+development"
     },
     {
       "title": "Community code of conduct",
@@ -13352,95 +13404,225 @@
       "quicklookurl": "https://help.obsidian.md/early-access#Switch+back+to+public+versions+on+mobile"
     },
     {
-      "title": "Obsidian",
-      "match": "Obsidian Obsidian Obsidian Obsidian ",
+      "title": "Obsidian for Android",
+      "match": "Obsidian for Android Obsidian for Android Obsidian Obsidian ",
       "subtitle": "Obsidian",
       "mods": {
         "cmd": {
-          "arg": "Obsidian"
+          "arg": "Obsidian for Android"
         }
       },
-      "uid": "https://help.obsidian.md/obsidian",
-      "arg": "https://help.obsidian.md/obsidian",
-      "quicklookurl": "https://help.obsidian.md/obsidian"
+      "uid": "https://help.obsidian.md/android",
+      "arg": "https://help.obsidian.md/android",
+      "quicklookurl": "https://help.obsidian.md/android"
     },
     {
-      "title": "What is Obsidian",
-      "subtitle": "Obsidian/Obsidian",
-      "uid": "https://help.obsidian.md/obsidian#What+is+Obsidian",
-      "match": "What is Obsidian What is Obsidian Obsidian Obsidian Obsidian Obsidian ",
+      "title": "Sync",
+      "subtitle": "Obsidian/Obsidian for Android",
+      "uid": "https://help.obsidian.md/android#Sync",
+      "match": "Sync Sync Obsidian for Android Obsidian for Android Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "What is Obsidian"
+          "arg": "Sync"
         }
       },
-      "arg": "https://help.obsidian.md/obsidian#What+is+Obsidian",
-      "quicklookurl": "https://help.obsidian.md/obsidian#What+is+Obsidian"
+      "arg": "https://help.obsidian.md/android#Sync",
+      "quicklookurl": "https://help.obsidian.md/android#Sync"
     },
     {
-      "title": "How we're different",
-      "subtitle": "Obsidian/Obsidian",
-      "uid": "https://help.obsidian.md/obsidian#How+we're+different",
-      "match": "How we're different How we're different Obsidian Obsidian Obsidian Obsidian ",
+      "title": "Vault location",
+      "subtitle": "Obsidian/Obsidian for Android",
+      "uid": "https://help.obsidian.md/android#Vault+location",
+      "match": "Vault location Vault location Obsidian for Android Obsidian for Android Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "How we're different"
+          "arg": "Vault location"
         }
       },
-      "arg": "https://help.obsidian.md/obsidian#How+we're+different",
-      "quicklookurl": "https://help.obsidian.md/obsidian#How+we're+different"
+      "arg": "https://help.obsidian.md/android#Vault+location",
+      "quicklookurl": "https://help.obsidian.md/android#Vault+location"
     },
     {
-      "title": "You own and control your data",
-      "subtitle": "Obsidian/Obsidian",
-      "uid": "https://help.obsidian.md/obsidian#You+own+and+control+your+data",
-      "match": "You own and control your data You own and control your data Obsidian Obsidian Obsidian Obsidian ",
+      "title": "Device storage",
+      "subtitle": "Obsidian/Obsidian for Android",
+      "uid": "https://help.obsidian.md/android#Device+storage",
+      "match": "Device storage Device storage Obsidian for Android Obsidian for Android Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "You own and control your data"
+          "arg": "Device storage"
         }
       },
-      "arg": "https://help.obsidian.md/obsidian#You+own+and+control+your+data",
-      "quicklookurl": "https://help.obsidian.md/obsidian#You+own+and+control+your+data"
+      "arg": "https://help.obsidian.md/android#Device+storage",
+      "quicklookurl": "https://help.obsidian.md/android#Device+storage"
     },
     {
-      "title": "Links are first-class citizens",
-      "subtitle": "Obsidian/Obsidian",
-      "uid": "https://help.obsidian.md/obsidian#Links+are+first-class+citizens",
-      "match": "Links are first class citizens Links are first-class citizens Obsidian Obsidian Obsidian Obsidian ",
+      "title": "App storage",
+      "subtitle": "Obsidian/Obsidian for Android",
+      "uid": "https://help.obsidian.md/android#App+storage",
+      "match": "App storage App storage Obsidian for Android Obsidian for Android Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Links are first-class citizens"
+          "arg": "App storage"
         }
       },
-      "arg": "https://help.obsidian.md/obsidian#Links+are+first-class+citizens",
-      "quicklookurl": "https://help.obsidian.md/obsidian#Links+are+first-class+citizens"
+      "arg": "https://help.obsidian.md/android#App+storage",
+      "quicklookurl": "https://help.obsidian.md/android#App+storage"
     },
     {
-      "title": "Your own toolkit",
-      "subtitle": "Obsidian/Obsidian",
-      "uid": "https://help.obsidian.md/obsidian#Your+own+toolkit",
-      "match": "Your own toolkit Your own toolkit Obsidian Obsidian Obsidian Obsidian ",
+      "title": "Widgets",
+      "subtitle": "Obsidian/Obsidian for Android",
+      "uid": "https://help.obsidian.md/android#Widgets",
+      "match": "Widgets Widgets Obsidian for Android Obsidian for Android Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Your own toolkit"
+          "arg": "Widgets"
         }
       },
-      "arg": "https://help.obsidian.md/obsidian#Your+own+toolkit",
-      "quicklookurl": "https://help.obsidian.md/obsidian#Your+own+toolkit"
+      "arg": "https://help.obsidian.md/android#Widgets",
+      "quicklookurl": "https://help.obsidian.md/android#Widgets"
     },
     {
-      "title": "Follow our development",
-      "subtitle": "Obsidian/Obsidian",
-      "uid": "https://help.obsidian.md/obsidian#Follow+our+development",
-      "match": "Follow our development Follow our development Obsidian Obsidian Obsidian Obsidian ",
+      "title": "Quick Settings Tile",
+      "subtitle": "Obsidian/Obsidian for Android",
+      "uid": "https://help.obsidian.md/android#Quick+Settings+Tile",
+      "match": "Quick Settings Tile Quick Settings Tile Obsidian for Android Obsidian for Android Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Follow our development"
+          "arg": "Quick Settings Tile"
         }
       },
-      "arg": "https://help.obsidian.md/obsidian#Follow+our+development",
-      "quicklookurl": "https://help.obsidian.md/obsidian#Follow+our+development"
+      "arg": "https://help.obsidian.md/android#Quick+Settings+Tile",
+      "quicklookurl": "https://help.obsidian.md/android#Quick+Settings+Tile"
+    },
+    {
+      "title": "Shortcuts",
+      "subtitle": "Obsidian/Obsidian for Android",
+      "uid": "https://help.obsidian.md/android#Shortcuts",
+      "match": "Shortcuts Shortcuts Obsidian for Android Obsidian for Android Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Shortcuts"
+        }
+      },
+      "arg": "https://help.obsidian.md/android#Shortcuts",
+      "quicklookurl": "https://help.obsidian.md/android#Shortcuts"
+    },
+    {
+      "title": "Obsidian for iOS and iPadOS",
+      "match": "Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "subtitle": "Obsidian",
+      "mods": {
+        "cmd": {
+          "arg": "Obsidian for iOS and iPadOS"
+        }
+      },
+      "uid": "https://help.obsidian.md/ios",
+      "arg": "https://help.obsidian.md/ios",
+      "quicklookurl": "https://help.obsidian.md/ios"
+    },
+    {
+      "title": "Sync",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Sync",
+      "match": "Sync Sync Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Sync"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Sync",
+      "quicklookurl": "https://help.obsidian.md/ios#Sync"
+    },
+    {
+      "title": "Widgets",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Widgets",
+      "match": "Widgets Widgets Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Widgets"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Widgets",
+      "quicklookurl": "https://help.obsidian.md/ios#Widgets"
+    },
+    {
+      "title": "Lock Screen and Control Center widgets",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Lock+Screen+and+Control+Center+widgets",
+      "match": "Lock Screen and Control Center widgets Lock Screen and Control Center widgets Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Lock Screen and Control Center widgets"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Lock+Screen+and+Control+Center+widgets",
+      "quicklookurl": "https://help.obsidian.md/ios#Lock+Screen+and+Control+Center+widgets"
+    },
+    {
+      "title": "Home Screen widgets",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Home+Screen+widgets",
+      "match": "Home Screen widgets Home Screen widgets Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Home Screen widgets"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Home+Screen+widgets",
+      "quicklookurl": "https://help.obsidian.md/ios#Home+Screen+widgets"
+    },
+    {
+      "title": "Customizing Widgets",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Customizing+Widgets",
+      "match": "Customizing Widgets Customizing Widgets Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Customizing Widgets"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Customizing+Widgets",
+      "quicklookurl": "https://help.obsidian.md/ios#Customizing+Widgets"
+    },
+    {
+      "title": "Shortcuts",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Shortcuts",
+      "match": "Shortcuts Shortcuts Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Shortcuts"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Shortcuts",
+      "quicklookurl": "https://help.obsidian.md/ios#Shortcuts"
+    },
+    {
+      "title": "Siri integration",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Siri+integration",
+      "match": "Siri integration Siri integration Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Siri integration"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Siri+integration",
+      "quicklookurl": "https://help.obsidian.md/ios#Siri+integration"
+    },
+    {
+      "title": "Spotlight integration",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Spotlight+integration",
+      "match": "Spotlight integration Spotlight integration Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Spotlight integration"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Spotlight+integration",
+      "quicklookurl": "https://help.obsidian.md/ios#Spotlight+integration"
     },
     {
       "title": "Official website",
@@ -13454,32 +13636,6 @@
       "uid": "https://help.obsidian.md/official-site",
       "arg": "https://help.obsidian.md/official-site",
       "quicklookurl": "https://help.obsidian.md/official-site"
-    },
-    {
-      "title": "iOS app",
-      "match": "iOS app iOS app Obsidian Obsidian ",
-      "subtitle": "Obsidian",
-      "mods": {
-        "cmd": {
-          "arg": "iOS app"
-        }
-      },
-      "uid": "https://help.obsidian.md/ios",
-      "arg": "https://help.obsidian.md/ios",
-      "quicklookurl": "https://help.obsidian.md/ios"
-    },
-    {
-      "title": "Sync",
-      "subtitle": "Obsidian/iOS app",
-      "uid": "https://help.obsidian.md/ios#Sync",
-      "match": "Sync Sync iOS app iOS app Obsidian Obsidian ",
-      "mods": {
-        "cmd": {
-          "arg": "Sync"
-        }
-      },
-      "arg": "https://help.obsidian.md/ios#Sync",
-      "quicklookurl": "https://help.obsidian.md/ios#Sync"
     },
     {
       "title": "Audio recorder",
