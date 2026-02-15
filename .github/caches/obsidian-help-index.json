@@ -386,217 +386,217 @@
           "arg": "Formulas"
         }
       },
-      "uid": "https://help.obsidian.md//formulas",
-      "arg": "https://help.obsidian.md//formulas",
-      "quicklookurl": "https://help.obsidian.md//formulas"
+      "uid": "https://help.obsidian.md/formulas",
+      "arg": "https://help.obsidian.md/formulas",
+      "quicklookurl": "https://help.obsidian.md/formulas"
     },
     {
       "title": "What formulas can do",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#What+formulas+can+do",
+      "uid": "https://help.obsidian.md/formulas#What+formulas+can+do",
       "match": "What formulas can do What formulas can do Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "What formulas can do"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#What+formulas+can+do",
-      "quicklookurl": "https://help.obsidian.md//formulas#What+formulas+can+do"
+      "arg": "https://help.obsidian.md/formulas#What+formulas+can+do",
+      "quicklookurl": "https://help.obsidian.md/formulas#What+formulas+can+do"
     },
     {
       "title": "Create a formula property",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Create+a+formula+property",
+      "uid": "https://help.obsidian.md/formulas#Create+a+formula+property",
       "match": "Create a formula property Create a formula property Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Create a formula property"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Create+a+formula+property",
-      "quicklookurl": "https://help.obsidian.md//formulas#Create+a+formula+property"
+      "arg": "https://help.obsidian.md/formulas#Create+a+formula+property",
+      "quicklookurl": "https://help.obsidian.md/formulas#Create+a+formula+property"
     },
     {
       "title": "Write a formula",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Write+a+formula",
+      "uid": "https://help.obsidian.md/formulas#Write+a+formula",
       "match": "Write a formula Write a formula Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Write a formula"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Write+a+formula",
-      "quicklookurl": "https://help.obsidian.md//formulas#Write+a+formula"
+      "arg": "https://help.obsidian.md/formulas#Write+a+formula",
+      "quicklookurl": "https://help.obsidian.md/formulas#Write+a+formula"
     },
     {
       "title": "Reference properties",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Reference+properties",
+      "uid": "https://help.obsidian.md/formulas#Reference+properties",
       "match": "Reference properties Reference properties Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Reference properties"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Reference+properties",
-      "quicklookurl": "https://help.obsidian.md//formulas#Reference+properties"
+      "arg": "https://help.obsidian.md/formulas#Reference+properties",
+      "quicklookurl": "https://help.obsidian.md/formulas#Reference+properties"
     },
     {
       "title": "Use operators",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Use+operators",
+      "uid": "https://help.obsidian.md/formulas#Use+operators",
       "match": "Use operators Use operators Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Use operators"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Use+operators",
-      "quicklookurl": "https://help.obsidian.md//formulas#Use+operators"
+      "arg": "https://help.obsidian.md/formulas#Use+operators",
+      "quicklookurl": "https://help.obsidian.md/formulas#Use+operators"
     },
     {
       "title": "Use functions",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Use+functions",
+      "uid": "https://help.obsidian.md/formulas#Use+functions",
       "match": "Use functions Use functions Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Use functions"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Use+functions",
-      "quicklookurl": "https://help.obsidian.md//formulas#Use+functions"
+      "arg": "https://help.obsidian.md/formulas#Use+functions",
+      "quicklookurl": "https://help.obsidian.md/formulas#Use+functions"
     },
     {
       "title": "Formula examples",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Formula+examples",
+      "uid": "https://help.obsidian.md/formulas#Formula+examples",
       "match": "Formula examples Formula examples Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Formula examples"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Formula+examples",
-      "quicklookurl": "https://help.obsidian.md//formulas#Formula+examples"
+      "arg": "https://help.obsidian.md/formulas#Formula+examples",
+      "quicklookurl": "https://help.obsidian.md/formulas#Formula+examples"
     },
     {
       "title": "Calculate a deadline",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Calculate+a+deadline",
+      "uid": "https://help.obsidian.md/formulas#Calculate+a+deadline",
       "match": "Calculate a deadline Calculate a deadline Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Calculate a deadline"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Calculate+a+deadline",
-      "quicklookurl": "https://help.obsidian.md//formulas#Calculate+a+deadline"
+      "arg": "https://help.obsidian.md/formulas#Calculate+a+deadline",
+      "quicklookurl": "https://help.obsidian.md/formulas#Calculate+a+deadline"
     },
     {
       "title": "Display overdue status",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Display+overdue+status",
+      "uid": "https://help.obsidian.md/formulas#Display+overdue+status",
       "match": "Display overdue status Display overdue status Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Display overdue status"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Display+overdue+status",
-      "quicklookurl": "https://help.obsidian.md//formulas#Display+overdue+status"
+      "arg": "https://help.obsidian.md/formulas#Display+overdue+status",
+      "quicklookurl": "https://help.obsidian.md/formulas#Display+overdue+status"
     },
     {
       "title": "Format currency",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Format+currency",
+      "uid": "https://help.obsidian.md/formulas#Format+currency",
       "match": "Format currency Format currency Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Format currency"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Format+currency",
-      "quicklookurl": "https://help.obsidian.md//formulas#Format+currency"
+      "arg": "https://help.obsidian.md/formulas#Format+currency",
+      "quicklookurl": "https://help.obsidian.md/formulas#Format+currency"
     },
     {
       "title": "Count list items",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Count+list+items",
+      "uid": "https://help.obsidian.md/formulas#Count+list+items",
       "match": "Count list items Count list items Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Count list items"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Count+list+items",
-      "quicklookurl": "https://help.obsidian.md//formulas#Count+list+items"
+      "arg": "https://help.obsidian.md/formulas#Count+list+items",
+      "quicklookurl": "https://help.obsidian.md/formulas#Count+list+items"
     },
     {
       "title": "Calculate priority score",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Calculate+priority+score",
+      "uid": "https://help.obsidian.md/formulas#Calculate+priority+score",
       "match": "Calculate priority score Calculate priority score Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Calculate priority score"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Calculate+priority+score",
-      "quicklookurl": "https://help.obsidian.md//formulas#Calculate+priority+score"
+      "arg": "https://help.obsidian.md/formulas#Calculate+priority+score",
+      "quicklookurl": "https://help.obsidian.md/formulas#Calculate+priority+score"
     },
     {
       "title": "Combine text fields",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Combine+text+fields",
+      "uid": "https://help.obsidian.md/formulas#Combine+text+fields",
       "match": "Combine text fields Combine text fields Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Combine text fields"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Combine+text+fields",
-      "quicklookurl": "https://help.obsidian.md//formulas#Combine+text+fields"
+      "arg": "https://help.obsidian.md/formulas#Combine+text+fields",
+      "quicklookurl": "https://help.obsidian.md/formulas#Combine+text+fields"
     },
     {
       "title": "Calculate total cost",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Calculate+total+cost",
+      "uid": "https://help.obsidian.md/formulas#Calculate+total+cost",
       "match": "Calculate total cost Calculate total cost Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Calculate total cost"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Calculate+total+cost",
-      "quicklookurl": "https://help.obsidian.md//formulas#Calculate+total+cost"
+      "arg": "https://help.obsidian.md/formulas#Calculate+total+cost",
+      "quicklookurl": "https://help.obsidian.md/formulas#Calculate+total+cost"
     },
     {
       "title": "Data types",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Data+types",
+      "uid": "https://help.obsidian.md/formulas#Data+types",
       "match": "Data types Data types Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Data types"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Data+types",
-      "quicklookurl": "https://help.obsidian.md//formulas#Data+types"
+      "arg": "https://help.obsidian.md/formulas#Data+types",
+      "quicklookurl": "https://help.obsidian.md/formulas#Data+types"
     },
     {
       "title": "Reference other formulas",
       "subtitle": "Bases/Formulas",
-      "uid": "https://help.obsidian.md//formulas#Reference+other+formulas",
+      "uid": "https://help.obsidian.md/formulas#Reference+other+formulas",
       "match": "Reference other formulas Reference other formulas Formulas Formulas Bases Bases ",
       "mods": {
         "cmd": {
           "arg": "Reference other formulas"
         }
       },
-      "arg": "https://help.obsidian.md//formulas#Reference+other+formulas",
-      "quicklookurl": "https://help.obsidian.md//formulas#Reference+other+formulas"
+      "arg": "https://help.obsidian.md/formulas#Reference+other+formulas",
+      "quicklookurl": "https://help.obsidian.md/formulas#Reference+other+formulas"
     },
     {
       "title": "Functions",
@@ -4603,6 +4603,2580 @@
       "quicklookurl": "https://help.obsidian.md/community-plugins#Learn+more"
     },
     {
+      "title": "Obsidian CLI",
+      "match": "Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "subtitle": "Extending Obsidian",
+      "mods": {
+        "cmd": {
+          "arg": "Obsidian CLI"
+        }
+      },
+      "uid": "https://help.obsidian.md/cli",
+      "arg": "https://help.obsidian.md/cli",
+      "quicklookurl": "https://help.obsidian.md/cli"
+    },
+    {
+      "title": "Install Obsidian CLI",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Install+Obsidian+CLI",
+      "match": "Install Obsidian CLI Install Obsidian CLI Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Install Obsidian CLI"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Install+Obsidian+CLI",
+      "quicklookurl": "https://help.obsidian.md/cli#Install+Obsidian+CLI"
+    },
+    {
+      "title": "Get started",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Get+started",
+      "match": "Get started Get started Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Get started"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Get+started",
+      "quicklookurl": "https://help.obsidian.md/cli#Get+started"
+    },
+    {
+      "title": "Run a command",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Run+a+command",
+      "match": "Run a command Run a command Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Run a command"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Run+a+command",
+      "quicklookurl": "https://help.obsidian.md/cli#Run+a+command"
+    },
+    {
+      "title": "Run the help command",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Run+the+help+command",
+      "match": "Run the help command Run the help command Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Run the help command"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Run+the+help+command",
+      "quicklookurl": "https://help.obsidian.md/cli#Run+the+help+command"
+    },
+    {
+      "title": "Use the terminal interface",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Use+the+terminal+interface",
+      "match": "Use the terminal interface Use the terminal interface Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Use the terminal interface"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Use+the+terminal+interface",
+      "quicklookurl": "https://help.obsidian.md/cli#Use+the+terminal+interface"
+    },
+    {
+      "title": "Open the TUI, then run help",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Open+the+TUI,+then+run+help",
+      "match": "Open the TUI, then run help Open the TUI, then run help Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Open the TUI, then run help"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Open+the+TUI,+then+run+help",
+      "quicklookurl": "https://help.obsidian.md/cli#Open+the+TUI,+then+run+help"
+    },
+    {
+      "title": "Examples",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Examples",
+      "match": "Examples Examples Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Examples"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Examples",
+      "quicklookurl": "https://help.obsidian.md/cli#Examples"
+    },
+    {
+      "title": "Everyday use",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Everyday+use",
+      "match": "Everyday use Everyday use Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Everyday use"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Everyday+use",
+      "quicklookurl": "https://help.obsidian.md/cli#Everyday+use"
+    },
+    {
+      "title": "Open today's daily note",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Open+today's+daily+note",
+      "match": "Open today's daily note Open today's daily note Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Open today's daily note"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Open+today's+daily+note",
+      "quicklookurl": "https://help.obsidian.md/cli#Open+today's+daily+note"
+    },
+    {
+      "title": "Add a task to your daily note",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Add+a+task+to+your+daily+note",
+      "match": "Add a task to your daily note Add a task to your daily note Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Add a task to your daily note"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Add+a+task+to+your+daily+note",
+      "quicklookurl": "https://help.obsidian.md/cli#Add+a+task+to+your+daily+note"
+    },
+    {
+      "title": "Search your vault",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Search+your+vault",
+      "match": "Search your vault Search your vault Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Search your vault"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Search+your+vault",
+      "quicklookurl": "https://help.obsidian.md/cli#Search+your+vault"
+    },
+    {
+      "title": "Read the active file",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Read+the+active+file",
+      "match": "Read the active file Read the active file Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Read the active file"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Read+the+active+file",
+      "quicklookurl": "https://help.obsidian.md/cli#Read+the+active+file"
+    },
+    {
+      "title": "List all tasks from your daily note",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#List+all+tasks+from+your+daily+note",
+      "match": "List all tasks from your daily note List all tasks from your daily note Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "List all tasks from your daily note"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#List+all+tasks+from+your+daily+note",
+      "quicklookurl": "https://help.obsidian.md/cli#List+all+tasks+from+your+daily+note"
+    },
+    {
+      "title": "Create a new note from a template",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Create+a+new+note+from+a+template",
+      "match": "Create a new note from a template Create a new note from a template Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Create a new note from a template"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Create+a+new+note+from+a+template",
+      "quicklookurl": "https://help.obsidian.md/cli#Create+a+new+note+from+a+template"
+    },
+    {
+      "title": "List all tags in your vault with counts",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#List+all+tags+in+your+vault+with+counts",
+      "match": "List all tags in your vault with counts List all tags in your vault with counts Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "List all tags in your vault with counts"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#List+all+tags+in+your+vault+with+counts",
+      "quicklookurl": "https://help.obsidian.md/cli#List+all+tags+in+your+vault+with+counts"
+    },
+    {
+      "title": "Compare two versions of a file",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Compare+two+versions+of+a+file",
+      "match": "Compare two versions of a file Compare two versions of a file Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Compare two versions of a file"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Compare+two+versions+of+a+file",
+      "quicklookurl": "https://help.obsidian.md/cli#Compare+two+versions+of+a+file"
+    },
+    {
+      "title": "For developers",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#For+developers",
+      "match": "For developers For developers Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "For developers"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#For+developers",
+      "quicklookurl": "https://help.obsidian.md/cli#For+developers"
+    },
+    {
+      "title": "Open developer tools",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Open+developer+tools",
+      "match": "Open developer tools Open developer tools Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Open developer tools"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Open+developer+tools",
+      "quicklookurl": "https://help.obsidian.md/cli#Open+developer+tools"
+    },
+    {
+      "title": "Reload a community plugin you're developing",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Reload+a+community+plugin+you're+developing",
+      "match": "Reload a community plugin you're developing Reload a community plugin you're developing Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Reload a community plugin you're developing"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Reload+a+community+plugin+you're+developing",
+      "quicklookurl": "https://help.obsidian.md/cli#Reload+a+community+plugin+you're+developing"
+    },
+    {
+      "title": "Take a screenshot of the app",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Take+a+screenshot+of+the+app",
+      "match": "Take a screenshot of the app Take a screenshot of the app Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Take a screenshot of the app"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Take+a+screenshot+of+the+app",
+      "quicklookurl": "https://help.obsidian.md/cli#Take+a+screenshot+of+the+app"
+    },
+    {
+      "title": "Run JavaScript in the app console",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Run+JavaScript+in+the+app+console",
+      "match": "Run JavaScript in the app console Run JavaScript in the app console Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Run JavaScript in the app console"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Run+JavaScript+in+the+app+console",
+      "quicklookurl": "https://help.obsidian.md/cli#Run+JavaScript+in+the+app+console"
+    },
+    {
+      "title": "How to",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#How+to",
+      "match": "How to How to Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "How to"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#How+to",
+      "quicklookurl": "https://help.obsidian.md/cli#How+to"
+    },
+    {
+      "title": "Use parameters and flags",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Use+parameters+and+flags",
+      "match": "Use parameters and flags Use parameters and flags Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Use parameters and flags"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Use+parameters+and+flags",
+      "quicklookurl": "https://help.obsidian.md/cli#Use+parameters+and+flags"
+    },
+    {
+      "title": "Create a new note using the default \"Untitled\" name",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Create+a+new+note+using+the+default+\"Untitled\"+name",
+      "match": "Create a new note using the default \"Untitled\" name Create a new note using the default \"Untitled\" name Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Create a new note using the default \"Untitled\" name"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Create+a+new+note+using+the+default+\"Untitled\"+name",
+      "quicklookurl": "https://help.obsidian.md/cli#Create+a+new+note+using+the+default+\"Untitled\"+name"
+    },
+    {
+      "title": "Create a new note called \"Note\" with content \"Hello world\"",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Create+a+new+note+called+\"Note\"+with+content+\"Hello+world\"",
+      "match": "Create a new note called \"Note\" with content \"Hello world\" Create a new note called \"Note\" with content \"Hello world\" Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Create a new note called \"Note\" with content \"Hello world\""
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Create+a+new+note+called+\"Note\"+with+content+\"Hello+world\"",
+      "quicklookurl": "https://help.obsidian.md/cli#Create+a+new+note+called+\"Note\"+with+content+\"Hello+world\""
+    },
+    {
+      "title": "Create the note in the background and overwrite any existing content",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Create+the+note+in+the+background+and+overwrite+any+existing+content",
+      "match": "Create the note in the background and overwrite any existing content Create the note in the background and overwrite any existing content Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Create the note in the background and overwrite any existing content"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Create+the+note+in+the+background+and+overwrite+any+existing+content",
+      "quicklookurl": "https://help.obsidian.md/cli#Create+the+note+in+the+background+and+overwrite+any+existing+content"
+    },
+    {
+      "title": "Target a vault",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Target+a+vault",
+      "match": "Target a vault Target a vault Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Target a vault"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Target+a+vault",
+      "quicklookurl": "https://help.obsidian.md/cli#Target+a+vault"
+    },
+    {
+      "title": "Target a file",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Target+a+file",
+      "match": "Target a file Target a file Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Target a file"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Target+a+file",
+      "quicklookurl": "https://help.obsidian.md/cli#Target+a+file"
+    },
+    {
+      "title": "These are equivalent if \"Recipe.md\" is the only file with that name",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#These+are+equivalent+if+\"Recipe.md\"+is+the+only+file+with+that+name",
+      "match": "These are equivalent if \"Recipe md\" is the only file with that name These are equivalent if \"Recipe.md\" is the only file with that name Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "These are equivalent if \"Recipe.md\" is the only file with that name"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#These+are+equivalent+if+\"Recipe.md\"+is+the+only+file+with+that+name",
+      "quicklookurl": "https://help.obsidian.md/cli#These+are+equivalent+if+\"Recipe.md\"+is+the+only+file+with+that+name"
+    },
+    {
+      "title": "Copy output",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Copy+output",
+      "match": "Copy output Copy output Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Copy output"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Copy+output",
+      "quicklookurl": "https://help.obsidian.md/cli#Copy+output"
+    },
+    {
+      "title": "General commands",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#General+commands",
+      "match": "General commands General commands Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "General commands"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#General+commands",
+      "quicklookurl": "https://help.obsidian.md/cli#General+commands"
+    },
+    {
+      "title": "help",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`help`",
+      "match": " help  `help` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`help`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`help`",
+      "quicklookurl": "https://help.obsidian.md/cli#`help`"
+    },
+    {
+      "title": "version",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`version`",
+      "match": " version  `version` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`version`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`version`",
+      "quicklookurl": "https://help.obsidian.md/cli#`version`"
+    },
+    {
+      "title": "reload",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`reload`",
+      "match": " reload  `reload` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`reload`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`reload`",
+      "quicklookurl": "https://help.obsidian.md/cli#`reload`"
+    },
+    {
+      "title": "restart",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`restart`",
+      "match": " restart  `restart` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`restart`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`restart`",
+      "quicklookurl": "https://help.obsidian.md/cli#`restart`"
+    },
+    {
+      "title": "Bases",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Bases",
+      "match": "Bases Bases Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Bases"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Bases",
+      "quicklookurl": "https://help.obsidian.md/cli#Bases"
+    },
+    {
+      "title": "bases",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`bases`",
+      "match": " bases  `bases` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`bases`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`bases`",
+      "quicklookurl": "https://help.obsidian.md/cli#`bases`"
+    },
+    {
+      "title": "base:views",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`base:views`",
+      "match": " base:views  `base:views` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`base:views`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`base:views`",
+      "quicklookurl": "https://help.obsidian.md/cli#`base:views`"
+    },
+    {
+      "title": "base:create",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`base:create`",
+      "match": " base:create  `base:create` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`base:create`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`base:create`",
+      "quicklookurl": "https://help.obsidian.md/cli#`base:create`"
+    },
+    {
+      "title": "base:query",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`base:query`",
+      "match": " base:query  `base:query` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`base:query`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`base:query`",
+      "quicklookurl": "https://help.obsidian.md/cli#`base:query`"
+    },
+    {
+      "title": "Bookmarks",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Bookmarks",
+      "match": "Bookmarks Bookmarks Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Bookmarks"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Bookmarks",
+      "quicklookurl": "https://help.obsidian.md/cli#Bookmarks"
+    },
+    {
+      "title": "bookmarks",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`bookmarks`",
+      "match": " bookmarks  `bookmarks` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`bookmarks`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`bookmarks`",
+      "quicklookurl": "https://help.obsidian.md/cli#`bookmarks`"
+    },
+    {
+      "title": "bookmark",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`bookmark`",
+      "match": " bookmark  `bookmark` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`bookmark`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`bookmark`",
+      "quicklookurl": "https://help.obsidian.md/cli#`bookmark`"
+    },
+    {
+      "title": "Command palette",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Command+palette",
+      "match": "Command palette Command palette Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Command palette"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Command+palette",
+      "quicklookurl": "https://help.obsidian.md/cli#Command+palette"
+    },
+    {
+      "title": "commands",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`commands`",
+      "match": " commands  `commands` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`commands`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`commands`",
+      "quicklookurl": "https://help.obsidian.md/cli#`commands`"
+    },
+    {
+      "title": "command",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`command`",
+      "match": " command  `command` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`command`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`command`",
+      "quicklookurl": "https://help.obsidian.md/cli#`command`"
+    },
+    {
+      "title": "hotkeys",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`hotkeys`",
+      "match": " hotkeys  `hotkeys` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`hotkeys`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`hotkeys`",
+      "quicklookurl": "https://help.obsidian.md/cli#`hotkeys`"
+    },
+    {
+      "title": "hotkey",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`hotkey`",
+      "match": " hotkey  `hotkey` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`hotkey`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`hotkey`",
+      "quicklookurl": "https://help.obsidian.md/cli#`hotkey`"
+    },
+    {
+      "title": "Daily notes",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Daily+notes",
+      "match": "Daily notes Daily notes Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Daily notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Daily+notes",
+      "quicklookurl": "https://help.obsidian.md/cli#Daily+notes"
+    },
+    {
+      "title": "daily",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`daily`",
+      "match": " daily  `daily` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`daily`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`daily`",
+      "quicklookurl": "https://help.obsidian.md/cli#`daily`"
+    },
+    {
+      "title": "daily:read",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`daily:read`",
+      "match": " daily:read  `daily:read` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`daily:read`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`daily:read`",
+      "quicklookurl": "https://help.obsidian.md/cli#`daily:read`"
+    },
+    {
+      "title": "daily:append",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`daily:append`",
+      "match": " daily:append  `daily:append` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`daily:append`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`daily:append`",
+      "quicklookurl": "https://help.obsidian.md/cli#`daily:append`"
+    },
+    {
+      "title": "daily:prepend",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`daily:prepend`",
+      "match": " daily:prepend  `daily:prepend` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`daily:prepend`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`daily:prepend`",
+      "quicklookurl": "https://help.obsidian.md/cli#`daily:prepend`"
+    },
+    {
+      "title": "File history",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#File+history",
+      "match": "File history File history Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "File history"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#File+history",
+      "quicklookurl": "https://help.obsidian.md/cli#File+history"
+    },
+    {
+      "title": "diff",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`diff`",
+      "match": " diff  `diff` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`diff`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`diff`",
+      "quicklookurl": "https://help.obsidian.md/cli#`diff`"
+    },
+    {
+      "title": "List all versions of the active file",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#List+all+versions+of+the+active+file",
+      "match": "List all versions of the active file List all versions of the active file Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "List all versions of the active file"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#List+all+versions+of+the+active+file",
+      "quicklookurl": "https://help.obsidian.md/cli#List+all+versions+of+the+active+file"
+    },
+    {
+      "title": "List all versions of a specific file",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#List+all+versions+of+a+specific+file",
+      "match": "List all versions of a specific file List all versions of a specific file Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "List all versions of a specific file"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#List+all+versions+of+a+specific+file",
+      "quicklookurl": "https://help.obsidian.md/cli#List+all+versions+of+a+specific+file"
+    },
+    {
+      "title": "Compare the latest version to the current file",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Compare+the+latest+version+to+the+current+file",
+      "match": "Compare the latest version to the current file Compare the latest version to the current file Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Compare the latest version to the current file"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Compare+the+latest+version+to+the+current+file",
+      "quicklookurl": "https://help.obsidian.md/cli#Compare+the+latest+version+to+the+current+file"
+    },
+    {
+      "title": "Compare two versions",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Compare+two+versions",
+      "match": "Compare two versions Compare two versions Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Compare two versions"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Compare+two+versions",
+      "quicklookurl": "https://help.obsidian.md/cli#Compare+two+versions"
+    },
+    {
+      "title": "Only show Sync versions",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Only+show+Sync+versions",
+      "match": "Only show Sync versions Only show Sync versions Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Only show Sync versions"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Only+show+Sync+versions",
+      "quicklookurl": "https://help.obsidian.md/cli#Only+show+Sync+versions"
+    },
+    {
+      "title": "history",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`history`",
+      "match": " history  `history` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`history`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`history`",
+      "quicklookurl": "https://help.obsidian.md/cli#`history`"
+    },
+    {
+      "title": "history:list",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`history:list`",
+      "match": " history:list  `history:list` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`history:list`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`history:list`",
+      "quicklookurl": "https://help.obsidian.md/cli#`history:list`"
+    },
+    {
+      "title": "history:read",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`history:read`",
+      "match": " history:read  `history:read` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`history:read`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`history:read`",
+      "quicklookurl": "https://help.obsidian.md/cli#`history:read`"
+    },
+    {
+      "title": "history:restore",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`history:restore`",
+      "match": " history:restore  `history:restore` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`history:restore`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`history:restore`",
+      "quicklookurl": "https://help.obsidian.md/cli#`history:restore`"
+    },
+    {
+      "title": "history:open",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`history:open`",
+      "match": " history:open  `history:open` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`history:open`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`history:open`",
+      "quicklookurl": "https://help.obsidian.md/cli#`history:open`"
+    },
+    {
+      "title": "Files and folders",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Files+and+folders",
+      "match": "Files and folders Files and folders Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Files and folders"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Files+and+folders",
+      "quicklookurl": "https://help.obsidian.md/cli#Files+and+folders"
+    },
+    {
+      "title": "file",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`file`",
+      "match": " file  `file` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`file`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`file`",
+      "quicklookurl": "https://help.obsidian.md/cli#`file`"
+    },
+    {
+      "title": "files",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`files`",
+      "match": " files  `files` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`files`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`files`",
+      "quicklookurl": "https://help.obsidian.md/cli#`files`"
+    },
+    {
+      "title": "folder",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`folder`",
+      "match": " folder  `folder` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`folder`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`folder`",
+      "quicklookurl": "https://help.obsidian.md/cli#`folder`"
+    },
+    {
+      "title": "folders",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`folders`",
+      "match": " folders  `folders` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`folders`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`folders`",
+      "quicklookurl": "https://help.obsidian.md/cli#`folders`"
+    },
+    {
+      "title": "open",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`open`",
+      "match": " open  `open` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`open`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`open`",
+      "quicklookurl": "https://help.obsidian.md/cli#`open`"
+    },
+    {
+      "title": "create",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`create`",
+      "match": " create  `create` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`create`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`create`",
+      "quicklookurl": "https://help.obsidian.md/cli#`create`"
+    },
+    {
+      "title": "read",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`read`",
+      "match": " read  `read` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`read`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`read`",
+      "quicklookurl": "https://help.obsidian.md/cli#`read`"
+    },
+    {
+      "title": "append",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`append`",
+      "match": " append  `append` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`append`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`append`",
+      "quicklookurl": "https://help.obsidian.md/cli#`append`"
+    },
+    {
+      "title": "prepend",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`prepend`",
+      "match": " prepend  `prepend` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`prepend`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`prepend`",
+      "quicklookurl": "https://help.obsidian.md/cli#`prepend`"
+    },
+    {
+      "title": "move",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`move`",
+      "match": " move  `move` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`move`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`move`",
+      "quicklookurl": "https://help.obsidian.md/cli#`move`"
+    },
+    {
+      "title": "delete",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`delete`",
+      "match": " delete  `delete` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`delete`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`delete`",
+      "quicklookurl": "https://help.obsidian.md/cli#`delete`"
+    },
+    {
+      "title": "Links",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Links",
+      "match": "Links Links Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Links"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Links",
+      "quicklookurl": "https://help.obsidian.md/cli#Links"
+    },
+    {
+      "title": "backlinks",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`backlinks`",
+      "match": " backlinks  `backlinks` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`backlinks`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`backlinks`",
+      "quicklookurl": "https://help.obsidian.md/cli#`backlinks`"
+    },
+    {
+      "title": "links",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`links`",
+      "match": " links  `links` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`links`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`links`",
+      "quicklookurl": "https://help.obsidian.md/cli#`links`"
+    },
+    {
+      "title": "unresolved",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`unresolved`",
+      "match": " unresolved  `unresolved` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`unresolved`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`unresolved`",
+      "quicklookurl": "https://help.obsidian.md/cli#`unresolved`"
+    },
+    {
+      "title": "orphans",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`orphans`",
+      "match": " orphans  `orphans` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`orphans`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`orphans`",
+      "quicklookurl": "https://help.obsidian.md/cli#`orphans`"
+    },
+    {
+      "title": "deadends",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`deadends`",
+      "match": " deadends  `deadends` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`deadends`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`deadends`",
+      "quicklookurl": "https://help.obsidian.md/cli#`deadends`"
+    },
+    {
+      "title": "Outline",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Outline",
+      "match": "Outline Outline Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Outline"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Outline",
+      "quicklookurl": "https://help.obsidian.md/cli#Outline"
+    },
+    {
+      "title": "outline",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`outline`",
+      "match": " outline  `outline` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`outline`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`outline`",
+      "quicklookurl": "https://help.obsidian.md/cli#`outline`"
+    },
+    {
+      "title": "Plugins",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Plugins",
+      "match": "Plugins Plugins Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Plugins"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Plugins",
+      "quicklookurl": "https://help.obsidian.md/cli#Plugins"
+    },
+    {
+      "title": "plugins",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`plugins`",
+      "match": " plugins  `plugins` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`plugins`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`plugins`",
+      "quicklookurl": "https://help.obsidian.md/cli#`plugins`"
+    },
+    {
+      "title": "plugins:enabled",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`plugins:enabled`",
+      "match": " plugins:enabled  `plugins:enabled` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`plugins:enabled`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`plugins:enabled`",
+      "quicklookurl": "https://help.obsidian.md/cli#`plugins:enabled`"
+    },
+    {
+      "title": "plugins:restrict",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`plugins:restrict`",
+      "match": " plugins:restrict  `plugins:restrict` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`plugins:restrict`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`plugins:restrict`",
+      "quicklookurl": "https://help.obsidian.md/cli#`plugins:restrict`"
+    },
+    {
+      "title": "plugin",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`plugin`",
+      "match": " plugin  `plugin` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`plugin`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`plugin`",
+      "quicklookurl": "https://help.obsidian.md/cli#`plugin`"
+    },
+    {
+      "title": "plugin:enable",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`plugin:enable`",
+      "match": " plugin:enable  `plugin:enable` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`plugin:enable`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`plugin:enable`",
+      "quicklookurl": "https://help.obsidian.md/cli#`plugin:enable`"
+    },
+    {
+      "title": "plugin:disable",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`plugin:disable`",
+      "match": " plugin:disable  `plugin:disable` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`plugin:disable`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`plugin:disable`",
+      "quicklookurl": "https://help.obsidian.md/cli#`plugin:disable`"
+    },
+    {
+      "title": "plugin:install",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`plugin:install`",
+      "match": " plugin:install  `plugin:install` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`plugin:install`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`plugin:install`",
+      "quicklookurl": "https://help.obsidian.md/cli#`plugin:install`"
+    },
+    {
+      "title": "plugin:uninstall",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`plugin:uninstall`",
+      "match": " plugin:uninstall  `plugin:uninstall` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`plugin:uninstall`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`plugin:uninstall`",
+      "quicklookurl": "https://help.obsidian.md/cli#`plugin:uninstall`"
+    },
+    {
+      "title": "plugin:reload",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`plugin:reload`",
+      "match": " plugin:reload  `plugin:reload` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`plugin:reload`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`plugin:reload`",
+      "quicklookurl": "https://help.obsidian.md/cli#`plugin:reload`"
+    },
+    {
+      "title": "Properties",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Properties",
+      "match": "Properties Properties Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Properties"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Properties",
+      "quicklookurl": "https://help.obsidian.md/cli#Properties"
+    },
+    {
+      "title": "aliases",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`aliases`",
+      "match": " aliases  `aliases` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`aliases`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`aliases`",
+      "quicklookurl": "https://help.obsidian.md/cli#`aliases`"
+    },
+    {
+      "title": "properties",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`properties`",
+      "match": " properties  `properties` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`properties`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`properties`",
+      "quicklookurl": "https://help.obsidian.md/cli#`properties`"
+    },
+    {
+      "title": "property:set",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`property:set`",
+      "match": " property:set  `property:set` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`property:set`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`property:set`",
+      "quicklookurl": "https://help.obsidian.md/cli#`property:set`"
+    },
+    {
+      "title": "property:remove",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`property:remove`",
+      "match": " property:remove  `property:remove` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`property:remove`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`property:remove`",
+      "quicklookurl": "https://help.obsidian.md/cli#`property:remove`"
+    },
+    {
+      "title": "property:read",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`property:read`",
+      "match": " property:read  `property:read` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`property:read`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`property:read`",
+      "quicklookurl": "https://help.obsidian.md/cli#`property:read`"
+    },
+    {
+      "title": "Publish",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Publish",
+      "match": "Publish Publish Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Publish"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Publish",
+      "quicklookurl": "https://help.obsidian.md/cli#Publish"
+    },
+    {
+      "title": "publish:site",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`publish:site`",
+      "match": " publish:site  `publish:site` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`publish:site`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`publish:site`",
+      "quicklookurl": "https://help.obsidian.md/cli#`publish:site`"
+    },
+    {
+      "title": "publish:list",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`publish:list`",
+      "match": " publish:list  `publish:list` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`publish:list`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`publish:list`",
+      "quicklookurl": "https://help.obsidian.md/cli#`publish:list`"
+    },
+    {
+      "title": "publish:status",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`publish:status`",
+      "match": " publish:status  `publish:status` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`publish:status`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`publish:status`",
+      "quicklookurl": "https://help.obsidian.md/cli#`publish:status`"
+    },
+    {
+      "title": "publish:add",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`publish:add`",
+      "match": " publish:add  `publish:add` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`publish:add`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`publish:add`",
+      "quicklookurl": "https://help.obsidian.md/cli#`publish:add`"
+    },
+    {
+      "title": "publish:remove",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`publish:remove`",
+      "match": " publish:remove  `publish:remove` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`publish:remove`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`publish:remove`",
+      "quicklookurl": "https://help.obsidian.md/cli#`publish:remove`"
+    },
+    {
+      "title": "publish:open",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`publish:open`",
+      "match": " publish:open  `publish:open` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`publish:open`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`publish:open`",
+      "quicklookurl": "https://help.obsidian.md/cli#`publish:open`"
+    },
+    {
+      "title": "Random notes",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Random+notes",
+      "match": "Random notes Random notes Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Random notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Random+notes",
+      "quicklookurl": "https://help.obsidian.md/cli#Random+notes"
+    },
+    {
+      "title": "random",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`random`",
+      "match": " random  `random` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`random`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`random`",
+      "quicklookurl": "https://help.obsidian.md/cli#`random`"
+    },
+    {
+      "title": "random:read",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`random:read`",
+      "match": " random:read  `random:read` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`random:read`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`random:read`",
+      "quicklookurl": "https://help.obsidian.md/cli#`random:read`"
+    },
+    {
+      "title": "Search",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Search",
+      "match": "Search Search Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Search"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Search",
+      "quicklookurl": "https://help.obsidian.md/cli#Search"
+    },
+    {
+      "title": "search",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`search`",
+      "match": " search  `search` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`search`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`search`",
+      "quicklookurl": "https://help.obsidian.md/cli#`search`"
+    },
+    {
+      "title": "search:open",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`search:open`",
+      "match": " search:open  `search:open` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`search:open`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`search:open`",
+      "quicklookurl": "https://help.obsidian.md/cli#`search:open`"
+    },
+    {
+      "title": "Sync",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Sync",
+      "match": "Sync Sync Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Sync"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Sync",
+      "quicklookurl": "https://help.obsidian.md/cli#Sync"
+    },
+    {
+      "title": "sync",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`sync`",
+      "match": " sync  `sync` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`sync`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`sync`",
+      "quicklookurl": "https://help.obsidian.md/cli#`sync`"
+    },
+    {
+      "title": "sync:status",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`sync:status`",
+      "match": " sync:status  `sync:status` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`sync:status`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`sync:status`",
+      "quicklookurl": "https://help.obsidian.md/cli#`sync:status`"
+    },
+    {
+      "title": "sync:history",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`sync:history`",
+      "match": " sync:history  `sync:history` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`sync:history`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`sync:history`",
+      "quicklookurl": "https://help.obsidian.md/cli#`sync:history`"
+    },
+    {
+      "title": "sync:read",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`sync:read`",
+      "match": " sync:read  `sync:read` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`sync:read`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`sync:read`",
+      "quicklookurl": "https://help.obsidian.md/cli#`sync:read`"
+    },
+    {
+      "title": "sync:restore",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`sync:restore`",
+      "match": " sync:restore  `sync:restore` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`sync:restore`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`sync:restore`",
+      "quicklookurl": "https://help.obsidian.md/cli#`sync:restore`"
+    },
+    {
+      "title": "sync:open",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`sync:open`",
+      "match": " sync:open  `sync:open` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`sync:open`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`sync:open`",
+      "quicklookurl": "https://help.obsidian.md/cli#`sync:open`"
+    },
+    {
+      "title": "sync:deleted",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`sync:deleted`",
+      "match": " sync:deleted  `sync:deleted` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`sync:deleted`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`sync:deleted`",
+      "quicklookurl": "https://help.obsidian.md/cli#`sync:deleted`"
+    },
+    {
+      "title": "Tags",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Tags",
+      "match": "Tags Tags Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Tags"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Tags",
+      "quicklookurl": "https://help.obsidian.md/cli#Tags"
+    },
+    {
+      "title": "tags",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`tags`",
+      "match": " tags  `tags` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`tags`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`tags`",
+      "quicklookurl": "https://help.obsidian.md/cli#`tags`"
+    },
+    {
+      "title": "tag",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`tag`",
+      "match": " tag  `tag` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`tag`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`tag`",
+      "quicklookurl": "https://help.obsidian.md/cli#`tag`"
+    },
+    {
+      "title": "Tasks",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Tasks",
+      "match": "Tasks Tasks Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Tasks"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Tasks",
+      "quicklookurl": "https://help.obsidian.md/cli#Tasks"
+    },
+    {
+      "title": "tasks",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`tasks`",
+      "match": " tasks  `tasks` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`tasks`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`tasks`",
+      "quicklookurl": "https://help.obsidian.md/cli#`tasks`"
+    },
+    {
+      "title": "List all tasks",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#List+all+tasks",
+      "match": "List all tasks List all tasks Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "List all tasks"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#List+all+tasks",
+      "quicklookurl": "https://help.obsidian.md/cli#List+all+tasks"
+    },
+    {
+      "title": "List incomplete tasks",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#List+incomplete+tasks",
+      "match": "List incomplete tasks List incomplete tasks Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "List incomplete tasks"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#List+incomplete+tasks",
+      "quicklookurl": "https://help.obsidian.md/cli#List+incomplete+tasks"
+    },
+    {
+      "title": "List completed tasks from a specific file",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#List+completed+tasks+from+a+specific+file",
+      "match": "List completed tasks from a specific file List completed tasks from a specific file Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "List completed tasks from a specific file"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#List+completed+tasks+from+a+specific+file",
+      "quicklookurl": "https://help.obsidian.md/cli#List+completed+tasks+from+a+specific+file"
+    },
+    {
+      "title": "List tasks from today's daily note",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#List+tasks+from+today's+daily+note",
+      "match": "List tasks from today's daily note List tasks from today's daily note Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "List tasks from today's daily note"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#List+tasks+from+today's+daily+note",
+      "quicklookurl": "https://help.obsidian.md/cli#List+tasks+from+today's+daily+note"
+    },
+    {
+      "title": "Count tasks in daily note",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Count+tasks+in+daily+note",
+      "match": "Count tasks in daily note Count tasks in daily note Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Count tasks in daily note"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Count+tasks+in+daily+note",
+      "quicklookurl": "https://help.obsidian.md/cli#Count+tasks+in+daily+note"
+    },
+    {
+      "title": "List tasks with file paths and line numbers",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#List+tasks+with+file+paths+and+line+numbers",
+      "match": "List tasks with file paths and line numbers List tasks with file paths and line numbers Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "List tasks with file paths and line numbers"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#List+tasks+with+file+paths+and+line+numbers",
+      "quicklookurl": "https://help.obsidian.md/cli#List+tasks+with+file+paths+and+line+numbers"
+    },
+    {
+      "title": "Filter by custom status (quote special chars)",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Filter+by+custom+status+(quote+special+chars)",
+      "match": "Filter by custom status  quote special chars  Filter by custom status (quote special chars) Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Filter by custom status (quote special chars)"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Filter+by+custom+status+(quote+special+chars)",
+      "quicklookurl": "https://help.obsidian.md/cli#Filter+by+custom+status+(quote+special+chars)"
+    },
+    {
+      "title": "task",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`task`",
+      "match": " task  `task` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`task`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`task`",
+      "quicklookurl": "https://help.obsidian.md/cli#`task`"
+    },
+    {
+      "title": "Show task info",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Show+task+info",
+      "match": "Show task info Show task info Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Show task info"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Show+task+info",
+      "quicklookurl": "https://help.obsidian.md/cli#Show+task+info"
+    },
+    {
+      "title": "Toggle task completion",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Toggle+task+completion",
+      "match": "Toggle task completion Toggle task completion Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Toggle task completion"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Toggle+task+completion",
+      "quicklookurl": "https://help.obsidian.md/cli#Toggle+task+completion"
+    },
+    {
+      "title": "Toggle task in daily note",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Toggle+task+in+daily+note",
+      "match": "Toggle task in daily note Toggle task in daily note Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Toggle task in daily note"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Toggle+task+in+daily+note",
+      "quicklookurl": "https://help.obsidian.md/cli#Toggle+task+in+daily+note"
+    },
+    {
+      "title": "Set task status",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Set+task+status",
+      "match": "Set task status Set task status Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Set task status"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Set+task+status",
+      "quicklookurl": "https://help.obsidian.md/cli#Set+task+status"
+    },
+    {
+      "title": "Templates",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Templates",
+      "match": "Templates Templates Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Templates",
+      "quicklookurl": "https://help.obsidian.md/cli#Templates"
+    },
+    {
+      "title": "templates",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`templates`",
+      "match": " templates  `templates` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`templates`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`templates`",
+      "quicklookurl": "https://help.obsidian.md/cli#`templates`"
+    },
+    {
+      "title": "template:read",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`template:read`",
+      "match": " template:read  `template:read` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`template:read`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`template:read`",
+      "quicklookurl": "https://help.obsidian.md/cli#`template:read`"
+    },
+    {
+      "title": "template:insert",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`template:insert`",
+      "match": " template:insert  `template:insert` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`template:insert`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`template:insert`",
+      "quicklookurl": "https://help.obsidian.md/cli#`template:insert`"
+    },
+    {
+      "title": "Themes and snippets",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Themes+and+snippets",
+      "match": "Themes and snippets Themes and snippets Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Themes and snippets"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Themes+and+snippets",
+      "quicklookurl": "https://help.obsidian.md/cli#Themes+and+snippets"
+    },
+    {
+      "title": "themes",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`themes`",
+      "match": " themes  `themes` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`themes`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`themes`",
+      "quicklookurl": "https://help.obsidian.md/cli#`themes`"
+    },
+    {
+      "title": "theme",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`theme`",
+      "match": " theme  `theme` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`theme`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`theme`",
+      "quicklookurl": "https://help.obsidian.md/cli#`theme`"
+    },
+    {
+      "title": "theme:set",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`theme:set`",
+      "match": " theme:set  `theme:set` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`theme:set`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`theme:set`",
+      "quicklookurl": "https://help.obsidian.md/cli#`theme:set`"
+    },
+    {
+      "title": "theme:install",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`theme:install`",
+      "match": " theme:install  `theme:install` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`theme:install`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`theme:install`",
+      "quicklookurl": "https://help.obsidian.md/cli#`theme:install`"
+    },
+    {
+      "title": "theme:uninstall",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`theme:uninstall`",
+      "match": " theme:uninstall  `theme:uninstall` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`theme:uninstall`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`theme:uninstall`",
+      "quicklookurl": "https://help.obsidian.md/cli#`theme:uninstall`"
+    },
+    {
+      "title": "snippets",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`snippets`",
+      "match": " snippets  `snippets` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`snippets`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`snippets`",
+      "quicklookurl": "https://help.obsidian.md/cli#`snippets`"
+    },
+    {
+      "title": "snippets:enabled",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`snippets:enabled`",
+      "match": " snippets:enabled  `snippets:enabled` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`snippets:enabled`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`snippets:enabled`",
+      "quicklookurl": "https://help.obsidian.md/cli#`snippets:enabled`"
+    },
+    {
+      "title": "snippet:enable",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`snippet:enable`",
+      "match": " snippet:enable  `snippet:enable` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`snippet:enable`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`snippet:enable`",
+      "quicklookurl": "https://help.obsidian.md/cli#`snippet:enable`"
+    },
+    {
+      "title": "snippet:disable",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`snippet:disable`",
+      "match": " snippet:disable  `snippet:disable` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`snippet:disable`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`snippet:disable`",
+      "quicklookurl": "https://help.obsidian.md/cli#`snippet:disable`"
+    },
+    {
+      "title": "Unique notes",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Unique+notes",
+      "match": "Unique notes Unique notes Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Unique notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Unique+notes",
+      "quicklookurl": "https://help.obsidian.md/cli#Unique+notes"
+    },
+    {
+      "title": "unique",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`unique`",
+      "match": " unique  `unique` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`unique`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`unique`",
+      "quicklookurl": "https://help.obsidian.md/cli#`unique`"
+    },
+    {
+      "title": "Vault",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Vault",
+      "match": "Vault Vault Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Vault"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Vault",
+      "quicklookurl": "https://help.obsidian.md/cli#Vault"
+    },
+    {
+      "title": "vault",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`vault`",
+      "match": " vault  `vault` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`vault`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`vault`",
+      "quicklookurl": "https://help.obsidian.md/cli#`vault`"
+    },
+    {
+      "title": "vaults",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`vaults`",
+      "match": " vaults  `vaults` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`vaults`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`vaults`",
+      "quicklookurl": "https://help.obsidian.md/cli#`vaults`"
+    },
+    {
+      "title": "vault:open",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`vault:open`",
+      "match": " vault:open  `vault:open` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`vault:open`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`vault:open`",
+      "quicklookurl": "https://help.obsidian.md/cli#`vault:open`"
+    },
+    {
+      "title": "Web viewer",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Web+viewer",
+      "match": "Web viewer Web viewer Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Web viewer"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Web+viewer",
+      "quicklookurl": "https://help.obsidian.md/cli#Web+viewer"
+    },
+    {
+      "title": "web",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`web`",
+      "match": " web  `web` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`web`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`web`",
+      "quicklookurl": "https://help.obsidian.md/cli#`web`"
+    },
+    {
+      "title": "Wordcount",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Wordcount",
+      "match": "Wordcount Wordcount Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Wordcount"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Wordcount",
+      "quicklookurl": "https://help.obsidian.md/cli#Wordcount"
+    },
+    {
+      "title": "wordcount",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`wordcount`",
+      "match": " wordcount  `wordcount` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`wordcount`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`wordcount`",
+      "quicklookurl": "https://help.obsidian.md/cli#`wordcount`"
+    },
+    {
+      "title": "Workspace",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Workspace",
+      "match": "Workspace Workspace Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Workspace"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Workspace",
+      "quicklookurl": "https://help.obsidian.md/cli#Workspace"
+    },
+    {
+      "title": "workspace",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`workspace`",
+      "match": " workspace  `workspace` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`workspace`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`workspace`",
+      "quicklookurl": "https://help.obsidian.md/cli#`workspace`"
+    },
+    {
+      "title": "workspaces",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`workspaces`",
+      "match": " workspaces  `workspaces` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`workspaces`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`workspaces`",
+      "quicklookurl": "https://help.obsidian.md/cli#`workspaces`"
+    },
+    {
+      "title": "workspace:save",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`workspace:save`",
+      "match": " workspace:save  `workspace:save` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`workspace:save`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`workspace:save`",
+      "quicklookurl": "https://help.obsidian.md/cli#`workspace:save`"
+    },
+    {
+      "title": "workspace:load",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`workspace:load`",
+      "match": " workspace:load  `workspace:load` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`workspace:load`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`workspace:load`",
+      "quicklookurl": "https://help.obsidian.md/cli#`workspace:load`"
+    },
+    {
+      "title": "workspace:delete",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`workspace:delete`",
+      "match": " workspace:delete  `workspace:delete` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`workspace:delete`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`workspace:delete`",
+      "quicklookurl": "https://help.obsidian.md/cli#`workspace:delete`"
+    },
+    {
+      "title": "tabs",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`tabs`",
+      "match": " tabs  `tabs` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`tabs`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`tabs`",
+      "quicklookurl": "https://help.obsidian.md/cli#`tabs`"
+    },
+    {
+      "title": "tab:open",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`tab:open`",
+      "match": " tab:open  `tab:open` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`tab:open`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`tab:open`",
+      "quicklookurl": "https://help.obsidian.md/cli#`tab:open`"
+    },
+    {
+      "title": "recents",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`recents`",
+      "match": " recents  `recents` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`recents`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`recents`",
+      "quicklookurl": "https://help.obsidian.md/cli#`recents`"
+    },
+    {
+      "title": "Developer commands",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Developer+commands",
+      "match": "Developer commands Developer commands Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Developer commands"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Developer+commands",
+      "quicklookurl": "https://help.obsidian.md/cli#Developer+commands"
+    },
+    {
+      "title": "devtools",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`devtools`",
+      "match": " devtools  `devtools` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`devtools`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`devtools`",
+      "quicklookurl": "https://help.obsidian.md/cli#`devtools`"
+    },
+    {
+      "title": "dev:debug",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`dev:debug`",
+      "match": " dev:debug  `dev:debug` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`dev:debug`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`dev:debug`",
+      "quicklookurl": "https://help.obsidian.md/cli#`dev:debug`"
+    },
+    {
+      "title": "dev:cdp",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`dev:cdp`",
+      "match": " dev:cdp  `dev:cdp` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`dev:cdp`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`dev:cdp`",
+      "quicklookurl": "https://help.obsidian.md/cli#`dev:cdp`"
+    },
+    {
+      "title": "dev:errors",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`dev:errors`",
+      "match": " dev:errors  `dev:errors` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`dev:errors`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`dev:errors`",
+      "quicklookurl": "https://help.obsidian.md/cli#`dev:errors`"
+    },
+    {
+      "title": "dev:screenshot",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`dev:screenshot`",
+      "match": " dev:screenshot  `dev:screenshot` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`dev:screenshot`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`dev:screenshot`",
+      "quicklookurl": "https://help.obsidian.md/cli#`dev:screenshot`"
+    },
+    {
+      "title": "dev:console",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`dev:console`",
+      "match": " dev:console  `dev:console` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`dev:console`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`dev:console`",
+      "quicklookurl": "https://help.obsidian.md/cli#`dev:console`"
+    },
+    {
+      "title": "dev:css",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`dev:css`",
+      "match": " dev:css  `dev:css` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`dev:css`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`dev:css`",
+      "quicklookurl": "https://help.obsidian.md/cli#`dev:css`"
+    },
+    {
+      "title": "dev:dom",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`dev:dom`",
+      "match": " dev:dom  `dev:dom` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`dev:dom`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`dev:dom`",
+      "quicklookurl": "https://help.obsidian.md/cli#`dev:dom`"
+    },
+    {
+      "title": "dev:mobile",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`dev:mobile`",
+      "match": " dev:mobile  `dev:mobile` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`dev:mobile`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`dev:mobile`",
+      "quicklookurl": "https://help.obsidian.md/cli#`dev:mobile`"
+    },
+    {
+      "title": "eval",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`eval`",
+      "match": " eval  `eval` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`eval`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`eval`",
+      "quicklookurl": "https://help.obsidian.md/cli#`eval`"
+    },
+    {
+      "title": "Keyboard shortcuts",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Keyboard+shortcuts",
+      "match": "Keyboard shortcuts Keyboard shortcuts Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Keyboard shortcuts"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Keyboard+shortcuts",
+      "quicklookurl": "https://help.obsidian.md/cli#Keyboard+shortcuts"
+    },
+    {
+      "title": "Navigation",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Navigation",
+      "match": "Navigation Navigation Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Navigation"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Navigation",
+      "quicklookurl": "https://help.obsidian.md/cli#Navigation"
+    },
+    {
+      "title": "Editing",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Editing",
+      "match": "Editing Editing Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Editing"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Editing",
+      "quicklookurl": "https://help.obsidian.md/cli#Editing"
+    },
+    {
+      "title": "Autocomplete",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Autocomplete",
+      "match": "Autocomplete Autocomplete Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Autocomplete"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Autocomplete",
+      "quicklookurl": "https://help.obsidian.md/cli#Autocomplete"
+    },
+    {
+      "title": "History",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#History",
+      "match": "History History Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "History"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#History",
+      "quicklookurl": "https://help.obsidian.md/cli#History"
+    },
+    {
+      "title": "Other",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Other",
+      "match": "Other Other Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Other"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Other",
+      "quicklookurl": "https://help.obsidian.md/cli#Other"
+    },
+    {
+      "title": "Troubleshooting",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Troubleshooting",
+      "match": "Troubleshooting Troubleshooting Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Troubleshooting"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Troubleshooting",
+      "quicklookurl": "https://help.obsidian.md/cli#Troubleshooting"
+    },
+    {
+      "title": "Windows",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Windows",
+      "match": "Windows Windows Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Windows"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Windows",
+      "quicklookurl": "https://help.obsidian.md/cli#Windows"
+    },
+    {
+      "title": "macOS",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#macOS",
+      "match": "macOS macOS Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "macOS"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#macOS",
+      "quicklookurl": "https://help.obsidian.md/cli#macOS"
+    },
+    {
+      "title": "Alternate shells",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Alternate+shells",
+      "match": "Alternate shells Alternate shells Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Alternate shells"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Alternate+shells",
+      "quicklookurl": "https://help.obsidian.md/cli#Alternate+shells"
+    },
+    {
+      "title": "Linux",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Linux",
+      "match": "Linux Linux Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Linux"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Linux",
+      "quicklookurl": "https://help.obsidian.md/cli#Linux"
+    },
+    {
+      "title": "AppImage",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#AppImage",
+      "match": "AppImage AppImage Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "AppImage"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#AppImage",
+      "quicklookurl": "https://help.obsidian.md/cli#AppImage"
+    },
+    {
+      "title": "Snap",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Snap",
+      "match": "Snap Snap Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Snap"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Snap",
+      "quicklookurl": "https://help.obsidian.md/cli#Snap"
+    },
+    {
+      "title": "Flatpak",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#Flatpak",
+      "match": "Flatpak Flatpak Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Flatpak"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#Flatpak",
+      "quicklookurl": "https://help.obsidian.md/cli#Flatpak"
+    },
+    {
       "title": "Obsidian URI",
       "match": "Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "subtitle": "Extending Obsidian",
@@ -4611,269 +7185,295 @@
           "arg": "Obsidian URI"
         }
       },
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI",
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI"
+      "uid": "https://help.obsidian.md/uri",
+      "arg": "https://help.obsidian.md/uri",
+      "quicklookurl": "https://help.obsidian.md/uri"
     },
     {
       "title": "URI format",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#URI+format",
+      "uid": "https://help.obsidian.md/uri#URI+format",
       "match": "URI format URI format Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "URI format"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#URI+format",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#URI+format"
+      "arg": "https://help.obsidian.md/uri#URI+format",
+      "quicklookurl": "https://help.obsidian.md/uri#URI+format"
     },
     {
       "title": "Open note",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Open+note",
+      "uid": "https://help.obsidian.md/uri#Open+note",
       "match": "Open note Open note Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Open note"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Open+note",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Open+note"
+      "arg": "https://help.obsidian.md/uri#Open+note",
+      "quicklookurl": "https://help.obsidian.md/uri#Open+note"
     },
     {
       "title": "Examples",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples",
+      "uid": "https://help.obsidian.md/uri#Examples",
       "match": "Examples Examples Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Examples"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples"
+      "arg": "https://help.obsidian.md/uri#Examples",
+      "quicklookurl": "https://help.obsidian.md/uri#Examples"
     },
     {
       "title": "Parameters",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters",
+      "uid": "https://help.obsidian.md/uri#Parameters",
       "match": "Parameters Parameters Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Parameters"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters"
+      "arg": "https://help.obsidian.md/uri#Parameters",
+      "quicklookurl": "https://help.obsidian.md/uri#Parameters"
     },
     {
       "title": "Create note",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Create+note",
+      "uid": "https://help.obsidian.md/uri#Create+note",
       "match": "Create note Create note Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Create note"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Create+note",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Create+note"
+      "arg": "https://help.obsidian.md/uri#Create+note",
+      "quicklookurl": "https://help.obsidian.md/uri#Create+note"
     },
     {
       "title": "Examples",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples",
+      "uid": "https://help.obsidian.md/uri#Examples",
       "match": "Examples Examples Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Examples"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples"
+      "arg": "https://help.obsidian.md/uri#Examples",
+      "quicklookurl": "https://help.obsidian.md/uri#Examples"
     },
     {
       "title": "Parameters",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters",
+      "uid": "https://help.obsidian.md/uri#Parameters",
       "match": "Parameters Parameters Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Parameters"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters"
+      "arg": "https://help.obsidian.md/uri#Parameters",
+      "quicklookurl": "https://help.obsidian.md/uri#Parameters"
     },
     {
       "title": "Create or open daily note",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Create+or+open+daily+note",
+      "uid": "https://help.obsidian.md/uri#Create+or+open+daily+note",
       "match": "Create or open daily note Create or open daily note Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Create or open daily note"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Create+or+open+daily+note",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Create+or+open+daily+note"
+      "arg": "https://help.obsidian.md/uri#Create+or+open+daily+note",
+      "quicklookurl": "https://help.obsidian.md/uri#Create+or+open+daily+note"
     },
     {
       "title": "Examples",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples",
+      "uid": "https://help.obsidian.md/uri#Examples",
       "match": "Examples Examples Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Examples"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples"
+      "arg": "https://help.obsidian.md/uri#Examples",
+      "quicklookurl": "https://help.obsidian.md/uri#Examples"
     },
     {
       "title": "Parameters",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters",
+      "uid": "https://help.obsidian.md/uri#Parameters",
       "match": "Parameters Parameters Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Parameters"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters"
+      "arg": "https://help.obsidian.md/uri#Parameters",
+      "quicklookurl": "https://help.obsidian.md/uri#Parameters"
     },
     {
       "title": "Open search",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Open+search",
+      "uid": "https://help.obsidian.md/uri#Open+search",
       "match": "Open search Open search Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Open search"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Open+search",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Open+search"
+      "arg": "https://help.obsidian.md/uri#Open+search",
+      "quicklookurl": "https://help.obsidian.md/uri#Open+search"
     },
     {
       "title": "Examples",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples",
+      "uid": "https://help.obsidian.md/uri#Examples",
       "match": "Examples Examples Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Examples"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Examples"
+      "arg": "https://help.obsidian.md/uri#Examples",
+      "quicklookurl": "https://help.obsidian.md/uri#Examples"
     },
     {
       "title": "Parameters",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters",
+      "uid": "https://help.obsidian.md/uri#Parameters",
       "match": "Parameters Parameters Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Parameters"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters"
+      "arg": "https://help.obsidian.md/uri#Parameters",
+      "quicklookurl": "https://help.obsidian.md/uri#Parameters"
+    },
+    {
+      "title": "Open Vault Manager",
+      "subtitle": "Extending Obsidian/Obsidian URI",
+      "uid": "https://help.obsidian.md/uri#Open+Vault+Manager",
+      "match": "Open Vault Manager Open Vault Manager Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Open Vault Manager"
+        }
+      },
+      "arg": "https://help.obsidian.md/uri#Open+Vault+Manager",
+      "quicklookurl": "https://help.obsidian.md/uri#Open+Vault+Manager"
+    },
+    {
+      "title": "Examples",
+      "subtitle": "Extending Obsidian/Obsidian URI",
+      "uid": "https://help.obsidian.md/uri#Examples",
+      "match": "Examples Examples Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Examples"
+        }
+      },
+      "arg": "https://help.obsidian.md/uri#Examples",
+      "quicklookurl": "https://help.obsidian.md/uri#Examples"
     },
     {
       "title": "Integrate with Hook",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Integrate+with+Hook",
+      "uid": "https://help.obsidian.md/uri#Integrate+with+Hook",
       "match": "Integrate with Hook Integrate with Hook Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Integrate with Hook"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Integrate+with+Hook",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Integrate+with+Hook"
+      "arg": "https://help.obsidian.md/uri#Integrate+with+Hook",
+      "quicklookurl": "https://help.obsidian.md/uri#Integrate+with+Hook"
     },
     {
       "title": "Example",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Example",
+      "uid": "https://help.obsidian.md/uri#Example",
       "match": "Example Example Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Example"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Example",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Example"
+      "arg": "https://help.obsidian.md/uri#Example",
+      "quicklookurl": "https://help.obsidian.md/uri#Example"
     },
     {
       "title": "Parameters",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters",
+      "uid": "https://help.obsidian.md/uri#Parameters",
       "match": "Parameters Parameters Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Parameters"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Parameters"
+      "arg": "https://help.obsidian.md/uri#Parameters",
+      "quicklookurl": "https://help.obsidian.md/uri#Parameters"
     },
     {
       "title": "Use x-callback-url parameters",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Use+x-callback-url+parameters",
+      "uid": "https://help.obsidian.md/uri#Use+x-callback-url+parameters",
       "match": "Use x callback url parameters Use x-callback-url parameters Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Use x-callback-url parameters"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Use+x-callback-url+parameters",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Use+x-callback-url+parameters"
+      "arg": "https://help.obsidian.md/uri#Use+x-callback-url+parameters",
+      "quicklookurl": "https://help.obsidian.md/uri#Use+x-callback-url+parameters"
     },
     {
       "title": "Shorthand formats",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Shorthand+formats",
+      "uid": "https://help.obsidian.md/uri#Shorthand+formats",
       "match": "Shorthand formats Shorthand formats Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Shorthand formats"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Shorthand+formats",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Shorthand+formats"
+      "arg": "https://help.obsidian.md/uri#Shorthand+formats",
+      "quicklookurl": "https://help.obsidian.md/uri#Shorthand+formats"
     },
     {
       "title": "Troubleshooting",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Troubleshooting",
+      "uid": "https://help.obsidian.md/uri#Troubleshooting",
       "match": "Troubleshooting Troubleshooting Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Troubleshooting"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Troubleshooting",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Troubleshooting"
+      "arg": "https://help.obsidian.md/uri#Troubleshooting",
+      "quicklookurl": "https://help.obsidian.md/uri#Troubleshooting"
     },
     {
       "title": "Register Obsidian URI",
       "subtitle": "Extending Obsidian/Obsidian URI",
-      "uid": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Register+Obsidian+URI",
+      "uid": "https://help.obsidian.md/uri#Register+Obsidian+URI",
       "match": "Register Obsidian URI Register Obsidian URI Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
           "arg": "Register Obsidian URI"
         }
       },
-      "arg": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Register+Obsidian+URI",
-      "quicklookurl": "https://help.obsidian.md/Extending+Obsidian/Obsidian+URI#Register+Obsidian+URI"
+      "arg": "https://help.obsidian.md/uri#Register+Obsidian+URI",
+      "quicklookurl": "https://help.obsidian.md/uri#Register+Obsidian+URI"
     },
     {
       "title": "Plugin security",
@@ -6837,6 +9437,84 @@
       "uid": "https://help.obsidian.md/import/zettelkasten",
       "arg": "https://help.obsidian.md/import/zettelkasten",
       "quicklookurl": "https://help.obsidian.md/import/zettelkasten"
+    },
+    {
+      "title": "Import from Apple Journal",
+      "match": "Import from Apple Journal Import from Apple Journal Import notes Import notes ",
+      "subtitle": "Import notes",
+      "mods": {
+        "cmd": {
+          "arg": "Import from Apple Journal"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/apple-journal",
+      "arg": "https://help.obsidian.md/import/apple-journal",
+      "quicklookurl": "https://help.obsidian.md/import/apple-journal"
+    },
+    {
+      "title": "Export your data from Apple Journal",
+      "subtitle": "Import notes/Import from Apple Journal",
+      "uid": "https://help.obsidian.md/import/apple-journal#Export+your+data+from+Apple+Journal",
+      "match": "Export your data from Apple Journal Export your data from Apple Journal Import from Apple Journal Import from Apple Journal Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Export your data from Apple Journal"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/apple-journal#Export+your+data+from+Apple+Journal",
+      "quicklookurl": "https://help.obsidian.md/import/apple-journal#Export+your+data+from+Apple+Journal"
+    },
+    {
+      "title": "On iPhone",
+      "subtitle": "Import notes/Import from Apple Journal",
+      "uid": "https://help.obsidian.md/import/apple-journal#On+iPhone",
+      "match": "On iPhone On iPhone Import from Apple Journal Import from Apple Journal Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "On iPhone"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/apple-journal#On+iPhone",
+      "quicklookurl": "https://help.obsidian.md/import/apple-journal#On+iPhone"
+    },
+    {
+      "title": "On Mac (Tahoe)",
+      "subtitle": "Import notes/Import from Apple Journal",
+      "uid": "https://help.obsidian.md/import/apple-journal#On+Mac+(Tahoe)",
+      "match": "On Mac  Tahoe  On Mac (Tahoe) Import from Apple Journal Import from Apple Journal Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "On Mac (Tahoe)"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/apple-journal#On+Mac+(Tahoe)",
+      "quicklookurl": "https://help.obsidian.md/import/apple-journal#On+Mac+(Tahoe)"
+    },
+    {
+      "title": "Import Apple Journal data into Obsidian",
+      "subtitle": "Import notes/Import from Apple Journal",
+      "uid": "https://help.obsidian.md/import/apple-journal#Import+Apple+Journal+data+into+Obsidian",
+      "match": "Import Apple Journal data into Obsidian Import Apple Journal data into Obsidian Import from Apple Journal Import from Apple Journal Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Import Apple Journal data into Obsidian"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/apple-journal#Import+Apple+Journal+data+into+Obsidian",
+      "quicklookurl": "https://help.obsidian.md/import/apple-journal#Import+Apple+Journal+data+into+Obsidian"
+    },
+    {
+      "title": "Supported content",
+      "subtitle": "Import notes/Import from Apple Journal",
+      "uid": "https://help.obsidian.md/import/apple-journal#Supported+content",
+      "match": "Supported content Supported content Import from Apple Journal Import from Apple Journal Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Supported content"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/apple-journal#Supported+content",
+      "quicklookurl": "https://help.obsidian.md/import/apple-journal#Supported+content"
     },
     {
       "title": "Import from Apple Notes",
@@ -12076,6 +14754,227 @@
       },
       "arg": "https://help.obsidian.md/web-clipper#Privacy",
       "quicklookurl": "https://help.obsidian.md/web-clipper#Privacy"
+    },
+    {
+      "title": "Logic",
+      "match": "Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "subtitle": "Obsidian Web Clipper",
+      "mods": {
+        "cmd": {
+          "arg": "Logic"
+        }
+      },
+      "uid": "https://help.obsidian.md/web-clipper/logic",
+      "arg": "https://help.obsidian.md/web-clipper/logic",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic"
+    },
+    {
+      "title": "Conditionals",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Conditionals",
+      "match": "Conditionals Conditionals Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Conditionals"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Conditionals",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Conditionals"
+    },
+    {
+      "title": "Comparison operators",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Comparison+operators",
+      "match": "Comparison operators Comparison operators Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Comparison operators"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Comparison+operators",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Comparison+operators"
+    },
+    {
+      "title": "Logical operators",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Logical+operators",
+      "match": "Logical operators Logical operators Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Logical operators"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Logical+operators",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Logical+operators"
+    },
+    {
+      "title": "Truthiness",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Truthiness",
+      "match": "Truthiness Truthiness Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Truthiness"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Truthiness",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Truthiness"
+    },
+    {
+      "title": "Assign a variable",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Assign+a+variable",
+      "match": "Assign a variable Assign a variable Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Assign a variable"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Assign+a+variable",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Assign+a+variable"
+    },
+    {
+      "title": "Fallbacks",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Fallbacks",
+      "match": "Fallbacks Fallbacks Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Fallbacks"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Fallbacks",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Fallbacks"
+    },
+    {
+      "title": "Chaining fallbacks",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Chaining+fallbacks",
+      "match": "Chaining fallbacks Chaining fallbacks Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Chaining fallbacks"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Chaining+fallbacks",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Chaining+fallbacks"
+    },
+    {
+      "title": "With filters",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#With+filters",
+      "match": "With filters With filters Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "With filters"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#With+filters",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#With+filters"
+    },
+    {
+      "title": "Loops",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Loops",
+      "match": "Loops Loops Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Loops"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Loops",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Loops"
+    },
+    {
+      "title": "Loop sources",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Loop+sources",
+      "match": "Loop sources Loop sources Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Loop sources"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Loop+sources",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Loop+sources"
+    },
+    {
+      "title": "Loop variables",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Loop+variables",
+      "match": "Loop variables Loop variables Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Loop variables"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Loop+variables",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Loop+variables"
+    },
+    {
+      "title": "Accessing array items by index",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Accessing+array+items+by+index",
+      "match": "Accessing array items by index Accessing array items by index Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Accessing array items by index"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Accessing+array+items+by+index",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Accessing+array+items+by+index"
+    },
+    {
+      "title": "Nested loops",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Nested+loops",
+      "match": "Nested loops Nested loops Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Nested loops"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Nested+loops",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Nested+loops"
+    },
+    {
+      "title": "{{section.title}}",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#{{section.title}}",
+      "match": "{{section title}} {{section.title}} Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "{{section.title}}"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#{{section.title}}",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#{{section.title}}"
+    },
+    {
+      "title": "Combine logic",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Combine+logic",
+      "match": "Combine logic Combine logic Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Combine logic"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Combine+logic",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Combine+logic"
+    },
+    {
+      "title": "Evaluation order",
+      "subtitle": "Obsidian Web Clipper/Logic",
+      "uid": "https://help.obsidian.md/web-clipper/logic#Evaluation+order",
+      "match": "Evaluation order Evaluation order Logic Logic Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Evaluation order"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/logic#Evaluation+order",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Evaluation+order"
     },
     {
       "title": "Templates",
