@@ -111,7 +111,7 @@ refreshing the cache via the Alfred keyword `:docs-reload`.
    on this GitHub remote is updated. The `info.plist` is also updated in case
    not only a new version, but an entirely new documentation site becomes
    available.
-2. **Local**: Every week, the locally available workflow fetches an update from
+2. **Local**: Every week, the locally available workflow fetches an update of
    the `keymap-slug-map` and the `info.plist` files from the GitHub remote. The
    update to the `info.plist` is required, so that newly available documentation
    sites also show up in the dropdown menus of the workflow configuration.
