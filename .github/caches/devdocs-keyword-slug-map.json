@@ -174,7 +174,7 @@
   "requests": "requests",
   "requirejs": "requirejs",
   "rethinkdb": "rethinkdb~javascript",
-  "rb": "ruby~3.4",
+  "rb": "ruby~4.0",
   "minitest": "minitest",
   "ror": "rails~8.0",
   "rs": "rust",
