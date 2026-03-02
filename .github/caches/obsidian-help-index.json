@@ -4941,17 +4941,17 @@
       "quicklookurl": "https://help.obsidian.md/cli#Create+a+new+note+called+\"Note\"+with+content+\"Hello+world\""
     },
     {
-      "title": "Create the note in the background and overwrite any existing content",
+      "title": "Create a note and open it",
       "subtitle": "Extending Obsidian/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#Create+the+note+in+the+background+and+overwrite+any+existing+content",
-      "match": "Create the note in the background and overwrite any existing content Create the note in the background and overwrite any existing content Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "uid": "https://help.obsidian.md/cli#Create+a+note+and+open+it",
+      "match": "Create a note and open it Create a note and open it Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Create the note in the background and overwrite any existing content"
+          "arg": "Create a note and open it"
         }
       },
-      "arg": "https://help.obsidian.md/cli#Create+the+note+in+the+background+and+overwrite+any+existing+content",
-      "quicklookurl": "https://help.obsidian.md/cli#Create+the+note+in+the+background+and+overwrite+any+existing+content"
+      "arg": "https://help.obsidian.md/cli#Create+a+note+and+open+it",
+      "quicklookurl": "https://help.obsidian.md/cli#Create+a+note+and+open+it"
     },
     {
       "title": "Target a vault",
@@ -5264,6 +5264,19 @@
       },
       "arg": "https://help.obsidian.md/cli#`daily`",
       "quicklookurl": "https://help.obsidian.md/cli#`daily`"
+    },
+    {
+      "title": "daily:path",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`daily:path`",
+      "match": " daily:path  `daily:path` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`daily:path`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`daily:path`",
+      "quicklookurl": "https://help.obsidian.md/cli#`daily:path`"
     },
     {
       "title": "daily:read",
@@ -5602,6 +5615,19 @@
       },
       "arg": "https://help.obsidian.md/cli#`move`",
       "quicklookurl": "https://help.obsidian.md/cli#`move`"
+    },
+    {
+      "title": "rename",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`rename`",
+      "match": " rename  `rename` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`rename`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`rename`",
+      "quicklookurl": "https://help.obsidian.md/cli#`rename`"
     },
     {
       "title": "delete",
@@ -6085,6 +6111,19 @@
       "quicklookurl": "https://help.obsidian.md/cli#`search`"
     },
     {
+      "title": "search:context",
+      "subtitle": "Extending Obsidian/Obsidian CLI",
+      "uid": "https://help.obsidian.md/cli#`search:context`",
+      "match": " search:context  `search:context` Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "`search:context`"
+        }
+      },
+      "arg": "https://help.obsidian.md/cli#`search:context`",
+      "quicklookurl": "https://help.obsidian.md/cli#`search:context`"
+    },
+    {
       "title": "search:open",
       "subtitle": "Extending Obsidian/Obsidian CLI",
       "uid": "https://help.obsidian.md/cli#`search:open`",
@@ -6267,30 +6306,30 @@
       "quicklookurl": "https://help.obsidian.md/cli#`tasks`"
     },
     {
-      "title": "List all tasks",
+      "title": "List all tasks in the vault",
       "subtitle": "Extending Obsidian/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#List+all+tasks",
-      "match": "List all tasks List all tasks Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "uid": "https://help.obsidian.md/cli#List+all+tasks+in+the+vault",
+      "match": "List all tasks in the vault List all tasks in the vault Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "List all tasks"
+          "arg": "List all tasks in the vault"
         }
       },
-      "arg": "https://help.obsidian.md/cli#List+all+tasks",
-      "quicklookurl": "https://help.obsidian.md/cli#List+all+tasks"
+      "arg": "https://help.obsidian.md/cli#List+all+tasks+in+the+vault",
+      "quicklookurl": "https://help.obsidian.md/cli#List+all+tasks+in+the+vault"
     },
     {
-      "title": "List incomplete tasks",
+      "title": "List incomplete tasks in the vault",
       "subtitle": "Extending Obsidian/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#List+incomplete+tasks",
-      "match": "List incomplete tasks List incomplete tasks Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
+      "uid": "https://help.obsidian.md/cli#List+incomplete+tasks+in+the+vault",
+      "match": "List incomplete tasks in the vault List incomplete tasks in the vault Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "List incomplete tasks"
+          "arg": "List incomplete tasks in the vault"
         }
       },
-      "arg": "https://help.obsidian.md/cli#List+incomplete+tasks",
-      "quicklookurl": "https://help.obsidian.md/cli#List+incomplete+tasks"
+      "arg": "https://help.obsidian.md/cli#List+incomplete+tasks+in+the+vault",
+      "quicklookurl": "https://help.obsidian.md/cli#List+incomplete+tasks+in+the+vault"
     },
     {
       "title": "List completed tasks from a specific file",
@@ -7177,6 +7216,84 @@
       "quicklookurl": "https://help.obsidian.md/cli#Flatpak"
     },
     {
+      "title": "Obsidian Headless",
+      "match": "Obsidian Headless Obsidian Headless Extending Obsidian Extending Obsidian ",
+      "subtitle": "Extending Obsidian",
+      "mods": {
+        "cmd": {
+          "arg": "Obsidian Headless"
+        }
+      },
+      "uid": "https://help.obsidian.md/headless",
+      "arg": "https://help.obsidian.md/headless",
+      "quicklookurl": "https://help.obsidian.md/headless"
+    },
+    {
+      "title": "Install",
+      "subtitle": "Extending Obsidian/Obsidian Headless",
+      "uid": "https://help.obsidian.md/headless#Install",
+      "match": "Install Install Obsidian Headless Obsidian Headless Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Install"
+        }
+      },
+      "arg": "https://help.obsidian.md/headless#Install",
+      "quicklookurl": "https://help.obsidian.md/headless#Install"
+    },
+    {
+      "title": "Authentication",
+      "subtitle": "Extending Obsidian/Obsidian Headless",
+      "uid": "https://help.obsidian.md/headless#Authentication",
+      "match": "Authentication Authentication Obsidian Headless Obsidian Headless Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Authentication"
+        }
+      },
+      "arg": "https://help.obsidian.md/headless#Authentication",
+      "quicklookurl": "https://help.obsidian.md/headless#Authentication"
+    },
+    {
+      "title": "Log in",
+      "subtitle": "Extending Obsidian/Obsidian Headless",
+      "uid": "https://help.obsidian.md/headless#Log+in",
+      "match": "Log in Log in Obsidian Headless Obsidian Headless Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Log in"
+        }
+      },
+      "arg": "https://help.obsidian.md/headless#Log+in",
+      "quicklookurl": "https://help.obsidian.md/headless#Log+in"
+    },
+    {
+      "title": "Environment variable",
+      "subtitle": "Extending Obsidian/Obsidian Headless",
+      "uid": "https://help.obsidian.md/headless#Environment+variable",
+      "match": "Environment variable Environment variable Obsidian Headless Obsidian Headless Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Environment variable"
+        }
+      },
+      "arg": "https://help.obsidian.md/headless#Environment+variable",
+      "quicklookurl": "https://help.obsidian.md/headless#Environment+variable"
+    },
+    {
+      "title": "Services",
+      "subtitle": "Extending Obsidian/Obsidian Headless",
+      "uid": "https://help.obsidian.md/headless#Services",
+      "match": "Services Services Obsidian Headless Obsidian Headless Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Services"
+        }
+      },
+      "arg": "https://help.obsidian.md/headless#Services",
+      "quicklookurl": "https://help.obsidian.md/headless#Services"
+    },
+    {
       "title": "Obsidian URI",
       "match": "Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
       "subtitle": "Extending Obsidian",
@@ -7292,6 +7409,45 @@
       },
       "arg": "https://help.obsidian.md/uri#Create+or+open+daily+note",
       "quicklookurl": "https://help.obsidian.md/uri#Create+or+open+daily+note"
+    },
+    {
+      "title": "Examples",
+      "subtitle": "Extending Obsidian/Obsidian URI",
+      "uid": "https://help.obsidian.md/uri#Examples",
+      "match": "Examples Examples Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Examples"
+        }
+      },
+      "arg": "https://help.obsidian.md/uri#Examples",
+      "quicklookurl": "https://help.obsidian.md/uri#Examples"
+    },
+    {
+      "title": "Parameters",
+      "subtitle": "Extending Obsidian/Obsidian URI",
+      "uid": "https://help.obsidian.md/uri#Parameters",
+      "match": "Parameters Parameters Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Parameters"
+        }
+      },
+      "arg": "https://help.obsidian.md/uri#Parameters",
+      "quicklookurl": "https://help.obsidian.md/uri#Parameters"
+    },
+    {
+      "title": "Unique Note",
+      "subtitle": "Extending Obsidian/Obsidian URI",
+      "uid": "https://help.obsidian.md/uri#Unique+Note",
+      "match": "Unique Note Unique Note Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Unique Note"
+        }
+      },
+      "arg": "https://help.obsidian.md/uri#Unique+Note",
+      "quicklookurl": "https://help.obsidian.md/uri#Unique+Note"
     },
     {
       "title": "Examples",
@@ -12338,6 +12494,240 @@
       "quicklookurl": "https://help.obsidian.md/sync/faq#Do+you+keep+my+data+if+I+refund+my+subscription+service?"
     },
     {
+      "title": "Headless Sync",
+      "match": "Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "subtitle": "Obsidian Sync",
+      "mods": {
+        "cmd": {
+          "arg": "Headless Sync"
+        }
+      },
+      "uid": "https://help.obsidian.md/sync/headless",
+      "arg": "https://help.obsidian.md/sync/headless",
+      "quicklookurl": "https://help.obsidian.md/sync/headless"
+    },
+    {
+      "title": "Quick start",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#Quick+start",
+      "match": "Quick start Quick start Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Quick start"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#Quick+start",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#Quick+start"
+    },
+    {
+      "title": "Login",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#Login",
+      "match": "Login Login Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Login"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#Login",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#Login"
+    },
+    {
+      "title": "List your remote vaults",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#List+your+remote+vaults",
+      "match": "List your remote vaults List your remote vaults Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "List your remote vaults"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#List+your+remote+vaults",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#List+your+remote+vaults"
+    },
+    {
+      "title": "Set up a vault for syncing",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#Set+up+a+vault+for+syncing",
+      "match": "Set up a vault for syncing Set up a vault for syncing Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Set up a vault for syncing"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#Set+up+a+vault+for+syncing",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#Set+up+a+vault+for+syncing"
+    },
+    {
+      "title": "Run a one-time sync",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#Run+a+one-time+sync",
+      "match": "Run a one time sync Run a one-time sync Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Run a one-time sync"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#Run+a+one-time+sync",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#Run+a+one-time+sync"
+    },
+    {
+      "title": "Run continuous sync (watches for changes)",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#Run+continuous+sync+(watches+for+changes)",
+      "match": "Run continuous sync  watches for changes  Run continuous sync (watches for changes) Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Run continuous sync (watches for changes)"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#Run+continuous+sync+(watches+for+changes)",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#Run+continuous+sync+(watches+for+changes)"
+    },
+    {
+      "title": "Environment variable",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#Environment+variable",
+      "match": "Environment variable Environment variable Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Environment variable"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#Environment+variable",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#Environment+variable"
+    },
+    {
+      "title": "Commands",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#Commands",
+      "match": "Commands Commands Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Commands"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#Commands",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#Commands"
+    },
+    {
+      "title": "ob sync-list-remote",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#`ob+sync-list-remote`",
+      "match": " ob sync list remote  `ob sync-list-remote` Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "`ob sync-list-remote`"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#`ob+sync-list-remote`",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#`ob+sync-list-remote`"
+    },
+    {
+      "title": "ob sync-list-local",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#`ob+sync-list-local`",
+      "match": " ob sync list local  `ob sync-list-local` Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "`ob sync-list-local`"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#`ob+sync-list-local`",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#`ob+sync-list-local`"
+    },
+    {
+      "title": "ob sync-create-remote",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#`ob+sync-create-remote`",
+      "match": " ob sync create remote  `ob sync-create-remote` Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "`ob sync-create-remote`"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#`ob+sync-create-remote`",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#`ob+sync-create-remote`"
+    },
+    {
+      "title": "ob sync-setup",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#`ob+sync-setup`",
+      "match": " ob sync setup  `ob sync-setup` Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "`ob sync-setup`"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#`ob+sync-setup`",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#`ob+sync-setup`"
+    },
+    {
+      "title": "ob sync",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#`ob+sync`",
+      "match": " ob sync  `ob sync` Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "`ob sync`"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#`ob+sync`",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#`ob+sync`"
+    },
+    {
+      "title": "ob sync-config",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#`ob+sync-config`",
+      "match": " ob sync config  `ob sync-config` Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "`ob sync-config`"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#`ob+sync-config`",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#`ob+sync-config`"
+    },
+    {
+      "title": "ob sync-status",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#`ob+sync-status`",
+      "match": " ob sync status  `ob sync-status` Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "`ob sync-status`"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#`ob+sync-status`",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#`ob+sync-status`"
+    },
+    {
+      "title": "ob sync-unlink",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#`ob+sync-unlink`",
+      "match": " ob sync unlink  `ob sync-unlink` Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "`ob sync-unlink`"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#`ob+sync-unlink`",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#`ob+sync-unlink`"
+    },
+    {
+      "title": "Native modules",
+      "subtitle": "Obsidian Sync/Headless Sync",
+      "uid": "https://help.obsidian.md/sync/headless#Native+modules",
+      "match": "Native modules Native modules Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Native modules"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/headless#Native+modules",
+      "quicklookurl": "https://help.obsidian.md/sync/headless#Native+modules"
+    },
+    {
       "title": "Introduction to Obsidian Sync",
       "match": "Introduction to Obsidian Sync Introduction to Obsidian Sync Obsidian Sync Obsidian Sync ",
       "subtitle": "Obsidian Sync",
@@ -16509,6 +16899,19 @@
       },
       "arg": "https://help.obsidian.md/ios#Shortcuts",
       "quicklookurl": "https://help.obsidian.md/ios#Shortcuts"
+    },
+    {
+      "title": "Share Sheet Extension",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Share+Sheet+Extension",
+      "match": "Share Sheet Extension Share Sheet Extension Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Share Sheet Extension"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Share+Sheet+Extension",
+      "quicklookurl": "https://help.obsidian.md/ios#Share+Sheet+Extension"
     },
     {
       "title": "Siri integration",
