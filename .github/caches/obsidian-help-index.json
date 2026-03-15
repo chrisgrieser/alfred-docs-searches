@@ -7268,19 +7268,6 @@
       "quicklookurl": "https://help.obsidian.md/headless#Log+in"
     },
     {
-      "title": "Environment variable",
-      "subtitle": "Extending Obsidian/Obsidian Headless",
-      "uid": "https://help.obsidian.md/headless#Environment+variable",
-      "match": "Environment variable Environment variable Obsidian Headless Obsidian Headless Extending Obsidian Extending Obsidian ",
-      "mods": {
-        "cmd": {
-          "arg": "Environment variable"
-        }
-      },
-      "arg": "https://help.obsidian.md/headless#Environment+variable",
-      "quicklookurl": "https://help.obsidian.md/headless#Environment+variable"
-    },
-    {
       "title": "Services",
       "subtitle": "Extending Obsidian/Obsidian Headless",
       "uid": "https://help.obsidian.md/headless#Services",
@@ -12585,19 +12572,6 @@
       "quicklookurl": "https://help.obsidian.md/sync/headless#Run+continuous+sync+(watches+for+changes)"
     },
     {
-      "title": "Environment variable",
-      "subtitle": "Obsidian Sync/Headless Sync",
-      "uid": "https://help.obsidian.md/sync/headless#Environment+variable",
-      "match": "Environment variable Environment variable Headless Sync Headless Sync Obsidian Sync Obsidian Sync ",
-      "mods": {
-        "cmd": {
-          "arg": "Environment variable"
-        }
-      },
-      "arg": "https://help.obsidian.md/sync/headless#Environment+variable",
-      "quicklookurl": "https://help.obsidian.md/sync/headless#Environment+variable"
-    },
-    {
       "title": "Commands",
       "subtitle": "Obsidian Sync/Headless Sync",
       "uid": "https://help.obsidian.md/sync/headless#Commands",
@@ -14327,6 +14301,19 @@
       "quicklookurl": "https://help.obsidian.md/web-clipper/filters#`capitalize`"
     },
     {
+      "title": "decode_uri",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/web-clipper/filters#`decode_uri`",
+      "match": " decode uri  `decode_uri` Filters Filters Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "`decode_uri`"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/filters#`decode_uri`",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/filters#`decode_uri`"
+    },
+    {
       "title": "kebab",
       "subtitle": "Obsidian Web Clipper/Filters",
       "uid": "https://help.obsidian.md/web-clipper/filters#`kebab`",
@@ -15365,6 +15352,58 @@
       },
       "arg": "https://help.obsidian.md/web-clipper/logic#Evaluation+order",
       "quicklookurl": "https://help.obsidian.md/web-clipper/logic#Evaluation+order"
+    },
+    {
+      "title": "Reader",
+      "match": "Reader Reader Obsidian Web Clipper Obsidian Web Clipper ",
+      "subtitle": "Obsidian Web Clipper",
+      "mods": {
+        "cmd": {
+          "arg": "Reader"
+        }
+      },
+      "uid": "https://help.obsidian.md/web-clipper/reader",
+      "arg": "https://help.obsidian.md/web-clipper/reader",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/reader"
+    },
+    {
+      "title": "Activate reading mode",
+      "subtitle": "Obsidian Web Clipper/Reader",
+      "uid": "https://help.obsidian.md/web-clipper/reader#Activate+reading+mode",
+      "match": "Activate reading mode Activate reading mode Reader Reader Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Activate reading mode"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/reader#Activate+reading+mode",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/reader#Activate+reading+mode"
+    },
+    {
+      "title": "How it works",
+      "subtitle": "Obsidian Web Clipper/Reader",
+      "uid": "https://help.obsidian.md/web-clipper/reader#How+it+works",
+      "match": "How it works How it works Reader Reader Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "How it works"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/reader#How+it+works",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/reader#How+it+works"
+    },
+    {
+      "title": "Customize the reading view",
+      "subtitle": "Obsidian Web Clipper/Reader",
+      "uid": "https://help.obsidian.md/web-clipper/reader#Customize+the+reading+view",
+      "match": "Customize the reading view Customize the reading view Reader Reader Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Customize the reading view"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/reader#Customize+the+reading+view",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/reader#Customize+the+reading+view"
     },
     {
       "title": "Templates",
