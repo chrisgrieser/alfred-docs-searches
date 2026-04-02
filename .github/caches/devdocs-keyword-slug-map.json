@@ -176,7 +176,7 @@
   "rethinkdb": "rethinkdb~javascript",
   "rb": "ruby~4.0",
   "minitest": "minitest",
-  "ror": "rails~8.0",
+  "ror": "rails~8.1",
   "rs": "rust",
   "rxjs": "rxjs",
   "saltstack": "saltstack",
