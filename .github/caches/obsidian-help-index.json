@@ -6865,17 +6865,17 @@
       "quicklookurl": "https://help.obsidian.md/syntax#Horizontal+rule"
     },
     {
-      "title": "",
+      "title": "Code",
       "subtitle": "Editing and formatting/Basic formatting syntax",
-      "uid": "https://help.obsidian.md/syntax#",
-      "match": "  Basic formatting syntax Basic formatting syntax Editing and formatting Editing and formatting ",
+      "uid": "https://help.obsidian.md/syntax#Code",
+      "match": "Code Code Basic formatting syntax Basic formatting syntax Editing and formatting Editing and formatting ",
       "mods": {
         "cmd": {
-          "arg": ""
+          "arg": "Code"
         }
       },
-      "arg": "https://help.obsidian.md/syntax#",
-      "quicklookurl": "https://help.obsidian.md/syntax#"
+      "arg": "https://help.obsidian.md/syntax#Code",
+      "quicklookurl": "https://help.obsidian.md/syntax#Code"
     },
     {
       "title": "Inline code",
@@ -10635,19 +10635,6 @@
       "quicklookurl": "https://help.obsidian.md/cli#macOS"
     },
     {
-      "title": "Alternate shells",
-      "subtitle": "Extending Obsidian/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#Alternate+shells",
-      "match": "Alternate shells Alternate shells Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
-      "mods": {
-        "cmd": {
-          "arg": "Alternate shells"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#Alternate+shells",
-      "quicklookurl": "https://help.obsidian.md/cli#Alternate+shells"
-    },
-    {
       "title": "Linux",
       "subtitle": "Extending Obsidian/Obsidian CLI",
       "uid": "https://help.obsidian.md/cli#Linux",
@@ -10659,45 +10646,6 @@
       },
       "arg": "https://help.obsidian.md/cli#Linux",
       "quicklookurl": "https://help.obsidian.md/cli#Linux"
-    },
-    {
-      "title": "AppImage",
-      "subtitle": "Extending Obsidian/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#AppImage",
-      "match": "AppImage AppImage Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
-      "mods": {
-        "cmd": {
-          "arg": "AppImage"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#AppImage",
-      "quicklookurl": "https://help.obsidian.md/cli#AppImage"
-    },
-    {
-      "title": "Snap",
-      "subtitle": "Extending Obsidian/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#Snap",
-      "match": "Snap Snap Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
-      "mods": {
-        "cmd": {
-          "arg": "Snap"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#Snap",
-      "quicklookurl": "https://help.obsidian.md/cli#Snap"
-    },
-    {
-      "title": "Flatpak",
-      "subtitle": "Extending Obsidian/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#Flatpak",
-      "match": "Flatpak Flatpak Obsidian CLI Obsidian CLI Extending Obsidian Extending Obsidian ",
-      "mods": {
-        "cmd": {
-          "arg": "Flatpak"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#Flatpak",
-      "quicklookurl": "https://help.obsidian.md/cli#Flatpak"
     },
     {
       "title": "Obsidian Headless",
@@ -14312,45 +14260,6 @@
       },
       "arg": "https://help.obsidian.md/links#Preview+a+linked+file",
       "quicklookurl": "https://help.obsidian.md/links#Preview+a+linked+file"
-    },
-    {
-      "title": "Live preview update",
-      "match": "Live preview update Live preview update   ",
-      "subtitle": "",
-      "mods": {
-        "cmd": {
-          "arg": "Live preview update"
-        }
-      },
-      "uid": "https://help.obsidian.md/Live+preview+update",
-      "arg": "https://help.obsidian.md/Live+preview+update",
-      "quicklookurl": "https://help.obsidian.md/Live+preview+update"
-    },
-    {
-      "title": "Edit notes using Live Preview or Source mode",
-      "subtitle": "Live preview update",
-      "uid": "https://help.obsidian.md/Live+preview+update#Edit+notes+using+Live+Preview+or+Source+mode",
-      "match": "Edit notes using Live Preview or Source mode Edit notes using Live Preview or Source mode Live preview update Live preview update   ",
-      "mods": {
-        "cmd": {
-          "arg": "Edit notes using Live Preview or Source mode"
-        }
-      },
-      "arg": "https://help.obsidian.md/Live+preview+update#Edit+notes+using+Live+Preview+or+Source+mode",
-      "quicklookurl": "https://help.obsidian.md/Live+preview+update#Edit+notes+using+Live+Preview+or+Source+mode"
-    },
-    {
-      "title": "Wait, I'm not ready to switch!",
-      "subtitle": "Live preview update",
-      "uid": "https://help.obsidian.md/Live+preview+update#Wait,+I'm+not+ready+to+switch!",
-      "match": "Wait, I'm not ready to switch! Wait, I'm not ready to switch! Live preview update Live preview update   ",
-      "mods": {
-        "cmd": {
-          "arg": "Wait, I'm not ready to switch!"
-        }
-      },
-      "arg": "https://help.obsidian.md/Live+preview+update#Wait,+I'm+not+ready+to+switch!",
-      "quicklookurl": "https://help.obsidian.md/Live+preview+update#Wait,+I'm+not+ready+to+switch!"
     },
     {
       "title": "Analytics",
@@ -18578,12 +18487,12 @@
       "quicklookurl": "https://help.obsidian.md/web-clipper/filters#`unique`"
     },
     {
-      "title": "Highlight web pages",
-      "match": "Highlight web pages Highlight web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "title": "Highlighter",
+      "match": "Highlighter Highlighter Obsidian Web Clipper Obsidian Web Clipper ",
       "subtitle": "Obsidian Web Clipper",
       "mods": {
         "cmd": {
-          "arg": "Highlight web pages"
+          "arg": "Highlighter"
         }
       },
       "uid": "https://help.obsidian.md/web-clipper/highlight",
@@ -18592,9 +18501,9 @@
     },
     {
       "title": "Turn on highlighter",
-      "subtitle": "Obsidian Web Clipper/Highlight web pages",
+      "subtitle": "Obsidian Web Clipper/Highlighter",
       "uid": "https://help.obsidian.md/web-clipper/highlight#Turn+on+highlighter",
-      "match": "Turn on highlighter Turn on highlighter Highlight web pages Highlight web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "Turn on highlighter Turn on highlighter Highlighter Highlighter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "Turn on highlighter"
@@ -18605,9 +18514,9 @@
     },
     {
       "title": "Highlighter settings",
-      "subtitle": "Obsidian Web Clipper/Highlight web pages",
+      "subtitle": "Obsidian Web Clipper/Highlighter",
       "uid": "https://help.obsidian.md/web-clipper/highlight#Highlighter+settings",
-      "match": "Highlighter settings Highlighter settings Highlight web pages Highlight web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "Highlighter settings Highlighter settings Highlighter Highlighter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "Highlighter settings"
@@ -18617,12 +18526,12 @@
       "quicklookurl": "https://help.obsidian.md/web-clipper/highlight#Highlighter+settings"
     },
     {
-      "title": "Interpret web pages",
-      "match": "Interpret web pages Interpret web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "title": "Interpreter",
+      "match": "Interpreter Interpreter Obsidian Web Clipper Obsidian Web Clipper ",
       "subtitle": "Obsidian Web Clipper",
       "mods": {
         "cmd": {
-          "arg": "Interpret web pages"
+          "arg": "Interpreter"
         }
       },
       "uid": "https://help.obsidian.md/web-clipper/interpreter",
@@ -18631,9 +18540,9 @@
     },
     {
       "title": "Examples of prompts",
-      "subtitle": "Obsidian Web Clipper/Interpret web pages",
+      "subtitle": "Obsidian Web Clipper/Interpreter",
       "uid": "https://help.obsidian.md/web-clipper/interpreter#Examples+of+prompts",
-      "match": "Examples of prompts Examples of prompts Interpret web pages Interpret web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "Examples of prompts Examples of prompts Interpreter Interpreter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "Examples of prompts"
@@ -18644,9 +18553,9 @@
     },
     {
       "title": "Get started",
-      "subtitle": "Obsidian Web Clipper/Interpret web pages",
+      "subtitle": "Obsidian Web Clipper/Interpreter",
       "uid": "https://help.obsidian.md/web-clipper/interpreter#Get+started",
-      "match": "Get started Get started Interpret web pages Interpret web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "Get started Get started Interpreter Interpreter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "Get started"
@@ -18657,9 +18566,9 @@
     },
     {
       "title": "How it works",
-      "subtitle": "Obsidian Web Clipper/Interpret web pages",
+      "subtitle": "Obsidian Web Clipper/Interpreter",
       "uid": "https://help.obsidian.md/web-clipper/interpreter#How+it+works",
-      "match": "How it works How it works Interpret web pages Interpret web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "How it works How it works Interpreter Interpreter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "How it works"
@@ -18670,9 +18579,9 @@
     },
     {
       "title": "Context",
-      "subtitle": "Obsidian Web Clipper/Interpret web pages",
+      "subtitle": "Obsidian Web Clipper/Interpreter",
       "uid": "https://help.obsidian.md/web-clipper/interpreter#Context",
-      "match": "Context Context Interpret web pages Interpret web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "Context Context Interpreter Interpreter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "Context"
@@ -18683,9 +18592,9 @@
     },
     {
       "title": "Models",
-      "subtitle": "Obsidian Web Clipper/Interpret web pages",
+      "subtitle": "Obsidian Web Clipper/Interpreter",
       "uid": "https://help.obsidian.md/web-clipper/interpreter#Models",
-      "match": "Models Models Interpret web pages Interpret web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "Models Models Interpreter Interpreter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "Models"
@@ -18696,9 +18605,9 @@
     },
     {
       "title": "Preset providers",
-      "subtitle": "Obsidian Web Clipper/Interpret web pages",
+      "subtitle": "Obsidian Web Clipper/Interpreter",
       "uid": "https://help.obsidian.md/web-clipper/interpreter#Preset+providers",
-      "match": "Preset providers Preset providers Interpret web pages Interpret web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "Preset providers Preset providers Interpreter Interpreter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "Preset providers"
@@ -18709,9 +18618,9 @@
     },
     {
       "title": "Choosing a model",
-      "subtitle": "Obsidian Web Clipper/Interpret web pages",
+      "subtitle": "Obsidian Web Clipper/Interpreter",
       "uid": "https://help.obsidian.md/web-clipper/interpreter#Choosing+a+model",
-      "match": "Choosing a model Choosing a model Interpret web pages Interpret web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "Choosing a model Choosing a model Interpreter Interpreter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "Choosing a model"
@@ -18722,9 +18631,9 @@
     },
     {
       "title": "Custom providers and models",
-      "subtitle": "Obsidian Web Clipper/Interpret web pages",
+      "subtitle": "Obsidian Web Clipper/Interpreter",
       "uid": "https://help.obsidian.md/web-clipper/interpreter#Custom+providers+and+models",
-      "match": "Custom providers and models Custom providers and models Interpret web pages Interpret web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "Custom providers and models Custom providers and models Interpreter Interpreter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "Custom providers and models"
@@ -18735,9 +18644,9 @@
     },
     {
       "title": "Local models",
-      "subtitle": "Obsidian Web Clipper/Interpret web pages",
+      "subtitle": "Obsidian Web Clipper/Interpreter",
       "uid": "https://help.obsidian.md/web-clipper/interpreter#Local+models",
-      "match": "Local models Local models Interpret web pages Interpret web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "Local models Local models Interpreter Interpreter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "Local models"
@@ -18748,9 +18657,9 @@
     },
     {
       "title": "Ollama",
-      "subtitle": "Obsidian Web Clipper/Interpret web pages",
+      "subtitle": "Obsidian Web Clipper/Interpreter",
       "uid": "https://help.obsidian.md/web-clipper/interpreter#Ollama",
-      "match": "Ollama Ollama Interpret web pages Interpret web pages Obsidian Web Clipper Obsidian Web Clipper ",
+      "match": "Ollama Ollama Interpreter Interpreter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
           "arg": "Ollama"
@@ -19072,17 +18981,17 @@
       "quicklookurl": "https://help.obsidian.md/web-clipper/reader#How+it+works"
     },
     {
-      "title": "Customize the reading view",
+      "title": "Customize your reading view",
       "subtitle": "Obsidian Web Clipper/Reader",
-      "uid": "https://help.obsidian.md/web-clipper/reader#Customize+the+reading+view",
-      "match": "Customize the reading view Customize the reading view Reader Reader Obsidian Web Clipper Obsidian Web Clipper ",
+      "uid": "https://help.obsidian.md/web-clipper/reader#Customize+your+reading+view",
+      "match": "Customize your reading view Customize your reading view Reader Reader Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
-          "arg": "Customize the reading view"
+          "arg": "Customize your reading view"
         }
       },
-      "arg": "https://help.obsidian.md/web-clipper/reader#Customize+the+reading+view",
-      "quicklookurl": "https://help.obsidian.md/web-clipper/reader#Customize+the+reading+view"
+      "arg": "https://help.obsidian.md/web-clipper/reader#Customize+your+reading+view",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/reader#Customize+your+reading+view"
     },
     {
       "title": "Templates",
@@ -29810,19 +29719,6 @@
       "quicklookurl": "https://help.obsidian.md/cli#macOS"
     },
     {
-      "title": "Vaihtoehtoiset komentotulkit",
-      "subtitle": "fi/Obsidianin laajentaminen/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#Vaihtoehtoiset+komentotulkit",
-      "match": "Vaihtoehtoiset komentotulkit Vaihtoehtoiset komentotulkit Obsidian CLI Obsidian CLI fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
-      "mods": {
-        "cmd": {
-          "arg": "Vaihtoehtoiset komentotulkit"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#Vaihtoehtoiset+komentotulkit",
-      "quicklookurl": "https://help.obsidian.md/cli#Vaihtoehtoiset+komentotulkit"
-    },
-    {
       "title": "Linux",
       "subtitle": "fi/Obsidianin laajentaminen/Obsidian CLI",
       "uid": "https://help.obsidian.md/cli#Linux",
@@ -29834,45 +29730,6 @@
       },
       "arg": "https://help.obsidian.md/cli#Linux",
       "quicklookurl": "https://help.obsidian.md/cli#Linux"
-    },
-    {
-      "title": "AppImage",
-      "subtitle": "fi/Obsidianin laajentaminen/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#AppImage",
-      "match": "AppImage AppImage Obsidian CLI Obsidian CLI fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
-      "mods": {
-        "cmd": {
-          "arg": "AppImage"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#AppImage",
-      "quicklookurl": "https://help.obsidian.md/cli#AppImage"
-    },
-    {
-      "title": "Snap",
-      "subtitle": "fi/Obsidianin laajentaminen/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#Snap",
-      "match": "Snap Snap Obsidian CLI Obsidian CLI fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
-      "mods": {
-        "cmd": {
-          "arg": "Snap"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#Snap",
-      "quicklookurl": "https://help.obsidian.md/cli#Snap"
-    },
-    {
-      "title": "Flatpak",
-      "subtitle": "fi/Obsidianin laajentaminen/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#Flatpak",
-      "match": "Flatpak Flatpak Obsidian CLI Obsidian CLI fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
-      "mods": {
-        "cmd": {
-          "arg": "Flatpak"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#Flatpak",
-      "quicklookurl": "https://help.obsidian.md/cli#Flatpak"
     },
     {
       "title": "Obsidian Headless",
@@ -36531,19 +36388,6 @@
       "quicklookurl": "https://help.obsidian.md/cli#macOS"
     },
     {
-      "title": "Alternatieve shells",
-      "subtitle": "nl/Obsidian uitbreiden/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#Alternatieve+shells",
-      "match": "Alternatieve shells Alternatieve shells Obsidian CLI Obsidian CLI nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
-      "mods": {
-        "cmd": {
-          "arg": "Alternatieve shells"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#Alternatieve+shells",
-      "quicklookurl": "https://help.obsidian.md/cli#Alternatieve+shells"
-    },
-    {
       "title": "Linux",
       "subtitle": "nl/Obsidian uitbreiden/Obsidian CLI",
       "uid": "https://help.obsidian.md/cli#Linux",
@@ -36555,45 +36399,6 @@
       },
       "arg": "https://help.obsidian.md/cli#Linux",
       "quicklookurl": "https://help.obsidian.md/cli#Linux"
-    },
-    {
-      "title": "AppImage",
-      "subtitle": "nl/Obsidian uitbreiden/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#AppImage",
-      "match": "AppImage AppImage Obsidian CLI Obsidian CLI nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
-      "mods": {
-        "cmd": {
-          "arg": "AppImage"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#AppImage",
-      "quicklookurl": "https://help.obsidian.md/cli#AppImage"
-    },
-    {
-      "title": "Snap",
-      "subtitle": "nl/Obsidian uitbreiden/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#Snap",
-      "match": "Snap Snap Obsidian CLI Obsidian CLI nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
-      "mods": {
-        "cmd": {
-          "arg": "Snap"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#Snap",
-      "quicklookurl": "https://help.obsidian.md/cli#Snap"
-    },
-    {
-      "title": "Flatpak",
-      "subtitle": "nl/Obsidian uitbreiden/Obsidian CLI",
-      "uid": "https://help.obsidian.md/cli#Flatpak",
-      "match": "Flatpak Flatpak Obsidian CLI Obsidian CLI nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
-      "mods": {
-        "cmd": {
-          "arg": "Flatpak"
-        }
-      },
-      "arg": "https://help.obsidian.md/cli#Flatpak",
-      "quicklookurl": "https://help.obsidian.md/cli#Flatpak"
     },
     {
       "title": "Obsidian Headless",
