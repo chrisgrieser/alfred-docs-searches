@@ -794,6 +794,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins/unique-note#Eindeutige+Notizen+aus+einer+Vorlage+erstellen"
     },
     {
+      "title": "Fußnoten-Ansicht",
+      "match": "Fußnoten Ansicht Fußnoten-Ansicht de/Erweiterungen de/Erweiterungen ",
+      "subtitle": "de/Erweiterungen",
+      "mods": {
+        "cmd": {
+          "arg": "Fußnoten-Ansicht"
+        }
+      },
+      "uid": "https://help.obsidian.md/plugins/footnotes",
+      "arg": "https://help.obsidian.md/plugins/footnotes",
+      "quicklookurl": "https://help.obsidian.md/plugins/footnotes"
+    },
+    {
       "title": "Gliederung",
       "match": "Gliederung Gliederung de/Erweiterungen de/Erweiterungen ",
       "subtitle": "de/Erweiterungen",
@@ -18500,30 +18513,56 @@
       "quicklookurl": "https://help.obsidian.md/web-clipper/highlight"
     },
     {
-      "title": "Turn on highlighter",
+      "title": "Use the highlighter",
       "subtitle": "Obsidian Web Clipper/Highlighter",
-      "uid": "https://help.obsidian.md/web-clipper/highlight#Turn+on+highlighter",
-      "match": "Turn on highlighter Turn on highlighter Highlighter Highlighter Obsidian Web Clipper Obsidian Web Clipper ",
+      "uid": "https://help.obsidian.md/web-clipper/highlight#Use+the+highlighter",
+      "match": "Use the highlighter Use the highlighter Highlighter Highlighter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
-          "arg": "Turn on highlighter"
+          "arg": "Use the highlighter"
         }
       },
-      "arg": "https://help.obsidian.md/web-clipper/highlight#Turn+on+highlighter",
-      "quicklookurl": "https://help.obsidian.md/web-clipper/highlight#Turn+on+highlighter"
+      "arg": "https://help.obsidian.md/web-clipper/highlight#Use+the+highlighter",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/highlight#Use+the+highlighter"
     },
     {
-      "title": "Highlighter settings",
+      "title": "Add highlights to notes",
       "subtitle": "Obsidian Web Clipper/Highlighter",
-      "uid": "https://help.obsidian.md/web-clipper/highlight#Highlighter+settings",
-      "match": "Highlighter settings Highlighter settings Highlighter Highlighter Obsidian Web Clipper Obsidian Web Clipper ",
+      "uid": "https://help.obsidian.md/web-clipper/highlight#Add+highlights+to+notes",
+      "match": "Add highlights to notes Add highlights to notes Highlighter Highlighter Obsidian Web Clipper Obsidian Web Clipper ",
       "mods": {
         "cmd": {
-          "arg": "Highlighter settings"
+          "arg": "Add highlights to notes"
         }
       },
-      "arg": "https://help.obsidian.md/web-clipper/highlight#Highlighter+settings",
-      "quicklookurl": "https://help.obsidian.md/web-clipper/highlight#Highlighter+settings"
+      "arg": "https://help.obsidian.md/web-clipper/highlight#Add+highlights+to+notes",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/highlight#Add+highlights+to+notes"
+    },
+    {
+      "title": "View and search highlights",
+      "subtitle": "Obsidian Web Clipper/Highlighter",
+      "uid": "https://help.obsidian.md/web-clipper/highlight#View+and+search+highlights",
+      "match": "View and search highlights View and search highlights Highlighter Highlighter Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "View and search highlights"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/highlight#View+and+search+highlights",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/highlight#View+and+search+highlights"
+    },
+    {
+      "title": "Export highlights",
+      "subtitle": "Obsidian Web Clipper/Highlighter",
+      "uid": "https://help.obsidian.md/web-clipper/highlight#Export+highlights",
+      "match": "Export highlights Export highlights Highlighter Highlighter Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "Export highlights"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/highlight#Export+highlights",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/highlight#Export+highlights"
     },
     {
       "title": "Interpreter",
@@ -21449,6 +21488,19 @@
       },
       "arg": "https://help.obsidian.md/plugins/file-recovery#Limitations",
       "quicklookurl": "https://help.obsidian.md/plugins/file-recovery#Limitations"
+    },
+    {
+      "title": "Footnotes view",
+      "match": "Footnotes view Footnotes view Plugins Plugins ",
+      "subtitle": "Plugins",
+      "mods": {
+        "cmd": {
+          "arg": "Footnotes view"
+        }
+      },
+      "uid": "https://help.obsidian.md/plugins/footnotes",
+      "arg": "https://help.obsidian.md/plugins/footnotes",
+      "quicklookurl": "https://help.obsidian.md/plugins/footnotes"
     },
     {
       "title": "Format converter",
@@ -32943,32 +32995,6 @@
       "quicklookurl": "https://help.obsidian.md/import/html#Instellingen+importeren"
     },
     {
-      "title": "Importer",
-      "match": "Importer Importer nl/Notities importeren nl/Notities importeren ",
-      "subtitle": "nl/Notities importeren",
-      "mods": {
-        "cmd": {
-          "arg": "Importer"
-        }
-      },
-      "uid": "https://help.obsidian.md/plugins/importer",
-      "arg": "https://help.obsidian.md/plugins/importer",
-      "quicklookurl": "https://help.obsidian.md/plugins/importer"
-    },
-    {
-      "title": "Importer installeren",
-      "subtitle": "nl/Notities importeren/Importer",
-      "uid": "https://help.obsidian.md/plugins/importer#Importer+installeren",
-      "match": "Importer installeren Importer installeren Importer Importer nl/Notities importeren nl/Notities importeren ",
-      "mods": {
-        "cmd": {
-          "arg": "Importer installeren"
-        }
-      },
-      "arg": "https://help.obsidian.md/plugins/importer#Importer+installeren",
-      "quicklookurl": "https://help.obsidian.md/plugins/importer#Importer+installeren"
-    },
-    {
       "title": "Importeren vanuit Apple Journal",
       "match": "Importeren vanuit Apple Journal Importeren vanuit Apple Journal nl/Notities importeren nl/Notities importeren ",
       "subtitle": "nl/Notities importeren",
@@ -33591,6 +33617,32 @@
       },
       "arg": "https://help.obsidian.md/import/roam#Je+Roam+Research-gegevens+importeren+in+Obsidian",
       "quicklookurl": "https://help.obsidian.md/import/roam#Je+Roam+Research-gegevens+importeren+in+Obsidian"
+    },
+    {
+      "title": "Importeren",
+      "match": "Importeren Importeren nl/Notities importeren nl/Notities importeren ",
+      "subtitle": "nl/Notities importeren",
+      "mods": {
+        "cmd": {
+          "arg": "Importeren"
+        }
+      },
+      "uid": "https://help.obsidian.md/plugins/importer",
+      "arg": "https://help.obsidian.md/plugins/importer",
+      "quicklookurl": "https://help.obsidian.md/plugins/importer"
+    },
+    {
+      "title": "Importer installeren",
+      "subtitle": "nl/Notities importeren/Importeren",
+      "uid": "https://help.obsidian.md/plugins/importer#Importer+installeren",
+      "match": "Importer installeren Importer installeren Importeren Importeren nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Importer installeren"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/importer#Importer+installeren",
+      "quicklookurl": "https://help.obsidian.md/plugins/importer#Importer+installeren"
     },
     {
       "title": "Markdown-bestanden importeren",
