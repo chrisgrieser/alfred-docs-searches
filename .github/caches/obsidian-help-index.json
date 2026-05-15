@@ -534,6 +534,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Vergrößerung+zurücksetzen"
     },
     {
+      "title": "Einen Canvas in eine Notiz einbetten",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Einen+Canvas+in+eine+Notiz+einbetten",
+      "match": "Einen Canvas in eine Notiz einbetten Einen Canvas in eine Notiz einbetten Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Einen Canvas in eine Notiz einbetten"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Einen+Canvas+in+eine+Notiz+einbetten",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Einen+Canvas+in+eine+Notiz+einbetten"
+    },
+    {
       "title": "Erweiterte Tipps",
       "subtitle": "de/Erweiterungen/Canvas",
       "uid": "https://help.obsidian.md/plugins/canvas#Erweiterte+Tipps",
@@ -1782,6 +1795,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins/templates#Vorlageneigenschaften"
     },
     {
+      "title": "Aktuelles Datum und aktuelle Uhrzeit in die aktive Notiz einfügen",
+      "subtitle": "de/Erweiterungen/Vorlagen",
+      "uid": "https://help.obsidian.md/plugins/templates#Aktuelles+Datum+und+aktuelle+Uhrzeit+in+die+aktive+Notiz+einfügen",
+      "match": "Aktuelles Datum und aktuelle Uhrzeit in die aktive Notiz einfügen Aktuelles Datum und aktuelle Uhrzeit in die aktive Notiz einfügen Vorlagen Vorlagen de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Aktuelles Datum und aktuelle Uhrzeit in die aktive Notiz einfügen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/templates#Aktuelles+Datum+und+aktuelle+Uhrzeit+in+die+aktive+Notiz+einfügen",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#Aktuelles+Datum+und+aktuelle+Uhrzeit+in+die+aktive+Notiz+einfügen"
+    },
+    {
       "title": "Web-Viewer",
       "match": "Web Viewer Web-Viewer de/Erweiterungen de/Erweiterungen ",
       "subtitle": "de/Erweiterungen",
@@ -2807,6 +2833,19 @@
       },
       "arg": "https://help.obsidian.md/embeds#Ein+PDF+in+eine+Notiz+einbetten",
       "quicklookurl": "https://help.obsidian.md/embeds#Ein+PDF+in+eine+Notiz+einbetten"
+    },
+    {
+      "title": "Einen Canvas in eine Notiz einbetten",
+      "subtitle": "de/Notizen und Dateien verknüpfen/Dateien einbetten",
+      "uid": "https://help.obsidian.md/embeds#Einen+Canvas+in+eine+Notiz+einbetten",
+      "match": "Einen Canvas in eine Notiz einbetten Einen Canvas in eine Notiz einbetten Dateien einbetten Dateien einbetten de/Notizen und Dateien verknüpfen de/Notizen und Dateien verknüpfen ",
+      "mods": {
+        "cmd": {
+          "arg": "Einen Canvas in eine Notiz einbetten"
+        }
+      },
+      "arg": "https://help.obsidian.md/embeds#Einen+Canvas+in+eine+Notiz+einbetten",
+      "quicklookurl": "https://help.obsidian.md/embeds#Einen+Canvas+in+eine+Notiz+einbetten"
     },
     {
       "title": "Eine Liste in eine Notiz einbetten",
@@ -4291,19 +4330,6 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`number()`"
     },
     {
-      "title": "duration()",
-      "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#`duration()`",
-      "match": " duration    `duration()` Functions Functions Bases Bases ",
-      "mods": {
-        "cmd": {
-          "arg": "`duration()`"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/functions#`duration()`",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#`duration()`"
-    },
-    {
       "title": "today()",
       "subtitle": "Bases/Functions",
       "uid": "https://help.obsidian.md/bases/functions#`today()`",
@@ -4330,17 +4356,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`random()`"
     },
     {
-      "title": "Any",
+      "title": "Any type",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#Any",
-      "match": "Any Any Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#Any+type",
+      "match": "Any type Any type Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "Any"
+          "arg": "Any type"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#Any",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#Any"
+      "arg": "https://help.obsidian.md/bases/functions#Any+type",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#Any+type"
     },
     {
       "title": "isTruthy()",
@@ -4382,17 +4408,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`toString()`"
     },
     {
-      "title": "Date",
+      "title": "Date type",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#Date",
-      "match": "Date Date Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#Date+type",
+      "match": "Date type Date type Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "Date"
+          "arg": "Date type"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#Date",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#Date"
+      "arg": "https://help.obsidian.md/bases/functions#Date+type",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#Date+type"
     },
     {
       "title": "Fields",
@@ -4473,17 +4499,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`isEmpty()`"
     },
     {
-      "title": "String",
+      "title": "String type",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#String",
-      "match": "String String Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#String+type",
+      "match": "String type String type Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "String"
+          "arg": "String type"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#String",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#String"
+      "arg": "https://help.obsidian.md/bases/functions#String+type",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#String+type"
     },
     {
       "title": "Fields",
@@ -4681,17 +4707,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`trim()`"
     },
     {
-      "title": "Number",
+      "title": "Number type",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#Number",
-      "match": "Number Number Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#Number+type",
+      "match": "Number type Number type Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "Number"
+          "arg": "Number type"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#Number",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#Number"
+      "arg": "https://help.obsidian.md/bases/functions#Number+type",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#Number+type"
     },
     {
       "title": "abs()",
@@ -4772,17 +4798,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`toFixed()`"
     },
     {
-      "title": "List",
+      "title": "List type",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#List",
-      "match": "List List Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#List+type",
+      "match": "List type List type Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "List"
+          "arg": "List type"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#List",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#List"
+      "arg": "https://help.obsidian.md/bases/functions#List+type",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#List+type"
     },
     {
       "title": "Fields",
@@ -4967,17 +4993,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`unique()`"
     },
     {
-      "title": "Link",
+      "title": "Link type",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#Link",
-      "match": "Link Link Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#Link+type",
+      "match": "Link type Link type Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "Link"
+          "arg": "Link type"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#Link",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#Link"
+      "arg": "https://help.obsidian.md/bases/functions#Link+type",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#Link+type"
     },
     {
       "title": "asFile()",
@@ -5006,17 +5032,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`linksTo()`"
     },
     {
-      "title": "File",
+      "title": "File type",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#File",
-      "match": "File File Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#File+type",
+      "match": "File type File type Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "File"
+          "arg": "File type"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#File",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#File"
+      "arg": "https://help.obsidian.md/bases/functions#File+type",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#File+type"
     },
     {
       "title": "Fields",
@@ -5097,17 +5123,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`inFolder()`"
     },
     {
-      "title": "Object",
+      "title": "Object type",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#Object",
-      "match": "Object Object Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#Object+type",
+      "match": "Object type Object type Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "Object"
+          "arg": "Object type"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#Object",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#Object"
+      "arg": "https://help.obsidian.md/bases/functions#Object+type",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#Object+type"
     },
     {
       "title": "isEmpty()",
@@ -5149,17 +5175,17 @@
       "quicklookurl": "https://help.obsidian.md/bases/functions#`values()`"
     },
     {
-      "title": "Regular expression",
+      "title": "Regular expression type",
       "subtitle": "Bases/Functions",
-      "uid": "https://help.obsidian.md/bases/functions#Regular+expression",
-      "match": "Regular expression Regular expression Functions Functions Bases Bases ",
+      "uid": "https://help.obsidian.md/bases/functions#Regular+expression+type",
+      "match": "Regular expression type Regular expression type Functions Functions Bases Bases ",
       "mods": {
         "cmd": {
-          "arg": "Regular expression"
+          "arg": "Regular expression type"
         }
       },
-      "arg": "https://help.obsidian.md/bases/functions#Regular+expression",
-      "quicklookurl": "https://help.obsidian.md/bases/functions#Regular+expression"
+      "arg": "https://help.obsidian.md/bases/functions#Regular+expression+type",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#Regular+expression+type"
     },
     {
       "title": "matches()",
@@ -14158,6 +14184,19 @@
       "quicklookurl": "https://help.obsidian.md/embeds#Embed+a+PDF+in+a+note"
     },
     {
+      "title": "Embed a canvas in a note",
+      "subtitle": "Linking notes and files/Embed files",
+      "uid": "https://help.obsidian.md/embeds#Embed+a+canvas+in+a+note",
+      "match": "Embed a canvas in a note Embed a canvas in a note Embed files Embed files Linking notes and files Linking notes and files ",
+      "mods": {
+        "cmd": {
+          "arg": "Embed a canvas in a note"
+        }
+      },
+      "arg": "https://help.obsidian.md/embeds#Embed+a+canvas+in+a+note",
+      "quicklookurl": "https://help.obsidian.md/embeds#Embed+a+canvas+in+a+note"
+    },
+    {
       "title": "Embed a list in a note",
       "subtitle": "Linking notes and files/Embed files",
       "uid": "https://help.obsidian.md/embeds#Embed+a+list+in+a+note",
@@ -14171,17 +14210,17 @@
       "quicklookurl": "https://help.obsidian.md/embeds#Embed+a+list+in+a+note"
     },
     {
-      "title": "Embed search results ",
+      "title": "Embed search results",
       "subtitle": "Linking notes and files/Embed files",
-      "uid": "https://help.obsidian.md/embeds#Embed+search+results+",
-      "match": "Embed search results  Embed search results  Embed files Embed files Linking notes and files Linking notes and files ",
+      "uid": "https://help.obsidian.md/embeds#Embed+search+results",
+      "match": "Embed search results Embed search results Embed files Embed files Linking notes and files Linking notes and files ",
       "mods": {
         "cmd": {
-          "arg": "Embed search results "
+          "arg": "Embed search results"
         }
       },
-      "arg": "https://help.obsidian.md/embeds#Embed+search+results+",
-      "quicklookurl": "https://help.obsidian.md/embeds#Embed+search+results+"
+      "arg": "https://help.obsidian.md/embeds#Embed+search+results",
+      "quicklookurl": "https://help.obsidian.md/embeds#Embed+search+results"
     },
     {
       "title": "Internal links",
@@ -21165,6 +21204,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Reset+zoom"
     },
     {
+      "title": "Embed a canvas",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Embed+a+canvas",
+      "match": "Embed a canvas Embed a canvas Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Embed a canvas"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Embed+a+canvas",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Embed+a+canvas"
+    },
+    {
       "title": "Advanced tips",
       "subtitle": "Plugins/Canvas",
       "uid": "https://help.obsidian.md/plugins/canvas#Advanced+tips",
@@ -22309,17 +22361,17 @@
       "quicklookurl": "https://help.obsidian.md/plugins/templates#Template+properties"
     },
     {
-      "title": "Inserting current date and time into the active note",
+      "title": "Insert current date and time into the active note",
       "subtitle": "Plugins/Templates",
-      "uid": "https://help.obsidian.md/plugins/templates#Inserting+current+date+and+time+into+the+active+note",
-      "match": "Inserting current date and time into the active note Inserting current date and time into the active note Templates Templates Plugins Plugins ",
+      "uid": "https://help.obsidian.md/plugins/templates#Insert+current+date+and+time+into+the+active+note",
+      "match": "Insert current date and time into the active note Insert current date and time into the active note Templates Templates Plugins Plugins ",
       "mods": {
         "cmd": {
-          "arg": "Inserting current date and time into the active note"
+          "arg": "Insert current date and time into the active note"
         }
       },
-      "arg": "https://help.obsidian.md/plugins/templates#Inserting+current+date+and+time+into+the+active+note",
-      "quicklookurl": "https://help.obsidian.md/plugins/templates#Inserting+current+date+and+time+into+the+active+note"
+      "arg": "https://help.obsidian.md/plugins/templates#Insert+current+date+and+time+into+the+active+note",
+      "quicklookurl": "https://help.obsidian.md/plugins/templates#Insert+current+date+and+time+into+the+active+note"
     },
     {
       "title": "Unique note creator",
@@ -26545,6 +26597,19 @@
       },
       "arg": "https://help.obsidian.md/embeds#PDF:n+upottaminen+muistiinpanoon",
       "quicklookurl": "https://help.obsidian.md/embeds#PDF:n+upottaminen+muistiinpanoon"
+    },
+    {
+      "title": "Valkotaulun upottaminen muistiinpanoon",
+      "subtitle": "fi/Muistiinpanojen ja tiedostojen linkittäminen/Upota tiedostoja",
+      "uid": "https://help.obsidian.md/embeds#Valkotaulun+upottaminen+muistiinpanoon",
+      "match": "Valkotaulun upottaminen muistiinpanoon Valkotaulun upottaminen muistiinpanoon Upota tiedostoja Upota tiedostoja fi/Muistiinpanojen ja tiedostojen linkittäminen fi/Muistiinpanojen ja tiedostojen linkittäminen ",
+      "mods": {
+        "cmd": {
+          "arg": "Valkotaulun upottaminen muistiinpanoon"
+        }
+      },
+      "arg": "https://help.obsidian.md/embeds#Valkotaulun+upottaminen+muistiinpanoon",
+      "quicklookurl": "https://help.obsidian.md/embeds#Valkotaulun+upottaminen+muistiinpanoon"
     },
     {
       "title": "Luettelon upottaminen muistiinpanoon",
@@ -32798,6 +32863,19 @@
       },
       "arg": "https://help.obsidian.md/embeds#Een+PDF+insluiten+in+een+notitie",
       "quicklookurl": "https://help.obsidian.md/embeds#Een+PDF+insluiten+in+een+notitie"
+    },
+    {
+      "title": "Een Canvas insluiten in een notitie",
+      "subtitle": "nl/Notities en bestanden koppelen/Bestanden insluiten",
+      "uid": "https://help.obsidian.md/embeds#Een+Canvas+insluiten+in+een+notitie",
+      "match": "Een Canvas insluiten in een notitie Een Canvas insluiten in een notitie Bestanden insluiten Bestanden insluiten nl/Notities en bestanden koppelen nl/Notities en bestanden koppelen ",
+      "mods": {
+        "cmd": {
+          "arg": "Een Canvas insluiten in een notitie"
+        }
+      },
+      "arg": "https://help.obsidian.md/embeds#Een+Canvas+insluiten+in+een+notitie",
+      "quicklookurl": "https://help.obsidian.md/embeds#Een+Canvas+insluiten+in+een+notitie"
     },
     {
       "title": "Een lijst insluiten in een notitie",
