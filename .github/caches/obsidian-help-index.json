@@ -19917,69 +19917,69 @@
       "quicklookurl": "https://help.obsidian.md/credits"
     },
     {
-      "title": "Team",
+      "title": "Core team",
       "subtitle": "Obsidian/Credits",
-      "uid": "https://help.obsidian.md/credits#Team",
-      "match": "Team Team Credits Credits Obsidian Obsidian ",
+      "uid": "https://help.obsidian.md/credits#Core+team",
+      "match": "Core team Core team Credits Credits Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Team"
+          "arg": "Core team"
         }
       },
-      "arg": "https://help.obsidian.md/credits#Team",
-      "quicklookurl": "https://help.obsidian.md/credits#Team"
+      "arg": "https://help.obsidian.md/credits#Core+team",
+      "quicklookurl": "https://help.obsidian.md/credits#Core+team"
     },
     {
-      "title": "Development",
+      "title": "Contributors",
       "subtitle": "Obsidian/Credits",
-      "uid": "https://help.obsidian.md/credits#Development",
-      "match": "Development Development Credits Credits Obsidian Obsidian ",
+      "uid": "https://help.obsidian.md/credits#Contributors",
+      "match": "Contributors Contributors Credits Credits Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Development"
+          "arg": "Contributors"
         }
       },
-      "arg": "https://help.obsidian.md/credits#Development",
-      "quicklookurl": "https://help.obsidian.md/credits#Development"
+      "arg": "https://help.obsidian.md/credits#Contributors",
+      "quicklookurl": "https://help.obsidian.md/credits#Contributors"
     },
     {
-      "title": "Product & Operations",
+      "title": "Community review",
       "subtitle": "Obsidian/Credits",
-      "uid": "https://help.obsidian.md/credits#Product+&+Operations",
-      "match": "Product & Operations Product & Operations Credits Credits Obsidian Obsidian ",
+      "uid": "https://help.obsidian.md/credits#Community+review",
+      "match": "Community review Community review Credits Credits Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Product & Operations"
+          "arg": "Community review"
         }
       },
-      "arg": "https://help.obsidian.md/credits#Product+&+Operations",
-      "quicklookurl": "https://help.obsidian.md/credits#Product+&+Operations"
+      "arg": "https://help.obsidian.md/credits#Community+review",
+      "quicklookurl": "https://help.obsidian.md/credits#Community+review"
     },
     {
-      "title": "Moderators",
+      "title": "Moderation",
       "subtitle": "Obsidian/Credits",
-      "uid": "https://help.obsidian.md/credits#Moderators",
-      "match": "Moderators Moderators Credits Credits Obsidian Obsidian ",
+      "uid": "https://help.obsidian.md/credits#Moderation",
+      "match": "Moderation Moderation Credits Credits Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Moderators"
+          "arg": "Moderation"
         }
       },
-      "arg": "https://help.obsidian.md/credits#Moderators",
-      "quicklookurl": "https://help.obsidian.md/credits#Moderators"
+      "arg": "https://help.obsidian.md/credits#Moderation",
+      "quicklookurl": "https://help.obsidian.md/credits#Moderation"
     },
     {
-      "title": "Retired",
+      "title": "Alumni",
       "subtitle": "Obsidian/Credits",
-      "uid": "https://help.obsidian.md/credits#Retired",
-      "match": "Retired Retired Credits Credits Obsidian Obsidian ",
+      "uid": "https://help.obsidian.md/credits#Alumni",
+      "match": "Alumni Alumni Credits Credits Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Retired"
+          "arg": "Alumni"
         }
       },
-      "arg": "https://help.obsidian.md/credits#Retired",
-      "quicklookurl": "https://help.obsidian.md/credits#Retired"
+      "arg": "https://help.obsidian.md/credits#Alumni",
+      "quicklookurl": "https://help.obsidian.md/credits#Alumni"
     },
     {
       "title": "Plugin inspirations",
@@ -20019,6 +20019,19 @@
       },
       "arg": "https://help.obsidian.md/credits#Translators",
       "quicklookurl": "https://help.obsidian.md/credits#Translators"
+    },
+    {
+      "title": "Supporting organizations",
+      "subtitle": "Obsidian/Credits",
+      "uid": "https://help.obsidian.md/credits#Supporting+organizations",
+      "match": "Supporting organizations Supporting organizations Credits Credits Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Supporting organizations"
+        }
+      },
+      "arg": "https://help.obsidian.md/credits#Supporting+organizations",
+      "quicklookurl": "https://help.obsidian.md/credits#Supporting+organizations"
     },
     {
       "title": "Documentation",
@@ -20606,17 +20619,56 @@
       "quicklookurl": "https://help.obsidian.md/ios#Shortcuts"
     },
     {
-      "title": "Share Sheet Extension",
+      "title": "Share Sheet",
       "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
-      "uid": "https://help.obsidian.md/ios#Share+Sheet+Extension",
-      "match": "Share Sheet Extension Share Sheet Extension Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "uid": "https://help.obsidian.md/ios#Share+Sheet",
+      "match": "Share Sheet Share Sheet Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
       "mods": {
         "cmd": {
-          "arg": "Share Sheet Extension"
+          "arg": "Share Sheet"
         }
       },
-      "arg": "https://help.obsidian.md/ios#Share+Sheet+Extension",
-      "quicklookurl": "https://help.obsidian.md/ios#Share+Sheet+Extension"
+      "arg": "https://help.obsidian.md/ios#Share+Sheet",
+      "quicklookurl": "https://help.obsidian.md/ios#Share+Sheet"
+    },
+    {
+      "title": "Locations",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Locations",
+      "match": "Locations Locations Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Locations"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Locations",
+      "quicklookurl": "https://help.obsidian.md/ios#Locations"
+    },
+    {
+      "title": "Customizing Locations",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Customizing+Locations",
+      "match": "Customizing Locations Customizing Locations Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Customizing Locations"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Customizing+Locations",
+      "quicklookurl": "https://help.obsidian.md/ios#Customizing+Locations"
+    },
+    {
+      "title": "Using a Template When Sharing",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Using+a+Template+When+Sharing",
+      "match": "Using a Template When Sharing Using a Template When Sharing Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Using a Template When Sharing"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Using+a+Template+When+Sharing",
+      "quicklookurl": "https://help.obsidian.md/ios#Using+a+Template+When+Sharing"
     },
     {
       "title": "Siri integration",
