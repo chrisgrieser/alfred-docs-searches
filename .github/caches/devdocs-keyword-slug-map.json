@@ -155,6 +155,7 @@
   "polars": "polars",
   "pony": "pony",
   "pg": "postgresql~18",
+  "powershell": "powershell~7.7",
   "prettier": "prettier",
   "pug": "pug",
   "puppeteer": "puppeteer",
