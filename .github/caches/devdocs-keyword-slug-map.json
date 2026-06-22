@@ -49,7 +49,7 @@
   "eigen3": "eigen3",
   "electron": "electron",
   "elisp": "elisp",
-  "ex": "elixir~1.18",
+  "ex": "elixir~1.20",
   "ember": "ember~4",
   "enzyme": "enzyme",
   "erlang": "erlang~26",
