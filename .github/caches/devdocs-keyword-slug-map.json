@@ -213,6 +213,7 @@
   "tensorflow_cpp": "tensorflow_cpp",
   "terraform": "terraform",
   "threejs": "threejs",
+  "tokio": "tokio",
   "trio": "trio",
   "twig": "twig~3",
   "ts": "typescript",
