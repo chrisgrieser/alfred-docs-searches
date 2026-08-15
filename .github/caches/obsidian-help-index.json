@@ -2029,6 +2029,97 @@
       "quicklookurl": "https://help.obsidian.md/import/apple-notes#Alternative+Exportmethoden"
     },
     {
+      "title": "Aus Airtable importieren",
+      "match": "Aus Airtable importieren Aus Airtable importieren de/Notizen importieren de/Notizen importieren ",
+      "subtitle": "de/Notizen importieren",
+      "mods": {
+        "cmd": {
+          "arg": "Aus Airtable importieren"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/airtable",
+      "arg": "https://help.obsidian.md/import/airtable",
+      "quicklookurl": "https://help.obsidian.md/import/airtable"
+    },
+    {
+      "title": "Ein persönliches Airtable-Zugriffstoken erstellen",
+      "subtitle": "de/Notizen importieren/Aus Airtable importieren",
+      "uid": "https://help.obsidian.md/import/airtable#Ein+persönliches+Airtable-Zugriffstoken+erstellen",
+      "match": "Ein persönliches Airtable Zugriffstoken erstellen Ein persönliches Airtable-Zugriffstoken erstellen Aus Airtable importieren Aus Airtable importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Ein persönliches Airtable-Zugriffstoken erstellen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Ein+persönliches+Airtable-Zugriffstoken+erstellen",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Ein+persönliches+Airtable-Zugriffstoken+erstellen"
+    },
+    {
+      "title": "Deine Airtable-Daten importieren",
+      "subtitle": "de/Notizen importieren/Aus Airtable importieren",
+      "uid": "https://help.obsidian.md/import/airtable#Deine+Airtable-Daten+importieren",
+      "match": "Deine Airtable Daten importieren Deine Airtable-Daten importieren Aus Airtable importieren Aus Airtable importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Deine Airtable-Daten importieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Deine+Airtable-Daten+importieren",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Deine+Airtable-Daten+importieren"
+    },
+    {
+      "title": "Importoptionen",
+      "subtitle": "de/Notizen importieren/Aus Airtable importieren",
+      "uid": "https://help.obsidian.md/import/airtable#Importoptionen",
+      "match": "Importoptionen Importoptionen Aus Airtable importieren Aus Airtable importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Importoptionen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Importoptionen",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Importoptionen"
+    },
+    {
+      "title": "Konfigurieren, wie Airtable-Felder importiert werden",
+      "subtitle": "de/Notizen importieren/Aus Airtable importieren",
+      "uid": "https://help.obsidian.md/import/airtable#Konfigurieren,+wie+Airtable-Felder+importiert+werden",
+      "match": "Konfigurieren, wie Airtable Felder importiert werden Konfigurieren, wie Airtable-Felder importiert werden Aus Airtable importieren Aus Airtable importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Konfigurieren, wie Airtable-Felder importiert werden"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Konfigurieren,+wie+Airtable-Felder+importiert+werden",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Konfigurieren,+wie+Airtable-Felder+importiert+werden"
+    },
+    {
+      "title": "Was importiert wird",
+      "subtitle": "de/Notizen importieren/Aus Airtable importieren",
+      "uid": "https://help.obsidian.md/import/airtable#Was+importiert+wird",
+      "match": "Was importiert wird Was importiert wird Aus Airtable importieren Aus Airtable importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Was importiert wird"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Was+importiert+wird",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Was+importiert+wird"
+    },
+    {
+      "title": "Einschränkungen",
+      "subtitle": "de/Notizen importieren/Aus Airtable importieren",
+      "uid": "https://help.obsidian.md/import/airtable#Einschränkungen",
+      "match": "Einschränkungen Einschränkungen Aus Airtable importieren Aus Airtable importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Einschränkungen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Einschränkungen",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Einschränkungen"
+    },
+    {
       "title": "Bear",
       "match": "Bear Bear de/Notizen importieren de/Notizen importieren ",
       "subtitle": "de/Notizen importieren",
@@ -2406,30 +2497,30 @@
       "quicklookurl": "https://help.obsidian.md/import/notion"
     },
     {
-      "title": "API-Import",
+      "title": "Import von deinem Notion-Konto",
       "subtitle": "de/Notizen importieren/Notion",
-      "uid": "https://help.obsidian.md/import/notion#API-Import",
-      "match": "API Import API-Import Notion Notion de/Notizen importieren de/Notizen importieren ",
+      "uid": "https://help.obsidian.md/import/notion#Import+von+deinem+Notion-Konto",
+      "match": "Import von deinem Notion Konto Import von deinem Notion-Konto Notion Notion de/Notizen importieren de/Notizen importieren ",
       "mods": {
         "cmd": {
-          "arg": "API-Import"
+          "arg": "Import von deinem Notion-Konto"
         }
       },
-      "arg": "https://help.obsidian.md/import/notion#API-Import",
-      "quicklookurl": "https://help.obsidian.md/import/notion#API-Import"
+      "arg": "https://help.obsidian.md/import/notion#Import+von+deinem+Notion-Konto",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Import+von+deinem+Notion-Konto"
     },
     {
-      "title": "Ein Notion-API-Integrationstoken erstellen",
+      "title": "Ein Notion-API-Zugriffstoken erstellen",
       "subtitle": "de/Notizen importieren/Notion",
-      "uid": "https://help.obsidian.md/import/notion#Ein+Notion-API-Integrationstoken+erstellen",
-      "match": "Ein Notion API Integrationstoken erstellen Ein Notion-API-Integrationstoken erstellen Notion Notion de/Notizen importieren de/Notizen importieren ",
+      "uid": "https://help.obsidian.md/import/notion#Ein+Notion-API-Zugriffstoken+erstellen",
+      "match": "Ein Notion API Zugriffstoken erstellen Ein Notion-API-Zugriffstoken erstellen Notion Notion de/Notizen importieren de/Notizen importieren ",
       "mods": {
         "cmd": {
-          "arg": "Ein Notion-API-Integrationstoken erstellen"
+          "arg": "Ein Notion-API-Zugriffstoken erstellen"
         }
       },
-      "arg": "https://help.obsidian.md/import/notion#Ein+Notion-API-Integrationstoken+erstellen",
-      "quicklookurl": "https://help.obsidian.md/import/notion#Ein+Notion-API-Integrationstoken+erstellen"
+      "arg": "https://help.obsidian.md/import/notion#Ein+Notion-API-Zugriffstoken+erstellen",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Ein+Notion-API-Zugriffstoken+erstellen"
     },
     {
       "title": "Deine Notion-Daten über die API importieren",
@@ -2458,17 +2549,17 @@
       "quicklookurl": "https://help.obsidian.md/import/notion#Einschränkungen"
     },
     {
-      "title": "Datei-Import",
+      "title": "Notion-Dateien importieren (.zip)",
       "subtitle": "de/Notizen importieren/Notion",
-      "uid": "https://help.obsidian.md/import/notion#Datei-Import",
-      "match": "Datei Import Datei-Import Notion Notion de/Notizen importieren de/Notizen importieren ",
+      "uid": "https://help.obsidian.md/import/notion#Notion-Dateien+importieren+(.zip)",
+      "match": "Notion Dateien importieren   zip  Notion-Dateien importieren (.zip) Notion Notion de/Notizen importieren de/Notizen importieren ",
       "mods": {
         "cmd": {
-          "arg": "Datei-Import"
+          "arg": "Notion-Dateien importieren (.zip)"
         }
       },
-      "arg": "https://help.obsidian.md/import/notion#Datei-Import",
-      "quicklookurl": "https://help.obsidian.md/import/notion#Datei-Import"
+      "arg": "https://help.obsidian.md/import/notion#Notion-Dateien+importieren+(.zip)",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Notion-Dateien+importieren+(.zip)"
     },
     {
       "title": "Deine Daten aus Notion exportieren",
@@ -2536,17 +2627,17 @@
       "quicklookurl": "https://help.obsidian.md/import/onenote"
     },
     {
-      "title": "OneNote-Daten in Obsidian importieren",
+      "title": "Über dein Microsoft-Konto importieren",
       "subtitle": "de/Notizen importieren/OneNote",
-      "uid": "https://help.obsidian.md/import/onenote#OneNote-Daten+in+Obsidian+importieren",
-      "match": "OneNote Daten in Obsidian importieren OneNote-Daten in Obsidian importieren OneNote OneNote de/Notizen importieren de/Notizen importieren ",
+      "uid": "https://help.obsidian.md/import/onenote#Über+dein+Microsoft-Konto+importieren",
+      "match": "Über dein Microsoft Konto importieren Über dein Microsoft-Konto importieren OneNote OneNote de/Notizen importieren de/Notizen importieren ",
       "mods": {
         "cmd": {
-          "arg": "OneNote-Daten in Obsidian importieren"
+          "arg": "Über dein Microsoft-Konto importieren"
         }
       },
-      "arg": "https://help.obsidian.md/import/onenote#OneNote-Daten+in+Obsidian+importieren",
-      "quicklookurl": "https://help.obsidian.md/import/onenote#OneNote-Daten+in+Obsidian+importieren"
+      "arg": "https://help.obsidian.md/import/onenote#Über+dein+Microsoft-Konto+importieren",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Über+dein+Microsoft-Konto+importieren"
     },
     {
       "title": "Fehlerbehebung",
@@ -2586,6 +2677,58 @@
       },
       "arg": "https://help.obsidian.md/import/onenote#Importierte+Notizen+sind+leer+oder+es+fehlen+Inhalte",
       "quicklookurl": "https://help.obsidian.md/import/onenote#Importierte+Notizen+sind+leer+oder+es+fehlen+Inhalte"
+    },
+    {
+      "title": "OneNote-Dateien importieren (.one, .onepkg)",
+      "subtitle": "de/Notizen importieren/OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#OneNote-Dateien+importieren+(.one,+.onepkg)",
+      "match": "OneNote Dateien importieren   one,  onepkg  OneNote-Dateien importieren (.one, .onepkg) OneNote OneNote de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "OneNote-Dateien importieren (.one, .onepkg)"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#OneNote-Dateien+importieren+(.one,+.onepkg)",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#OneNote-Dateien+importieren+(.one,+.onepkg)"
+    },
+    {
+      "title": "Notizbücher aus OneNote exportieren",
+      "subtitle": "de/Notizen importieren/OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#Notizbücher+aus+OneNote+exportieren",
+      "match": "Notizbücher aus OneNote exportieren Notizbücher aus OneNote exportieren OneNote OneNote de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Notizbücher aus OneNote exportieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#Notizbücher+aus+OneNote+exportieren",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Notizbücher+aus+OneNote+exportieren"
+    },
+    {
+      "title": "OneNote-Dateien importieren",
+      "subtitle": "de/Notizen importieren/OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#OneNote-Dateien+importieren",
+      "match": "OneNote Dateien importieren OneNote-Dateien importieren OneNote OneNote de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "OneNote-Dateien importieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#OneNote-Dateien+importieren",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#OneNote-Dateien+importieren"
+    },
+    {
+      "title": "Einschränkungen",
+      "subtitle": "de/Notizen importieren/OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#Einschränkungen",
+      "match": "Einschränkungen Einschränkungen OneNote OneNote de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Einschränkungen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#Einschränkungen",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Einschränkungen"
     },
     {
       "title": "Datenschutz",
@@ -8022,6 +8165,97 @@
       "quicklookurl": "https://help.obsidian.md/snippets#Learn+more"
     },
     {
+      "title": "Community directory",
+      "match": "Community directory Community directory Extending Obsidian Extending Obsidian ",
+      "subtitle": "Extending Obsidian",
+      "mods": {
+        "cmd": {
+          "arg": "Community directory"
+        }
+      },
+      "uid": "https://help.obsidian.md/community-directory",
+      "arg": "https://help.obsidian.md/community-directory",
+      "quicklookurl": "https://help.obsidian.md/community-directory"
+    },
+    {
+      "title": "Header",
+      "subtitle": "Extending Obsidian/Community directory",
+      "uid": "https://help.obsidian.md/community-directory#Header",
+      "match": "Header Header Community directory Community directory Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Header"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Header",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Header"
+    },
+    {
+      "title": "Overview",
+      "subtitle": "Extending Obsidian/Community directory",
+      "uid": "https://help.obsidian.md/community-directory#Overview",
+      "match": "Overview Overview Community directory Community directory Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Overview"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Overview",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Overview"
+    },
+    {
+      "title": "Scorecard",
+      "subtitle": "Extending Obsidian/Community directory",
+      "uid": "https://help.obsidian.md/community-directory#Scorecard",
+      "match": "Scorecard Scorecard Community directory Community directory Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Scorecard"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Scorecard",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Scorecard"
+    },
+    {
+      "title": "Updates",
+      "subtitle": "Extending Obsidian/Community directory",
+      "uid": "https://help.obsidian.md/community-directory#Updates",
+      "match": "Updates Updates Community directory Community directory Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Updates"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Updates",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Updates"
+    },
+    {
+      "title": "Sidebar",
+      "subtitle": "Extending Obsidian/Community directory",
+      "uid": "https://help.obsidian.md/community-directory#Sidebar",
+      "match": "Sidebar Sidebar Community directory Community directory Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Sidebar"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Sidebar",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Sidebar"
+    },
+    {
+      "title": "Frequently asked questions",
+      "subtitle": "Extending Obsidian/Community directory",
+      "uid": "https://help.obsidian.md/community-directory#Frequently+asked+questions",
+      "match": "Frequently asked questions Frequently asked questions Community directory Community directory Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Frequently asked questions"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Frequently+asked+questions",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Frequently+asked+questions"
+    },
+    {
       "title": "Community plugins",
       "match": "Community plugins Community plugins Extending Obsidian Extending Obsidian ",
       "subtitle": "Extending Obsidian",
@@ -13053,6 +13287,97 @@
       "quicklookurl": "https://help.obsidian.md/import/zettelkasten"
     },
     {
+      "title": "Import from Airtable",
+      "match": "Import from Airtable Import from Airtable Import notes Import notes ",
+      "subtitle": "Import notes",
+      "mods": {
+        "cmd": {
+          "arg": "Import from Airtable"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/airtable",
+      "arg": "https://help.obsidian.md/import/airtable",
+      "quicklookurl": "https://help.obsidian.md/import/airtable"
+    },
+    {
+      "title": "Create an Airtable personal access token",
+      "subtitle": "Import notes/Import from Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Create+an+Airtable+personal+access+token",
+      "match": "Create an Airtable personal access token Create an Airtable personal access token Import from Airtable Import from Airtable Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Create an Airtable personal access token"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Create+an+Airtable+personal+access+token",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Create+an+Airtable+personal+access+token"
+    },
+    {
+      "title": "Import your Airtable data",
+      "subtitle": "Import notes/Import from Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Import+your+Airtable+data",
+      "match": "Import your Airtable data Import your Airtable data Import from Airtable Import from Airtable Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Import your Airtable data"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Import+your+Airtable+data",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Import+your+Airtable+data"
+    },
+    {
+      "title": "Import options",
+      "subtitle": "Import notes/Import from Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Import+options",
+      "match": "Import options Import options Import from Airtable Import from Airtable Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Import options"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Import+options",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Import+options"
+    },
+    {
+      "title": "Configure how Airtable fields are imported",
+      "subtitle": "Import notes/Import from Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Configure+how+Airtable+fields+are+imported",
+      "match": "Configure how Airtable fields are imported Configure how Airtable fields are imported Import from Airtable Import from Airtable Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Configure how Airtable fields are imported"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Configure+how+Airtable+fields+are+imported",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Configure+how+Airtable+fields+are+imported"
+    },
+    {
+      "title": "What gets imported",
+      "subtitle": "Import notes/Import from Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#What+gets+imported",
+      "match": "What gets imported What gets imported Import from Airtable Import from Airtable Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "What gets imported"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#What+gets+imported",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#What+gets+imported"
+    },
+    {
+      "title": "Limitations",
+      "subtitle": "Import notes/Import from Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Limitations",
+      "match": "Limitations Limitations Import from Airtable Import from Airtable Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Limitations"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Limitations",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Limitations"
+    },
+    {
       "title": "Import from Apple Journal",
       "match": "Import from Apple Journal Import from Apple Journal Import notes Import notes ",
       "subtitle": "Import notes",
@@ -13443,17 +13768,17 @@
       "quicklookurl": "https://help.obsidian.md/import/onenote"
     },
     {
-      "title": "Import your OneNote data into Obsidian",
+      "title": "Import from your Microsoft account",
       "subtitle": "Import notes/Import from Microsoft OneNote",
-      "uid": "https://help.obsidian.md/import/onenote#Import+your+OneNote+data+into+Obsidian",
-      "match": "Import your OneNote data into Obsidian Import your OneNote data into Obsidian Import from Microsoft OneNote Import from Microsoft OneNote Import notes Import notes ",
+      "uid": "https://help.obsidian.md/import/onenote#Import+from+your+Microsoft+account",
+      "match": "Import from your Microsoft account Import from your Microsoft account Import from Microsoft OneNote Import from Microsoft OneNote Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "Import your OneNote data into Obsidian"
+          "arg": "Import from your Microsoft account"
         }
       },
-      "arg": "https://help.obsidian.md/import/onenote#Import+your+OneNote+data+into+Obsidian",
-      "quicklookurl": "https://help.obsidian.md/import/onenote#Import+your+OneNote+data+into+Obsidian"
+      "arg": "https://help.obsidian.md/import/onenote#Import+from+your+Microsoft+account",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Import+from+your+Microsoft+account"
     },
     {
       "title": "Troubleshooting",
@@ -13495,6 +13820,58 @@
       "quicklookurl": "https://help.obsidian.md/import/onenote#Imported+notes+are+empty+or+missing+content"
     },
     {
+      "title": "Import OneNote files (.one, .onepkg)",
+      "subtitle": "Import notes/Import from Microsoft OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#Import+OneNote+files+(.one,+.onepkg)",
+      "match": "Import OneNote files   one,  onepkg  Import OneNote files (.one, .onepkg) Import from Microsoft OneNote Import from Microsoft OneNote Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Import OneNote files (.one, .onepkg)"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#Import+OneNote+files+(.one,+.onepkg)",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Import+OneNote+files+(.one,+.onepkg)"
+    },
+    {
+      "title": "Export your notebooks from OneNote",
+      "subtitle": "Import notes/Import from Microsoft OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#Export+your+notebooks+from+OneNote",
+      "match": "Export your notebooks from OneNote Export your notebooks from OneNote Import from Microsoft OneNote Import from Microsoft OneNote Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Export your notebooks from OneNote"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#Export+your+notebooks+from+OneNote",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Export+your+notebooks+from+OneNote"
+    },
+    {
+      "title": "Import your OneNote files",
+      "subtitle": "Import notes/Import from Microsoft OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#Import+your+OneNote+files",
+      "match": "Import your OneNote files Import your OneNote files Import from Microsoft OneNote Import from Microsoft OneNote Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Import your OneNote files"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#Import+your+OneNote+files",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Import+your+OneNote+files"
+    },
+    {
+      "title": "Limitations",
+      "subtitle": "Import notes/Import from Microsoft OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#Limitations",
+      "match": "Limitations Limitations Import from Microsoft OneNote Import from Microsoft OneNote Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Limitations"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#Limitations",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Limitations"
+    },
+    {
       "title": "Privacy",
       "subtitle": "Import notes/Import from Microsoft OneNote",
       "uid": "https://help.obsidian.md/import/onenote#Privacy",
@@ -13521,30 +13898,30 @@
       "quicklookurl": "https://help.obsidian.md/import/notion"
     },
     {
-      "title": "API import",
+      "title": "Import from your Notion account",
       "subtitle": "Import notes/Import from Notion",
-      "uid": "https://help.obsidian.md/import/notion#API+import",
-      "match": "API import API import Import from Notion Import from Notion Import notes Import notes ",
+      "uid": "https://help.obsidian.md/import/notion#Import+from+your+Notion+account",
+      "match": "Import from your Notion account Import from your Notion account Import from Notion Import from Notion Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "API import"
+          "arg": "Import from your Notion account"
         }
       },
-      "arg": "https://help.obsidian.md/import/notion#API+import",
-      "quicklookurl": "https://help.obsidian.md/import/notion#API+import"
+      "arg": "https://help.obsidian.md/import/notion#Import+from+your+Notion+account",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Import+from+your+Notion+account"
     },
     {
-      "title": "Create a Notion API integration token",
+      "title": "Create a Notion API access token",
       "subtitle": "Import notes/Import from Notion",
-      "uid": "https://help.obsidian.md/import/notion#Create+a+Notion+API+integration+token",
-      "match": "Create a Notion API integration token Create a Notion API integration token Import from Notion Import from Notion Import notes Import notes ",
+      "uid": "https://help.obsidian.md/import/notion#Create+a+Notion+API+access+token",
+      "match": "Create a Notion API access token Create a Notion API access token Import from Notion Import from Notion Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "Create a Notion API integration token"
+          "arg": "Create a Notion API access token"
         }
       },
-      "arg": "https://help.obsidian.md/import/notion#Create+a+Notion+API+integration+token",
-      "quicklookurl": "https://help.obsidian.md/import/notion#Create+a+Notion+API+integration+token"
+      "arg": "https://help.obsidian.md/import/notion#Create+a+Notion+API+access+token",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Create+a+Notion+API+access+token"
     },
     {
       "title": "Import your Notion data via API",
@@ -13573,17 +13950,17 @@
       "quicklookurl": "https://help.obsidian.md/import/notion#Limitations"
     },
     {
-      "title": "File import",
+      "title": "Import Notion files (.zip)",
       "subtitle": "Import notes/Import from Notion",
-      "uid": "https://help.obsidian.md/import/notion#File+import",
-      "match": "File import File import Import from Notion Import from Notion Import notes Import notes ",
+      "uid": "https://help.obsidian.md/import/notion#Import+Notion+files+(.zip)",
+      "match": "Import Notion files   zip  Import Notion files (.zip) Import from Notion Import from Notion Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "File import"
+          "arg": "Import Notion files (.zip)"
         }
       },
-      "arg": "https://help.obsidian.md/import/notion#File+import",
-      "quicklookurl": "https://help.obsidian.md/import/notion#File+import"
+      "arg": "https://help.obsidian.md/import/notion#Import+Notion+files+(.zip)",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Import+Notion+files+(.zip)"
     },
     {
       "title": "Export your data from Notion",
@@ -30382,6 +30759,97 @@
       "quicklookurl": "https://help.obsidian.md/themes#Lue+lisää"
     },
     {
+      "title": "Yhteisöhakemisto",
+      "match": "Yhteisöhakemisto Yhteisöhakemisto fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
+      "subtitle": "fi/Obsidianin laajentaminen",
+      "mods": {
+        "cmd": {
+          "arg": "Yhteisöhakemisto"
+        }
+      },
+      "uid": "https://help.obsidian.md/community-directory",
+      "arg": "https://help.obsidian.md/community-directory",
+      "quicklookurl": "https://help.obsidian.md/community-directory"
+    },
+    {
+      "title": "Otsikkotiedot",
+      "subtitle": "fi/Obsidianin laajentaminen/Yhteisöhakemisto",
+      "uid": "https://help.obsidian.md/community-directory#Otsikkotiedot",
+      "match": "Otsikkotiedot Otsikkotiedot Yhteisöhakemisto Yhteisöhakemisto fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
+      "mods": {
+        "cmd": {
+          "arg": "Otsikkotiedot"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Otsikkotiedot",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Otsikkotiedot"
+    },
+    {
+      "title": "Yleiskatsaus",
+      "subtitle": "fi/Obsidianin laajentaminen/Yhteisöhakemisto",
+      "uid": "https://help.obsidian.md/community-directory#Yleiskatsaus",
+      "match": "Yleiskatsaus Yleiskatsaus Yhteisöhakemisto Yhteisöhakemisto fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
+      "mods": {
+        "cmd": {
+          "arg": "Yleiskatsaus"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Yleiskatsaus",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Yleiskatsaus"
+    },
+    {
+      "title": "Tuloskortti",
+      "subtitle": "fi/Obsidianin laajentaminen/Yhteisöhakemisto",
+      "uid": "https://help.obsidian.md/community-directory#Tuloskortti",
+      "match": "Tuloskortti Tuloskortti Yhteisöhakemisto Yhteisöhakemisto fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
+      "mods": {
+        "cmd": {
+          "arg": "Tuloskortti"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Tuloskortti",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Tuloskortti"
+    },
+    {
+      "title": "Päivitykset",
+      "subtitle": "fi/Obsidianin laajentaminen/Yhteisöhakemisto",
+      "uid": "https://help.obsidian.md/community-directory#Päivitykset",
+      "match": "Päivitykset Päivitykset Yhteisöhakemisto Yhteisöhakemisto fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
+      "mods": {
+        "cmd": {
+          "arg": "Päivitykset"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Päivitykset",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Päivitykset"
+    },
+    {
+      "title": "Sivupalkki",
+      "subtitle": "fi/Obsidianin laajentaminen/Yhteisöhakemisto",
+      "uid": "https://help.obsidian.md/community-directory#Sivupalkki",
+      "match": "Sivupalkki Sivupalkki Yhteisöhakemisto Yhteisöhakemisto fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
+      "mods": {
+        "cmd": {
+          "arg": "Sivupalkki"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Sivupalkki",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Sivupalkki"
+    },
+    {
+      "title": "Usein kysytyt kysymykset",
+      "subtitle": "fi/Obsidianin laajentaminen/Yhteisöhakemisto",
+      "uid": "https://help.obsidian.md/community-directory#Usein+kysytyt+kysymykset",
+      "match": "Usein kysytyt kysymykset Usein kysytyt kysymykset Yhteisöhakemisto Yhteisöhakemisto fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
+      "mods": {
+        "cmd": {
+          "arg": "Usein kysytyt kysymykset"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Usein+kysytyt+kysymykset",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Usein+kysytyt+kysymykset"
+    },
+    {
       "title": "Yhteisön lisäosat",
       "match": "Yhteisön lisäosat Yhteisön lisäosat fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
       "subtitle": "fi/Obsidianin laajentaminen",
@@ -33125,6 +33593,97 @@
       "quicklookurl": "https://help.obsidian.md/import/html#Instellingen+importeren"
     },
     {
+      "title": "Importeren uit Airtable",
+      "match": "Importeren uit Airtable Importeren uit Airtable nl/Notities importeren nl/Notities importeren ",
+      "subtitle": "nl/Notities importeren",
+      "mods": {
+        "cmd": {
+          "arg": "Importeren uit Airtable"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/airtable",
+      "arg": "https://help.obsidian.md/import/airtable",
+      "quicklookurl": "https://help.obsidian.md/import/airtable"
+    },
+    {
+      "title": "Een persoonlijk Airtable-toegangstoken aanmaken",
+      "subtitle": "nl/Notities importeren/Importeren uit Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Een+persoonlijk+Airtable-toegangstoken+aanmaken",
+      "match": "Een persoonlijk Airtable toegangstoken aanmaken Een persoonlijk Airtable-toegangstoken aanmaken Importeren uit Airtable Importeren uit Airtable nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Een persoonlijk Airtable-toegangstoken aanmaken"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Een+persoonlijk+Airtable-toegangstoken+aanmaken",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Een+persoonlijk+Airtable-toegangstoken+aanmaken"
+    },
+    {
+      "title": "Je Airtable-gegevens importeren",
+      "subtitle": "nl/Notities importeren/Importeren uit Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Je+Airtable-gegevens+importeren",
+      "match": "Je Airtable gegevens importeren Je Airtable-gegevens importeren Importeren uit Airtable Importeren uit Airtable nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Je Airtable-gegevens importeren"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Je+Airtable-gegevens+importeren",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Je+Airtable-gegevens+importeren"
+    },
+    {
+      "title": "Importopties",
+      "subtitle": "nl/Notities importeren/Importeren uit Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Importopties",
+      "match": "Importopties Importopties Importeren uit Airtable Importeren uit Airtable nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Importopties"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Importopties",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Importopties"
+    },
+    {
+      "title": "Configureren hoe Airtable-velden worden geïmporteerd",
+      "subtitle": "nl/Notities importeren/Importeren uit Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Configureren+hoe+Airtable-velden+worden+geïmporteerd",
+      "match": "Configureren hoe Airtable velden worden geïmporteerd Configureren hoe Airtable-velden worden geïmporteerd Importeren uit Airtable Importeren uit Airtable nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Configureren hoe Airtable-velden worden geïmporteerd"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Configureren+hoe+Airtable-velden+worden+geïmporteerd",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Configureren+hoe+Airtable-velden+worden+geïmporteerd"
+    },
+    {
+      "title": "Wat er wordt geïmporteerd",
+      "subtitle": "nl/Notities importeren/Importeren uit Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Wat+er+wordt+geïmporteerd",
+      "match": "Wat er wordt geïmporteerd Wat er wordt geïmporteerd Importeren uit Airtable Importeren uit Airtable nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Wat er wordt geïmporteerd"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Wat+er+wordt+geïmporteerd",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Wat+er+wordt+geïmporteerd"
+    },
+    {
+      "title": "Beperkingen",
+      "subtitle": "nl/Notities importeren/Importeren uit Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Beperkingen",
+      "match": "Beperkingen Beperkingen Importeren uit Airtable Importeren uit Airtable nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Beperkingen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Beperkingen",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Beperkingen"
+    },
+    {
       "title": "Importeren vanuit Apple Journal",
       "match": "Importeren vanuit Apple Journal Importeren vanuit Apple Journal nl/Notities importeren nl/Notities importeren ",
       "subtitle": "nl/Notities importeren",
@@ -33515,17 +34074,17 @@
       "quicklookurl": "https://help.obsidian.md/import/onenote"
     },
     {
-      "title": "Je OneNote-gegevens importeren in Obsidian",
+      "title": "Importeren vanuit je Microsoft-account",
       "subtitle": "nl/Notities importeren/Importeren vanuit Microsoft OneNote",
-      "uid": "https://help.obsidian.md/import/onenote#Je+OneNote-gegevens+importeren+in+Obsidian",
-      "match": "Je OneNote gegevens importeren in Obsidian Je OneNote-gegevens importeren in Obsidian Importeren vanuit Microsoft OneNote Importeren vanuit Microsoft OneNote nl/Notities importeren nl/Notities importeren ",
+      "uid": "https://help.obsidian.md/import/onenote#Importeren+vanuit+je+Microsoft-account",
+      "match": "Importeren vanuit je Microsoft account Importeren vanuit je Microsoft-account Importeren vanuit Microsoft OneNote Importeren vanuit Microsoft OneNote nl/Notities importeren nl/Notities importeren ",
       "mods": {
         "cmd": {
-          "arg": "Je OneNote-gegevens importeren in Obsidian"
+          "arg": "Importeren vanuit je Microsoft-account"
         }
       },
-      "arg": "https://help.obsidian.md/import/onenote#Je+OneNote-gegevens+importeren+in+Obsidian",
-      "quicklookurl": "https://help.obsidian.md/import/onenote#Je+OneNote-gegevens+importeren+in+Obsidian"
+      "arg": "https://help.obsidian.md/import/onenote#Importeren+vanuit+je+Microsoft-account",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Importeren+vanuit+je+Microsoft-account"
     },
     {
       "title": "Problemen oplossen",
@@ -33567,6 +34126,58 @@
       "quicklookurl": "https://help.obsidian.md/import/onenote#Geïmporteerde+notities+zijn+leeg+of+missen+inhoud"
     },
     {
+      "title": "OneNote-bestanden importeren (.one, .onepkg)",
+      "subtitle": "nl/Notities importeren/Importeren vanuit Microsoft OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#OneNote-bestanden+importeren+(.one,+.onepkg)",
+      "match": "OneNote bestanden importeren   one,  onepkg  OneNote-bestanden importeren (.one, .onepkg) Importeren vanuit Microsoft OneNote Importeren vanuit Microsoft OneNote nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "OneNote-bestanden importeren (.one, .onepkg)"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#OneNote-bestanden+importeren+(.one,+.onepkg)",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#OneNote-bestanden+importeren+(.one,+.onepkg)"
+    },
+    {
+      "title": "Je notitieboeken exporteren vanuit OneNote",
+      "subtitle": "nl/Notities importeren/Importeren vanuit Microsoft OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#Je+notitieboeken+exporteren+vanuit+OneNote",
+      "match": "Je notitieboeken exporteren vanuit OneNote Je notitieboeken exporteren vanuit OneNote Importeren vanuit Microsoft OneNote Importeren vanuit Microsoft OneNote nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Je notitieboeken exporteren vanuit OneNote"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#Je+notitieboeken+exporteren+vanuit+OneNote",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Je+notitieboeken+exporteren+vanuit+OneNote"
+    },
+    {
+      "title": "Je OneNote-bestanden importeren",
+      "subtitle": "nl/Notities importeren/Importeren vanuit Microsoft OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#Je+OneNote-bestanden+importeren",
+      "match": "Je OneNote bestanden importeren Je OneNote-bestanden importeren Importeren vanuit Microsoft OneNote Importeren vanuit Microsoft OneNote nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Je OneNote-bestanden importeren"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#Je+OneNote-bestanden+importeren",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Je+OneNote-bestanden+importeren"
+    },
+    {
+      "title": "Beperkingen",
+      "subtitle": "nl/Notities importeren/Importeren vanuit Microsoft OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#Beperkingen",
+      "match": "Beperkingen Beperkingen Importeren vanuit Microsoft OneNote Importeren vanuit Microsoft OneNote nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Beperkingen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#Beperkingen",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Beperkingen"
+    },
+    {
       "title": "Privacy",
       "subtitle": "nl/Notities importeren/Importeren vanuit Microsoft OneNote",
       "uid": "https://help.obsidian.md/import/onenote#Privacy",
@@ -33593,30 +34204,30 @@
       "quicklookurl": "https://help.obsidian.md/import/notion"
     },
     {
-      "title": "API-import",
+      "title": "Importeren vanuit je Notion-account",
       "subtitle": "nl/Notities importeren/Importeren vanuit Notion",
-      "uid": "https://help.obsidian.md/import/notion#API-import",
-      "match": "API import API-import Importeren vanuit Notion Importeren vanuit Notion nl/Notities importeren nl/Notities importeren ",
+      "uid": "https://help.obsidian.md/import/notion#Importeren+vanuit+je+Notion-account",
+      "match": "Importeren vanuit je Notion account Importeren vanuit je Notion-account Importeren vanuit Notion Importeren vanuit Notion nl/Notities importeren nl/Notities importeren ",
       "mods": {
         "cmd": {
-          "arg": "API-import"
+          "arg": "Importeren vanuit je Notion-account"
         }
       },
-      "arg": "https://help.obsidian.md/import/notion#API-import",
-      "quicklookurl": "https://help.obsidian.md/import/notion#API-import"
+      "arg": "https://help.obsidian.md/import/notion#Importeren+vanuit+je+Notion-account",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Importeren+vanuit+je+Notion-account"
     },
     {
-      "title": "Een Notion API-integratietoken aanmaken",
+      "title": "Een Notion API-toegangstoken aanmaken",
       "subtitle": "nl/Notities importeren/Importeren vanuit Notion",
-      "uid": "https://help.obsidian.md/import/notion#Een+Notion+API-integratietoken+aanmaken",
-      "match": "Een Notion API integratietoken aanmaken Een Notion API-integratietoken aanmaken Importeren vanuit Notion Importeren vanuit Notion nl/Notities importeren nl/Notities importeren ",
+      "uid": "https://help.obsidian.md/import/notion#Een+Notion+API-toegangstoken+aanmaken",
+      "match": "Een Notion API toegangstoken aanmaken Een Notion API-toegangstoken aanmaken Importeren vanuit Notion Importeren vanuit Notion nl/Notities importeren nl/Notities importeren ",
       "mods": {
         "cmd": {
-          "arg": "Een Notion API-integratietoken aanmaken"
+          "arg": "Een Notion API-toegangstoken aanmaken"
         }
       },
-      "arg": "https://help.obsidian.md/import/notion#Een+Notion+API-integratietoken+aanmaken",
-      "quicklookurl": "https://help.obsidian.md/import/notion#Een+Notion+API-integratietoken+aanmaken"
+      "arg": "https://help.obsidian.md/import/notion#Een+Notion+API-toegangstoken+aanmaken",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Een+Notion+API-toegangstoken+aanmaken"
     },
     {
       "title": "Je Notion-gegevens importeren via API",
@@ -33645,17 +34256,17 @@
       "quicklookurl": "https://help.obsidian.md/import/notion#Beperkingen"
     },
     {
-      "title": "Bestandsimport",
+      "title": "Notion-bestanden importeren (.zip)",
       "subtitle": "nl/Notities importeren/Importeren vanuit Notion",
-      "uid": "https://help.obsidian.md/import/notion#Bestandsimport",
-      "match": "Bestandsimport Bestandsimport Importeren vanuit Notion Importeren vanuit Notion nl/Notities importeren nl/Notities importeren ",
+      "uid": "https://help.obsidian.md/import/notion#Notion-bestanden+importeren+(.zip)",
+      "match": "Notion bestanden importeren   zip  Notion-bestanden importeren (.zip) Importeren vanuit Notion Importeren vanuit Notion nl/Notities importeren nl/Notities importeren ",
       "mods": {
         "cmd": {
-          "arg": "Bestandsimport"
+          "arg": "Notion-bestanden importeren (.zip)"
         }
       },
-      "arg": "https://help.obsidian.md/import/notion#Bestandsimport",
-      "quicklookurl": "https://help.obsidian.md/import/notion#Bestandsimport"
+      "arg": "https://help.obsidian.md/import/notion#Notion-bestanden+importeren+(.zip)",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Notion-bestanden+importeren+(.zip)"
     },
     {
       "title": "Je gegevens exporteren vanuit Notion",
@@ -33916,6 +34527,97 @@
       },
       "arg": "https://help.obsidian.md/snippets#Meer+informatie",
       "quicklookurl": "https://help.obsidian.md/snippets#Meer+informatie"
+    },
+    {
+      "title": "Communityoverzicht",
+      "match": "Communityoverzicht Communityoverzicht nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
+      "subtitle": "nl/Obsidian uitbreiden",
+      "mods": {
+        "cmd": {
+          "arg": "Communityoverzicht"
+        }
+      },
+      "uid": "https://help.obsidian.md/community-directory",
+      "arg": "https://help.obsidian.md/community-directory",
+      "quicklookurl": "https://help.obsidian.md/community-directory"
+    },
+    {
+      "title": "Koptekst",
+      "subtitle": "nl/Obsidian uitbreiden/Communityoverzicht",
+      "uid": "https://help.obsidian.md/community-directory#Koptekst",
+      "match": "Koptekst Koptekst Communityoverzicht Communityoverzicht nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
+      "mods": {
+        "cmd": {
+          "arg": "Koptekst"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Koptekst",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Koptekst"
+    },
+    {
+      "title": "Overzicht",
+      "subtitle": "nl/Obsidian uitbreiden/Communityoverzicht",
+      "uid": "https://help.obsidian.md/community-directory#Overzicht",
+      "match": "Overzicht Overzicht Communityoverzicht Communityoverzicht nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
+      "mods": {
+        "cmd": {
+          "arg": "Overzicht"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Overzicht",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Overzicht"
+    },
+    {
+      "title": "Scorekaart",
+      "subtitle": "nl/Obsidian uitbreiden/Communityoverzicht",
+      "uid": "https://help.obsidian.md/community-directory#Scorekaart",
+      "match": "Scorekaart Scorekaart Communityoverzicht Communityoverzicht nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
+      "mods": {
+        "cmd": {
+          "arg": "Scorekaart"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Scorekaart",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Scorekaart"
+    },
+    {
+      "title": "Updates",
+      "subtitle": "nl/Obsidian uitbreiden/Communityoverzicht",
+      "uid": "https://help.obsidian.md/community-directory#Updates",
+      "match": "Updates Updates Communityoverzicht Communityoverzicht nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
+      "mods": {
+        "cmd": {
+          "arg": "Updates"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Updates",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Updates"
+    },
+    {
+      "title": "Zijbalk",
+      "subtitle": "nl/Obsidian uitbreiden/Communityoverzicht",
+      "uid": "https://help.obsidian.md/community-directory#Zijbalk",
+      "match": "Zijbalk Zijbalk Communityoverzicht Communityoverzicht nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
+      "mods": {
+        "cmd": {
+          "arg": "Zijbalk"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Zijbalk",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Zijbalk"
+    },
+    {
+      "title": "Veelgestelde vragen",
+      "subtitle": "nl/Obsidian uitbreiden/Communityoverzicht",
+      "uid": "https://help.obsidian.md/community-directory#Veelgestelde+vragen",
+      "match": "Veelgestelde vragen Veelgestelde vragen Communityoverzicht Communityoverzicht nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
+      "mods": {
+        "cmd": {
+          "arg": "Veelgestelde vragen"
+        }
+      },
+      "arg": "https://help.obsidian.md/community-directory#Veelgestelde+vragen",
+      "quicklookurl": "https://help.obsidian.md/community-directory#Veelgestelde+vragen"
     },
     {
       "title": "Communityplug-ins",
