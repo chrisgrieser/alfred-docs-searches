@@ -2120,6 +2120,188 @@
       "quicklookurl": "https://help.obsidian.md/import/airtable#Einschränkungen"
     },
     {
+      "title": "Aus Logseq importieren",
+      "match": "Aus Logseq importieren Aus Logseq importieren de/Notizen importieren de/Notizen importieren ",
+      "subtitle": "de/Notizen importieren",
+      "mods": {
+        "cmd": {
+          "arg": "Aus Logseq importieren"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/logseq",
+      "arg": "https://help.obsidian.md/import/logseq",
+      "quicklookurl": "https://help.obsidian.md/import/logseq"
+    },
+    {
+      "title": "Bevor du beginnst",
+      "subtitle": "de/Notizen importieren/Aus Logseq importieren",
+      "uid": "https://help.obsidian.md/import/logseq#Bevor+du+beginnst",
+      "match": "Bevor du beginnst Bevor du beginnst Aus Logseq importieren Aus Logseq importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Bevor du beginnst"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Bevor+du+beginnst",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Bevor+du+beginnst"
+    },
+    {
+      "title": "Deinen Logseq-Graphen importieren",
+      "subtitle": "de/Notizen importieren/Aus Logseq importieren",
+      "uid": "https://help.obsidian.md/import/logseq#Deinen+Logseq-Graphen+importieren",
+      "match": "Deinen Logseq Graphen importieren Deinen Logseq-Graphen importieren Aus Logseq importieren Aus Logseq importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Deinen Logseq-Graphen importieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Deinen+Logseq-Graphen+importieren",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Deinen+Logseq-Graphen+importieren"
+    },
+    {
+      "title": "Einschränkungen",
+      "subtitle": "de/Notizen importieren/Aus Logseq importieren",
+      "uid": "https://help.obsidian.md/import/logseq#Einschränkungen",
+      "match": "Einschränkungen Einschränkungen Aus Logseq importieren Aus Logseq importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Einschränkungen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Einschränkungen",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Einschränkungen"
+    },
+    {
+      "title": "Einstellungen",
+      "subtitle": "de/Notizen importieren/Aus Logseq importieren",
+      "uid": "https://help.obsidian.md/import/logseq#Einstellungen",
+      "match": "Einstellungen Einstellungen Aus Logseq importieren Aus Logseq importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Einstellungen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Einstellungen",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Einstellungen"
+    },
+    {
+      "title": "Journale",
+      "subtitle": "de/Notizen importieren/Aus Logseq importieren",
+      "uid": "https://help.obsidian.md/import/logseq#Journale",
+      "match": "Journale Journale Aus Logseq importieren Aus Logseq importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Journale"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Journale",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Journale"
+    },
+    {
+      "title": "Gliederungen abflachen",
+      "subtitle": "de/Notizen importieren/Aus Logseq importieren",
+      "uid": "https://help.obsidian.md/import/logseq#Gliederungen+abflachen",
+      "match": "Gliederungen abflachen Gliederungen abflachen Aus Logseq importieren Aus Logseq importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Gliederungen abflachen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Gliederungen+abflachen",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Gliederungen+abflachen"
+    },
+    {
+      "title": "Inkompatible Daten beibehalten",
+      "subtitle": "de/Notizen importieren/Aus Logseq importieren",
+      "uid": "https://help.obsidian.md/import/logseq#Inkompatible+Daten+beibehalten",
+      "match": "Inkompatible Daten beibehalten Inkompatible Daten beibehalten Aus Logseq importieren Aus Logseq importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Inkompatible Daten beibehalten"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Inkompatible+Daten+beibehalten",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Inkompatible+Daten+beibehalten"
+    },
+    {
+      "title": "Vorlagen",
+      "subtitle": "de/Notizen importieren/Aus Logseq importieren",
+      "uid": "https://help.obsidian.md/import/logseq#Vorlagen",
+      "match": "Vorlagen Vorlagen Aus Logseq importieren Aus Logseq importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Vorlagen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Vorlagen",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Vorlagen"
+    },
+    {
+      "title": "Fehlerbehebung",
+      "subtitle": "de/Notizen importieren/Aus Logseq importieren",
+      "uid": "https://help.obsidian.md/import/logseq#Fehlerbehebung",
+      "match": "Fehlerbehebung Fehlerbehebung Aus Logseq importieren Aus Logseq importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Fehlerbehebung"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Fehlerbehebung",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Fehlerbehebung"
+    },
+    {
+      "title": "Aus Tomboy und Gnote importieren",
+      "match": "Aus Tomboy und Gnote importieren Aus Tomboy und Gnote importieren de/Notizen importieren de/Notizen importieren ",
+      "subtitle": "de/Notizen importieren",
+      "mods": {
+        "cmd": {
+          "arg": "Aus Tomboy und Gnote importieren"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/tomboy",
+      "arg": "https://help.obsidian.md/import/tomboy",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy"
+    },
+    {
+      "title": "Notiz-Dateien finden",
+      "subtitle": "de/Notizen importieren/Aus Tomboy und Gnote importieren",
+      "uid": "https://help.obsidian.md/import/tomboy#Notiz-Dateien+finden",
+      "match": "Notiz Dateien finden Notiz-Dateien finden Aus Tomboy und Gnote importieren Aus Tomboy und Gnote importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Notiz-Dateien finden"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/tomboy#Notiz-Dateien+finden",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy#Notiz-Dateien+finden"
+    },
+    {
+      "title": "Tomboy- oder Gnote-Notizen importieren",
+      "subtitle": "de/Notizen importieren/Aus Tomboy und Gnote importieren",
+      "uid": "https://help.obsidian.md/import/tomboy#Tomboy-+oder+Gnote-Notizen+importieren",
+      "match": "Tomboy  oder Gnote Notizen importieren Tomboy- oder Gnote-Notizen importieren Aus Tomboy und Gnote importieren Aus Tomboy und Gnote importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Tomboy- oder Gnote-Notizen importieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/tomboy#Tomboy-+oder+Gnote-Notizen+importieren",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy#Tomboy-+oder+Gnote-Notizen+importieren"
+    },
+    {
+      "title": "Vorlagen",
+      "subtitle": "de/Notizen importieren/Aus Tomboy und Gnote importieren",
+      "uid": "https://help.obsidian.md/import/tomboy#Vorlagen",
+      "match": "Vorlagen Vorlagen Aus Tomboy und Gnote importieren Aus Tomboy und Gnote importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Vorlagen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/tomboy#Vorlagen",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy#Vorlagen"
+    },
+    {
       "title": "Bear",
       "match": "Bear Bear de/Notizen importieren de/Notizen importieren ",
       "subtitle": "de/Notizen importieren",
@@ -2196,6 +2378,19 @@
       },
       "arg": "https://help.obsidian.md/import/csv#Konfigurieren,+wie+CSV-Felder+importiert+werden",
       "quicklookurl": "https://help.obsidian.md/import/csv#Konfigurieren,+wie+CSV-Felder+importiert+werden"
+    },
+    {
+      "title": "Vorlagen",
+      "subtitle": "de/Notizen importieren/CSV",
+      "uid": "https://help.obsidian.md/import/csv#Vorlagen",
+      "match": "Vorlagen Vorlagen CSV CSV de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Vorlagen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/csv#Vorlagen",
+      "quicklookurl": "https://help.obsidian.md/import/csv#Vorlagen"
     },
     {
       "title": "Craft",
@@ -2432,6 +2627,136 @@
       "quicklookurl": "https://help.obsidian.md/import/html#Einstellungen+importieren"
     },
     {
+      "title": "Vorlagen",
+      "subtitle": "de/Notizen importieren/HTML",
+      "uid": "https://help.obsidian.md/import/html#Vorlagen",
+      "match": "Vorlagen Vorlagen HTML HTML de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Vorlagen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/html#Vorlagen",
+      "quicklookurl": "https://help.obsidian.md/import/html#Vorlagen"
+    },
+    {
+      "title": "Importer-Vorlagen",
+      "match": "Importer Vorlagen Importer-Vorlagen de/Notizen importieren de/Notizen importieren ",
+      "subtitle": "de/Notizen importieren",
+      "mods": {
+        "cmd": {
+          "arg": "Importer-Vorlagen"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/templates",
+      "arg": "https://help.obsidian.md/import/templates",
+      "quicklookurl": "https://help.obsidian.md/import/templates"
+    },
+    {
+      "title": "Importvorlage bearbeiten",
+      "subtitle": "de/Notizen importieren/Importer-Vorlagen",
+      "uid": "https://help.obsidian.md/import/templates#Importvorlage+bearbeiten",
+      "match": "Importvorlage bearbeiten Importvorlage bearbeiten Importer Vorlagen Importer-Vorlagen de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Importvorlage bearbeiten"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Importvorlage+bearbeiten",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Importvorlage+bearbeiten"
+    },
+    {
+      "title": "Ergebnisse in der Vorschau ansehen",
+      "subtitle": "de/Notizen importieren/Importer-Vorlagen",
+      "uid": "https://help.obsidian.md/import/templates#Ergebnisse+in+der+Vorschau+ansehen",
+      "match": "Ergebnisse in der Vorschau ansehen Ergebnisse in der Vorschau ansehen Importer Vorlagen Importer-Vorlagen de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Ergebnisse in der Vorschau ansehen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Ergebnisse+in+der+Vorschau+ansehen",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Ergebnisse+in+der+Vorschau+ansehen"
+    },
+    {
+      "title": "Vorlagensyntax",
+      "subtitle": "de/Notizen importieren/Importer-Vorlagen",
+      "uid": "https://help.obsidian.md/import/templates#Vorlagensyntax",
+      "match": "Vorlagensyntax Vorlagensyntax Importer Vorlagen Importer-Vorlagen de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Vorlagensyntax"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Vorlagensyntax",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Vorlagensyntax"
+    },
+    {
+      "title": "Variablen",
+      "subtitle": "de/Notizen importieren/Importer-Vorlagen",
+      "uid": "https://help.obsidian.md/import/templates#Variablen",
+      "match": "Variablen Variablen Importer Vorlagen Importer-Vorlagen de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Variablen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Variablen",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Variablen"
+    },
+    {
+      "title": "Quellwerte für Eigenschaften",
+      "subtitle": "de/Notizen importieren/Importer-Vorlagen",
+      "uid": "https://help.obsidian.md/import/templates#Quellwerte+für+Eigenschaften",
+      "match": "Quellwerte für Eigenschaften Quellwerte für Eigenschaften Importer Vorlagen Importer-Vorlagen de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Quellwerte für Eigenschaften"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Quellwerte+für+Eigenschaften",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Quellwerte+für+Eigenschaften"
+    },
+    {
+      "title": "Beispielvorlage",
+      "subtitle": "de/Notizen importieren/Importer-Vorlagen",
+      "uid": "https://help.obsidian.md/import/templates#Beispielvorlage",
+      "match": "Beispielvorlage Beispielvorlage Importer Vorlagen Importer-Vorlagen de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Beispielvorlage"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Beispielvorlage",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Beispielvorlage"
+    },
+    {
+      "title": "{{title}}",
+      "subtitle": "de/Notizen importieren/Importer-Vorlagen",
+      "uid": "https://help.obsidian.md/import/templates#{{title}}",
+      "match": "{{title}} {{title}} Importer Vorlagen Importer-Vorlagen de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "{{title}}"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#{{title}}",
+      "quicklookurl": "https://help.obsidian.md/import/templates#{{title}}"
+    },
+    {
+      "title": "Tags",
+      "subtitle": "de/Notizen importieren/Importer-Vorlagen",
+      "uid": "https://help.obsidian.md/import/templates#Tags",
+      "match": "Tags Tags Importer Vorlagen Importer-Vorlagen de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Tags"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Tags",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Tags"
+    },
+    {
       "title": "Importprogramm",
       "match": "Importprogramm Importprogramm de/Notizen importieren de/Notizen importieren ",
       "subtitle": "de/Notizen importieren",
@@ -2471,17 +2796,30 @@
       "quicklookurl": "https://help.obsidian.md/import/markdown"
     },
     {
-      "title": "Von anderen Markdown-Varianten konvertieren",
+      "title": "Markdown-Dateien mit Importer importieren",
       "subtitle": "de/Notizen importieren/Markdown",
-      "uid": "https://help.obsidian.md/import/markdown#Von+anderen+Markdown-Varianten+konvertieren",
-      "match": "Von anderen Markdown Varianten konvertieren Von anderen Markdown-Varianten konvertieren Markdown Markdown de/Notizen importieren de/Notizen importieren ",
+      "uid": "https://help.obsidian.md/import/markdown#Markdown-Dateien+mit+Importer+importieren",
+      "match": "Markdown Dateien mit Importer importieren Markdown-Dateien mit Importer importieren Markdown Markdown de/Notizen importieren de/Notizen importieren ",
       "mods": {
         "cmd": {
-          "arg": "Von anderen Markdown-Varianten konvertieren"
+          "arg": "Markdown-Dateien mit Importer importieren"
         }
       },
-      "arg": "https://help.obsidian.md/import/markdown#Von+anderen+Markdown-Varianten+konvertieren",
-      "quicklookurl": "https://help.obsidian.md/import/markdown#Von+anderen+Markdown-Varianten+konvertieren"
+      "arg": "https://help.obsidian.md/import/markdown#Markdown-Dateien+mit+Importer+importieren",
+      "quicklookurl": "https://help.obsidian.md/import/markdown#Markdown-Dateien+mit+Importer+importieren"
+    },
+    {
+      "title": "Vorlagen",
+      "subtitle": "de/Notizen importieren/Markdown",
+      "uid": "https://help.obsidian.md/import/markdown#Vorlagen",
+      "match": "Vorlagen Vorlagen Markdown Markdown de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Vorlagen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/markdown#Vorlagen",
+      "quicklookurl": "https://help.obsidian.md/import/markdown#Vorlagen"
     },
     {
       "title": "Notion",
@@ -2809,6 +3147,19 @@
       "quicklookurl": "https://help.obsidian.md/import/textbundle#Textbundle-Dateien+in+Obsidian+importieren"
     },
     {
+      "title": "Importierte Notizen anpassen",
+      "subtitle": "de/Notizen importieren/Textbundle",
+      "uid": "https://help.obsidian.md/import/textbundle#Importierte+Notizen+anpassen",
+      "match": "Importierte Notizen anpassen Importierte Notizen anpassen Textbundle Textbundle de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Importierte Notizen anpassen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/textbundle#Importierte+Notizen+anpassen",
+      "quicklookurl": "https://help.obsidian.md/import/textbundle#Importierte+Notizen+anpassen"
+    },
+    {
       "title": "Fehlerbehebung",
       "subtitle": "de/Notizen importieren/Textbundle",
       "uid": "https://help.obsidian.md/import/textbundle#Fehlerbehebung",
@@ -2835,17 +3186,17 @@
       "quicklookurl": "https://help.obsidian.md/import/textbundle#Keine+Dateien+zum+Importieren+ausgewählt"
     },
     {
-      "title": "Zettelkasten",
-      "match": "Zettelkasten Zettelkasten de/Notizen importieren de/Notizen importieren ",
-      "subtitle": "de/Notizen importieren",
+      "title": "Vorlagen",
+      "subtitle": "de/Notizen importieren/Textbundle",
+      "uid": "https://help.obsidian.md/import/textbundle#Vorlagen",
+      "match": "Vorlagen Vorlagen Textbundle Textbundle de/Notizen importieren de/Notizen importieren ",
       "mods": {
         "cmd": {
-          "arg": "Zettelkasten"
+          "arg": "Vorlagen"
         }
       },
-      "uid": "https://help.obsidian.md/import/zettelkasten",
-      "arg": "https://help.obsidian.md/import/zettelkasten",
-      "quicklookurl": "https://help.obsidian.md/import/zettelkasten"
+      "arg": "https://help.obsidian.md/import/textbundle#Vorlagen",
+      "quicklookurl": "https://help.obsidian.md/import/textbundle#Vorlagen"
     },
     {
       "title": "Aliasse",
@@ -13157,6 +13508,19 @@
       "quicklookurl": "https://help.obsidian.md/import/csv#Configure+how+CSV+fields+are+imported"
     },
     {
+      "title": "Templates",
+      "subtitle": "Import notes/Import CSV files",
+      "uid": "https://help.obsidian.md/import/csv#Templates",
+      "match": "Templates Templates Import CSV files Import CSV files Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/csv#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/csv#Templates"
+    },
+    {
       "title": "Import HTML files",
       "match": "Import HTML files Import HTML files Import notes Import notes ",
       "subtitle": "Import notes",
@@ -13196,6 +13560,19 @@
       "quicklookurl": "https://help.obsidian.md/import/html#Import+settings"
     },
     {
+      "title": "Templates",
+      "subtitle": "Import notes/Import HTML files",
+      "uid": "https://help.obsidian.md/import/html#Templates",
+      "match": "Templates Templates Import HTML files Import HTML files Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/html#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/html#Templates"
+    },
+    {
       "title": "Import Markdown files",
       "match": "Import Markdown files Import Markdown files Import notes Import notes ",
       "subtitle": "Import notes",
@@ -13209,17 +13586,30 @@
       "quicklookurl": "https://help.obsidian.md/import/markdown"
     },
     {
-      "title": "Converting from other flavors of Markdown",
+      "title": "Import Markdown files with Importer",
       "subtitle": "Import notes/Import Markdown files",
-      "uid": "https://help.obsidian.md/import/markdown#Converting+from+other+flavors+of+Markdown",
-      "match": "Converting from other flavors of Markdown Converting from other flavors of Markdown Import Markdown files Import Markdown files Import notes Import notes ",
+      "uid": "https://help.obsidian.md/import/markdown#Import+Markdown+files+with+Importer",
+      "match": "Import Markdown files with Importer Import Markdown files with Importer Import Markdown files Import Markdown files Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "Converting from other flavors of Markdown"
+          "arg": "Import Markdown files with Importer"
         }
       },
-      "arg": "https://help.obsidian.md/import/markdown#Converting+from+other+flavors+of+Markdown",
-      "quicklookurl": "https://help.obsidian.md/import/markdown#Converting+from+other+flavors+of+Markdown"
+      "arg": "https://help.obsidian.md/import/markdown#Import+Markdown+files+with+Importer",
+      "quicklookurl": "https://help.obsidian.md/import/markdown#Import+Markdown+files+with+Importer"
+    },
+    {
+      "title": "Templates",
+      "subtitle": "Import notes/Import Markdown files",
+      "uid": "https://help.obsidian.md/import/markdown#Templates",
+      "match": "Templates Templates Import Markdown files Import Markdown files Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/markdown#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/markdown#Templates"
     },
     {
       "title": "Import Textbundle files",
@@ -13248,6 +13638,19 @@
       "quicklookurl": "https://help.obsidian.md/import/textbundle#Import+Textbundle+files+into+Obsidian"
     },
     {
+      "title": "Customize imported notes",
+      "subtitle": "Import notes/Import Textbundle files",
+      "uid": "https://help.obsidian.md/import/textbundle#Customize+imported+notes",
+      "match": "Customize imported notes Customize imported notes Import Textbundle files Import Textbundle files Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Customize imported notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/textbundle#Customize+imported+notes",
+      "quicklookurl": "https://help.obsidian.md/import/textbundle#Customize+imported+notes"
+    },
+    {
       "title": "Troubleshooting",
       "subtitle": "Import notes/Import Textbundle files",
       "uid": "https://help.obsidian.md/import/textbundle#Troubleshooting",
@@ -13274,17 +13677,17 @@
       "quicklookurl": "https://help.obsidian.md/import/textbundle#No+files+are+selected+for+import"
     },
     {
-      "title": "Import Zettelkasten notes",
-      "match": "Import Zettelkasten notes Import Zettelkasten notes Import notes Import notes ",
-      "subtitle": "Import notes",
+      "title": "Templates",
+      "subtitle": "Import notes/Import Textbundle files",
+      "uid": "https://help.obsidian.md/import/textbundle#Templates",
+      "match": "Templates Templates Import Textbundle files Import Textbundle files Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "Import Zettelkasten notes"
+          "arg": "Templates"
         }
       },
-      "uid": "https://help.obsidian.md/import/zettelkasten",
-      "arg": "https://help.obsidian.md/import/zettelkasten",
-      "quicklookurl": "https://help.obsidian.md/import/zettelkasten"
+      "arg": "https://help.obsidian.md/import/textbundle#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/textbundle#Templates"
     },
     {
       "title": "Import from Airtable",
@@ -13378,6 +13781,19 @@
       "quicklookurl": "https://help.obsidian.md/import/airtable#Limitations"
     },
     {
+      "title": "Troubleshooting",
+      "subtitle": "Import notes/Import from Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Troubleshooting",
+      "match": "Troubleshooting Troubleshooting Import from Airtable Import from Airtable Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Troubleshooting"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Troubleshooting",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Troubleshooting"
+    },
+    {
       "title": "Import from Apple Journal",
       "match": "Import from Apple Journal Import from Apple Journal Import notes Import notes ",
       "subtitle": "Import notes",
@@ -13443,17 +13859,17 @@
       "quicklookurl": "https://help.obsidian.md/import/apple-journal#Import+Apple+Journal+data+into+Obsidian"
     },
     {
-      "title": "Supported content",
+      "title": "Templates",
       "subtitle": "Import notes/Import from Apple Journal",
-      "uid": "https://help.obsidian.md/import/apple-journal#Supported+content",
-      "match": "Supported content Supported content Import from Apple Journal Import from Apple Journal Import notes Import notes ",
+      "uid": "https://help.obsidian.md/import/apple-journal#Templates",
+      "match": "Templates Templates Import from Apple Journal Import from Apple Journal Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "Supported content"
+          "arg": "Templates"
         }
       },
-      "arg": "https://help.obsidian.md/import/apple-journal#Supported+content",
-      "quicklookurl": "https://help.obsidian.md/import/apple-journal#Supported+content"
+      "arg": "https://help.obsidian.md/import/apple-journal#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/apple-journal#Templates"
     },
     {
       "title": "Import from Apple Notes",
@@ -13482,6 +13898,19 @@
       "quicklookurl": "https://help.obsidian.md/import/apple-notes#Import+Apple+Notes+data+into+Obsidian"
     },
     {
+      "title": "Customize imported notes",
+      "subtitle": "Import notes/Import from Apple Notes",
+      "uid": "https://help.obsidian.md/import/apple-notes#Customize+imported+notes",
+      "match": "Customize imported notes Customize imported notes Import from Apple Notes Import from Apple Notes Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Customize imported notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/apple-notes#Customize+imported+notes",
+      "quicklookurl": "https://help.obsidian.md/import/apple-notes#Customize+imported+notes"
+    },
+    {
       "title": "Supported content",
       "subtitle": "Import notes/Import from Apple Notes",
       "uid": "https://help.obsidian.md/import/apple-notes#Supported+content",
@@ -13508,17 +13937,17 @@
       "quicklookurl": "https://help.obsidian.md/import/apple-notes#Scans"
     },
     {
-      "title": "Alternate export methods",
+      "title": "Templates",
       "subtitle": "Import notes/Import from Apple Notes",
-      "uid": "https://help.obsidian.md/import/apple-notes#Alternate+export+methods",
-      "match": "Alternate export methods Alternate export methods Import from Apple Notes Import from Apple Notes Import notes Import notes ",
+      "uid": "https://help.obsidian.md/import/apple-notes#Templates",
+      "match": "Templates Templates Import from Apple Notes Import from Apple Notes Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "Alternate export methods"
+          "arg": "Templates"
         }
       },
-      "arg": "https://help.obsidian.md/import/apple-notes#Alternate+export+methods",
-      "quicklookurl": "https://help.obsidian.md/import/apple-notes#Alternate+export+methods"
+      "arg": "https://help.obsidian.md/import/apple-notes#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/apple-notes#Templates"
     },
     {
       "title": "Import from Bear",
@@ -13547,6 +13976,32 @@
       "quicklookurl": "https://help.obsidian.md/import/bear#Export+your+data+from+Bear"
     },
     {
+      "title": "iOS",
+      "subtitle": "Import notes/Import from Bear",
+      "uid": "https://help.obsidian.md/import/bear#iOS",
+      "match": "iOS iOS Import from Bear Import from Bear Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "iOS"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/bear#iOS",
+      "quicklookurl": "https://help.obsidian.md/import/bear#iOS"
+    },
+    {
+      "title": "macOS",
+      "subtitle": "Import notes/Import from Bear",
+      "uid": "https://help.obsidian.md/import/bear#macOS",
+      "match": "macOS macOS Import from Bear Import from Bear Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "macOS"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/bear#macOS",
+      "quicklookurl": "https://help.obsidian.md/import/bear#macOS"
+    },
+    {
       "title": "Import your Bear data into Obsidian",
       "subtitle": "Import notes/Import from Bear",
       "uid": "https://help.obsidian.md/import/bear#Import+your+Bear+data+into+Obsidian",
@@ -13558,6 +14013,19 @@
       },
       "arg": "https://help.obsidian.md/import/bear#Import+your+Bear+data+into+Obsidian",
       "quicklookurl": "https://help.obsidian.md/import/bear#Import+your+Bear+data+into+Obsidian"
+    },
+    {
+      "title": "Templates",
+      "subtitle": "Import notes/Import from Bear",
+      "uid": "https://help.obsidian.md/import/bear#Templates",
+      "match": "Templates Templates Import from Bear Import from Bear Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/bear#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/bear#Templates"
     },
     {
       "title": "Import from Craft",
@@ -13651,17 +14119,17 @@
       "quicklookurl": "https://help.obsidian.md/import/evernote#Import+your+Evernote+data+into+Obsidian"
     },
     {
-      "title": "Advanced import options",
+      "title": "Import options",
       "subtitle": "Import notes/Import from Evernote",
-      "uid": "https://help.obsidian.md/import/evernote#Advanced+import+options",
-      "match": "Advanced import options Advanced import options Import from Evernote Import from Evernote Import notes Import notes ",
+      "uid": "https://help.obsidian.md/import/evernote#Import+options",
+      "match": "Import options Import options Import from Evernote Import from Evernote Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "Advanced import options"
+          "arg": "Import options"
         }
       },
-      "arg": "https://help.obsidian.md/import/evernote#Advanced+import+options",
-      "quicklookurl": "https://help.obsidian.md/import/evernote#Advanced+import+options"
+      "arg": "https://help.obsidian.md/import/evernote#Import+options",
+      "quicklookurl": "https://help.obsidian.md/import/evernote#Import+options"
     },
     {
       "title": "Maintain tag hierarchy",
@@ -13690,17 +14158,17 @@
       "quicklookurl": "https://help.obsidian.md/import/evernote#Handling+notebook+stacks"
     },
     {
-      "title": "More options",
+      "title": "Templates",
       "subtitle": "Import notes/Import from Evernote",
-      "uid": "https://help.obsidian.md/import/evernote#More+options",
-      "match": "More options More options Import from Evernote Import from Evernote Import notes Import notes ",
+      "uid": "https://help.obsidian.md/import/evernote#Templates",
+      "match": "Templates Templates Import from Evernote Import from Evernote Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "More options"
+          "arg": "Templates"
         }
       },
-      "arg": "https://help.obsidian.md/import/evernote#More+options",
-      "quicklookurl": "https://help.obsidian.md/import/evernote#More+options"
+      "arg": "https://help.obsidian.md/import/evernote#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/evernote#Templates"
     },
     {
       "title": "Import from Google Keep",
@@ -13742,17 +14210,160 @@
       "quicklookurl": "https://help.obsidian.md/import/google-keep#Import+your+Google+Keep+data+into+Obsidian"
     },
     {
-      "title": "Supported features",
+      "title": "Limitations",
       "subtitle": "Import notes/Import from Google Keep",
-      "uid": "https://help.obsidian.md/import/google-keep#Supported+features",
-      "match": "Supported features Supported features Import from Google Keep Import from Google Keep Import notes Import notes ",
+      "uid": "https://help.obsidian.md/import/google-keep#Limitations",
+      "match": "Limitations Limitations Import from Google Keep Import from Google Keep Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "Supported features"
+          "arg": "Limitations"
         }
       },
-      "arg": "https://help.obsidian.md/import/google-keep#Supported+features",
-      "quicklookurl": "https://help.obsidian.md/import/google-keep#Supported+features"
+      "arg": "https://help.obsidian.md/import/google-keep#Limitations",
+      "quicklookurl": "https://help.obsidian.md/import/google-keep#Limitations"
+    },
+    {
+      "title": "Templates",
+      "subtitle": "Import notes/Import from Google Keep",
+      "uid": "https://help.obsidian.md/import/google-keep#Templates",
+      "match": "Templates Templates Import from Google Keep Import from Google Keep Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/google-keep#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/google-keep#Templates"
+    },
+    {
+      "title": "Import from Logseq",
+      "match": "Import from Logseq Import from Logseq Import notes Import notes ",
+      "subtitle": "Import notes",
+      "mods": {
+        "cmd": {
+          "arg": "Import from Logseq"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/logseq",
+      "arg": "https://help.obsidian.md/import/logseq",
+      "quicklookurl": "https://help.obsidian.md/import/logseq"
+    },
+    {
+      "title": "Before you start",
+      "subtitle": "Import notes/Import from Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Before+you+start",
+      "match": "Before you start Before you start Import from Logseq Import from Logseq Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Before you start"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Before+you+start",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Before+you+start"
+    },
+    {
+      "title": "Import your Logseq graph",
+      "subtitle": "Import notes/Import from Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Import+your+Logseq+graph",
+      "match": "Import your Logseq graph Import your Logseq graph Import from Logseq Import from Logseq Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Import your Logseq graph"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Import+your+Logseq+graph",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Import+your+Logseq+graph"
+    },
+    {
+      "title": "Limitations",
+      "subtitle": "Import notes/Import from Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Limitations",
+      "match": "Limitations Limitations Import from Logseq Import from Logseq Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Limitations"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Limitations",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Limitations"
+    },
+    {
+      "title": "Settings",
+      "subtitle": "Import notes/Import from Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Settings",
+      "match": "Settings Settings Import from Logseq Import from Logseq Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Settings"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Settings",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Settings"
+    },
+    {
+      "title": "Journals",
+      "subtitle": "Import notes/Import from Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Journals",
+      "match": "Journals Journals Import from Logseq Import from Logseq Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Journals"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Journals",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Journals"
+    },
+    {
+      "title": "Flatten outlines",
+      "subtitle": "Import notes/Import from Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Flatten+outlines",
+      "match": "Flatten outlines Flatten outlines Import from Logseq Import from Logseq Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Flatten outlines"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Flatten+outlines",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Flatten+outlines"
+    },
+    {
+      "title": "Preserve incompatible data",
+      "subtitle": "Import notes/Import from Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Preserve+incompatible+data",
+      "match": "Preserve incompatible data Preserve incompatible data Import from Logseq Import from Logseq Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Preserve incompatible data"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Preserve+incompatible+data",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Preserve+incompatible+data"
+    },
+    {
+      "title": "Templates",
+      "subtitle": "Import notes/Import from Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Templates",
+      "match": "Templates Templates Import from Logseq Import from Logseq Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Templates"
+    },
+    {
+      "title": "Troubleshooting",
+      "subtitle": "Import notes/Import from Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Troubleshooting",
+      "match": "Troubleshooting Troubleshooting Import from Logseq Import from Logseq Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Troubleshooting"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Troubleshooting",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Troubleshooting"
     },
     {
       "title": "Import from Microsoft OneNote",
@@ -13872,6 +14483,19 @@
       "quicklookurl": "https://help.obsidian.md/import/onenote#Limitations"
     },
     {
+      "title": "Templates",
+      "subtitle": "Import notes/Import from Microsoft OneNote",
+      "uid": "https://help.obsidian.md/import/onenote#Templates",
+      "match": "Templates Templates Import from Microsoft OneNote Import from Microsoft OneNote Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/onenote#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/onenote#Templates"
+    },
+    {
       "title": "Privacy",
       "subtitle": "Import notes/Import from Microsoft OneNote",
       "uid": "https://help.obsidian.md/import/onenote#Privacy",
@@ -13896,6 +14520,19 @@
       "uid": "https://help.obsidian.md/import/notion",
       "arg": "https://help.obsidian.md/import/notion",
       "quicklookurl": "https://help.obsidian.md/import/notion"
+    },
+    {
+      "title": "Customize imported pages",
+      "subtitle": "Import notes/Import from Notion",
+      "uid": "https://help.obsidian.md/import/notion#Customize+imported+pages",
+      "match": "Customize imported pages Customize imported pages Import from Notion Import from Notion Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Customize imported pages"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/notion#Customize+imported+pages",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Customize+imported+pages"
     },
     {
       "title": "Import from your Notion account",
@@ -14015,6 +14652,19 @@
       "quicklookurl": "https://help.obsidian.md/import/notion#Importing+large+workspaces"
     },
     {
+      "title": "Templates",
+      "subtitle": "Import notes/Import from Notion",
+      "uid": "https://help.obsidian.md/import/notion#Templates",
+      "match": "Templates Templates Import from Notion Import from Notion Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/notion#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Templates"
+    },
+    {
       "title": "Import from Roam Research",
       "match": "Import from Roam Research Import from Roam Research Import notes Import notes ",
       "subtitle": "Import notes",
@@ -14054,6 +14704,188 @@
       "quicklookurl": "https://help.obsidian.md/import/roam#Import+your+Roam+Research+data+into+Obsidian"
     },
     {
+      "title": "Templates",
+      "subtitle": "Import notes/Import from Roam Research",
+      "uid": "https://help.obsidian.md/import/roam#Templates",
+      "match": "Templates Templates Import from Roam Research Import from Roam Research Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/roam#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/roam#Templates"
+    },
+    {
+      "title": "Import from Tomboy and Gnote",
+      "match": "Import from Tomboy and Gnote Import from Tomboy and Gnote Import notes Import notes ",
+      "subtitle": "Import notes",
+      "mods": {
+        "cmd": {
+          "arg": "Import from Tomboy and Gnote"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/tomboy",
+      "arg": "https://help.obsidian.md/import/tomboy",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy"
+    },
+    {
+      "title": "Locate your note files",
+      "subtitle": "Import notes/Import from Tomboy and Gnote",
+      "uid": "https://help.obsidian.md/import/tomboy#Locate+your+note+files",
+      "match": "Locate your note files Locate your note files Import from Tomboy and Gnote Import from Tomboy and Gnote Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Locate your note files"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/tomboy#Locate+your+note+files",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy#Locate+your+note+files"
+    },
+    {
+      "title": "Import your Tomboy or Gnote notes",
+      "subtitle": "Import notes/Import from Tomboy and Gnote",
+      "uid": "https://help.obsidian.md/import/tomboy#Import+your+Tomboy+or+Gnote+notes",
+      "match": "Import your Tomboy or Gnote notes Import your Tomboy or Gnote notes Import from Tomboy and Gnote Import from Tomboy and Gnote Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Import your Tomboy or Gnote notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/tomboy#Import+your+Tomboy+or+Gnote+notes",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy#Import+your+Tomboy+or+Gnote+notes"
+    },
+    {
+      "title": "Templates",
+      "subtitle": "Import notes/Import from Tomboy and Gnote",
+      "uid": "https://help.obsidian.md/import/tomboy#Templates",
+      "match": "Templates Templates Import from Tomboy and Gnote Import from Tomboy and Gnote Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/tomboy#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy#Templates"
+    },
+    {
+      "title": "Importer templates",
+      "match": "Importer templates Importer templates Import notes Import notes ",
+      "subtitle": "Import notes",
+      "mods": {
+        "cmd": {
+          "arg": "Importer templates"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/templates",
+      "arg": "https://help.obsidian.md/import/templates",
+      "quicklookurl": "https://help.obsidian.md/import/templates"
+    },
+    {
+      "title": "Edit the import template",
+      "subtitle": "Import notes/Importer templates",
+      "uid": "https://help.obsidian.md/import/templates#Edit+the+import+template",
+      "match": "Edit the import template Edit the import template Importer templates Importer templates Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Edit the import template"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Edit+the+import+template",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Edit+the+import+template"
+    },
+    {
+      "title": "Preview results",
+      "subtitle": "Import notes/Importer templates",
+      "uid": "https://help.obsidian.md/import/templates#Preview+results",
+      "match": "Preview results Preview results Importer templates Importer templates Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Preview results"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Preview+results",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Preview+results"
+    },
+    {
+      "title": "Template syntax",
+      "subtitle": "Import notes/Importer templates",
+      "uid": "https://help.obsidian.md/import/templates#Template+syntax",
+      "match": "Template syntax Template syntax Importer templates Importer templates Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Template syntax"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Template+syntax",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Template+syntax"
+    },
+    {
+      "title": "Variables",
+      "subtitle": "Import notes/Importer templates",
+      "uid": "https://help.obsidian.md/import/templates#Variables",
+      "match": "Variables Variables Importer templates Importer templates Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Variables"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Variables",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Variables"
+    },
+    {
+      "title": "Source values for properties",
+      "subtitle": "Import notes/Importer templates",
+      "uid": "https://help.obsidian.md/import/templates#Source+values+for+properties",
+      "match": "Source values for properties Source values for properties Importer templates Importer templates Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Source values for properties"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Source+values+for+properties",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Source+values+for+properties"
+    },
+    {
+      "title": "Example template",
+      "subtitle": "Import notes/Importer templates",
+      "uid": "https://help.obsidian.md/import/templates#Example+template",
+      "match": "Example template Example template Importer templates Importer templates Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Example template"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Example+template",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Example+template"
+    },
+    {
+      "title": "{{title}}",
+      "subtitle": "Import notes/Importer templates",
+      "uid": "https://help.obsidian.md/import/templates#{{title}}",
+      "match": "{{title}} {{title}} Importer templates Importer templates Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "{{title}}"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#{{title}}",
+      "quicklookurl": "https://help.obsidian.md/import/templates#{{title}}"
+    },
+    {
+      "title": "Tags",
+      "subtitle": "Import notes/Importer templates",
+      "uid": "https://help.obsidian.md/import/templates#Tags",
+      "match": "Tags Tags Importer templates Importer templates Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Tags"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Tags",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Tags"
+    },
+    {
       "title": "Importer",
       "match": "Importer Importer Import notes Import notes ",
       "subtitle": "Import notes",
@@ -14078,6 +14910,19 @@
       },
       "arg": "https://help.obsidian.md/plugins/importer#Install+Importer",
       "quicklookurl": "https://help.obsidian.md/plugins/importer#Install+Importer"
+    },
+    {
+      "title": "Importer temlpates",
+      "subtitle": "Import notes/Importer",
+      "uid": "https://help.obsidian.md/plugins/importer#Importer+temlpates",
+      "match": "Importer temlpates Importer temlpates Importer Importer Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Importer temlpates"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/importer#Importer+temlpates",
+      "quicklookurl": "https://help.obsidian.md/plugins/importer#Importer+temlpates"
     },
     {
       "title": "Catalyst license",
@@ -18435,6 +19280,19 @@
       "quicklookurl": "https://help.obsidian.md/web-clipper/filters#`trim`"
     },
     {
+      "title": "unescape",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/web-clipper/filters#`unescape`",
+      "match": " unescape  `unescape` Filters Filters Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "`unescape`"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/filters#`unescape`",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/filters#`unescape`"
+    },
+    {
       "title": "uncamel",
       "subtitle": "Obsidian Web Clipper/Filters",
       "uid": "https://help.obsidian.md/web-clipper/filters#`uncamel`",
@@ -18630,6 +19488,19 @@
       "quicklookurl": "https://help.obsidian.md/web-clipper/filters#`length`"
     },
     {
+      "title": "number_format",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/web-clipper/filters#`number_format`",
+      "match": " number format  `number_format` Filters Filters Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "`number_format`"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/filters#`number_format`",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/filters#`number_format`"
+    },
+    {
       "title": "round",
       "subtitle": "Obsidian Web Clipper/Filters",
       "uid": "https://help.obsidian.md/web-clipper/filters#`round`",
@@ -18654,6 +19525,19 @@
       },
       "arg": "https://help.obsidian.md/web-clipper/filters#HTML+processing",
       "quicklookurl": "https://help.obsidian.md/web-clipper/filters#HTML+processing"
+    },
+    {
+      "title": "html_to_json",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/web-clipper/filters#`html_to_json`",
+      "match": " html to json  `html_to_json` Filters Filters Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "`html_to_json`"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/filters#`html_to_json`",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/filters#`html_to_json`"
     },
     {
       "title": "markdown ",
@@ -18862,6 +19746,19 @@
       },
       "arg": "https://help.obsidian.md/web-clipper/filters#`object`",
       "quicklookurl": "https://help.obsidian.md/web-clipper/filters#`object`"
+    },
+    {
+      "title": "reverse",
+      "subtitle": "Obsidian Web Clipper/Filters",
+      "uid": "https://help.obsidian.md/web-clipper/filters#`reverse`",
+      "match": " reverse  `reverse` Filters Filters Obsidian Web Clipper Obsidian Web Clipper ",
+      "mods": {
+        "cmd": {
+          "arg": "`reverse`"
+        }
+      },
+      "arg": "https://help.obsidian.md/web-clipper/filters#`reverse`",
+      "quicklookurl": "https://help.obsidian.md/web-clipper/filters#`reverse`"
     },
     {
       "title": "slice",
@@ -33554,6 +34451,19 @@
       "quicklookurl": "https://help.obsidian.md/import/csv#Configureren+hoe+CSV-velden+worden+geïmporteerd"
     },
     {
+      "title": "Sjablonen",
+      "subtitle": "nl/Notities importeren/CSV-bestanden importeren",
+      "uid": "https://help.obsidian.md/import/csv#Sjablonen",
+      "match": "Sjablonen Sjablonen CSV bestanden importeren CSV-bestanden importeren nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Sjablonen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/csv#Sjablonen",
+      "quicklookurl": "https://help.obsidian.md/import/csv#Sjablonen"
+    },
+    {
       "title": "HTML-bestanden importeren",
       "match": "HTML bestanden importeren HTML-bestanden importeren nl/Notities importeren nl/Notities importeren ",
       "subtitle": "nl/Notities importeren",
@@ -33591,6 +34501,19 @@
       },
       "arg": "https://help.obsidian.md/import/html#Instellingen+importeren",
       "quicklookurl": "https://help.obsidian.md/import/html#Instellingen+importeren"
+    },
+    {
+      "title": "Sjablonen",
+      "subtitle": "nl/Notities importeren/HTML-bestanden importeren",
+      "uid": "https://help.obsidian.md/import/html#Sjablonen",
+      "match": "Sjablonen Sjablonen HTML bestanden importeren HTML-bestanden importeren nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Sjablonen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/html#Sjablonen",
+      "quicklookurl": "https://help.obsidian.md/import/html#Sjablonen"
     },
     {
       "title": "Importeren uit Airtable",
@@ -33682,6 +34605,188 @@
       },
       "arg": "https://help.obsidian.md/import/airtable#Beperkingen",
       "quicklookurl": "https://help.obsidian.md/import/airtable#Beperkingen"
+    },
+    {
+      "title": "Importeren uit Logseq",
+      "match": "Importeren uit Logseq Importeren uit Logseq nl/Notities importeren nl/Notities importeren ",
+      "subtitle": "nl/Notities importeren",
+      "mods": {
+        "cmd": {
+          "arg": "Importeren uit Logseq"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/logseq",
+      "arg": "https://help.obsidian.md/import/logseq",
+      "quicklookurl": "https://help.obsidian.md/import/logseq"
+    },
+    {
+      "title": "Voordat je begint",
+      "subtitle": "nl/Notities importeren/Importeren uit Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Voordat+je+begint",
+      "match": "Voordat je begint Voordat je begint Importeren uit Logseq Importeren uit Logseq nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Voordat je begint"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Voordat+je+begint",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Voordat+je+begint"
+    },
+    {
+      "title": "Je Logseq-grafiek importeren",
+      "subtitle": "nl/Notities importeren/Importeren uit Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Je+Logseq-grafiek+importeren",
+      "match": "Je Logseq grafiek importeren Je Logseq-grafiek importeren Importeren uit Logseq Importeren uit Logseq nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Je Logseq-grafiek importeren"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Je+Logseq-grafiek+importeren",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Je+Logseq-grafiek+importeren"
+    },
+    {
+      "title": "Beperkingen",
+      "subtitle": "nl/Notities importeren/Importeren uit Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Beperkingen",
+      "match": "Beperkingen Beperkingen Importeren uit Logseq Importeren uit Logseq nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Beperkingen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Beperkingen",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Beperkingen"
+    },
+    {
+      "title": "Instellingen",
+      "subtitle": "nl/Notities importeren/Importeren uit Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Instellingen",
+      "match": "Instellingen Instellingen Importeren uit Logseq Importeren uit Logseq nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Instellingen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Instellingen",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Instellingen"
+    },
+    {
+      "title": "Dagboeken",
+      "subtitle": "nl/Notities importeren/Importeren uit Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Dagboeken",
+      "match": "Dagboeken Dagboeken Importeren uit Logseq Importeren uit Logseq nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Dagboeken"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Dagboeken",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Dagboeken"
+    },
+    {
+      "title": "Overzichten afvlakken",
+      "subtitle": "nl/Notities importeren/Importeren uit Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Overzichten+afvlakken",
+      "match": "Overzichten afvlakken Overzichten afvlakken Importeren uit Logseq Importeren uit Logseq nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Overzichten afvlakken"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Overzichten+afvlakken",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Overzichten+afvlakken"
+    },
+    {
+      "title": "Incompatibele gegevens behouden",
+      "subtitle": "nl/Notities importeren/Importeren uit Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Incompatibele+gegevens+behouden",
+      "match": "Incompatibele gegevens behouden Incompatibele gegevens behouden Importeren uit Logseq Importeren uit Logseq nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Incompatibele gegevens behouden"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Incompatibele+gegevens+behouden",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Incompatibele+gegevens+behouden"
+    },
+    {
+      "title": "Sjablonen",
+      "subtitle": "nl/Notities importeren/Importeren uit Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Sjablonen",
+      "match": "Sjablonen Sjablonen Importeren uit Logseq Importeren uit Logseq nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Sjablonen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Sjablonen",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Sjablonen"
+    },
+    {
+      "title": "Problemen oplossen",
+      "subtitle": "nl/Notities importeren/Importeren uit Logseq",
+      "uid": "https://help.obsidian.md/import/logseq#Problemen+oplossen",
+      "match": "Problemen oplossen Problemen oplossen Importeren uit Logseq Importeren uit Logseq nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Problemen oplossen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/logseq#Problemen+oplossen",
+      "quicklookurl": "https://help.obsidian.md/import/logseq#Problemen+oplossen"
+    },
+    {
+      "title": "Importeren uit Tomboy en Gnote",
+      "match": "Importeren uit Tomboy en Gnote Importeren uit Tomboy en Gnote nl/Notities importeren nl/Notities importeren ",
+      "subtitle": "nl/Notities importeren",
+      "mods": {
+        "cmd": {
+          "arg": "Importeren uit Tomboy en Gnote"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/tomboy",
+      "arg": "https://help.obsidian.md/import/tomboy",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy"
+    },
+    {
+      "title": "Zoek je notitiebestanden",
+      "subtitle": "nl/Notities importeren/Importeren uit Tomboy en Gnote",
+      "uid": "https://help.obsidian.md/import/tomboy#Zoek+je+notitiebestanden",
+      "match": "Zoek je notitiebestanden Zoek je notitiebestanden Importeren uit Tomboy en Gnote Importeren uit Tomboy en Gnote nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Zoek je notitiebestanden"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/tomboy#Zoek+je+notitiebestanden",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy#Zoek+je+notitiebestanden"
+    },
+    {
+      "title": "Je Tomboy- of Gnote-notities importeren",
+      "subtitle": "nl/Notities importeren/Importeren uit Tomboy en Gnote",
+      "uid": "https://help.obsidian.md/import/tomboy#Je+Tomboy-+of+Gnote-notities+importeren",
+      "match": "Je Tomboy  of Gnote notities importeren Je Tomboy- of Gnote-notities importeren Importeren uit Tomboy en Gnote Importeren uit Tomboy en Gnote nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Je Tomboy- of Gnote-notities importeren"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/tomboy#Je+Tomboy-+of+Gnote-notities+importeren",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy#Je+Tomboy-+of+Gnote-notities+importeren"
+    },
+    {
+      "title": "Sjablonen",
+      "subtitle": "nl/Notities importeren/Importeren uit Tomboy en Gnote",
+      "uid": "https://help.obsidian.md/import/tomboy#Sjablonen",
+      "match": "Sjablonen Sjablonen Importeren uit Tomboy en Gnote Importeren uit Tomboy en Gnote nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Sjablonen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/tomboy#Sjablonen",
+      "quicklookurl": "https://help.obsidian.md/import/tomboy#Sjablonen"
     },
     {
       "title": "Importeren vanuit Apple Journal",
@@ -34386,6 +35491,123 @@
       "quicklookurl": "https://help.obsidian.md/plugins/importer#Importer+installeren"
     },
     {
+      "title": "Importeur-sjablonen",
+      "match": "Importeur sjablonen Importeur-sjablonen nl/Notities importeren nl/Notities importeren ",
+      "subtitle": "nl/Notities importeren",
+      "mods": {
+        "cmd": {
+          "arg": "Importeur-sjablonen"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/templates",
+      "arg": "https://help.obsidian.md/import/templates",
+      "quicklookurl": "https://help.obsidian.md/import/templates"
+    },
+    {
+      "title": "Het importsjabloon bewerken",
+      "subtitle": "nl/Notities importeren/Importeur-sjablonen",
+      "uid": "https://help.obsidian.md/import/templates#Het+importsjabloon+bewerken",
+      "match": "Het importsjabloon bewerken Het importsjabloon bewerken Importeur sjablonen Importeur-sjablonen nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Het importsjabloon bewerken"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Het+importsjabloon+bewerken",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Het+importsjabloon+bewerken"
+    },
+    {
+      "title": "Resultaten voorbeschouwen",
+      "subtitle": "nl/Notities importeren/Importeur-sjablonen",
+      "uid": "https://help.obsidian.md/import/templates#Resultaten+voorbeschouwen",
+      "match": "Resultaten voorbeschouwen Resultaten voorbeschouwen Importeur sjablonen Importeur-sjablonen nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Resultaten voorbeschouwen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Resultaten+voorbeschouwen",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Resultaten+voorbeschouwen"
+    },
+    {
+      "title": "Sjabloonsyntaxis",
+      "subtitle": "nl/Notities importeren/Importeur-sjablonen",
+      "uid": "https://help.obsidian.md/import/templates#Sjabloonsyntaxis",
+      "match": "Sjabloonsyntaxis Sjabloonsyntaxis Importeur sjablonen Importeur-sjablonen nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Sjabloonsyntaxis"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Sjabloonsyntaxis",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Sjabloonsyntaxis"
+    },
+    {
+      "title": "Variabelen",
+      "subtitle": "nl/Notities importeren/Importeur-sjablonen",
+      "uid": "https://help.obsidian.md/import/templates#Variabelen",
+      "match": "Variabelen Variabelen Importeur sjablonen Importeur-sjablonen nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Variabelen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Variabelen",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Variabelen"
+    },
+    {
+      "title": "Bronwaarden voor eigenschappen",
+      "subtitle": "nl/Notities importeren/Importeur-sjablonen",
+      "uid": "https://help.obsidian.md/import/templates#Bronwaarden+voor+eigenschappen",
+      "match": "Bronwaarden voor eigenschappen Bronwaarden voor eigenschappen Importeur sjablonen Importeur-sjablonen nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Bronwaarden voor eigenschappen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Bronwaarden+voor+eigenschappen",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Bronwaarden+voor+eigenschappen"
+    },
+    {
+      "title": "Voorbeeldsjabloon",
+      "subtitle": "nl/Notities importeren/Importeur-sjablonen",
+      "uid": "https://help.obsidian.md/import/templates#Voorbeeldsjabloon",
+      "match": "Voorbeeldsjabloon Voorbeeldsjabloon Importeur sjablonen Importeur-sjablonen nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Voorbeeldsjabloon"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Voorbeeldsjabloon",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Voorbeeldsjabloon"
+    },
+    {
+      "title": "{{title}}",
+      "subtitle": "nl/Notities importeren/Importeur-sjablonen",
+      "uid": "https://help.obsidian.md/import/templates#{{title}}",
+      "match": "{{title}} {{title}} Importeur sjablonen Importeur-sjablonen nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "{{title}}"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#{{title}}",
+      "quicklookurl": "https://help.obsidian.md/import/templates#{{title}}"
+    },
+    {
+      "title": "Labels",
+      "subtitle": "nl/Notities importeren/Importeur-sjablonen",
+      "uid": "https://help.obsidian.md/import/templates#Labels",
+      "match": "Labels Labels Importeur sjablonen Importeur-sjablonen nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Labels"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/templates#Labels",
+      "quicklookurl": "https://help.obsidian.md/import/templates#Labels"
+    },
+    {
       "title": "Markdown-bestanden importeren",
       "match": "Markdown bestanden importeren Markdown-bestanden importeren nl/Notities importeren nl/Notities importeren ",
       "subtitle": "nl/Notities importeren",
@@ -34399,17 +35621,30 @@
       "quicklookurl": "https://help.obsidian.md/import/markdown"
     },
     {
-      "title": "Converteren vanuit andere Markdown-varianten",
+      "title": "Markdown-bestanden importeren met Importer",
       "subtitle": "nl/Notities importeren/Markdown-bestanden importeren",
-      "uid": "https://help.obsidian.md/import/markdown#Converteren+vanuit+andere+Markdown-varianten",
-      "match": "Converteren vanuit andere Markdown varianten Converteren vanuit andere Markdown-varianten Markdown bestanden importeren Markdown-bestanden importeren nl/Notities importeren nl/Notities importeren ",
+      "uid": "https://help.obsidian.md/import/markdown#Markdown-bestanden+importeren+met+Importer",
+      "match": "Markdown bestanden importeren met Importer Markdown-bestanden importeren met Importer Markdown bestanden importeren Markdown-bestanden importeren nl/Notities importeren nl/Notities importeren ",
       "mods": {
         "cmd": {
-          "arg": "Converteren vanuit andere Markdown-varianten"
+          "arg": "Markdown-bestanden importeren met Importer"
         }
       },
-      "arg": "https://help.obsidian.md/import/markdown#Converteren+vanuit+andere+Markdown-varianten",
-      "quicklookurl": "https://help.obsidian.md/import/markdown#Converteren+vanuit+andere+Markdown-varianten"
+      "arg": "https://help.obsidian.md/import/markdown#Markdown-bestanden+importeren+met+Importer",
+      "quicklookurl": "https://help.obsidian.md/import/markdown#Markdown-bestanden+importeren+met+Importer"
+    },
+    {
+      "title": "Sjablonen",
+      "subtitle": "nl/Notities importeren/Markdown-bestanden importeren",
+      "uid": "https://help.obsidian.md/import/markdown#Sjablonen",
+      "match": "Sjablonen Sjablonen Markdown bestanden importeren Markdown-bestanden importeren nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Sjablonen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/markdown#Sjablonen",
+      "quicklookurl": "https://help.obsidian.md/import/markdown#Sjablonen"
     },
     {
       "title": "Textbundle-bestanden importeren",
@@ -34438,6 +35673,19 @@
       "quicklookurl": "https://help.obsidian.md/import/textbundle#Textbundle-bestanden+importeren+in+Obsidian"
     },
     {
+      "title": "Geïmporteerde notities aanpassen",
+      "subtitle": "nl/Notities importeren/Textbundle-bestanden importeren",
+      "uid": "https://help.obsidian.md/import/textbundle#Geïmporteerde+notities+aanpassen",
+      "match": "Geïmporteerde notities aanpassen Geïmporteerde notities aanpassen Textbundle bestanden importeren Textbundle-bestanden importeren nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Geïmporteerde notities aanpassen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/textbundle#Geïmporteerde+notities+aanpassen",
+      "quicklookurl": "https://help.obsidian.md/import/textbundle#Geïmporteerde+notities+aanpassen"
+    },
+    {
       "title": "Probleemoplossing",
       "subtitle": "nl/Notities importeren/Textbundle-bestanden importeren",
       "uid": "https://help.obsidian.md/import/textbundle#Probleemoplossing",
@@ -34464,17 +35712,17 @@
       "quicklookurl": "https://help.obsidian.md/import/textbundle#Er+zijn+geen+bestanden+geselecteerd+voor+import"
     },
     {
-      "title": "Zettelkasten-notities importeren",
-      "match": "Zettelkasten notities importeren Zettelkasten-notities importeren nl/Notities importeren nl/Notities importeren ",
-      "subtitle": "nl/Notities importeren",
+      "title": "Sjablonen",
+      "subtitle": "nl/Notities importeren/Textbundle-bestanden importeren",
+      "uid": "https://help.obsidian.md/import/textbundle#Sjablonen",
+      "match": "Sjablonen Sjablonen Textbundle bestanden importeren Textbundle-bestanden importeren nl/Notities importeren nl/Notities importeren ",
       "mods": {
         "cmd": {
-          "arg": "Zettelkasten-notities importeren"
+          "arg": "Sjablonen"
         }
       },
-      "uid": "https://help.obsidian.md/import/zettelkasten",
-      "arg": "https://help.obsidian.md/import/zettelkasten",
-      "quicklookurl": "https://help.obsidian.md/import/zettelkasten"
+      "arg": "https://help.obsidian.md/import/textbundle#Sjablonen",
+      "quicklookurl": "https://help.obsidian.md/import/textbundle#Sjablonen"
     },
     {
       "title": "CSS-fragmenten",
