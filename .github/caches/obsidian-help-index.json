@@ -5812,6 +5812,123 @@
       "quicklookurl": "https://help.obsidian.md/bases/views/cards#Image+aspect+ratio"
     },
     {
+      "title": "Kanban view",
+      "match": "Kanban view Kanban view Bases/Layouts Bases/Layouts ",
+      "subtitle": "Bases/Layouts",
+      "mods": {
+        "cmd": {
+          "arg": "Kanban view"
+        }
+      },
+      "uid": "https://help.obsidian.md/bases/views/kanban",
+      "arg": "https://help.obsidian.md/bases/views/kanban",
+      "quicklookurl": "https://help.obsidian.md/bases/views/kanban"
+    },
+    {
+      "title": "Group cards into columns",
+      "subtitle": "Bases/Layouts/Kanban view",
+      "uid": "https://help.obsidian.md/bases/views/kanban#Group+cards+into+columns",
+      "match": "Group cards into columns Group cards into columns Kanban view Kanban view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Group cards into columns"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/kanban#Group+cards+into+columns",
+      "quicklookurl": "https://help.obsidian.md/bases/views/kanban#Group+cards+into+columns"
+    },
+    {
+      "title": "Work with cards and columns",
+      "subtitle": "Bases/Layouts/Kanban view",
+      "uid": "https://help.obsidian.md/bases/views/kanban#Work+with+cards+and+columns",
+      "match": "Work with cards and columns Work with cards and columns Kanban view Kanban view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Work with cards and columns"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/kanban#Work+with+cards+and+columns",
+      "quicklookurl": "https://help.obsidian.md/bases/views/kanban#Work+with+cards+and+columns"
+    },
+    {
+      "title": "Settings",
+      "subtitle": "Bases/Layouts/Kanban view",
+      "uid": "https://help.obsidian.md/bases/views/kanban#Settings",
+      "match": "Settings Settings Kanban view Kanban view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Settings"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/kanban#Settings",
+      "quicklookurl": "https://help.obsidian.md/bases/views/kanban#Settings"
+    },
+    {
+      "title": "Hide empty columns",
+      "subtitle": "Bases/Layouts/Kanban view",
+      "uid": "https://help.obsidian.md/bases/views/kanban#Hide+empty+columns",
+      "match": "Hide empty columns Hide empty columns Kanban view Kanban view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Hide empty columns"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/kanban#Hide+empty+columns",
+      "quicklookurl": "https://help.obsidian.md/bases/views/kanban#Hide+empty+columns"
+    },
+    {
+      "title": "Column width",
+      "subtitle": "Bases/Layouts/Kanban view",
+      "uid": "https://help.obsidian.md/bases/views/kanban#Column+width",
+      "match": "Column width Column width Kanban view Kanban view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Column width"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/kanban#Column+width",
+      "quicklookurl": "https://help.obsidian.md/bases/views/kanban#Column+width"
+    },
+    {
+      "title": "Image property",
+      "subtitle": "Bases/Layouts/Kanban view",
+      "uid": "https://help.obsidian.md/bases/views/kanban#Image+property",
+      "match": "Image property Image property Kanban view Kanban view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Image property"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/kanban#Image+property",
+      "quicklookurl": "https://help.obsidian.md/bases/views/kanban#Image+property"
+    },
+    {
+      "title": "Image fit",
+      "subtitle": "Bases/Layouts/Kanban view",
+      "uid": "https://help.obsidian.md/bases/views/kanban#Image+fit",
+      "match": "Image fit Image fit Kanban view Kanban view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Image fit"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/kanban#Image+fit",
+      "quicklookurl": "https://help.obsidian.md/bases/views/kanban#Image+fit"
+    },
+    {
+      "title": "Image aspect ratio",
+      "subtitle": "Bases/Layouts/Kanban view",
+      "uid": "https://help.obsidian.md/bases/views/kanban#Image+aspect+ratio",
+      "match": "Image aspect ratio Image aspect ratio Kanban view Kanban view Bases/Layouts Bases/Layouts ",
+      "mods": {
+        "cmd": {
+          "arg": "Image aspect ratio"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views/kanban#Image+aspect+ratio",
+      "quicklookurl": "https://help.obsidian.md/bases/views/kanban#Image+aspect+ratio"
+    },
+    {
       "title": "List view",
       "match": "List view List view Bases/Layouts Bases/Layouts ",
       "subtitle": "Bases/Layouts",
