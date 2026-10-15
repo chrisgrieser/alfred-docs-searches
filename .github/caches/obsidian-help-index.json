@@ -248,6 +248,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Karten+aus+Webseiten+hinzufügen"
     },
     {
+      "title": "Karten aus Basen hinzufügen",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Karten+aus+Basen+hinzufügen",
+      "match": "Karten aus Basen hinzufügen Karten aus Basen hinzufügen Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Karten aus Basen hinzufügen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Karten+aus+Basen+hinzufügen",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Karten+aus+Basen+hinzufügen"
+    },
+    {
       "title": "Karten aus Ordnern hinzufügen",
       "subtitle": "de/Erweiterungen/Canvas",
       "uid": "https://help.obsidian.md/plugins/canvas#Karten+aus+Ordnern+hinzufügen",
@@ -339,6 +352,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Kartengröße+ändern"
     },
     {
+      "title": "Karten ausrichten und anordnen",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Karten+ausrichten+und+anordnen",
+      "match": "Karten ausrichten und anordnen Karten ausrichten und anordnen Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Karten ausrichten und anordnen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Karten+ausrichten+und+anordnen",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Karten+ausrichten+und+anordnen"
+    },
+    {
       "title": "Karten verbinden",
       "subtitle": "de/Erweiterungen/Canvas",
       "uid": "https://help.obsidian.md/plugins/canvas#Karten+verbinden",
@@ -417,6 +443,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Einer+Verbindung+eine+Beschriftung+hinzufügen"
     },
     {
+      "title": "Die Richtung einer Verbindung ändern",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Die+Richtung+einer+Verbindung+ändern",
+      "match": "Die Richtung einer Verbindung ändern Die Richtung einer Verbindung ändern Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Die Richtung einer Verbindung ändern"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Die+Richtung+einer+Verbindung+ändern",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Die+Richtung+einer+Verbindung+ändern"
+    },
+    {
       "title": "Die Farbe einer Karte oder Verbindung ändern",
       "subtitle": "de/Erweiterungen/Canvas",
       "uid": "https://help.obsidian.md/plugins/canvas#Die+Farbe+einer+Karte+oder+Verbindung+ändern",
@@ -454,6 +493,19 @@
       },
       "arg": "https://help.obsidian.md/plugins/canvas#Ausgewählte+Karten+gruppieren",
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Ausgewählte+Karten+gruppieren"
+    },
+    {
+      "title": "Einen Hintergrund zu einer Gruppe hinzufügen",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Einen+Hintergrund+zu+einer+Gruppe+hinzufügen",
+      "match": "Einen Hintergrund zu einer Gruppe hinzufügen Einen Hintergrund zu einer Gruppe hinzufügen Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Einen Hintergrund zu einer Gruppe hinzufügen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Einen+Hintergrund+zu+einer+Gruppe+hinzufügen",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Einen+Hintergrund+zu+einer+Gruppe+hinzufügen"
     },
     {
       "title": "Im Canvas navigieren",
@@ -534,6 +586,71 @@
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Vergrößerung+zurücksetzen"
     },
     {
+      "title": "Zu einer Gruppe springen",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Zu+einer+Gruppe+springen",
+      "match": "Zu einer Gruppe springen Zu einer Gruppe springen Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Zu einer Gruppe springen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Zu+einer+Gruppe+springen",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Zu+einer+Gruppe+springen"
+    },
+    {
+      "title": "Canvas-Einstellungen",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Canvas-Einstellungen",
+      "match": "Canvas Einstellungen Canvas-Einstellungen Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Canvas-Einstellungen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Canvas-Einstellungen",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Canvas-Einstellungen"
+    },
+    {
+      "title": "Einen Canvas als Bild exportieren",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Einen+Canvas+als+Bild+exportieren",
+      "match": "Einen Canvas als Bild exportieren Einen Canvas als Bild exportieren Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Einen Canvas als Bild exportieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Einen+Canvas+als+Bild+exportieren",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Einen+Canvas+als+Bild+exportieren"
+    },
+    {
+      "title": "Rückgängig und Wiederholen",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Rückgängig+und+Wiederholen",
+      "match": "Rückgängig und Wiederholen Rückgängig und Wiederholen Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Rückgängig und Wiederholen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Rückgängig+und+Wiederholen",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Rückgängig+und+Wiederholen"
+    },
+    {
+      "title": "Canvas-Hilfe",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Canvas-Hilfe",
+      "match": "Canvas Hilfe Canvas-Hilfe Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Canvas-Hilfe"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Canvas-Hilfe",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Canvas-Hilfe"
+    },
+    {
       "title": "Einen Canvas in eine Notiz einbetten",
       "subtitle": "de/Erweiterungen/Canvas",
       "uid": "https://help.obsidian.md/plugins/canvas#Einen+Canvas+in+eine+Notiz+einbetten",
@@ -545,6 +662,201 @@
       },
       "arg": "https://help.obsidian.md/plugins/canvas#Einen+Canvas+in+eine+Notiz+einbetten",
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Einen+Canvas+in+eine+Notiz+einbetten"
+    },
+    {
+      "title": "Canvas auf Mobilgeräten verwenden",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Canvas+auf+Mobilgeräten+verwenden",
+      "match": "Canvas auf Mobilgeräten verwenden Canvas auf Mobilgeräten verwenden Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Canvas auf Mobilgeräten verwenden"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Canvas+auf+Mobilgeräten+verwenden",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Canvas+auf+Mobilgeräten+verwenden"
+    },
+    {
+      "title": "Das Canvas-Menü öffnen",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Das+Canvas-Menü+öffnen",
+      "match": "Das Canvas Menü öffnen Das Canvas-Menü öffnen Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Das Canvas-Menü öffnen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Das+Canvas-Menü+öffnen",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Das+Canvas-Menü+öffnen"
+    },
+    {
+      "title": "Karten hinzufügen",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Karten+hinzufügen",
+      "match": "Karten hinzufügen Karten hinzufügen Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Karten hinzufügen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Karten+hinzufügen",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Karten+hinzufügen"
+    },
+    {
+      "title": "Mit einer ausgewählten Karte arbeiten",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Mit+einer+ausgewählten+Karte+arbeiten",
+      "match": "Mit einer ausgewählten Karte arbeiten Mit einer ausgewählten Karte arbeiten Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Mit einer ausgewählten Karte arbeiten"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Mit+einer+ausgewählten+Karte+arbeiten",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Mit+einer+ausgewählten+Karte+arbeiten"
+    },
+    {
+      "title": "Eine Karte verschieben",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Eine+Karte+verschieben",
+      "match": "Eine Karte verschieben Eine Karte verschieben Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Eine Karte verschieben"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Eine+Karte+verschieben",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Eine+Karte+verschieben"
+    },
+    {
+      "title": "Kartengröße ändern",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Kartengröße+ändern",
+      "match": "Kartengröße ändern Kartengröße ändern Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Kartengröße ändern"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Kartengröße+ändern",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Kartengröße+ändern"
+    },
+    {
+      "title": "Das Kartenmenü öffnen",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Das+Kartenmenü+öffnen",
+      "match": "Das Kartenmenü öffnen Das Kartenmenü öffnen Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Das Kartenmenü öffnen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Das+Kartenmenü+öffnen",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Das+Kartenmenü+öffnen"
+    },
+    {
+      "title": "Eine Karte bearbeiten",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Eine+Karte+bearbeiten",
+      "match": "Eine Karte bearbeiten Eine Karte bearbeiten Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Eine Karte bearbeiten"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Eine+Karte+bearbeiten",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Eine+Karte+bearbeiten"
+    },
+    {
+      "title": "Eine Verbindung beschriften",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Eine+Verbindung+beschriften",
+      "match": "Eine Verbindung beschriften Eine Verbindung beschriften Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Eine Verbindung beschriften"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Eine+Verbindung+beschriften",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Eine+Verbindung+beschriften"
+    },
+    {
+      "title": "Die Richtung einer Verbindung ändern",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Die+Richtung+einer+Verbindung+ändern",
+      "match": "Die Richtung einer Verbindung ändern Die Richtung einer Verbindung ändern Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Die Richtung einer Verbindung ändern"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Die+Richtung+einer+Verbindung+ändern",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Die+Richtung+einer+Verbindung+ändern"
+    },
+    {
+      "title": "Das Linienmenü öffnen",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Das+Linienmenü+öffnen",
+      "match": "Das Linienmenü öffnen Das Linienmenü öffnen Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Das Linienmenü öffnen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Das+Linienmenü+öffnen",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Das+Linienmenü+öffnen"
+    },
+    {
+      "title": "Karten verbinden",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Karten+verbinden",
+      "match": "Karten verbinden Karten verbinden Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Karten verbinden"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Karten+verbinden",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Karten+verbinden"
+    },
+    {
+      "title": "Karten trennen",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Karten+trennen",
+      "match": "Karten trennen Karten trennen Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Karten trennen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Karten+trennen",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Karten+trennen"
+    },
+    {
+      "title": "Karten gruppieren",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Karten+gruppieren",
+      "match": "Karten gruppieren Karten gruppieren Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Karten gruppieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Karten+gruppieren",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Karten+gruppieren"
+    },
+    {
+      "title": "Canvas-Steuerelemente",
+      "subtitle": "de/Erweiterungen/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Canvas-Steuerelemente",
+      "match": "Canvas Steuerelemente Canvas-Steuerelemente Canvas Canvas de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Canvas-Steuerelemente"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Canvas-Steuerelemente",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Canvas-Steuerelemente"
     },
     {
       "title": "Erweiterte Tipps",
@@ -675,6 +987,45 @@
       },
       "arg": "https://help.obsidian.md/plugins/file-explorer#Eine+Datei+oder+einen+Ordner+verschieben",
       "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Eine+Datei+oder+einen+Ordner+verschieben"
+    },
+    {
+      "title": "Das Kontextmenü verwenden",
+      "subtitle": "de/Erweiterungen/Dateiexplorer",
+      "uid": "https://help.obsidian.md/plugins/file-explorer#Das+Kontextmenü+verwenden",
+      "match": "Das Kontextmenü verwenden Das Kontextmenü verwenden Dateiexplorer Dateiexplorer de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Das Kontextmenü verwenden"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/file-explorer#Das+Kontextmenü+verwenden",
+      "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Das+Kontextmenü+verwenden"
+    },
+    {
+      "title": "Desktop",
+      "subtitle": "de/Erweiterungen/Dateiexplorer",
+      "uid": "https://help.obsidian.md/plugins/file-explorer#Desktop",
+      "match": "Desktop Desktop Dateiexplorer Dateiexplorer de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Desktop"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/file-explorer#Desktop",
+      "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Desktop"
+    },
+    {
+      "title": "Mobil",
+      "subtitle": "de/Erweiterungen/Dateiexplorer",
+      "uid": "https://help.obsidian.md/plugins/file-explorer#Mobil",
+      "match": "Mobil Mobil Dateiexplorer Dateiexplorer de/Erweiterungen de/Erweiterungen ",
+      "mods": {
+        "cmd": {
+          "arg": "Mobil"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/file-explorer#Mobil",
+      "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Mobil"
     },
     {
       "title": "Datenwiederherstellung",
@@ -950,69 +1301,17 @@
       "quicklookurl": "https://help.obsidian.md/plugins/format-converter"
     },
     {
-      "title": "Unterstützte Formate",
+      "title": "Unterstützte Eigenschaftsformate",
       "subtitle": "de/Erweiterungen/Importprogramm für Markdown Format",
-      "uid": "https://help.obsidian.md/plugins/format-converter#Unterstützte+Formate",
-      "match": "Unterstützte Formate Unterstützte Formate Importprogramm für Markdown Format Importprogramm für Markdown Format de/Erweiterungen de/Erweiterungen ",
+      "uid": "https://help.obsidian.md/plugins/format-converter#Unterstützte+Eigenschaftsformate",
+      "match": "Unterstützte Eigenschaftsformate Unterstützte Eigenschaftsformate Importprogramm für Markdown Format Importprogramm für Markdown Format de/Erweiterungen de/Erweiterungen ",
       "mods": {
         "cmd": {
-          "arg": "Unterstützte Formate"
+          "arg": "Unterstützte Eigenschaftsformate"
         }
       },
-      "arg": "https://help.obsidian.md/plugins/format-converter#Unterstützte+Formate",
-      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Unterstützte+Formate"
-    },
-    {
-      "title": "Roam Research",
-      "subtitle": "de/Erweiterungen/Importprogramm für Markdown Format",
-      "uid": "https://help.obsidian.md/plugins/format-converter#Roam+Research",
-      "match": "Roam Research Roam Research Importprogramm für Markdown Format Importprogramm für Markdown Format de/Erweiterungen de/Erweiterungen ",
-      "mods": {
-        "cmd": {
-          "arg": "Roam Research"
-        }
-      },
-      "arg": "https://help.obsidian.md/plugins/format-converter#Roam+Research",
-      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Roam+Research"
-    },
-    {
-      "title": "Bear",
-      "subtitle": "de/Erweiterungen/Importprogramm für Markdown Format",
-      "uid": "https://help.obsidian.md/plugins/format-converter#Bear",
-      "match": "Bear Bear Importprogramm für Markdown Format Importprogramm für Markdown Format de/Erweiterungen de/Erweiterungen ",
-      "mods": {
-        "cmd": {
-          "arg": "Bear"
-        }
-      },
-      "arg": "https://help.obsidian.md/plugins/format-converter#Bear",
-      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Bear"
-    },
-    {
-      "title": "Zettelkasten",
-      "subtitle": "de/Erweiterungen/Importprogramm für Markdown Format",
-      "uid": "https://help.obsidian.md/plugins/format-converter#Zettelkasten",
-      "match": "Zettelkasten Zettelkasten Importprogramm für Markdown Format Importprogramm für Markdown Format de/Erweiterungen de/Erweiterungen ",
-      "mods": {
-        "cmd": {
-          "arg": "Zettelkasten"
-        }
-      },
-      "arg": "https://help.obsidian.md/plugins/format-converter#Zettelkasten",
-      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Zettelkasten"
-    },
-    {
-      "title": "[[Eigenschaften]]",
-      "subtitle": "de/Erweiterungen/Importprogramm für Markdown Format",
-      "uid": "https://help.obsidian.md/plugins/format-converter#[[Eigenschaften]]",
-      "match": "[[Eigenschaften]] [[Eigenschaften]] Importprogramm für Markdown Format Importprogramm für Markdown Format de/Erweiterungen de/Erweiterungen ",
-      "mods": {
-        "cmd": {
-          "arg": "[[Eigenschaften]]"
-        }
-      },
-      "arg": "https://help.obsidian.md/plugins/format-converter#[[Eigenschaften]]",
-      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#[[Eigenschaften]]"
+      "arg": "https://help.obsidian.md/plugins/format-converter#Unterstützte+Eigenschaftsformate",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Unterstützte+Eigenschaftsformate"
     },
     {
       "title": "Vorher",
@@ -3459,6 +3758,110 @@
       "quicklookurl": "https://help.obsidian.md/links#Vorschau+einer+verlinkten+Datei"
     },
     {
+      "title": "PDFs",
+      "match": "PDFs PDFs de/Notizen und Dateien verknüpfen de/Notizen und Dateien verknüpfen ",
+      "subtitle": "de/Notizen und Dateien verknüpfen",
+      "mods": {
+        "cmd": {
+          "arg": "PDFs"
+        }
+      },
+      "uid": "https://help.obsidian.md/pdf",
+      "arg": "https://help.obsidian.md/pdf",
+      "quicklookurl": "https://help.obsidian.md/pdf"
+    },
+    {
+      "title": "Eine PDF öffnen",
+      "subtitle": "de/Notizen und Dateien verknüpfen/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Eine+PDF+öffnen",
+      "match": "Eine PDF öffnen Eine PDF öffnen PDFs PDFs de/Notizen und Dateien verknüpfen de/Notizen und Dateien verknüpfen ",
+      "mods": {
+        "cmd": {
+          "arg": "Eine PDF öffnen"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Eine+PDF+öffnen",
+      "quicklookurl": "https://help.obsidian.md/pdf#Eine+PDF+öffnen"
+    },
+    {
+      "title": "In einer PDF navigieren",
+      "subtitle": "de/Notizen und Dateien verknüpfen/PDFs",
+      "uid": "https://help.obsidian.md/pdf#In+einer+PDF+navigieren",
+      "match": "In einer PDF navigieren In einer PDF navigieren PDFs PDFs de/Notizen und Dateien verknüpfen de/Notizen und Dateien verknüpfen ",
+      "mods": {
+        "cmd": {
+          "arg": "In einer PDF navigieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#In+einer+PDF+navigieren",
+      "quicklookurl": "https://help.obsidian.md/pdf#In+einer+PDF+navigieren"
+    },
+    {
+      "title": "Das Aussehen einer PDF ändern",
+      "subtitle": "de/Notizen und Dateien verknüpfen/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Das+Aussehen+einer+PDF+ändern",
+      "match": "Das Aussehen einer PDF ändern Das Aussehen einer PDF ändern PDFs PDFs de/Notizen und Dateien verknüpfen de/Notizen und Dateien verknüpfen ",
+      "mods": {
+        "cmd": {
+          "arg": "Das Aussehen einer PDF ändern"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Das+Aussehen+einer+PDF+ändern",
+      "quicklookurl": "https://help.obsidian.md/pdf#Das+Aussehen+einer+PDF+ändern"
+    },
+    {
+      "title": "In einer PDF suchen",
+      "subtitle": "de/Notizen und Dateien verknüpfen/PDFs",
+      "uid": "https://help.obsidian.md/pdf#In+einer+PDF+suchen",
+      "match": "In einer PDF suchen In einer PDF suchen PDFs PDFs de/Notizen und Dateien verknüpfen de/Notizen und Dateien verknüpfen ",
+      "mods": {
+        "cmd": {
+          "arg": "In einer PDF suchen"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#In+einer+PDF+suchen",
+      "quicklookurl": "https://help.obsidian.md/pdf#In+einer+PDF+suchen"
+    },
+    {
+      "title": "Text aus einer PDF kopieren",
+      "subtitle": "de/Notizen und Dateien verknüpfen/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Text+aus+einer+PDF+kopieren",
+      "match": "Text aus einer PDF kopieren Text aus einer PDF kopieren PDFs PDFs de/Notizen und Dateien verknüpfen de/Notizen und Dateien verknüpfen ",
+      "mods": {
+        "cmd": {
+          "arg": "Text aus einer PDF kopieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Text+aus+einer+PDF+kopieren",
+      "quicklookurl": "https://help.obsidian.md/pdf#Text+aus+einer+PDF+kopieren"
+    },
+    {
+      "title": "Eine PDF einbetten",
+      "subtitle": "de/Notizen und Dateien verknüpfen/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Eine+PDF+einbetten",
+      "match": "Eine PDF einbetten Eine PDF einbetten PDFs PDFs de/Notizen und Dateien verknüpfen de/Notizen und Dateien verknüpfen ",
+      "mods": {
+        "cmd": {
+          "arg": "Eine PDF einbetten"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Eine+PDF+einbetten",
+      "quicklookurl": "https://help.obsidian.md/pdf#Eine+PDF+einbetten"
+    },
+    {
+      "title": "Eine Notiz als PDF exportieren",
+      "subtitle": "de/Notizen und Dateien verknüpfen/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Eine+Notiz+als+PDF+exportieren",
+      "match": "Eine Notiz als PDF exportieren Eine Notiz als PDF exportieren PDFs PDFs de/Notizen und Dateien verknüpfen de/Notizen und Dateien verknüpfen ",
+      "mods": {
+        "cmd": {
+          "arg": "Eine Notiz als PDF exportieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Eine+Notiz+als+PDF+exportieren",
+      "quicklookurl": "https://help.obsidian.md/pdf#Eine+Notiz+als+PDF+exportieren"
+    },
+    {
       "title": "Entwickler",
       "match": "Entwickler Entwickler de/Zu Obsidian beitragen de/Zu Obsidian beitragen ",
       "subtitle": "de/Zu Obsidian beitragen",
@@ -5864,19 +6267,6 @@
       "quicklookurl": "https://help.obsidian.md/bases/views/kanban#Settings"
     },
     {
-      "title": "Hide empty columns",
-      "subtitle": "Bases/Layouts/Kanban view",
-      "uid": "https://help.obsidian.md/bases/views/kanban#Hide+empty+columns",
-      "match": "Hide empty columns Hide empty columns Kanban view Kanban view Bases/Layouts Bases/Layouts ",
-      "mods": {
-        "cmd": {
-          "arg": "Hide empty columns"
-        }
-      },
-      "arg": "https://help.obsidian.md/bases/views/kanban#Hide+empty+columns",
-      "quicklookurl": "https://help.obsidian.md/bases/views/kanban#Hide+empty+columns"
-    },
-    {
       "title": "Column width",
       "subtitle": "Bases/Layouts/Kanban view",
       "uid": "https://help.obsidian.md/bases/views/kanban#Column+width",
@@ -6525,6 +6915,45 @@
       },
       "arg": "https://help.obsidian.md/bases/views#Remove+a+sort",
       "quicklookurl": "https://help.obsidian.md/bases/views#Remove+a+sort"
+    },
+    {
+      "title": "Group results",
+      "subtitle": "Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Group+results",
+      "match": "Group results Group results Views Views Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Group results"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Group+results",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Group+results"
+    },
+    {
+      "title": "Reorder, hide, and add groups",
+      "subtitle": "Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Reorder,+hide,+and+add+groups",
+      "match": "Reorder, hide, and add groups Reorder, hide, and add groups Views Views Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Reorder, hide, and add groups"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Reorder,+hide,+and+add+groups",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Reorder,+hide,+and+add+groups"
+    },
+    {
+      "title": "Collapse groups",
+      "subtitle": "Bases/Views",
+      "uid": "https://help.obsidian.md/bases/views#Collapse+groups",
+      "match": "Collapse groups Collapse groups Views Views Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Collapse groups"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/views#Collapse+groups",
+      "quicklookurl": "https://help.obsidian.md/bases/views#Collapse+groups"
     },
     {
       "title": "Limit, copy, and export results",
@@ -7398,6 +7827,19 @@
       "quicklookurl": "https://help.obsidian.md/syntax#Bold,+italics,+highlights"
     },
     {
+      "title": "Highlight colors",
+      "subtitle": "Editing and formatting/Basic formatting syntax",
+      "uid": "https://help.obsidian.md/syntax#Highlight+colors",
+      "match": "Highlight colors Highlight colors Basic formatting syntax Basic formatting syntax Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Highlight colors"
+        }
+      },
+      "arg": "https://help.obsidian.md/syntax#Highlight+colors",
+      "quicklookurl": "https://help.obsidian.md/syntax#Highlight+colors"
+    },
+    {
       "title": "Internal links",
       "subtitle": "Editing and formatting/Basic formatting syntax",
       "uid": "https://help.obsidian.md/syntax#Internal+links",
@@ -7890,6 +8332,58 @@
       },
       "arg": "https://help.obsidian.md/embed-web-pages#Embed+a+tweet",
       "quicklookurl": "https://help.obsidian.md/embed-web-pages#Embed+a+tweet"
+    },
+    {
+      "title": "Find and replace",
+      "match": "Find and replace Find and replace Editing and formatting Editing and formatting ",
+      "subtitle": "Editing and formatting",
+      "mods": {
+        "cmd": {
+          "arg": "Find and replace"
+        }
+      },
+      "uid": "https://help.obsidian.md/find-and-replace",
+      "arg": "https://help.obsidian.md/find-and-replace",
+      "quicklookurl": "https://help.obsidian.md/find-and-replace"
+    },
+    {
+      "title": "Open find and replace",
+      "subtitle": "Editing and formatting/Find and replace",
+      "uid": "https://help.obsidian.md/find-and-replace#Open+find+and+replace",
+      "match": "Open find and replace Open find and replace Find and replace Find and replace Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Open find and replace"
+        }
+      },
+      "arg": "https://help.obsidian.md/find-and-replace#Open+find+and+replace",
+      "quicklookurl": "https://help.obsidian.md/find-and-replace#Open+find+and+replace"
+    },
+    {
+      "title": "Find matches",
+      "subtitle": "Editing and formatting/Find and replace",
+      "uid": "https://help.obsidian.md/find-and-replace#Find+matches",
+      "match": "Find matches Find matches Find and replace Find and replace Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Find matches"
+        }
+      },
+      "arg": "https://help.obsidian.md/find-and-replace#Find+matches",
+      "quicklookurl": "https://help.obsidian.md/find-and-replace#Find+matches"
+    },
+    {
+      "title": "Replace matches",
+      "subtitle": "Editing and formatting/Find and replace",
+      "uid": "https://help.obsidian.md/find-and-replace#Replace+matches",
+      "match": "Replace matches Replace matches Find and replace Find and replace Editing and formatting Editing and formatting ",
+      "mods": {
+        "cmd": {
+          "arg": "Replace matches"
+        }
+      },
+      "arg": "https://help.obsidian.md/find-and-replace#Replace+matches",
+      "quicklookurl": "https://help.obsidian.md/find-and-replace#Replace+matches"
     },
     {
       "title": "Folding",
@@ -11506,6 +12000,19 @@
       "quicklookurl": "https://help.obsidian.md/uri#Examples"
     },
     {
+      "title": "Copy an Obsidian URL",
+      "subtitle": "Extending Obsidian/Obsidian URI",
+      "uid": "https://help.obsidian.md/uri#Copy+an+Obsidian+URL",
+      "match": "Copy an Obsidian URL Copy an Obsidian URL Obsidian URI Obsidian URI Extending Obsidian Extending Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Copy an Obsidian URL"
+        }
+      },
+      "arg": "https://help.obsidian.md/uri#Copy+an+Obsidian+URL",
+      "quicklookurl": "https://help.obsidian.md/uri#Copy+an+Obsidian+URL"
+    },
+    {
       "title": "Parameters",
       "subtitle": "Extending Obsidian/Obsidian URI",
       "uid": "https://help.obsidian.md/uri#Parameters",
@@ -12102,6 +12609,32 @@
       },
       "arg": "https://help.obsidian.md/manage-notes#Create+a+new+note",
       "quicklookurl": "https://help.obsidian.md/manage-notes#Create+a+new+note"
+    },
+    {
+      "title": "Open files outside your vault",
+      "subtitle": "Files and folders/Manage notes",
+      "uid": "https://help.obsidian.md/manage-notes#Open+files+outside+your+vault",
+      "match": "Open files outside your vault Open files outside your vault Manage notes Manage notes Files and folders Files and folders ",
+      "mods": {
+        "cmd": {
+          "arg": "Open files outside your vault"
+        }
+      },
+      "arg": "https://help.obsidian.md/manage-notes#Open+files+outside+your+vault",
+      "quicklookurl": "https://help.obsidian.md/manage-notes#Open+files+outside+your+vault"
+    },
+    {
+      "title": "Preview files with Quick Look",
+      "subtitle": "Files and folders/Manage notes",
+      "uid": "https://help.obsidian.md/manage-notes#Preview+files+with+Quick+Look",
+      "match": "Preview files with Quick Look Preview files with Quick Look Manage notes Manage notes Files and folders Files and folders ",
+      "mods": {
+        "cmd": {
+          "arg": "Preview files with Quick Look"
+        }
+      },
+      "arg": "https://help.obsidian.md/manage-notes#Preview+files+with+Quick+Look",
+      "quicklookurl": "https://help.obsidian.md/manage-notes#Preview+files+with+Quick+Look"
     },
     {
       "title": "Rename a note",
@@ -15653,6 +16186,110 @@
       "quicklookurl": "https://help.obsidian.md/links#Preview+a+linked+file"
     },
     {
+      "title": "PDFs",
+      "match": "PDFs PDFs Linking notes and files Linking notes and files ",
+      "subtitle": "Linking notes and files",
+      "mods": {
+        "cmd": {
+          "arg": "PDFs"
+        }
+      },
+      "uid": "https://help.obsidian.md/pdf",
+      "arg": "https://help.obsidian.md/pdf",
+      "quicklookurl": "https://help.obsidian.md/pdf"
+    },
+    {
+      "title": "Open a PDF",
+      "subtitle": "Linking notes and files/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Open+a+PDF",
+      "match": "Open a PDF Open a PDF PDFs PDFs Linking notes and files Linking notes and files ",
+      "mods": {
+        "cmd": {
+          "arg": "Open a PDF"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Open+a+PDF",
+      "quicklookurl": "https://help.obsidian.md/pdf#Open+a+PDF"
+    },
+    {
+      "title": "Navigate a PDF",
+      "subtitle": "Linking notes and files/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Navigate+a+PDF",
+      "match": "Navigate a PDF Navigate a PDF PDFs PDFs Linking notes and files Linking notes and files ",
+      "mods": {
+        "cmd": {
+          "arg": "Navigate a PDF"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Navigate+a+PDF",
+      "quicklookurl": "https://help.obsidian.md/pdf#Navigate+a+PDF"
+    },
+    {
+      "title": "Change how a PDF looks",
+      "subtitle": "Linking notes and files/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Change+how+a+PDF+looks",
+      "match": "Change how a PDF looks Change how a PDF looks PDFs PDFs Linking notes and files Linking notes and files ",
+      "mods": {
+        "cmd": {
+          "arg": "Change how a PDF looks"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Change+how+a+PDF+looks",
+      "quicklookurl": "https://help.obsidian.md/pdf#Change+how+a+PDF+looks"
+    },
+    {
+      "title": "Search a PDF",
+      "subtitle": "Linking notes and files/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Search+a+PDF",
+      "match": "Search a PDF Search a PDF PDFs PDFs Linking notes and files Linking notes and files ",
+      "mods": {
+        "cmd": {
+          "arg": "Search a PDF"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Search+a+PDF",
+      "quicklookurl": "https://help.obsidian.md/pdf#Search+a+PDF"
+    },
+    {
+      "title": "Copy text from a PDF",
+      "subtitle": "Linking notes and files/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Copy+text+from+a+PDF",
+      "match": "Copy text from a PDF Copy text from a PDF PDFs PDFs Linking notes and files Linking notes and files ",
+      "mods": {
+        "cmd": {
+          "arg": "Copy text from a PDF"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Copy+text+from+a+PDF",
+      "quicklookurl": "https://help.obsidian.md/pdf#Copy+text+from+a+PDF"
+    },
+    {
+      "title": "Embed a PDF",
+      "subtitle": "Linking notes and files/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Embed+a+PDF",
+      "match": "Embed a PDF Embed a PDF PDFs PDFs Linking notes and files Linking notes and files ",
+      "mods": {
+        "cmd": {
+          "arg": "Embed a PDF"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Embed+a+PDF",
+      "quicklookurl": "https://help.obsidian.md/pdf#Embed+a+PDF"
+    },
+    {
+      "title": "Export a note to PDF",
+      "subtitle": "Linking notes and files/PDFs",
+      "uid": "https://help.obsidian.md/pdf#Export+a+note+to+PDF",
+      "match": "Export a note to PDF Export a note to PDF PDFs PDFs Linking notes and files Linking notes and files ",
+      "mods": {
+        "cmd": {
+          "arg": "Export a note to PDF"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Export+a+note+to+PDF",
+      "quicklookurl": "https://help.obsidian.md/pdf#Export+a+note+to+PDF"
+    },
+    {
       "title": "Analytics",
       "match": "Analytics Analytics Obsidian Publish Obsidian Publish ",
       "subtitle": "Obsidian Publish",
@@ -18552,6 +19189,19 @@
       "quicklookurl": "https://help.obsidian.md/sync/region#Available+regions"
     },
     {
+      "title": "Record your settings",
+      "subtitle": "Obsidian Sync/Sync regions",
+      "uid": "https://help.obsidian.md/sync/region#Record+your+settings",
+      "match": "Record your settings Record your settings Sync regions Sync regions Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Record your settings"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/region#Record+your+settings",
+      "quicklookurl": "https://help.obsidian.md/sync/region#Record+your+settings"
+    },
+    {
       "title": "Change Sync region",
       "subtitle": "Obsidian Sync/Sync regions",
       "uid": "https://help.obsidian.md/sync/region#Change+Sync+region",
@@ -18563,6 +19213,19 @@
       },
       "arg": "https://help.obsidian.md/sync/region#Change+Sync+region",
       "quicklookurl": "https://help.obsidian.md/sync/region#Change+Sync+region"
+    },
+    {
+      "title": "Reconnect your other devices",
+      "subtitle": "Obsidian Sync/Sync regions",
+      "uid": "https://help.obsidian.md/sync/region#Reconnect+your+other+devices",
+      "match": "Reconnect your other devices Reconnect your other devices Sync regions Sync regions Obsidian Sync Obsidian Sync ",
+      "mods": {
+        "cmd": {
+          "arg": "Reconnect your other devices"
+        }
+      },
+      "arg": "https://help.obsidian.md/sync/region#Reconnect+your+other+devices",
+      "quicklookurl": "https://help.obsidian.md/sync/region#Reconnect+your+other+devices"
     },
     {
       "title": "Sync settings and selective syncing",
@@ -21997,6 +22660,45 @@
       "quicklookurl": "https://help.obsidian.md/ios#Customizing+widgets"
     },
     {
+      "title": "Quick Capture",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Quick+Capture",
+      "match": "Quick Capture Quick Capture Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Quick Capture"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Quick+Capture",
+      "quicklookurl": "https://help.obsidian.md/ios#Quick+Capture"
+    },
+    {
+      "title": "Capture locations",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Capture+locations",
+      "match": "Capture locations Capture locations Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Capture locations"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Capture+locations",
+      "quicklookurl": "https://help.obsidian.md/ios#Capture+locations"
+    },
+    {
+      "title": "Quick Capture templates",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Quick+Capture+templates",
+      "match": "Quick Capture templates Quick Capture templates Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Quick Capture templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Quick+Capture+templates",
+      "quicklookurl": "https://help.obsidian.md/ios#Quick+Capture+templates"
+    },
+    {
       "title": "Shortcuts",
       "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
       "uid": "https://help.obsidian.md/ios#Shortcuts",
@@ -22361,6 +23063,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Add+cards+from+web+pages"
     },
     {
+      "title": "Add cards from bases",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Add+cards+from+bases",
+      "match": "Add cards from bases Add cards from bases Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Add cards from bases"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Add+cards+from+bases",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Add+cards+from+bases"
+    },
+    {
       "title": "Add cards from folders",
       "subtitle": "Plugins/Canvas",
       "uid": "https://help.obsidian.md/plugins/canvas#Add+cards+from+folders",
@@ -22452,6 +23167,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Resize+a+card"
     },
     {
+      "title": "Align and arrange cards",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Align+and+arrange+cards",
+      "match": "Align and arrange cards Align and arrange cards Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Align and arrange cards"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Align+and+arrange+cards",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Align+and+arrange+cards"
+    },
+    {
       "title": "Connect cards",
       "subtitle": "Plugins/Canvas",
       "uid": "https://help.obsidian.md/plugins/canvas#Connect+cards",
@@ -22530,6 +23258,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Add+a+label+to+a+connection"
     },
     {
+      "title": "Change the direction of a connection",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Change+the+direction+of+a+connection",
+      "match": "Change the direction of a connection Change the direction of a connection Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Change the direction of a connection"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Change+the+direction+of+a+connection",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Change+the+direction+of+a+connection"
+    },
+    {
       "title": "Change the color of a card or connection",
       "subtitle": "Plugins/Canvas",
       "uid": "https://help.obsidian.md/plugins/canvas#Change+the+color+of+a+card+or+connection",
@@ -22567,6 +23308,19 @@
       },
       "arg": "https://help.obsidian.md/plugins/canvas#Group+selected+cards",
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Group+selected+cards"
+    },
+    {
+      "title": "Add a background to a group",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Add+a+background+to+a+group",
+      "match": "Add a background to a group Add a background to a group Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Add a background to a group"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Add+a+background+to+a+group",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Add+a+background+to+a+group"
     },
     {
       "title": "Navigate the canvas",
@@ -22647,6 +23401,71 @@
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Reset+zoom"
     },
     {
+      "title": "Jump to a group",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Jump+to+a+group",
+      "match": "Jump to a group Jump to a group Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Jump to a group"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Jump+to+a+group",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Jump+to+a+group"
+    },
+    {
+      "title": "Canvas settings",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Canvas+settings",
+      "match": "Canvas settings Canvas settings Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Canvas settings"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Canvas+settings",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Canvas+settings"
+    },
+    {
+      "title": "Export a canvas as an image",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Export+a+canvas+as+an+image",
+      "match": "Export a canvas as an image Export a canvas as an image Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Export a canvas as an image"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Export+a+canvas+as+an+image",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Export+a+canvas+as+an+image"
+    },
+    {
+      "title": "Undo and redo",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Undo+and+redo",
+      "match": "Undo and redo Undo and redo Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Undo and redo"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Undo+and+redo",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Undo+and+redo"
+    },
+    {
+      "title": "Canvas help",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Canvas+help",
+      "match": "Canvas help Canvas help Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Canvas help"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Canvas+help",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Canvas+help"
+    },
+    {
       "title": "Embed a canvas",
       "subtitle": "Plugins/Canvas",
       "uid": "https://help.obsidian.md/plugins/canvas#Embed+a+canvas",
@@ -22658,6 +23477,201 @@
       },
       "arg": "https://help.obsidian.md/plugins/canvas#Embed+a+canvas",
       "quicklookurl": "https://help.obsidian.md/plugins/canvas#Embed+a+canvas"
+    },
+    {
+      "title": "Use Canvas on mobile",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Use+Canvas+on+mobile",
+      "match": "Use Canvas on mobile Use Canvas on mobile Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Use Canvas on mobile"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Use+Canvas+on+mobile",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Use+Canvas+on+mobile"
+    },
+    {
+      "title": "Open the canvas menu",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Open+the+canvas+menu",
+      "match": "Open the canvas menu Open the canvas menu Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Open the canvas menu"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Open+the+canvas+menu",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Open+the+canvas+menu"
+    },
+    {
+      "title": "Add cards",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Add+cards",
+      "match": "Add cards Add cards Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Add cards"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Add+cards",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Add+cards"
+    },
+    {
+      "title": "Work with a selected card",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Work+with+a+selected+card",
+      "match": "Work with a selected card Work with a selected card Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Work with a selected card"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Work+with+a+selected+card",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Work+with+a+selected+card"
+    },
+    {
+      "title": "Move a card",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Move+a+card",
+      "match": "Move a card Move a card Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Move a card"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Move+a+card",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Move+a+card"
+    },
+    {
+      "title": "Resize a card",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Resize+a+card",
+      "match": "Resize a card Resize a card Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Resize a card"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Resize+a+card",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Resize+a+card"
+    },
+    {
+      "title": "Open the card menu",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Open+the+card+menu",
+      "match": "Open the card menu Open the card menu Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Open the card menu"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Open+the+card+menu",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Open+the+card+menu"
+    },
+    {
+      "title": "Edit a card",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Edit+a+card",
+      "match": "Edit a card Edit a card Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Edit a card"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Edit+a+card",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Edit+a+card"
+    },
+    {
+      "title": "Label a connection",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Label+a+connection",
+      "match": "Label a connection Label a connection Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Label a connection"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Label+a+connection",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Label+a+connection"
+    },
+    {
+      "title": "Change the direction of a connection",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Change+the+direction+of+a+connection",
+      "match": "Change the direction of a connection Change the direction of a connection Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Change the direction of a connection"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Change+the+direction+of+a+connection",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Change+the+direction+of+a+connection"
+    },
+    {
+      "title": "Open the line menu",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Open+the+line+menu",
+      "match": "Open the line menu Open the line menu Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Open the line menu"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Open+the+line+menu",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Open+the+line+menu"
+    },
+    {
+      "title": "Connect cards",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Connect+cards",
+      "match": "Connect cards Connect cards Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Connect cards"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Connect+cards",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Connect+cards"
+    },
+    {
+      "title": "Disconnect cards",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Disconnect+cards",
+      "match": "Disconnect cards Disconnect cards Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Disconnect cards"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Disconnect+cards",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Disconnect+cards"
+    },
+    {
+      "title": "Group cards",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Group+cards",
+      "match": "Group cards Group cards Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Group cards"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Group+cards",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Group+cards"
+    },
+    {
+      "title": "Canvas controls",
+      "subtitle": "Plugins/Canvas",
+      "uid": "https://help.obsidian.md/plugins/canvas#Canvas+controls",
+      "match": "Canvas controls Canvas controls Canvas Canvas Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Canvas controls"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/canvas#Canvas+controls",
+      "quicklookurl": "https://help.obsidian.md/plugins/canvas#Canvas+controls"
     },
     {
       "title": "Advanced tips",
@@ -22920,6 +23934,45 @@
       "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Move+a+file+or+folder"
     },
     {
+      "title": "Use the context menu",
+      "subtitle": "Plugins/File explorer",
+      "uid": "https://help.obsidian.md/plugins/file-explorer#Use+the+context+menu",
+      "match": "Use the context menu Use the context menu File explorer File explorer Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Use the context menu"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/file-explorer#Use+the+context+menu",
+      "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Use+the+context+menu"
+    },
+    {
+      "title": "Desktop",
+      "subtitle": "Plugins/File explorer",
+      "uid": "https://help.obsidian.md/plugins/file-explorer#Desktop",
+      "match": "Desktop Desktop File explorer File explorer Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Desktop"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/file-explorer#Desktop",
+      "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Desktop"
+    },
+    {
+      "title": "Mobile",
+      "subtitle": "Plugins/File explorer",
+      "uid": "https://help.obsidian.md/plugins/file-explorer#Mobile",
+      "match": "Mobile Mobile File explorer File explorer Plugins Plugins ",
+      "mods": {
+        "cmd": {
+          "arg": "Mobile"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/file-explorer#Mobile",
+      "quicklookurl": "https://help.obsidian.md/plugins/file-explorer#Mobile"
+    },
+    {
       "title": "File recovery",
       "match": "File recovery File recovery Plugins Plugins ",
       "subtitle": "Plugins",
@@ -23011,69 +24064,17 @@
       "quicklookurl": "https://help.obsidian.md/plugins/format-converter"
     },
     {
-      "title": "Supported formats",
+      "title": "Supported property formats",
       "subtitle": "Plugins/Format converter",
-      "uid": "https://help.obsidian.md/plugins/format-converter#Supported+formats",
-      "match": "Supported formats Supported formats Format converter Format converter Plugins Plugins ",
+      "uid": "https://help.obsidian.md/plugins/format-converter#Supported+property+formats",
+      "match": "Supported property formats Supported property formats Format converter Format converter Plugins Plugins ",
       "mods": {
         "cmd": {
-          "arg": "Supported formats"
+          "arg": "Supported property formats"
         }
       },
-      "arg": "https://help.obsidian.md/plugins/format-converter#Supported+formats",
-      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Supported+formats"
-    },
-    {
-      "title": "Roam Research",
-      "subtitle": "Plugins/Format converter",
-      "uid": "https://help.obsidian.md/plugins/format-converter#Roam+Research",
-      "match": "Roam Research Roam Research Format converter Format converter Plugins Plugins ",
-      "mods": {
-        "cmd": {
-          "arg": "Roam Research"
-        }
-      },
-      "arg": "https://help.obsidian.md/plugins/format-converter#Roam+Research",
-      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Roam+Research"
-    },
-    {
-      "title": "Bear",
-      "subtitle": "Plugins/Format converter",
-      "uid": "https://help.obsidian.md/plugins/format-converter#Bear",
-      "match": "Bear Bear Format converter Format converter Plugins Plugins ",
-      "mods": {
-        "cmd": {
-          "arg": "Bear"
-        }
-      },
-      "arg": "https://help.obsidian.md/plugins/format-converter#Bear",
-      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Bear"
-    },
-    {
-      "title": "Zettelkasten",
-      "subtitle": "Plugins/Format converter",
-      "uid": "https://help.obsidian.md/plugins/format-converter#Zettelkasten",
-      "match": "Zettelkasten Zettelkasten Format converter Format converter Plugins Plugins ",
-      "mods": {
-        "cmd": {
-          "arg": "Zettelkasten"
-        }
-      },
-      "arg": "https://help.obsidian.md/plugins/format-converter#Zettelkasten",
-      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Zettelkasten"
-    },
-    {
-      "title": "[[Properties]]",
-      "subtitle": "Plugins/Format converter",
-      "uid": "https://help.obsidian.md/plugins/format-converter#[[Properties]]",
-      "match": "[[Properties]] [[Properties]] Format converter Format converter Plugins Plugins ",
-      "mods": {
-        "cmd": {
-          "arg": "[[Properties]]"
-        }
-      },
-      "arg": "https://help.obsidian.md/plugins/format-converter#[[Properties]]",
-      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#[[Properties]]"
+      "arg": "https://help.obsidian.md/plugins/format-converter#Supported+property+formats",
+      "quicklookurl": "https://help.obsidian.md/plugins/format-converter#Supported+property+formats"
     },
     {
       "title": "Before",
@@ -24699,6 +25700,136 @@
       "uid": "https://help.obsidian.md/language",
       "arg": "https://help.obsidian.md/language",
       "quicklookurl": "https://help.obsidian.md/language"
+    },
+    {
+      "title": "More options menu",
+      "match": "More options menu More options menu User interface User interface ",
+      "subtitle": "User interface",
+      "mods": {
+        "cmd": {
+          "arg": "More options menu"
+        }
+      },
+      "uid": "https://help.obsidian.md/more-options-menu",
+      "arg": "https://help.obsidian.md/more-options-menu",
+      "quicklookurl": "https://help.obsidian.md/more-options-menu"
+    },
+    {
+      "title": "Open the menu",
+      "subtitle": "User interface/More options menu",
+      "uid": "https://help.obsidian.md/more-options-menu#Open+the+menu",
+      "match": "Open the menu Open the menu More options menu More options menu User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Open the menu"
+        }
+      },
+      "arg": "https://help.obsidian.md/more-options-menu#Open+the+menu",
+      "quicklookurl": "https://help.obsidian.md/more-options-menu#Open+the+menu"
+    },
+    {
+      "title": "Desktop",
+      "subtitle": "User interface/More options menu",
+      "uid": "https://help.obsidian.md/more-options-menu#Desktop",
+      "match": "Desktop Desktop More options menu More options menu User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Desktop"
+        }
+      },
+      "arg": "https://help.obsidian.md/more-options-menu#Desktop",
+      "quicklookurl": "https://help.obsidian.md/more-options-menu#Desktop"
+    },
+    {
+      "title": "View and layout",
+      "subtitle": "User interface/More options menu",
+      "uid": "https://help.obsidian.md/more-options-menu#View+and+layout",
+      "match": "View and layout View and layout More options menu More options menu User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "View and layout"
+        }
+      },
+      "arg": "https://help.obsidian.md/more-options-menu#View+and+layout",
+      "quicklookurl": "https://help.obsidian.md/more-options-menu#View+and+layout"
+    },
+    {
+      "title": "Manage the note",
+      "subtitle": "User interface/More options menu",
+      "uid": "https://help.obsidian.md/more-options-menu#Manage+the+note",
+      "match": "Manage the note Manage the note More options menu More options menu User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Manage the note"
+        }
+      },
+      "arg": "https://help.obsidian.md/more-options-menu#Manage+the+note",
+      "quicklookurl": "https://help.obsidian.md/more-options-menu#Manage+the+note"
+    },
+    {
+      "title": "Find",
+      "subtitle": "User interface/More options menu",
+      "uid": "https://help.obsidian.md/more-options-menu#Find",
+      "match": "Find Find More options menu More options menu User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Find"
+        }
+      },
+      "arg": "https://help.obsidian.md/more-options-menu#Find",
+      "quicklookurl": "https://help.obsidian.md/more-options-menu#Find"
+    },
+    {
+      "title": "Paths, history, and linked views",
+      "subtitle": "User interface/More options menu",
+      "uid": "https://help.obsidian.md/more-options-menu#Paths,+history,+and+linked+views",
+      "match": "Paths, history, and linked views Paths, history, and linked views More options menu More options menu User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Paths, history, and linked views"
+        }
+      },
+      "arg": "https://help.obsidian.md/more-options-menu#Paths,+history,+and+linked+views",
+      "quicklookurl": "https://help.obsidian.md/more-options-menu#Paths,+history,+and+linked+views"
+    },
+    {
+      "title": "Your computer",
+      "subtitle": "User interface/More options menu",
+      "uid": "https://help.obsidian.md/more-options-menu#Your+computer",
+      "match": "Your computer Your computer More options menu More options menu User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Your computer"
+        }
+      },
+      "arg": "https://help.obsidian.md/more-options-menu#Your+computer",
+      "quicklookurl": "https://help.obsidian.md/more-options-menu#Your+computer"
+    },
+    {
+      "title": "Tab menu",
+      "subtitle": "User interface/More options menu",
+      "uid": "https://help.obsidian.md/more-options-menu#Tab+menu",
+      "match": "Tab menu Tab menu More options menu More options menu User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Tab menu"
+        }
+      },
+      "arg": "https://help.obsidian.md/more-options-menu#Tab+menu",
+      "quicklookurl": "https://help.obsidian.md/more-options-menu#Tab+menu"
+    },
+    {
+      "title": "Mobile",
+      "subtitle": "User interface/More options menu",
+      "uid": "https://help.obsidian.md/more-options-menu#Mobile",
+      "match": "Mobile Mobile More options menu More options menu User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Mobile"
+        }
+      },
+      "arg": "https://help.obsidian.md/more-options-menu#Mobile",
+      "quicklookurl": "https://help.obsidian.md/more-options-menu#Mobile"
     },
     {
       "title": "Pop-out windows",
@@ -27884,6 +29015,110 @@
       },
       "arg": "https://help.obsidian.md/aliases#Etsi+linkittömiä+mainintoja+aliakselle",
       "quicklookurl": "https://help.obsidian.md/aliases#Etsi+linkittömiä+mainintoja+aliakselle"
+    },
+    {
+      "title": "PDF-tiedostot",
+      "match": "PDF tiedostot PDF-tiedostot fi/Muistiinpanojen ja tiedostojen linkittäminen fi/Muistiinpanojen ja tiedostojen linkittäminen ",
+      "subtitle": "fi/Muistiinpanojen ja tiedostojen linkittäminen",
+      "mods": {
+        "cmd": {
+          "arg": "PDF-tiedostot"
+        }
+      },
+      "uid": "https://help.obsidian.md/pdf",
+      "arg": "https://help.obsidian.md/pdf",
+      "quicklookurl": "https://help.obsidian.md/pdf"
+    },
+    {
+      "title": "PDF-tiedoston avaaminen",
+      "subtitle": "fi/Muistiinpanojen ja tiedostojen linkittäminen/PDF-tiedostot",
+      "uid": "https://help.obsidian.md/pdf#PDF-tiedoston+avaaminen",
+      "match": "PDF tiedoston avaaminen PDF-tiedoston avaaminen PDF tiedostot PDF-tiedostot fi/Muistiinpanojen ja tiedostojen linkittäminen fi/Muistiinpanojen ja tiedostojen linkittäminen ",
+      "mods": {
+        "cmd": {
+          "arg": "PDF-tiedoston avaaminen"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#PDF-tiedoston+avaaminen",
+      "quicklookurl": "https://help.obsidian.md/pdf#PDF-tiedoston+avaaminen"
+    },
+    {
+      "title": "PDF-tiedostossa navigointi",
+      "subtitle": "fi/Muistiinpanojen ja tiedostojen linkittäminen/PDF-tiedostot",
+      "uid": "https://help.obsidian.md/pdf#PDF-tiedostossa+navigointi",
+      "match": "PDF tiedostossa navigointi PDF-tiedostossa navigointi PDF tiedostot PDF-tiedostot fi/Muistiinpanojen ja tiedostojen linkittäminen fi/Muistiinpanojen ja tiedostojen linkittäminen ",
+      "mods": {
+        "cmd": {
+          "arg": "PDF-tiedostossa navigointi"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#PDF-tiedostossa+navigointi",
+      "quicklookurl": "https://help.obsidian.md/pdf#PDF-tiedostossa+navigointi"
+    },
+    {
+      "title": "PDF-tiedoston ulkoasun muuttaminen",
+      "subtitle": "fi/Muistiinpanojen ja tiedostojen linkittäminen/PDF-tiedostot",
+      "uid": "https://help.obsidian.md/pdf#PDF-tiedoston+ulkoasun+muuttaminen",
+      "match": "PDF tiedoston ulkoasun muuttaminen PDF-tiedoston ulkoasun muuttaminen PDF tiedostot PDF-tiedostot fi/Muistiinpanojen ja tiedostojen linkittäminen fi/Muistiinpanojen ja tiedostojen linkittäminen ",
+      "mods": {
+        "cmd": {
+          "arg": "PDF-tiedoston ulkoasun muuttaminen"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#PDF-tiedoston+ulkoasun+muuttaminen",
+      "quicklookurl": "https://help.obsidian.md/pdf#PDF-tiedoston+ulkoasun+muuttaminen"
+    },
+    {
+      "title": "PDF-tiedostossa hakeminen",
+      "subtitle": "fi/Muistiinpanojen ja tiedostojen linkittäminen/PDF-tiedostot",
+      "uid": "https://help.obsidian.md/pdf#PDF-tiedostossa+hakeminen",
+      "match": "PDF tiedostossa hakeminen PDF-tiedostossa hakeminen PDF tiedostot PDF-tiedostot fi/Muistiinpanojen ja tiedostojen linkittäminen fi/Muistiinpanojen ja tiedostojen linkittäminen ",
+      "mods": {
+        "cmd": {
+          "arg": "PDF-tiedostossa hakeminen"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#PDF-tiedostossa+hakeminen",
+      "quicklookurl": "https://help.obsidian.md/pdf#PDF-tiedostossa+hakeminen"
+    },
+    {
+      "title": "Tekstin kopioiminen PDF-tiedostosta",
+      "subtitle": "fi/Muistiinpanojen ja tiedostojen linkittäminen/PDF-tiedostot",
+      "uid": "https://help.obsidian.md/pdf#Tekstin+kopioiminen+PDF-tiedostosta",
+      "match": "Tekstin kopioiminen PDF tiedostosta Tekstin kopioiminen PDF-tiedostosta PDF tiedostot PDF-tiedostot fi/Muistiinpanojen ja tiedostojen linkittäminen fi/Muistiinpanojen ja tiedostojen linkittäminen ",
+      "mods": {
+        "cmd": {
+          "arg": "Tekstin kopioiminen PDF-tiedostosta"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Tekstin+kopioiminen+PDF-tiedostosta",
+      "quicklookurl": "https://help.obsidian.md/pdf#Tekstin+kopioiminen+PDF-tiedostosta"
+    },
+    {
+      "title": "PDF-tiedoston upottaminen",
+      "subtitle": "fi/Muistiinpanojen ja tiedostojen linkittäminen/PDF-tiedostot",
+      "uid": "https://help.obsidian.md/pdf#PDF-tiedoston+upottaminen",
+      "match": "PDF tiedoston upottaminen PDF-tiedoston upottaminen PDF tiedostot PDF-tiedostot fi/Muistiinpanojen ja tiedostojen linkittäminen fi/Muistiinpanojen ja tiedostojen linkittäminen ",
+      "mods": {
+        "cmd": {
+          "arg": "PDF-tiedoston upottaminen"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#PDF-tiedoston+upottaminen",
+      "quicklookurl": "https://help.obsidian.md/pdf#PDF-tiedoston+upottaminen"
+    },
+    {
+      "title": "Muistiinpanon vieminen PDF-muotoon",
+      "subtitle": "fi/Muistiinpanojen ja tiedostojen linkittäminen/PDF-tiedostot",
+      "uid": "https://help.obsidian.md/pdf#Muistiinpanon+vieminen+PDF-muotoon",
+      "match": "Muistiinpanon vieminen PDF muotoon Muistiinpanon vieminen PDF-muotoon PDF tiedostot PDF-tiedostot fi/Muistiinpanojen ja tiedostojen linkittäminen fi/Muistiinpanojen ja tiedostojen linkittäminen ",
+      "mods": {
+        "cmd": {
+          "arg": "Muistiinpanon vieminen PDF-muotoon"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Muistiinpanon+vieminen+PDF-muotoon",
+      "quicklookurl": "https://help.obsidian.md/pdf#Muistiinpanon+vieminen+PDF-muotoon"
     },
     {
       "title": "Sisäiset linkit",
@@ -31409,6 +32644,19 @@
       "quicklookurl": "https://help.obsidian.md/uri#Esimerkkejä"
     },
     {
+      "title": "Kopioi Obsidian-osoite",
+      "subtitle": "fi/Obsidianin laajentaminen/Obsidian URI",
+      "uid": "https://help.obsidian.md/uri#Kopioi+Obsidian-osoite",
+      "match": "Kopioi Obsidian osoite Kopioi Obsidian-osoite Obsidian URI Obsidian URI fi/Obsidianin laajentaminen fi/Obsidianin laajentaminen ",
+      "mods": {
+        "cmd": {
+          "arg": "Kopioi Obsidian-osoite"
+        }
+      },
+      "arg": "https://help.obsidian.md/uri#Kopioi+Obsidian-osoite",
+      "quicklookurl": "https://help.obsidian.md/uri#Kopioi+Obsidian-osoite"
+    },
+    {
       "title": "Parametrit",
       "subtitle": "fi/Obsidianin laajentaminen/Obsidian URI",
       "uid": "https://help.obsidian.md/uri#Parametrit",
@@ -32787,6 +34035,32 @@
       "quicklookurl": "https://help.obsidian.md/manage-notes#Een+nieuwe+notitie+aanmaken"
     },
     {
+      "title": "Bestanden buiten je kluis openen",
+      "subtitle": "nl/Bestanden en mappen/Notities beheren",
+      "uid": "https://help.obsidian.md/manage-notes#Bestanden+buiten+je+kluis+openen",
+      "match": "Bestanden buiten je kluis openen Bestanden buiten je kluis openen Notities beheren Notities beheren nl/Bestanden en mappen nl/Bestanden en mappen ",
+      "mods": {
+        "cmd": {
+          "arg": "Bestanden buiten je kluis openen"
+        }
+      },
+      "arg": "https://help.obsidian.md/manage-notes#Bestanden+buiten+je+kluis+openen",
+      "quicklookurl": "https://help.obsidian.md/manage-notes#Bestanden+buiten+je+kluis+openen"
+    },
+    {
+      "title": "Bestanden vooraf bekijken met Quick Look",
+      "subtitle": "nl/Bestanden en mappen/Notities beheren",
+      "uid": "https://help.obsidian.md/manage-notes#Bestanden+vooraf+bekijken+met+Quick+Look",
+      "match": "Bestanden vooraf bekijken met Quick Look Bestanden vooraf bekijken met Quick Look Notities beheren Notities beheren nl/Bestanden en mappen nl/Bestanden en mappen ",
+      "mods": {
+        "cmd": {
+          "arg": "Bestanden vooraf bekijken met Quick Look"
+        }
+      },
+      "arg": "https://help.obsidian.md/manage-notes#Bestanden+vooraf+bekijken+met+Quick+Look",
+      "quicklookurl": "https://help.obsidian.md/manage-notes#Bestanden+vooraf+bekijken+met+Quick+Look"
+    },
+    {
       "title": "Naam van een notitie wijzigen",
       "subtitle": "nl/Bestanden en mappen/Notities beheren",
       "uid": "https://help.obsidian.md/manage-notes#Naam+van+een+notitie+wijzigen",
@@ -32967,6 +34241,19 @@
       },
       "arg": "https://help.obsidian.md/syntax#Vet,+cursief,+markeringen",
       "quicklookurl": "https://help.obsidian.md/syntax#Vet,+cursief,+markeringen"
+    },
+    {
+      "title": "Markeerkleuren",
+      "subtitle": "nl/Bewerken en vormgeven/Basis opmaaksyntaxis",
+      "uid": "https://help.obsidian.md/syntax#Markeerkleuren",
+      "match": "Markeerkleuren Markeerkleuren Basis opmaaksyntaxis Basis opmaaksyntaxis nl/Bewerken en vormgeven nl/Bewerken en vormgeven ",
+      "mods": {
+        "cmd": {
+          "arg": "Markeerkleuren"
+        }
+      },
+      "arg": "https://help.obsidian.md/syntax#Markeerkleuren",
+      "quicklookurl": "https://help.obsidian.md/syntax#Markeerkleuren"
     },
     {
       "title": "Interne koppelingen",
@@ -34269,6 +35556,58 @@
       "quicklookurl": "https://help.obsidian.md/edit-and-read#Bronmodus"
     },
     {
+      "title": "Zoeken en vervangen",
+      "match": "Zoeken en vervangen Zoeken en vervangen nl/Bewerken en vormgeven nl/Bewerken en vormgeven ",
+      "subtitle": "nl/Bewerken en vormgeven",
+      "mods": {
+        "cmd": {
+          "arg": "Zoeken en vervangen"
+        }
+      },
+      "uid": "https://help.obsidian.md/find-and-replace",
+      "arg": "https://help.obsidian.md/find-and-replace",
+      "quicklookurl": "https://help.obsidian.md/find-and-replace"
+    },
+    {
+      "title": "Zoeken en vervangen openen",
+      "subtitle": "nl/Bewerken en vormgeven/Zoeken en vervangen",
+      "uid": "https://help.obsidian.md/find-and-replace#Zoeken+en+vervangen+openen",
+      "match": "Zoeken en vervangen openen Zoeken en vervangen openen Zoeken en vervangen Zoeken en vervangen nl/Bewerken en vormgeven nl/Bewerken en vormgeven ",
+      "mods": {
+        "cmd": {
+          "arg": "Zoeken en vervangen openen"
+        }
+      },
+      "arg": "https://help.obsidian.md/find-and-replace#Zoeken+en+vervangen+openen",
+      "quicklookurl": "https://help.obsidian.md/find-and-replace#Zoeken+en+vervangen+openen"
+    },
+    {
+      "title": "Overeenkomsten zoeken",
+      "subtitle": "nl/Bewerken en vormgeven/Zoeken en vervangen",
+      "uid": "https://help.obsidian.md/find-and-replace#Overeenkomsten+zoeken",
+      "match": "Overeenkomsten zoeken Overeenkomsten zoeken Zoeken en vervangen Zoeken en vervangen nl/Bewerken en vormgeven nl/Bewerken en vormgeven ",
+      "mods": {
+        "cmd": {
+          "arg": "Overeenkomsten zoeken"
+        }
+      },
+      "arg": "https://help.obsidian.md/find-and-replace#Overeenkomsten+zoeken",
+      "quicklookurl": "https://help.obsidian.md/find-and-replace#Overeenkomsten+zoeken"
+    },
+    {
+      "title": "Overeenkomsten vervangen",
+      "subtitle": "nl/Bewerken en vormgeven/Zoeken en vervangen",
+      "uid": "https://help.obsidian.md/find-and-replace#Overeenkomsten+vervangen",
+      "match": "Overeenkomsten vervangen Overeenkomsten vervangen Zoeken en vervangen Zoeken en vervangen nl/Bewerken en vormgeven nl/Bewerken en vormgeven ",
+      "mods": {
+        "cmd": {
+          "arg": "Overeenkomsten vervangen"
+        }
+      },
+      "arg": "https://help.obsidian.md/find-and-replace#Overeenkomsten+vervangen",
+      "quicklookurl": "https://help.obsidian.md/find-and-replace#Overeenkomsten+vervangen"
+    },
+    {
       "title": "Aliassen",
       "match": "Aliassen Aliassen nl/Notities en bestanden koppelen nl/Notities en bestanden koppelen ",
       "subtitle": "nl/Notities en bestanden koppelen",
@@ -34527,6 +35866,110 @@
       },
       "arg": "https://help.obsidian.md/links#Een+gekoppeld+bestand+voorbekijken",
       "quicklookurl": "https://help.obsidian.md/links#Een+gekoppeld+bestand+voorbekijken"
+    },
+    {
+      "title": "PDF's",
+      "match": "PDF's PDF's nl/Notities en bestanden koppelen nl/Notities en bestanden koppelen ",
+      "subtitle": "nl/Notities en bestanden koppelen",
+      "mods": {
+        "cmd": {
+          "arg": "PDF's"
+        }
+      },
+      "uid": "https://help.obsidian.md/pdf",
+      "arg": "https://help.obsidian.md/pdf",
+      "quicklookurl": "https://help.obsidian.md/pdf"
+    },
+    {
+      "title": "Een PDF openen",
+      "subtitle": "nl/Notities en bestanden koppelen/PDF's",
+      "uid": "https://help.obsidian.md/pdf#Een+PDF+openen",
+      "match": "Een PDF openen Een PDF openen PDF's PDF's nl/Notities en bestanden koppelen nl/Notities en bestanden koppelen ",
+      "mods": {
+        "cmd": {
+          "arg": "Een PDF openen"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Een+PDF+openen",
+      "quicklookurl": "https://help.obsidian.md/pdf#Een+PDF+openen"
+    },
+    {
+      "title": "Navigeren in een PDF",
+      "subtitle": "nl/Notities en bestanden koppelen/PDF's",
+      "uid": "https://help.obsidian.md/pdf#Navigeren+in+een+PDF",
+      "match": "Navigeren in een PDF Navigeren in een PDF PDF's PDF's nl/Notities en bestanden koppelen nl/Notities en bestanden koppelen ",
+      "mods": {
+        "cmd": {
+          "arg": "Navigeren in een PDF"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Navigeren+in+een+PDF",
+      "quicklookurl": "https://help.obsidian.md/pdf#Navigeren+in+een+PDF"
+    },
+    {
+      "title": "Het uiterlijk van een PDF wijzigen",
+      "subtitle": "nl/Notities en bestanden koppelen/PDF's",
+      "uid": "https://help.obsidian.md/pdf#Het+uiterlijk+van+een+PDF+wijzigen",
+      "match": "Het uiterlijk van een PDF wijzigen Het uiterlijk van een PDF wijzigen PDF's PDF's nl/Notities en bestanden koppelen nl/Notities en bestanden koppelen ",
+      "mods": {
+        "cmd": {
+          "arg": "Het uiterlijk van een PDF wijzigen"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Het+uiterlijk+van+een+PDF+wijzigen",
+      "quicklookurl": "https://help.obsidian.md/pdf#Het+uiterlijk+van+een+PDF+wijzigen"
+    },
+    {
+      "title": "Zoeken in een PDF",
+      "subtitle": "nl/Notities en bestanden koppelen/PDF's",
+      "uid": "https://help.obsidian.md/pdf#Zoeken+in+een+PDF",
+      "match": "Zoeken in een PDF Zoeken in een PDF PDF's PDF's nl/Notities en bestanden koppelen nl/Notities en bestanden koppelen ",
+      "mods": {
+        "cmd": {
+          "arg": "Zoeken in een PDF"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Zoeken+in+een+PDF",
+      "quicklookurl": "https://help.obsidian.md/pdf#Zoeken+in+een+PDF"
+    },
+    {
+      "title": "Tekst kopiëren uit een PDF",
+      "subtitle": "nl/Notities en bestanden koppelen/PDF's",
+      "uid": "https://help.obsidian.md/pdf#Tekst+kopiëren+uit+een+PDF",
+      "match": "Tekst kopiëren uit een PDF Tekst kopiëren uit een PDF PDF's PDF's nl/Notities en bestanden koppelen nl/Notities en bestanden koppelen ",
+      "mods": {
+        "cmd": {
+          "arg": "Tekst kopiëren uit een PDF"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Tekst+kopiëren+uit+een+PDF",
+      "quicklookurl": "https://help.obsidian.md/pdf#Tekst+kopiëren+uit+een+PDF"
+    },
+    {
+      "title": "Een PDF insluiten",
+      "subtitle": "nl/Notities en bestanden koppelen/PDF's",
+      "uid": "https://help.obsidian.md/pdf#Een+PDF+insluiten",
+      "match": "Een PDF insluiten Een PDF insluiten PDF's PDF's nl/Notities en bestanden koppelen nl/Notities en bestanden koppelen ",
+      "mods": {
+        "cmd": {
+          "arg": "Een PDF insluiten"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Een+PDF+insluiten",
+      "quicklookurl": "https://help.obsidian.md/pdf#Een+PDF+insluiten"
+    },
+    {
+      "title": "Een notitie exporteren naar PDF",
+      "subtitle": "nl/Notities en bestanden koppelen/PDF's",
+      "uid": "https://help.obsidian.md/pdf#Een+notitie+exporteren+naar+PDF",
+      "match": "Een notitie exporteren naar PDF Een notitie exporteren naar PDF PDF's PDF's nl/Notities en bestanden koppelen nl/Notities en bestanden koppelen ",
+      "mods": {
+        "cmd": {
+          "arg": "Een notitie exporteren naar PDF"
+        }
+      },
+      "arg": "https://help.obsidian.md/pdf#Een+notitie+exporteren+naar+PDF",
+      "quicklookurl": "https://help.obsidian.md/pdf#Een+notitie+exporteren+naar+PDF"
     },
     {
       "title": "CSV-bestanden importeren",
@@ -38765,6 +40208,19 @@
       },
       "arg": "https://help.obsidian.md/uri#Voorbeelden",
       "quicklookurl": "https://help.obsidian.md/uri#Voorbeelden"
+    },
+    {
+      "title": "Een Obsidian-URL kopiëren",
+      "subtitle": "nl/Obsidian uitbreiden/Obsidian URI",
+      "uid": "https://help.obsidian.md/uri#Een+Obsidian-URL+kopiëren",
+      "match": "Een Obsidian URL kopiëren Een Obsidian-URL kopiëren Obsidian URI Obsidian URI nl/Obsidian uitbreiden nl/Obsidian uitbreiden ",
+      "mods": {
+        "cmd": {
+          "arg": "Een Obsidian-URL kopiëren"
+        }
+      },
+      "arg": "https://help.obsidian.md/uri#Een+Obsidian-URL+kopiëren",
+      "quicklookurl": "https://help.obsidian.md/uri#Een+Obsidian-URL+kopiëren"
     },
     {
       "title": "Parameters",
