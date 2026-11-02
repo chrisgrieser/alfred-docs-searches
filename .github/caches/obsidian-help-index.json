@@ -4733,6 +4733,19 @@
       "quicklookurl": "https://help.obsidian.md/bases/syntax#Files+and+links"
     },
     {
+      "title": "URLs",
+      "subtitle": "Bases/Bases syntax",
+      "uid": "https://help.obsidian.md/bases/syntax#URLs",
+      "match": "URLs URLs Bases syntax Bases syntax Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "URLs"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/syntax#URLs",
+      "quicklookurl": "https://help.obsidian.md/bases/syntax#URLs"
+    },
+    {
       "title": "Create a base",
       "match": "Create a base Create a base Bases Bases ",
       "subtitle": "Bases",
@@ -5927,6 +5940,19 @@
       },
       "arg": "https://help.obsidian.md/bases/functions#`linksTo()`",
       "quicklookurl": "https://help.obsidian.md/bases/functions#`linksTo()`"
+    },
+    {
+      "title": "URL type",
+      "subtitle": "Bases/Functions",
+      "uid": "https://help.obsidian.md/bases/functions#URL+type",
+      "match": "URL type URL type Functions Functions Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "URL type"
+        }
+      },
+      "arg": "https://help.obsidian.md/bases/functions#URL+type",
+      "quicklookurl": "https://help.obsidian.md/bases/functions#URL+type"
     },
     {
       "title": "File type",
@@ -22231,19 +22257,6 @@
       "quicklookurl": "https://help.obsidian.md/credits#MathJax"
     },
     {
-      "title": "Mermaid",
-      "subtitle": "Obsidian/Credits",
-      "uid": "https://help.obsidian.md/credits#Mermaid",
-      "match": "Mermaid Mermaid Credits Credits Obsidian Obsidian ",
-      "mods": {
-        "cmd": {
-          "arg": "Mermaid"
-        }
-      },
-      "arg": "https://help.obsidian.md/credits#Mermaid",
-      "quicklookurl": "https://help.obsidian.md/credits#Mermaid"
-    },
-    {
       "title": "Moment.js",
       "subtitle": "Obsidian/Credits",
       "uid": "https://help.obsidian.md/credits#Moment.js",
@@ -22268,6 +22281,19 @@
       },
       "arg": "https://help.obsidian.md/credits#pdf.js",
       "quicklookurl": "https://help.obsidian.md/credits#pdf.js"
+    },
+    {
+      "title": "Pele",
+      "subtitle": "Obsidian/Credits",
+      "uid": "https://help.obsidian.md/credits#Pele",
+      "match": "Pele Pele Credits Credits Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Pele"
+        }
+      },
+      "arg": "https://help.obsidian.md/credits#Pele",
+      "quicklookurl": "https://help.obsidian.md/credits#Pele"
     },
     {
       "title": "PixiJS",
