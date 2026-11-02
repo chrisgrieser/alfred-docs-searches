@@ -12,7 +12,7 @@
   "bash": "bash",
   "bazel": "bazel~9",
   "bluebird": "bluebird",
-  "bootstrap": "bootstrap~5",
+  "bootstrap": "bootstrap~6",
   "bottle": "bottle~0.12",
   "bower": "bower",
   "bun": "bun",
