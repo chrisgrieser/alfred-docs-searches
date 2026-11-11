@@ -25,9 +25,8 @@ function run() {
 	const docsUrl = "https://api.github.com/repos/biomejs/website/git/trees/main?recursive=1";
 	const baseUrl = "https://biomejs.dev";
 
-	// `\w{3,}` excludes translations of the docs, which are in folders like
-	// `/ja/` or `/zh-CN/` https://github.com/biomejs/website/tree/main/src/content/docs
-	const docPathRegex = /^src\/content\/docs\/(\w{3,}.*)\.mdx?$/;
+	// https://github.com/biomejs/website/tree/main/src/content/docs/en
+	const docPathRegex = /^src\/content\/docs\/en\/(.*)\.mdx?$/;
 
 	const response = JSON.parse(httpRequest(docsUrl));
 	if (!response) return JSON.stringify({ items: [{ title: "Could not load.", valid: false }] });
@@ -36,12 +35,25 @@ function run() {
 		const path = entry.path;
 		const [_, subsite] = path.match(docPathRegex) || [];
 
-		if (!subsite) return {};
+		if (!subsite) return [];
 		if (path.endsWith("404.md")) return [];
 
 		const parts = subsite.split("/");
+
 		let title = parts.pop() || "??";
-		let category = parts.join("/");
+		const allLangs = ["javascript", "typescript", "html", "json", "css", "markdown", "graphql"];
+		let lang = "";
+		if (allLangs.includes(title)) {
+			lang = title
+				.replaceAll("javascript", "JavaScript")
+				.replaceAll("typescript", "TypeScript")
+				.replaceAll("json", "JSON")
+				.replaceAll("css", "CSS")
+				.replaceAll("html", "HTML")
+			title = parts.pop() || "??";
+		}
+
+		let category = parts.join("/") + (lang ? ` (${lang})` : "");
 		let url = `${baseUrl}/${subsite}`;
 
 		if (subsite.endsWith("index")) {
@@ -50,14 +62,10 @@ function run() {
 			url = `${baseUrl}/${subsite.slice(0, -5)}`;
 		}
 
-		if (category.endsWith("rules")) {
-			// camelCase to conform to rule-casing the user expects
-			title = title.replace(/-\w/g, (match) => match.slice(-1).toUpperCase());
-		} else {
-			// capitalize
-			title = title.replaceAll("-", " ");
-			title = title.charAt(0).toUpperCase() + title.slice(1); // capitalize
-		}
+		title = title
+			.replace(/-\w/g, (match) => match.slice(-1).toUpperCase()) // camelCase to conform to rule-casing the user expects
+			.replaceAll("-", " ");
+		title = title.charAt(0).toUpperCase() + title.slice(1); // capitalize
 
 		return {
 			title: title,
