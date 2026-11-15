@@ -2419,6 +2419,19 @@
       "quicklookurl": "https://help.obsidian.md/import/airtable#Einschränkungen"
     },
     {
+      "title": "Fehlerbehebung",
+      "subtitle": "de/Notizen importieren/Aus Airtable importieren",
+      "uid": "https://help.obsidian.md/import/airtable#Fehlerbehebung",
+      "match": "Fehlerbehebung Fehlerbehebung Aus Airtable importieren Aus Airtable importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Fehlerbehebung"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Fehlerbehebung",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Fehlerbehebung"
+    },
+    {
       "title": "Aus Logseq importieren",
       "match": "Aus Logseq importieren Aus Logseq importieren de/Notizen importieren de/Notizen importieren ",
       "subtitle": "de/Notizen importieren",
@@ -2547,6 +2560,71 @@
       },
       "arg": "https://help.obsidian.md/import/logseq#Fehlerbehebung",
       "quicklookurl": "https://help.obsidian.md/import/logseq#Fehlerbehebung"
+    },
+    {
+      "title": "Aus Samsung Notes importieren",
+      "match": "Aus Samsung Notes importieren Aus Samsung Notes importieren de/Notizen importieren de/Notizen importieren ",
+      "subtitle": "de/Notizen importieren",
+      "mods": {
+        "cmd": {
+          "arg": "Aus Samsung Notes importieren"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/samsung-notes",
+      "arg": "https://help.obsidian.md/import/samsung-notes",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes"
+    },
+    {
+      "title": "Notizen aus Samsung Notes exportieren",
+      "subtitle": "de/Notizen importieren/Aus Samsung Notes importieren",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Notizen+aus+Samsung+Notes+exportieren",
+      "match": "Notizen aus Samsung Notes exportieren Notizen aus Samsung Notes exportieren Aus Samsung Notes importieren Aus Samsung Notes importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Notizen aus Samsung Notes exportieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Notizen+aus+Samsung+Notes+exportieren",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Notizen+aus+Samsung+Notes+exportieren"
+    },
+    {
+      "title": "Samsung-Notes-Daten in Obsidian importieren",
+      "subtitle": "de/Notizen importieren/Aus Samsung Notes importieren",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Samsung-Notes-Daten+in+Obsidian+importieren",
+      "match": "Samsung Notes Daten in Obsidian importieren Samsung-Notes-Daten in Obsidian importieren Aus Samsung Notes importieren Aus Samsung Notes importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Samsung-Notes-Daten in Obsidian importieren"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Samsung-Notes-Daten+in+Obsidian+importieren",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Samsung-Notes-Daten+in+Obsidian+importieren"
+    },
+    {
+      "title": "Einschränkungen",
+      "subtitle": "de/Notizen importieren/Aus Samsung Notes importieren",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Einschränkungen",
+      "match": "Einschränkungen Einschränkungen Aus Samsung Notes importieren Aus Samsung Notes importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Einschränkungen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Einschränkungen",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Einschränkungen"
+    },
+    {
+      "title": "Vorlagen",
+      "subtitle": "de/Notizen importieren/Aus Samsung Notes importieren",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Vorlagen",
+      "match": "Vorlagen Vorlagen Aus Samsung Notes importieren Aus Samsung Notes importieren de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Vorlagen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Vorlagen",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Vorlagen"
     },
     {
       "title": "Aus Tomboy und Gnote importieren",
@@ -3082,6 +3160,19 @@
       "quicklookurl": "https://help.obsidian.md/plugins/importer#Importprogramm+installieren"
     },
     {
+      "title": "Importer-Vorlagen",
+      "subtitle": "de/Notizen importieren/Importprogramm",
+      "uid": "https://help.obsidian.md/plugins/importer#Importer-Vorlagen",
+      "match": "Importer Vorlagen Importer-Vorlagen Importprogramm Importprogramm de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Importer-Vorlagen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/importer#Importer-Vorlagen",
+      "quicklookurl": "https://help.obsidian.md/plugins/importer#Importer-Vorlagen"
+    },
+    {
       "title": "Markdown",
       "match": "Markdown Markdown de/Notizen importieren de/Notizen importieren ",
       "subtitle": "de/Notizen importieren",
@@ -3132,6 +3223,19 @@
       "uid": "https://help.obsidian.md/import/notion",
       "arg": "https://help.obsidian.md/import/notion",
       "quicklookurl": "https://help.obsidian.md/import/notion"
+    },
+    {
+      "title": "Importierte Seiten anpassen",
+      "subtitle": "de/Notizen importieren/Notion",
+      "uid": "https://help.obsidian.md/import/notion#Importierte+Seiten+anpassen",
+      "match": "Importierte Seiten anpassen Importierte Seiten anpassen Notion Notion de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Importierte Seiten anpassen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/notion#Importierte+Seiten+anpassen",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Importierte+Seiten+anpassen"
     },
     {
       "title": "Import von deinem Notion-Konto",
@@ -3249,6 +3353,19 @@
       },
       "arg": "https://help.obsidian.md/import/notion#Große+Workspaces+importieren",
       "quicklookurl": "https://help.obsidian.md/import/notion#Große+Workspaces+importieren"
+    },
+    {
+      "title": "Vorlagen",
+      "subtitle": "de/Notizen importieren/Notion",
+      "uid": "https://help.obsidian.md/import/notion#Vorlagen",
+      "match": "Vorlagen Vorlagen Notion Notion de/Notizen importieren de/Notizen importieren ",
+      "mods": {
+        "cmd": {
+          "arg": "Vorlagen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/notion#Vorlagen",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Vorlagen"
     },
     {
       "title": "OneNote",
@@ -4900,6 +5017,58 @@
       },
       "arg": "https://help.obsidian.md/formulas#Use+functions",
       "quicklookurl": "https://help.obsidian.md/formulas#Use+functions"
+    },
+    {
+      "title": "Use properties from linked notes",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md/formulas#Use+properties+from+linked+notes",
+      "match": "Use properties from linked notes Use properties from linked notes Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Use properties from linked notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/formulas#Use+properties+from+linked+notes",
+      "quicklookurl": "https://help.obsidian.md/formulas#Use+properties+from+linked+notes"
+    },
+    {
+      "title": "Look up a value",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md/formulas#Look+up+a+value",
+      "match": "Look up a value Look up a value Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Look up a value"
+        }
+      },
+      "arg": "https://help.obsidian.md/formulas#Look+up+a+value",
+      "quicklookurl": "https://help.obsidian.md/formulas#Look+up+a+value"
+    },
+    {
+      "title": "Roll up values",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md/formulas#Roll+up+values",
+      "match": "Roll up values Roll up values Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Roll up values"
+        }
+      },
+      "arg": "https://help.obsidian.md/formulas#Roll+up+values",
+      "quicklookurl": "https://help.obsidian.md/formulas#Roll+up+values"
+    },
+    {
+      "title": "Roll up values from notes that link here",
+      "subtitle": "Bases/Formulas",
+      "uid": "https://help.obsidian.md/formulas#Roll+up+values+from+notes+that+link+here",
+      "match": "Roll up values from notes that link here Roll up values from notes that link here Formulas Formulas Bases Bases ",
+      "mods": {
+        "cmd": {
+          "arg": "Roll up values from notes that link here"
+        }
+      },
+      "arg": "https://help.obsidian.md/formulas#Roll+up+values+from+notes+that+link+here",
+      "quicklookurl": "https://help.obsidian.md/formulas#Roll+up+values+from+notes+that+link+here"
     },
     {
       "title": "Formula examples",
@@ -15393,6 +15562,71 @@
       "quicklookurl": "https://help.obsidian.md/import/roam#Templates"
     },
     {
+      "title": "Import from Samsung Notes",
+      "match": "Import from Samsung Notes Import from Samsung Notes Import notes Import notes ",
+      "subtitle": "Import notes",
+      "mods": {
+        "cmd": {
+          "arg": "Import from Samsung Notes"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/samsung-notes",
+      "arg": "https://help.obsidian.md/import/samsung-notes",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes"
+    },
+    {
+      "title": "Export your notes from Samsung Notes",
+      "subtitle": "Import notes/Import from Samsung Notes",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Export+your+notes+from+Samsung+Notes",
+      "match": "Export your notes from Samsung Notes Export your notes from Samsung Notes Import from Samsung Notes Import from Samsung Notes Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Export your notes from Samsung Notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Export+your+notes+from+Samsung+Notes",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Export+your+notes+from+Samsung+Notes"
+    },
+    {
+      "title": "Import your Samsung Notes data into Obsidian",
+      "subtitle": "Import notes/Import from Samsung Notes",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Import+your+Samsung+Notes+data+into+Obsidian",
+      "match": "Import your Samsung Notes data into Obsidian Import your Samsung Notes data into Obsidian Import from Samsung Notes Import from Samsung Notes Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Import your Samsung Notes data into Obsidian"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Import+your+Samsung+Notes+data+into+Obsidian",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Import+your+Samsung+Notes+data+into+Obsidian"
+    },
+    {
+      "title": "Limitations",
+      "subtitle": "Import notes/Import from Samsung Notes",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Limitations",
+      "match": "Limitations Limitations Import from Samsung Notes Import from Samsung Notes Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Limitations"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Limitations",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Limitations"
+    },
+    {
+      "title": "Templates",
+      "subtitle": "Import notes/Import from Samsung Notes",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Templates",
+      "match": "Templates Templates Import from Samsung Notes Import from Samsung Notes Import notes Import notes ",
+      "mods": {
+        "cmd": {
+          "arg": "Templates"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Templates",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Templates"
+    },
+    {
       "title": "Import from Tomboy and Gnote",
       "match": "Import from Tomboy and Gnote Import from Tomboy and Gnote Import notes Import notes ",
       "subtitle": "Import notes",
@@ -15588,17 +15822,17 @@
       "quicklookurl": "https://help.obsidian.md/plugins/importer#Install+Importer"
     },
     {
-      "title": "Importer temlpates",
+      "title": "Importer templates",
       "subtitle": "Import notes/Importer",
-      "uid": "https://help.obsidian.md/plugins/importer#Importer+temlpates",
-      "match": "Importer temlpates Importer temlpates Importer Importer Import notes Import notes ",
+      "uid": "https://help.obsidian.md/plugins/importer#Importer+templates",
+      "match": "Importer templates Importer templates Importer Importer Import notes Import notes ",
       "mods": {
         "cmd": {
-          "arg": "Importer temlpates"
+          "arg": "Importer templates"
         }
       },
-      "arg": "https://help.obsidian.md/plugins/importer#Importer+temlpates",
-      "quicklookurl": "https://help.obsidian.md/plugins/importer#Importer+temlpates"
+      "arg": "https://help.obsidian.md/plugins/importer#Importer+templates",
+      "quicklookurl": "https://help.obsidian.md/plugins/importer#Importer+templates"
     },
     {
       "title": "Catalyst license",
@@ -17642,17 +17876,17 @@
       "quicklookurl": "https://help.obsidian.md/publish/setup#Open+via+hotkey"
     },
     {
-      "title": "Open via ribbon",
+      "title": "Open via ribbon menu on mobile",
       "subtitle": "Obsidian Publish/Set up Obsidian Publish",
-      "uid": "https://help.obsidian.md/publish/setup#Open+via+ribbon",
-      "match": "Open via ribbon Open via ribbon Set up Obsidian Publish Set up Obsidian Publish Obsidian Publish Obsidian Publish ",
+      "uid": "https://help.obsidian.md/publish/setup#Open+via+ribbon+menu+on+mobile",
+      "match": "Open via ribbon menu on mobile Open via ribbon menu on mobile Set up Obsidian Publish Set up Obsidian Publish Obsidian Publish Obsidian Publish ",
       "mods": {
         "cmd": {
-          "arg": "Open via ribbon"
+          "arg": "Open via ribbon menu on mobile"
         }
       },
-      "arg": "https://help.obsidian.md/publish/setup#Open+via+ribbon",
-      "quicklookurl": "https://help.obsidian.md/publish/setup#Open+via+ribbon"
+      "arg": "https://help.obsidian.md/publish/setup#Open+via+ribbon+menu+on+mobile",
+      "quicklookurl": "https://help.obsidian.md/publish/setup#Open+via+ribbon+menu+on+mobile"
     },
     {
       "title": "Create a new site",
@@ -22699,6 +22933,45 @@
       "quicklookurl": "https://help.obsidian.md/ios#Quick+Capture"
     },
     {
+      "title": "Voice Capture",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Voice+Capture",
+      "match": "Voice Capture Voice Capture Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Voice Capture"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Voice+Capture",
+      "quicklookurl": "https://help.obsidian.md/ios#Voice+Capture"
+    },
+    {
+      "title": "Voice Capture settings",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Voice+Capture+settings",
+      "match": "Voice Capture settings Voice Capture settings Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Voice Capture settings"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Voice+Capture+settings",
+      "quicklookurl": "https://help.obsidian.md/ios#Voice+Capture+settings"
+    },
+    {
+      "title": "Supported languages",
+      "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
+      "uid": "https://help.obsidian.md/ios#Supported+languages",
+      "match": "Supported languages Supported languages Obsidian for iOS and iPadOS Obsidian for iOS and iPadOS Obsidian Obsidian ",
+      "mods": {
+        "cmd": {
+          "arg": "Supported languages"
+        }
+      },
+      "arg": "https://help.obsidian.md/ios#Supported+languages",
+      "quicklookurl": "https://help.obsidian.md/ios#Supported+languages"
+    },
+    {
       "title": "Capture locations",
       "subtitle": "Obsidian/Obsidian for iOS and iPadOS",
       "uid": "https://help.obsidian.md/ios#Capture+locations",
@@ -26170,6 +26443,19 @@
       "quicklookurl": "https://help.obsidian.md/settings#Notify+if+startup+takes+longer+than+expected"
     },
     {
+      "title": "Hardware acceleration",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Hardware+acceleration",
+      "match": "Hardware acceleration Hardware acceleration Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Hardware acceleration"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Hardware+acceleration",
+      "quicklookurl": "https://help.obsidian.md/settings#Hardware+acceleration"
+    },
+    {
       "title": "Editor",
       "subtitle": "User interface/Settings",
       "uid": "https://help.obsidian.md/settings#Editor",
@@ -26246,6 +26532,19 @@
       },
       "arg": "https://help.obsidian.md/settings#Display",
       "quicklookurl": "https://help.obsidian.md/settings#Display"
+    },
+    {
+      "title": "Inline title",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Inline+title",
+      "match": "Inline title Inline title Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Inline title"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Inline+title",
+      "quicklookurl": "https://help.obsidian.md/settings#Inline+title"
     },
     {
       "title": "Readable line length",
@@ -26846,6 +27145,58 @@
       "quicklookurl": "https://help.obsidian.md/settings#Quick+font+size+adjustment"
     },
     {
+      "title": "Advanced",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Advanced",
+      "match": "Advanced Advanced Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Advanced"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Advanced",
+      "quicklookurl": "https://help.obsidian.md/settings#Advanced"
+    },
+    {
+      "title": "Custom app icon",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Custom+app+icon",
+      "match": "Custom app icon Custom app icon Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Custom app icon"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Custom+app+icon",
+      "quicklookurl": "https://help.obsidian.md/settings#Custom+app+icon"
+    },
+    {
+      "title": "Translucent window",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Translucent+window",
+      "match": "Translucent window Translucent window Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Translucent window"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Translucent+window",
+      "quicklookurl": "https://help.obsidian.md/settings#Translucent+window"
+    },
+    {
+      "title": "CSS snippets",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#CSS+snippets",
+      "match": "CSS snippets CSS snippets Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "CSS snippets"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#CSS+snippets",
+      "quicklookurl": "https://help.obsidian.md/settings#CSS+snippets"
+    },
+    {
       "title": "Interface",
       "subtitle": "User interface/Settings",
       "uid": "https://help.obsidian.md/settings#Interface",
@@ -26857,19 +27208,6 @@
       },
       "arg": "https://help.obsidian.md/settings#Interface",
       "quicklookurl": "https://help.obsidian.md/settings#Interface"
-    },
-    {
-      "title": "Show inline title",
-      "subtitle": "User interface/Settings",
-      "uid": "https://help.obsidian.md/settings#Show+inline+title",
-      "match": "Show inline title Show inline title Settings Settings User interface User interface ",
-      "mods": {
-        "cmd": {
-          "arg": "Show inline title"
-        }
-      },
-      "arg": "https://help.obsidian.md/settings#Show+inline+title",
-      "quicklookurl": "https://help.obsidian.md/settings#Show+inline+title"
     },
     {
       "title": "Show tab title bar",
@@ -26909,6 +27247,71 @@
       },
       "arg": "https://help.obsidian.md/settings#Ribbon+menu+configuration",
       "quicklookurl": "https://help.obsidian.md/settings#Ribbon+menu+configuration"
+    },
+    {
+      "title": "Mobile",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Mobile",
+      "match": "Mobile Mobile Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Mobile"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Mobile",
+      "quicklookurl": "https://help.obsidian.md/settings#Mobile"
+    },
+    {
+      "title": "Full screen",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Full+screen",
+      "match": "Full screen Full screen Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Full screen"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Full+screen",
+      "quicklookurl": "https://help.obsidian.md/settings#Full+screen"
+    },
+    {
+      "title": "Floating navigation",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Floating+navigation",
+      "match": "Floating navigation Floating navigation Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Floating navigation"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Floating+navigation",
+      "quicklookurl": "https://help.obsidian.md/settings#Floating+navigation"
+    },
+    {
+      "title": "Configure mobile Quick Action",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Configure+mobile+Quick+Action",
+      "match": "Configure mobile Quick Action Configure mobile Quick Action Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Configure mobile Quick Action"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Configure+mobile+Quick+Action",
+      "quicklookurl": "https://help.obsidian.md/settings#Configure+mobile+Quick+Action"
+    },
+    {
+      "title": "Configure mobile toolbar",
+      "subtitle": "User interface/Settings",
+      "uid": "https://help.obsidian.md/settings#Configure+mobile+toolbar",
+      "match": "Configure mobile toolbar Configure mobile toolbar Settings Settings User interface User interface ",
+      "mods": {
+        "cmd": {
+          "arg": "Configure mobile toolbar"
+        }
+      },
+      "arg": "https://help.obsidian.md/settings#Configure+mobile+toolbar",
+      "quicklookurl": "https://help.obsidian.md/settings#Configure+mobile+toolbar"
     },
     {
       "title": "Advanced",
@@ -26963,56 +27366,17 @@
       "quicklookurl": "https://help.obsidian.md/settings#Window+frame+style"
     },
     {
-      "title": "Custom app icon",
+      "title": "Open settings in new window",
       "subtitle": "User interface/Settings",
-      "uid": "https://help.obsidian.md/settings#Custom+app+icon",
-      "match": "Custom app icon Custom app icon Settings Settings User interface User interface ",
+      "uid": "https://help.obsidian.md/settings#Open+settings+in+new+window",
+      "match": "Open settings in new window Open settings in new window Settings Settings User interface User interface ",
       "mods": {
         "cmd": {
-          "arg": "Custom app icon"
+          "arg": "Open settings in new window"
         }
       },
-      "arg": "https://help.obsidian.md/settings#Custom+app+icon",
-      "quicklookurl": "https://help.obsidian.md/settings#Custom+app+icon"
-    },
-    {
-      "title": "Translucent window",
-      "subtitle": "User interface/Settings",
-      "uid": "https://help.obsidian.md/settings#Translucent+window",
-      "match": "Translucent window Translucent window Settings Settings User interface User interface ",
-      "mods": {
-        "cmd": {
-          "arg": "Translucent window"
-        }
-      },
-      "arg": "https://help.obsidian.md/settings#Translucent+window",
-      "quicklookurl": "https://help.obsidian.md/settings#Translucent+window"
-    },
-    {
-      "title": "Hardware acceleration",
-      "subtitle": "User interface/Settings",
-      "uid": "https://help.obsidian.md/settings#Hardware+acceleration",
-      "match": "Hardware acceleration Hardware acceleration Settings Settings User interface User interface ",
-      "mods": {
-        "cmd": {
-          "arg": "Hardware acceleration"
-        }
-      },
-      "arg": "https://help.obsidian.md/settings#Hardware+acceleration",
-      "quicklookurl": "https://help.obsidian.md/settings#Hardware+acceleration"
-    },
-    {
-      "title": "CSS snippets",
-      "subtitle": "User interface/Settings",
-      "uid": "https://help.obsidian.md/settings#CSS+snippets",
-      "match": "CSS snippets CSS snippets Settings Settings User interface User interface ",
-      "mods": {
-        "cmd": {
-          "arg": "CSS snippets"
-        }
-      },
-      "arg": "https://help.obsidian.md/settings#CSS+snippets",
-      "quicklookurl": "https://help.obsidian.md/settings#CSS+snippets"
+      "arg": "https://help.obsidian.md/settings#Open+settings+in+new+window",
+      "quicklookurl": "https://help.obsidian.md/settings#Open+settings+in+new+window"
     },
     {
       "title": "Hotkeys",
@@ -36193,6 +36557,19 @@
       "quicklookurl": "https://help.obsidian.md/import/airtable#Beperkingen"
     },
     {
+      "title": "Probleemoplossing",
+      "subtitle": "nl/Notities importeren/Importeren uit Airtable",
+      "uid": "https://help.obsidian.md/import/airtable#Probleemoplossing",
+      "match": "Probleemoplossing Probleemoplossing Importeren uit Airtable Importeren uit Airtable nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Probleemoplossing"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/airtable#Probleemoplossing",
+      "quicklookurl": "https://help.obsidian.md/import/airtable#Probleemoplossing"
+    },
+    {
       "title": "Importeren uit Logseq",
       "match": "Importeren uit Logseq Importeren uit Logseq nl/Notities importeren nl/Notities importeren ",
       "subtitle": "nl/Notities importeren",
@@ -36321,6 +36698,71 @@
       },
       "arg": "https://help.obsidian.md/import/logseq#Problemen+oplossen",
       "quicklookurl": "https://help.obsidian.md/import/logseq#Problemen+oplossen"
+    },
+    {
+      "title": "Importeren uit Samsung Notes",
+      "match": "Importeren uit Samsung Notes Importeren uit Samsung Notes nl/Notities importeren nl/Notities importeren ",
+      "subtitle": "nl/Notities importeren",
+      "mods": {
+        "cmd": {
+          "arg": "Importeren uit Samsung Notes"
+        }
+      },
+      "uid": "https://help.obsidian.md/import/samsung-notes",
+      "arg": "https://help.obsidian.md/import/samsung-notes",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes"
+    },
+    {
+      "title": "Je notities exporteren uit Samsung Notes",
+      "subtitle": "nl/Notities importeren/Importeren uit Samsung Notes",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Je+notities+exporteren+uit+Samsung+Notes",
+      "match": "Je notities exporteren uit Samsung Notes Je notities exporteren uit Samsung Notes Importeren uit Samsung Notes Importeren uit Samsung Notes nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Je notities exporteren uit Samsung Notes"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Je+notities+exporteren+uit+Samsung+Notes",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Je+notities+exporteren+uit+Samsung+Notes"
+    },
+    {
+      "title": "Je Samsung Notes-gegevens importeren in Obsidian",
+      "subtitle": "nl/Notities importeren/Importeren uit Samsung Notes",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Je+Samsung+Notes-gegevens+importeren+in+Obsidian",
+      "match": "Je Samsung Notes gegevens importeren in Obsidian Je Samsung Notes-gegevens importeren in Obsidian Importeren uit Samsung Notes Importeren uit Samsung Notes nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Je Samsung Notes-gegevens importeren in Obsidian"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Je+Samsung+Notes-gegevens+importeren+in+Obsidian",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Je+Samsung+Notes-gegevens+importeren+in+Obsidian"
+    },
+    {
+      "title": "Beperkingen",
+      "subtitle": "nl/Notities importeren/Importeren uit Samsung Notes",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Beperkingen",
+      "match": "Beperkingen Beperkingen Importeren uit Samsung Notes Importeren uit Samsung Notes nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Beperkingen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Beperkingen",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Beperkingen"
+    },
+    {
+      "title": "Sjablonen",
+      "subtitle": "nl/Notities importeren/Importeren uit Samsung Notes",
+      "uid": "https://help.obsidian.md/import/samsung-notes#Sjablonen",
+      "match": "Sjablonen Sjablonen Importeren uit Samsung Notes Importeren uit Samsung Notes nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Sjablonen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/samsung-notes#Sjablonen",
+      "quicklookurl": "https://help.obsidian.md/import/samsung-notes#Sjablonen"
     },
     {
       "title": "Importeren uit Tomboy en Gnote",
@@ -36895,6 +37337,19 @@
       "quicklookurl": "https://help.obsidian.md/import/notion"
     },
     {
+      "title": "Geïmporteerde pagina's aanpassen",
+      "subtitle": "nl/Notities importeren/Importeren vanuit Notion",
+      "uid": "https://help.obsidian.md/import/notion#Geïmporteerde+pagina's+aanpassen",
+      "match": "Geïmporteerde pagina's aanpassen Geïmporteerde pagina's aanpassen Importeren vanuit Notion Importeren vanuit Notion nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Geïmporteerde pagina's aanpassen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/notion#Geïmporteerde+pagina's+aanpassen",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Geïmporteerde+pagina's+aanpassen"
+    },
+    {
       "title": "Importeren vanuit je Notion-account",
       "subtitle": "nl/Notities importeren/Importeren vanuit Notion",
       "uid": "https://help.obsidian.md/import/notion#Importeren+vanuit+je+Notion-account",
@@ -37012,6 +37467,19 @@
       "quicklookurl": "https://help.obsidian.md/import/notion#Grote+werkruimtes+importeren"
     },
     {
+      "title": "Sjablonen",
+      "subtitle": "nl/Notities importeren/Importeren vanuit Notion",
+      "uid": "https://help.obsidian.md/import/notion#Sjablonen",
+      "match": "Sjablonen Sjablonen Importeren vanuit Notion Importeren vanuit Notion nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Sjablonen"
+        }
+      },
+      "arg": "https://help.obsidian.md/import/notion#Sjablonen",
+      "quicklookurl": "https://help.obsidian.md/import/notion#Sjablonen"
+    },
+    {
       "title": "Importeren vanuit Roam Research",
       "match": "Importeren vanuit Roam Research Importeren vanuit Roam Research nl/Notities importeren nl/Notities importeren ",
       "subtitle": "nl/Notities importeren",
@@ -37075,6 +37543,19 @@
       },
       "arg": "https://help.obsidian.md/plugins/importer#Importer+installeren",
       "quicklookurl": "https://help.obsidian.md/plugins/importer#Importer+installeren"
+    },
+    {
+      "title": "Importer-sjablonen",
+      "subtitle": "nl/Notities importeren/Importeren",
+      "uid": "https://help.obsidian.md/plugins/importer#Importer-sjablonen",
+      "match": "Importer sjablonen Importer-sjablonen Importeren Importeren nl/Notities importeren nl/Notities importeren ",
+      "mods": {
+        "cmd": {
+          "arg": "Importer-sjablonen"
+        }
+      },
+      "arg": "https://help.obsidian.md/plugins/importer#Importer-sjablonen",
+      "quicklookurl": "https://help.obsidian.md/plugins/importer#Importer-sjablonen"
     },
     {
       "title": "Importeur-sjablonen",
