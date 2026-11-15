@@ -24,7 +24,7 @@
   "chef": "chef~18",
   "click": "click",
   "clojure": "clojure~1.11",
-  "cmake": "cmake",
+  "cm": "cmake",
   "codeception": "codeception",
   "codeceptjs": "codeceptjs",
   "codeigniter": "codeigniter~4",
